@@ -20,10 +20,6 @@ public enum XmlNodeType {
 }
 
 public class XmlNode {
-    public XmlNode(XmlNodeType type, string name) {
-        _type = type;
-        _name = name;
-    }
     public XmlNode(XmlNodeType type, string name, string data) {
         _type = type;
         _name = name;
@@ -33,6 +29,12 @@ public class XmlNode {
     public XmlNodeType Type {
         get {
             return _type;
+        }
+    }
+    string _attr;
+    public string Attr {
+        get {
+            return _attr;
         }
     }
     string _name;
@@ -211,6 +213,7 @@ public class Xml {
     }
 
     public string node;
+    public string attr;
 
     public void read() {
         token = XmlTokenType.Eof;
@@ -229,7 +232,9 @@ public class Xml {
                             pos++;
                         }
                         node = buffer.Substring(tagNameStart, pos - tagNameStart);
+                        int attrStart = pos;
                         parseAttributes(ref pos, len, buffer);
+                        attr = buffer.Substring(attrStart, pos - attrStart);
                         while (pos < len && buffer[pos] != '>') {
                             if (buffer[pos] == '/' && (pos + 1 < len) && buffer[pos + 1] == '>') {
                                 pos++;
@@ -319,7 +324,7 @@ public class Xml {
         }
 
         while (token == XmlTokenType.Start) {
-            XmlNode child = new XmlNode(XmlNodeType.Element, this.node, null);
+            XmlNode child = new XmlNode(XmlNodeType.Element, this.node, this.attr);
             if (parent != null) {
                 parent.Add(child);
             }
@@ -373,6 +378,8 @@ public class Xml {
     #region Enities
     static readonly Dictionary<string, string> Enities = new Dictionary<string, string>(StringComparer.Ordinal) {
         ["cj"] = "",
+        ["responsibility"] = "",
+
         ["acutemacr"] = "\x00af",
         ["Aacute"] = "\x00c1",
         ["aacute"] = "\x00e1",
@@ -2581,50 +2588,74 @@ static class App {
         if (data == null) {
             data = "";
         }
-
-        data = data.Trim(
-                        ' ',
-                        '\t',
-                        '\n',
-                        '\r');
-
         data = data.Replace("\r\n", "\n");
         data = data.Replace(
             "\n",
             " ");
-
+        data = data.Replace(
+            "—",
+            " — ");
+        data = data.Replace(
+            ":",
+            ": ");
+        data = data.Replace(
+          " :",
+         ": ");
+        data = data.Replace(
+          " ,",
+         ", ");
+        data = data.Replace(
+          " .",
+         ". ");
+        data = data.Replace(
+          " ;",
+         "; ");
+        data = data.Replace(
+            "—,",
+            ",");
+        data = data.Replace(
+            ",,",
+            ",");
         while (data.IndexOf("  ") >= 0) {
             data = data.Replace(
                 "  ",
                 " ");
         }
-
-        return data;
+        return data.Trim(' ', '\t', '\r', '\n');
     }
 
     static void InnerText(XmlNode node, StringBuilder innerText, bool decorate) {
         for (int i = 0; node.Children != null && i < node.Children.Length; i++) {
             XmlNode child = node.Children[i];
-            if (child.Is(XmlNodeType.Text)) {
-                if (innerText != null && child.Data != null) {
-                    string data = Text(child.Data);
-                    if (!string.IsNullOrEmpty(data)) {
-                        if (node.IsNot("etym")) {
-                            if (innerText.Length > 0) {
-                                innerText.Append(" ");
-                            }
-                            if (node.Is("tr") && decorate) {
+            bool greek = false;
+            if (node.Is("foreign")) {
+                if (node.Data != null && node.Data.IndexOf("greek") >= 0) {
+                    greek = true;
+                }
+            }
+            if (child.Is(XmlNodeType.Text) && node.IsNot("etym")) {
+                if (!greek && innerText != null) {
+                    string text = Text(child.Data);
+                    if (!string.IsNullOrWhiteSpace(text)) {
+                        if (innerText.Length > 0) {
+                            innerText.Append(" ");
+                        }
+                        if (decorate) {
+                            if (node.Is("tr")) {
                                 innerText.Append("**");
                             }
-                            innerText.Append(data);
-                            if (node.Is("tr") && decorate) {
+                        }
+                        innerText.Append(text);
+                        if (decorate) {
+                            if (node.Is("tr")) {
                                 innerText.Append("**");
                             }
                         }
                     }
                 }
+            } else {
+                InnerText(child, innerText, decorate);
             }
-            InnerText(child, innerText, decorate);
         }
     }
 
@@ -2634,7 +2665,9 @@ static class App {
             node, 
             innerText,
             decorate);
-        return Text(innerText.ToString());
+        return Text(innerText.ToString())
+            .TrimStart('\'', '.', ',')
+            .TrimEnd('\'', ',').Trim();
     }
 
     static void Walk(XmlNode node) {
@@ -2649,7 +2682,7 @@ static class App {
 
                 if (orth != null) {
 
-                    lema.Append("# " + InnerText(orth, false));
+                    lema.Append("# " + InnerText(orth, false).Replace("-", ""));
 
                     var gramGrp = getElementByTagName(entry, "gramGrp");
 
@@ -2662,7 +2695,11 @@ static class App {
                     var sense = getElementByTagName(entry, "sense");
 
                     if (sense != null) {
-                        lema.AppendLine(InnerText(sense, true));
+                        string text = InnerText(sense, true);
+                        if (string.IsNullOrWhiteSpace(text)) {
+                        } else {
+                            lema.AppendLine(text);
+                        }
                     }
                 }
 
