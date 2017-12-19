@@ -2584,44 +2584,126 @@ static class App {
         return elements;
     }
 
-    static string Text(string data) {
+    static string Purify(string data) {
         if (data == null) {
             data = "";
         }
-        data = data.Replace("\r\n", "\n");
-        data = data.Replace(
-            "\n",
+        data = data.Replace("\r", 
             " ");
-        data = data.Replace(
-            "—",
-            " — ");
-        data = data.Replace(
-            ":",
-            ": ");
-        data = data.Replace(
-          " :",
-         ": ");
-        data = data.Replace(
-          " ,",
-         ", ");
-        data = data.Replace(
-          " .",
-         ". ");
-        data = data.Replace(
-          " ;",
-         "; ");
-        data = data.Replace(
-            "—,",
-            ",");
-        data = data.Replace(
-            ",,",
-            ",");
+        data = data.Replace("\n",
+            " ");
+        data = data.Replace("\t",
+            " ");
         while (data.IndexOf("  ") >= 0) {
             data = data.Replace(
                 "  ",
                 " ");
         }
-        return data.Trim(' ', '\t', '\r', '\n');
+
+        data = data.Replace(
+            "—",
+            " — ");
+        while (data.IndexOf("( ") >= 0) {
+            data = data.Replace(
+             "( ",
+             " (");
+        }
+        while (data.IndexOf("‘ ") >= 0) {
+            data = data.Replace(
+             "‘ ",
+             "‘");
+        }
+        while (data.IndexOf(" ’") >= 0) {
+            data = data.Replace(
+             " ’",
+             "’");
+        }
+
+        char[] breaks = { ')', '.', '?', ',', ':', ';', };
+        int iters = 3;
+        while (iters-- > 0) {
+            foreach (char c in breaks) {
+                while (data.IndexOf(" " + c.ToString()) >= 0) {
+                    data = data.Replace(
+                      " " + c.ToString(),
+                     c.ToString());
+                }
+                data = data.Replace(
+                  c.ToString(),
+                 c.ToString() + " ");
+            }
+        }
+        while (data.IndexOf(" .") >= 0) {
+            data = data.Replace(
+             " .",
+             ".");
+        }
+
+        data = data.Replace(
+            "*",
+            "⋆");
+        data = data.Replace(
+            "#",
+            "§");
+
+        while (data.IndexOf("  ") >= 0) {
+            data = data.Replace(
+                "  ",
+                " ");
+        }
+
+        return data.Trim();
+    }
+
+    static string Abbr(string data) {
+        data = data.Replace(
+            " Iuv.",
+            " ***Iuv.***");
+        data = data.Replace(
+            " O.",
+            " ***Ov.***");
+        data = data.Replace(
+            " C.",
+            " ***Cic.***");
+        data = data.Replace(
+            " Cs.",
+            " ***Caes.***");
+        data = data.Replace(
+            " H.",
+            " ***Hor.***");
+        data = data.Replace(
+            " N.",
+            " ***Nep.***");
+        data = data.Replace(
+            " L.",
+            " ***Liv.***");
+        data = data.Replace(
+            " Ta.",
+            " ***Tac.***");
+        data = data.Replace(
+            " Iu.",
+            " ***Iuv.***");
+        data = data.Replace(
+            " S.",
+            " ***Sall.***");
+        data = data.Replace(
+            " V.",
+            " ***Ver.***");
+        data = data.Replace(
+            " T.",
+            " ***Ter.***");
+        data = data.Replace(
+            " Ph.",
+            " ***Phaed.***");
+        data = data.Replace(
+            " Cu.",
+            " ***Curt.***");
+        return data;
+    }
+
+    static bool Ignore(string entry) {
+        return entry == "# A. a. as an abbreviation" ||
+            entry == "# ā";
     }
 
     static void InnerText(XmlNode node, StringBuilder innerText, bool decorate) {
@@ -2635,20 +2717,20 @@ static class App {
             }
             if (child.Is(XmlNodeType.Text) && node.IsNot("etym")) {
                 if (!greek && innerText != null) {
-                    string text = Text(child.Data);
+                    string text = Purify(child.Data);
                     if (!string.IsNullOrWhiteSpace(text)) {
                         if (innerText.Length > 0) {
                             innerText.Append(" ");
                         }
                         if (decorate) {
                             if (node.Is("tr")) {
-                                innerText.Append("**");
+                                innerText.Append("");
                             }
                         }
                         innerText.Append(text);
                         if (decorate) {
                             if (node.Is("tr")) {
-                                innerText.Append("**");
+                                innerText.Append("");
                             }
                         }
                     }
@@ -2665,9 +2747,15 @@ static class App {
             node, 
             innerText,
             decorate);
-        return Text(innerText.ToString())
+        var text = Abbr(Purify(innerText.ToString())
             .TrimStart('\'', '.', ',')
-            .TrimEnd('\'', ',').Trim();
+            .TrimEnd('\'', ',').Trim());
+        StringBuilder rewrite = new StringBuilder();
+        int i = 0;
+        while (i < text.Length) {
+            i++;
+        }
+        return text;
     }
 
     static void Walk(XmlNode node) {
@@ -2688,6 +2776,10 @@ static class App {
 
                     if (gramGrp != null) {
                         lema.Append(" " + InnerText(gramGrp, false));
+                    }
+
+                    if (Ignore(lema.ToString())) {
+                        continue;
                     }
 
                     lema.Append("\r\n");
