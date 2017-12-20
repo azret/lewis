@@ -136,7 +136,11 @@ static class App {
                     if (!LINES.ContainsKey(c)) {
                         LINES[c] = new StringBuilder();
                     }
-                    LINES[c].Append($"{WORD.Declaration}\r\n");
+                    LINES[c].Append($"#### {WORD.Declaration}");
+                    if (!string.IsNullOrWhiteSpace(WORD.Definition)) {
+                        LINES[c].Append($"\r\n{WORD.Definition}");
+                    }
+                    LINES[c].Append($"\r\n");
                 } else {
                     UNK.Append($"{WORD.Declaration}\r\n");
                 }
