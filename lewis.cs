@@ -136,7 +136,7 @@ static class App {
                     if (!LINES.ContainsKey(c)) {
                         LINES[c] = new StringBuilder();
                     }
-                    LINES[c].Append($"#### {WORD.Declaration}");
+                    LINES[c].Append($"##### {WORD.Declaration}");
                     if (!string.IsNullOrWhiteSpace(WORD.Definition)) {
                         LINES[c].Append($"\r\n{WORD.Definition}");
                     }
@@ -389,11 +389,12 @@ static class App {
         var text = abbr(purify(innerText.ToString())
             .TrimStart('\'', '.', ',')
             .TrimEnd('\'', ',').Trim());
-        StringBuilder rewrite = new StringBuilder();
-        int i = 0;
-        while (i < text.Length) {
-            i++;
-        }
+        text = text.Replace("*,", "* ,");
+        text = text.Replace("*:", "* :");
+        text = text.Replace("*.", "* .");
+        text = text.Replace(":*", ": *");
+        text = text.Replace(",*", ", *");
+        text = text.Replace(".*", ". *");
         return text;
     }
 

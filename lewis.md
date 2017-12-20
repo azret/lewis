@@ -97,7 +97,7 @@ acclārō (adc) āvī, —, āre
 acclīnātus (adc) adj.
 acclīnis (adc) e, adj.
 acclīnō (adc) āvī, ātus, āre
-acclīvis (adc) e (once acclīvus, ***Ov.***), adj.
+acclīvis (adc) e (once acclīvus, ***Ov. ***), adj.
 acclīvus see acclivis.
 accolō (adc) coluī, —, ere
 accommodātē adv. with comp. and sup.
@@ -134,7 +134,7 @@ Acherūns untis, m or f
 Acherūsīus (ūnsius) adj.
 Achillēs is (poet. also eī or ī; acc. ea; voc. e; abl. ī), m
 acidus adj. with sup.
-aciēs ēī (old form ē; acc. aciem, disyl. ***Ver.***; plur. only nom. and acc.), f
+aciēs ēī (old form ē; acc. aciem, disyl. ***Ver. ***; plur. only nom. and acc.), f
 acinus ī, m, (acina, ae, f
 acinum ī, n (acina, ae, f
 āclys (āclis) ydis, f
@@ -166,7 +166,7 @@ adaugēscō —, —, ere, inch.
 adbibō bibī, —, ere
 adc see acc-.
 ad  dēnseō —, —, ēre
-addēnsō —, —, āre, in some edd. of ***Ver.*** for addenseo.
+addēnsō —, —, āre, in some edd. of ***Ver. *** for addenseo.
 ad  dīcō dīxī, dictus, ere
 addictus
 addiscō didicī, —, ere
@@ -295,7 +295,7 @@ adoleō oluī, —, ēre
 adolēscēns, adolēscentia see adules-.
 adolēscō (adul) olēvī, ultus, ere
 adolēscō —, —, ere, inch.
-Adōnis is (dat. Adōnidī, ***Cic.***; voc. Adōni, ***Ov.***), m
+Adōnis is (dat. Adōnidī, ***Cic. ***; voc. Adōni, ***Ov. ***), m
 adoperiō eruī, ertus, īre
 ador (nom. and acc.), n
 adōrea (not -ria), ae, f
@@ -389,7 +389,7 @@ advēlō —, —, āre
 advena ae, m and f
 adveniō vēnī, ventus, īre
 adventō —, —, āre, intens.
-adventus ūs (gen. adventi, ***Ter.***), m
+adventus ūs (gen. adventi, ***Ter. ***), m
 adversārius (advor) adj.
 adversātrīx (advor) īcis, f
 adversor (advor) sātus, ārī, dep.
@@ -435,7 +435,7 @@ aestimābilis e, adj.
 aestimō (older aestumō) āvī, ātus, āre
 aestīva ōrum, n
 aestūosē adv. with comp.
-aetās ātis (gen plur. -tum; sometimes -tium, ***Liv.***), f
+aetās ātis (gen plur. -tum; sometimes -tium, ***Liv. ***), f
 aeternō —, —, āre
 aethēr eris, m
 Aethiops opis, m
@@ -473,7 +473,7 @@ agitō āvī, ātus, āre, freq.
 agō ēgī, āctus (old inf pass. agier), ere
 Agōnālis e, adj.
 agrestis e, adj. with comp.
-agrestis is (gen plur., -tum, ***Ver.***, ***Ov.***), m
+agrestis is (gen plur., -tum, ***Ver. *** , ***Ov. ***), m
 agricultiō, agricultor, agricultūra prop. written agri cultio, etc.
 Agyīeus —
 āh or ā
@@ -481,7 +481,7 @@ ahēneüs, ahēnus see aēn-.
 ai
 āiēns
 āiō v. defect.
-alacer (m alacris, ***Ter.***, ***Ver.***), cris, cre, adj. with comp.
+alacer (m alacris, ***Ter. *** , ***Ver. ***), cris, cre, adj. with comp.
 ālāris e, adj.
 albēns ntis, adj.
 albeō —, —, ēre
@@ -543,7 +543,7 @@ ambedō ēdī, ēsus
 ambi abbrev.
 amb, am, an insepa <⋆> prep.
 ambigō ere, only present stem
-ambiō (imperf. ambibat, ***Ov.***, ***Liv.***, ***Tac.***), īvī and iī, ītus, īre
+ambiō (imperf. ambibat, ***Ov. *** , ***Liv. *** , ***Tac. ***), īvī and iī, ītus, īre
 Ambiorīx īgis, m
 ambitiōsē adv. with comp.
 ambitiōsus adj. with comp.
@@ -558,13 +558,13 @@ amīcē adv. with sup.
 amiciō —, ictus, īre
 amictus
 amīcus adj. with comp. and sup.
-amīcus ī (gen plur. amīcūm, ***Ter.***), m
+amīcus ī (gen plur. amīcūm, ***Ter. ***), m
 āmigrō —, —, āre
 Amīnaeus (ēus) adj.
 āmissus
-āmittō īsī (amīstī, for amīsisti, ***Ter.***), issus, ere
+āmittō īsī (amīstī, for amīsisti, ***Ter. ***), issus, ere
 amnicola ae, m and f
-amnis is (abl. amne or amnī, ***Ver.***, ***Hor.***, ***Liv.***), m
+amnis is (abl. amne or amnī, ***Ver. *** , ***Hor. *** , ***Liv. ***), m
 amoenus adj. with comp. and sup.
 āmōlior ītus sum, īrī, dep.
 amōmum or on ī, n
@@ -591,8 +591,8 @@ analēptris idis
 anapaestica ōrum, n
 anas anatis, f
 anceps cipitis, abl. cipitī, adj.
-Anchīsēs ae (abl. Anchisā, ***Ver.***), m
-ancīle is (gen plur. -ilium, ***Tac.***, once, -iliorum, ***Hor.***), n
+Anchīsēs ae (abl. Anchisā, ***Ver. ***), m
+ancīle is (gen plur. -ilium, ***Tac. *** , once, -iliorum, ***Hor. ***), n
 ancillāris e, adj.
 ancorāle is, n
 ānellus (ann) ī, m dim.
@@ -607,7 +607,7 @@ angustē adv. with comp. and sup.
 angustia ae (sing. very rare), and angustiae, ārum, f
 angustō —, —, āre
 angustus adj. with comp. and sup.
-Aniēnsis e (C., ***Liv.***), or Aniēnus (V.), adj.
+Aniēnsis e (C., ***Liv. ***), or Aniēnus (V.), adj.
 anīlis e, adj.
 animābilis e, adj.
 animadvertō or vortō or (older) animum advertō (constr. as one word), tī, sus, ere
@@ -651,7 +651,7 @@ antistes itis, m and f
 antistō (not antes) stetī, —, āre
 Antōniaster trī, m
 Antōnius
-anus ūs (rarely -uis, ***Ter.***), f
+anus ūs (rarely -uis, ***Ter. ***), f
 ānxifer fera, ferum, adj.
 ānxitūdō dinis, f
 apage
@@ -716,7 +716,7 @@ aptē adv. with sup.
 aptus P. and adj.
 apud older
 aput
-aqua ae (poet. also aquāī, ***Ver.***), f
+aqua ae (poet. also aquāī, ***Ver. ***), f
 aquātilis e, adj.
 aquātor ōnis, m
 aquilifer ferī, m
@@ -735,7 +735,7 @@ arbor poet. also
 arbōs oris, f
 arboreüs adj
 arbuteüs adj.
-Arcas adis (ados, ***Ov.***), adj.
+Arcas adis (ados, ***Ov. ***), adj.
 arceō cuī, —, ēre
 arcessītus
 (arcessītus ūs), m
@@ -745,10 +745,10 @@ archōn ontis, m
 Arcitenēns (Arquit) ntis, adj.
 arctē see artē.
 Arctophylax (acis), m
-Arctos ī (acc. Arcton, ***Ver.***, ***Ov.***), f
+Arctos ī (acc. Arcton, ***Ver. *** , ***Ov. ***), f
 arctus see artus.
 arcuātus (arquu) adj.
-arcus ūs (gen. ī, once, ***Cic.***), m
+arcus ūs (gen. ī, once, ***Cic. ***), m
 ārdeliō onis, m
 ārdēns entis, adj. with comp. and sup.
 ārdenter adv. with comp.
@@ -771,7 +771,7 @@ argyraspides um, m
 āridulus adj. dim.
 āridus adj. with sup.
 ariēs (poet. ariēs, disyl.), ietis, m
-arietō (arietat, trisyl., ***Ver.***), āvī, ātus, āre
+arietō (arietat, trisyl., ***Ver. ***), āvī, ātus, āre
 ariola, ariolor etc., see hario-.
 arithmētica ōrum, n
 arma ōrum, n
@@ -815,9 +815,9 @@ aspargō (adsp) see 2 aspergo.
 aspectābilis (adsp) e, adj.
 aspectō (adsp) āvī, ātus, āre, intens.
 aspectus (adsp)
-aspectus (adsp) ūs (dat. aspectū, ***Ver.***), m
+aspectus (adsp) ūs (dat. aspectū, ***Ver. ***), m
 aspellō (abs) —, —, ere
-asper era, erum (poet., abl plur. aspris, ***Ver.***), adj. with comp. and sup.
+asper era, erum (poet., abl plur. aspris, ***Ver. ***), adj. with comp. and sup.
 asperē adv. with comp. and sup.
 aspergō (ads) ersī, ersus, ere
 aspergō (adsp, argō) inis, f
@@ -855,7 +855,7 @@ at or
 āter tra, trum, adj.
 atque or (only before consonants) ac conj.
 atquī (atquīn)
-Atrīdēs ae (voc. -da, ***Hor.***; -dē, ***Hor.***), m
+Atrīdēs ae (voc. -da, ***Hor. ***; -dē, ***Hor. ***), m
 atrōciter adv. with comp. and sup.
 atrōx ōcis, adj. with comp. and sup.
 attāctus
@@ -906,7 +906,7 @@ audiō īvī or iī, ītus, īre
 audītus
 auferō abstulī, ablātus, auferre
 aufugiō fūgī, —, ere
-augeō auxī (auxitis for auxeritis, ***Liv.***), auctus, ēre
+augeō auxī (auxitis for auxeritis, ***Liv. ***), auctus, ēre
 augēscō —, —, ere, inch.
 augur uris, m and f
 augurālis e, adj.
@@ -916,8 +916,8 @@ augurātus
 auguror ātus sum, ārī, dep.
 augustē adv. with comp.
 augustus adj. with comp. and sup.
-aula ae (gen. aulāī, ***Ver.***), f
-aura ae (āī, ***Ver.***), f
+aula ae (gen. aulāī, ***Ver. ***), f
+aura ae (āī, ***Ver. ***), f
 aureolus adj. dim.
 aureus (poet. aureā, aureō, aureīs, disyl.), adj.
 aurifer era, erum, adj.
@@ -962,7 +962,7 @@ baccaris (bacch) aris, f
 bacchāntēs um, f
 bacchor ātus, ārī, dep.
 bācifer fera, ferum, adj.
-baculum (or poet. baculus, m, ***Ov.***), ī, n
+baculum (or poet. baculus, m, ***Ov. ***), ī, n
 Bāiae (disyl.), ārum, f
 baiulō —, —, āre
 bālaena (ball) ae, f
@@ -1010,7 +1010,7 @@ bērullos (bēryl) ī, m
 bēs bēssis, m
 bēta n
 bi praep insep.
-bibliothēca ae (rarely Gr. acc. -ēcēn, ***Cic.***), f
+bibliothēca ae (rarely Gr. acc. -ēcēn, ***Cic. ***), f
 bibō bibī, —, ere
 biceps cipitis, adj.
 bicolor ōris, adj.
@@ -1084,14 +1084,14 @@ cacūminō —, —, āre
 Cadmēis idis, f adj.
 cadō cecidī, casūrus, ere
 cādūcifer ī, adj. m
-caecus adj. with (once in ***Hor.***) comp.
-caedēs (old caedis, ***Liv.***), is, f
+caecus adj. with (once in ***Hor. ***) comp.
+caedēs (old caedis, ***Liv. ***), is, f
 caedō cecīdī, caesus, ere
 caelātus
 caelebs (not coel-), libis, adj.
 (caeles) itis, adj.
-caelestis (not coel-), e (abl sing. -tī; rarely -te, ***Ov.***; gen plur. poet. -tūm, ***Ver.***, ***Ov.***), adj.
-caelicola ae (gen plur. -colūm, ***Ver.***), m
+caelestis (not coel-), e (abl sing. -tī; rarely -te, ***Ov. ***; gen plur. poet. -tūm, ***Ver. *** , ***Ov. ***), adj.
+caelicola ae (gen plur. -colūm, ***Ver. ***), m
 caelifer era, erum, adj.
 caelō āvī, ātus
 caena, caenāculum, caenō see cēn-.
@@ -1117,7 +1117,7 @@ calefaciō or calfaciō (ficiō) fēcī, factus, ere, pass. calefīō, fierī
 calefactō —, —, āre, intens.
 calefactus, calefīō see calefacio.
 Calendae see Kalend-.
-caleō uī, —, ēre (P. fut. calitūrus, ***Ov.***)
+caleō uī, —, ēre (P. fut. calitūrus, ***Ov. ***)
 calēscō uī, —, ere, inch.
 calfaciō, calficiō see calefacio.
 caliandrum see caliendrum.
@@ -1163,7 +1163,7 @@ capēdō (capūdō, capp) inis, f
 caper prī, m
 capessō īvī or iī, ītūrus, ere, desid.
 capillātus adj. with comp.
-capiō cēpī (capsis, old for cēperis, ***Cic.***), captus, ere
+capiō cēpī (capsis, old for cēperis, ***Cic. ***), captus, ere
 capis idis, f
 capitāle is, n
 capitālis e, adj. with comp.
@@ -1188,11 +1188,11 @@ cariēs acc. em, f
 cāris idis, f
 caristia ōrum
 Carmentālis e, adj.
-Carmentis is (V., ***Ov.***), or Carmenta, ae (L.), f
+Carmentis is (V., ***Ov. ***), or Carmenta, ae (L.), f
 carnifex or carnufex ficis, m
 carnificīna (carnuf) ae, f
 carnificō —, —, āre
-carō carnis (nom. carnis, ***Liv.***), f
+carō carnis (nom. carnis, ***Liv. ***), f
 carpatinus (carb) adj.
 carpō psī, ptus, ere
 caruncula ae, dim.
@@ -1204,7 +1204,7 @@ castra see castrum.
 castrēnsis e, adj.
 castra ōrum, n
 castus adj. with comp. and sup.
-cāsus ūs (dat. cāsū, ***Caes.***), m
+cāsus ūs (dat. cāsū, ***Caes. ***), m
 cataplūs ī, m
 catēia (trisyl.), ae, f
 cauda or (low) cōda
@@ -1212,7 +1212,7 @@ caulis or cōlis m
 caupō or
 cōpō ōnis, m
 caupōnor ārī, —, dep.
-Caurus (V.) or Cōrus (Cs., ***Ver.***), ī, m
+Caurus (V.) or Cōrus (Cs., ***Ver. ***), ī, m
 causa (caussa) ae, f
 causor ātus, ārī, dep.
 caussa see causa.
@@ -1220,14 +1220,14 @@ cautē adv. with comp. and sup.
 cautēs is, or
 cōtēs f
 cautus adj. with comp. and sup.
-caveō (imper. cave for cavē, ***Ter.***, ***Hor.***, ***Ov.***, ***Prop.***), cāvī, cautus, ēre
+caveō (imper. cave for cavē, ***Ter. *** , ***Hor. *** , ***Ov. *** , ***Prop. ***), cāvī, cautus, ēre
 cavillor ātus, ārī
 ce or c
 cēdō cessī, cessus, ere
 cedo
 Celaenō ūs, f
 cēlātus
-celeber (masc. celebris, Her., ***Tac.***, ***Curt.***), bris, bre, adj. with sup.
+celeber (masc. celebris, Her., ***Tac. *** , ***Curt. ***), bris, bre, adj. with sup.
 celebrātus adj. with comp. and sup.
 celer eris, ere, adj. with comp. and sup.
 Celerēs um, m
@@ -1298,7 +1298,7 @@ cingula ōrum, n
 ciniflō ōnis, m
 cinis eris, m
 cinnamum (mon) ī, n
-Circē ae (V., ***Hor.***), or ēs (O., ***Iuv.***), acc. Circam and Circen, ***Cic.***; abl. Circā, ***Hor.***, f
+Circē ae (V., ***Hor. ***), or ēs (O., ***Iuv. ***), acc. Circam and Circen, ***Cic. ***; abl. Circā, ***Hor. *** , f
 Circēnsis e, adj.
 circinō —, —, āre
 circiter adv. and praep.
@@ -1306,7 +1306,7 @@ circlus see circulus.
 circueō, circuitiō see circum-.
 circuitus
 circulor ātus, ārī
-circulus ī (acc plur. circlos, ***Ver.***), m dim.
+circulus ī (acc plur. circlos, ***Ver. ***), m dim.
 circum
 circumagō ēgī, āctus, ere
 circumarō āvī, —, āre
@@ -1353,7 +1353,7 @@ circumsiliō —, —, īre
 circumsistō stetī or stitī, —, ere
 circumsonō —, —, āre
 circumspectō āvī, ātus, āre, intens.
-circumspiciō ēxī (perf. circumspēxtī, ***Ter.***), ectus, ere
+circumspiciō ēxī (perf. circumspēxtī, ***Ter. ***), ectus, ere
 circumstō stetī, —, āre
 circumstrepō tius, ere
 circum  terō —, —, ere
@@ -1368,7 +1368,7 @@ circumvestiō —, —, īre
 circum  volitō āvī, —, āre
 circumvolvō —, —, ere
 cis praep.
-cistophorus (os) ī (gen plur. ūm, ***Liv.***), m
+cistophorus (os) ī (gen plur. ūm, ***Liv. ***), m
 citātus adj. with comp. and sup.
 citerior ōris, and citimus, adj. comp. and sup.
 citharīzō —, —, āre
@@ -1379,7 +1379,7 @@ citrā adv. and praep.
 cīvīlis e, adj. with comp.
 cīvis is, abl. -vī or -ve, m and f
 cīvitās ātis (gen plur. -ātium or -ātum), f
-clādēs (clādis, ***Liv.***) is, f
+clādēs (clādis, ***Liv. ***) is, f
 clam
 clāmitō āvī, ātus, āre, freq.
 clanculum adv. and praep.
@@ -1398,10 +1398,10 @@ claustra ōrum, n
 clāviger gera, gerum, adj.
 clāviger gerī, m
 clāvis is (abl. vī or ve), f
-clēmēns entis (abl. -tī; rarely -te, ***Liv.***), adj.
+clēmēns entis (abl. -tī; rarely -te, ***Liv. ***), adj.
 clēmenter adv. with comp.
 clepō psī, —, ere
-cliēns entis (gen plur. -entium; rarely -entum, ***Hor.***), m
+cliēns entis (gen plur. -entium; rarely -entum, ***Hor. ***), m
 Clīō ūs, f
 clipeus (clup) ī, m, or clipeum, ī, n
 clīvus or clīvos ī, m
@@ -1453,7 +1453,7 @@ cohaerēscō —, —, ere, inch.
 cohērēs ēdis, m and f
 cohibeō uī, (itus), ēre
 cohorrēscō horruī, —, ēre, inch.
-cohors rtis (acc. cortem, ***Cic.***), f
+cohors rtis (acc. cortem, ***Cic. ***), f
 cohortor ātus, ārī, dep.
 coinquinō —, —, āre
 colax acis, m
@@ -1463,7 +1463,7 @@ cōlis see caulis.
 coll
 collocō, colloquor etc., see conlo-.
 colō coluī, cultus, ere
-color (old colōs, ***Sall.***, ***Liv.***), ōris, m
+color (old colōs, ***Sall. *** , ***Liv. ***), ōris, m
 colōs see color.
 coluber brī, m
 colubrifer fera, ferum, adj.
@@ -1796,7 +1796,7 @@ conm see comm-.
 connectō, connex see cōne-.
 connī see cōnī-.
 connūb see cōnūb-.
-cōnōpēum ēī (Iu.), or cōnōpium, ī (H., ***Prop.***), n
+cōnōpēum ēī (Iu.), or cōnōpium, ī (H., ***Prop. ***), n
 cōnor ātus, ārī
 conp see comp-.
 conquaerō see conquīrō.
@@ -1805,7 +1805,7 @@ conqueror questus, ī, dep.
 conquestus
 (conquestus ūs), m
 conquiēscō quiēvī
-conquīrō quīsīvī (sierit, ***Cic.***), quīsītus, ere
+conquīrō quīsīvī (sierit, ***Cic. ***), quīsītus, ere
 conquīsītus adj. with sup.
 conr see corr-.
 cōn  saeptus
@@ -1849,7 +1849,7 @@ cōnsōpiō —, ītus, īre
 cōnsors sortis, m and f
 cōnsparsus
 cōnspectus adj. with comp.
-cōnspergō sī, sus (sparsus, ***Phaed.***), ere
+cōnspergō sī, sus (sparsus, ***Phaed. ***), ere
 cōnspersus
 cōnspiciō spēxī, spectus, ere
 cōnspicor ātus, ārī, dep.
@@ -1993,8 +1993,8 @@ corneolus adj. dim.
 cornicen cinis, m
 corniger gera, gerum, adj.
 cornipēs pedis, adj.
-cornū ūs (acc. cornum, ***Ter.***, ***Ov.***), n (once m, ***Cic.***)
-cornus ī (abl. cornū, ***Ov.***), f
+cornū ūs (acc. cornum, ***Ter. *** , ***Ov. ***), n (once m, ***Cic. ***)
+cornus ī (abl. cornū, ***Ov. ***), f
 corpus oris, n
 corrādō (conr) sī, sus, ere
 corrēctiō (conr) ōnis, f
@@ -2043,7 +2043,7 @@ crēbrō adv. with comp. crēbrius, and sup. crēberrimē
 crēdendus, crēdēns
 crēdibilis e, adj.
 crēdō didī, ditus, ere
-creō āvī (creāssit for creāverit, ***Cic.***), ātus, āre
+creō āvī (creāssit for creāverit, ***Cic. ***), ātus, āre
 crepīdō inis, f
 crepitō —, —, āre, freq.
 crepō uī, itus, āre
@@ -2060,7 +2060,7 @@ crīnālis e, adj.
 crīsō (crīssō) āvī, —, āre
 crīspisulcāns adj.
 crīspō —, ātus, āre
-crocodīlus (C., ***Hor.***, ***Iuv.***) or corcodīlus (Ph.), ī, m
+crocodīlus (C., ***Hor. *** , ***Iuv. ***) or corcodīlus (Ph.), ī, m
 cruciātus
 cruciātus m
 crūdēlis e, adj. with comp. and sup.
@@ -2078,7 +2078,7 @@ cubīle is, n
 cubitālis e, adj.
 cubitō āvī, —, āre, freq.
 cubitum ī, n (rarely cubitus, ī, m)
-cubō uī (subj. cubāris, ***Prop.***), itum, āre
+cubō uī (subj. cubāris, ***Prop. ***), itum, āre
 cucūllus (ūlus) ī, m
 cucumis eris, m
 cūdō —, —, ere
@@ -2105,7 +2105,7 @@ cunctor (cont) ātus, ārī, dep.
 cuneātus adj. with comp.
 cūpēd see cupped-.
 cupidē adv. with comp. and sup.
-cupiditās ātis (gen plur. -tātum, rarely -tātium, ***Cic.***), f
+cupiditās ātis (gen plur. -tātum, rarely -tātium, ***Cic. ***), f
 cupīdō inis, f (poet. also m)
 Cupīdō inis, m
 cupidus adj. with comp. and sup.
@@ -2114,7 +2114,7 @@ cupiō īvī, ītus, ere
 cupītus
 cuppēdia (cūp) ae, f
 cupressifer fera, ferum, adj.
-cupressus ī (abl. ū, Ct., ***Ov.***), f
+cupressus ī (abl. ū, Ct., ***Ov. ***), f
 cūrābilis e, adj.
 cūrandus, cūrāns
 (cūrātē adj.
@@ -2123,9 +2123,9 @@ Cūrētēs um, m
 Cūrētis idis, f
 cūriōsus adj. with comp. and sup.
 curīs (quirīs) ītis
-cūrō (old forms, coeret, coerarī, coerandī, ***Cic.***), āvī, ātus, āre
+cūrō (old forms, coeret, coerarī, coerandī, ***Cic. ***), āvī, ātus, āre
 currō cucurrī, cursus, ere
-currus ūs (dat. ū, gen plur. ūm, ***Ver.***), m
+currus ūs (dat. ū, gen plur. ūm, ***Ver. ***), m
 cursitō —, —, āre, freq.
 cursō —, —, āre, freq.
 curūlis (curr) e, adj.
@@ -2150,7 +2150,7 @@ damnōsus adj. with comp. and sup.
 (daps) dapis, f
 dē adv.;
 dē
-dea ae (dat. and abl plur. deābus, ***Cic.***), f
+dea ae (dat. and abl plur. deābus, ***Cic. ***), f
 dealbō —, ātus, āre
 deambulō —, ātum, āre
 deamō —, —, āre
@@ -2167,7 +2167,7 @@ decemplex icis, adj.
 decemvir see decemviri.
 decemvirālis (xvirālis) e, adj.
 decemvirātus (xvirātus) ūs, m
-decem virī or decemvirī (xvirī) ūm or (in ***Liv.***) ōrum, m
+decem virī or decemvirī (xvirī) ūm or (in ***Liv. ***) ōrum, m
 decēns entis, adj. with comp.
 decenter adv. with comp.
 (deceō cuī), —, —, ēre (only 3d pers.)
@@ -2183,7 +2183,7 @@ decimānus see decumanus.
 decimus or (older) decumus, adj.
 dēcipiō cēpī, ceptus, ere
 dēclāmitō āvī, ātus, āre, freq.
-dēclīvis e (neut. plur. dēclīvia; once dēclīva, ***Ov.***), adj.
+dēclīvis e (neut. plur. dēclīvia; once dēclīva, ***Ov. ***), adj.
 dēcolor ōris, adj.
 dēcolōrō āvī, —, āre
 dēcoquō coxī, coctus, ere
@@ -2215,7 +2215,7 @@ dēferō tulī, lātus, ferre
 dēfervēscō fervī and ferbuī, —, ere
 dēfetīgō see defatigo.
 dēfetīscor fessus, ī, dep.
-dēficiō fēcī, fectus, ere (fut perf. defexit, old form. in ***Liv.*** — Pass., usu. deficior; dēfit, ***Ter.***, Enn. ap. ***Cic.***, ***Ver.***; dēfierī, ***Ter.***; dēfīet, ***Liv.***)
+dēficiō fēcī, fectus, ere (fut perf. defexit, old form. in ***Liv. *** — Pass., usu. deficior; dēfit, ***Ter. *** , Enn. ap. ***Cic. *** , ***Ver. ***; dēfierī, ***Ter. ***; dēfīet, ***Liv. ***)
 dēfīgō fīxī, fīxus, ere
 dēfingō nxī, —, ere
 dēfīniō īvī, ītus, īre
@@ -2259,7 +2259,7 @@ dēlectābilis e, adj.
 dēlectō āvī, ātus, āre, intens.
 dēlegō see deligo.
 dēlēniō īvī, ītus, īre
-dēleō ēvī (dēlērat, ***Cic.***; dēlēsset, ***Liv.***), ētus, ēre
+dēleō ēvī (dēlērat, ***Cic. ***; dēlēsset, ***Liv. ***), ētus, ēre
 dēlīberātus adj. with comp.
 dēlīberō āvī, ātum, āre
 dēlibrō —, ātus, āre
@@ -2273,7 +2273,7 @@ dēlitēscō see dēlitīscō.
 dēlītigō —, —, āre
 dēlitīscō (ēscō) tuī, —, ere
 dēlitus
-delphīnus ī (C., ***Hor.***, ***Iuv.***), or (poet.) delphīn, īnis (V., ***Ov.***, ***Prop.***), m
+delphīnus ī (C., ***Hor. *** , ***Iuv. ***), or (poet.) delphīn, īnis (V., ***Ov. *** , ***Prop. ***), m
 dēlūdō sī, sus, ere
 dēlumbō —, —, āre
 dēlūsus
@@ -2476,7 +2476,7 @@ Diāna or (older) Dīāna, ae, f
 dicāx ācis, adj. with comp.
 (diciō) ōnis, f
 dicis gen.
-dīcō dīxī, dictus (imper. dīc; perf. often <⋆>ync. dīxtī; P. praes. gen. plur. dīcentum for dīcentium, ***Ov.***), ere
+dīcō dīxī, dictus (imper. dīc; perf. often <⋆>ync. dīxtī; P. praes. gen. plur. dīcentum for dīcentium, ***Ov. ***), ere
 dictāta ōrum, n
 dictitō āvī, ātus, āre, intens.
 dīctō āvī, ātus, āre, freq.
@@ -2484,12 +2484,12 @@ dictus
 dīdō dīdidī, dīditus, ere
 dīdūcō dūxī, ductus, ere
 dīductus
-diēs gen. diēī or diē (rarely diei, disyl., ***Ter.***, or diī, ***Ver.***), m sometimes in sing f.
+diēs gen. diēī or diē (rarely diei, disyl., ***Ter. *** , or diī, ***Ver. ***), m sometimes in sing f.
 (diffāmō) —, ātus, āre
 differō distulī, dīlātus, ferre
 difficilis e, adj. with comp. and sup.
 difficiliter adv. with comp. and sup.
-difficultās ātis (gen plur. -tātium, ***Liv.***), f
+difficultās ātis (gen plur. -tātium, ***Liv. ***), f
 diffīdenter
 diffīdo fīsus sum, ere
 diffindō fidī, fissus, ere
@@ -2666,7 +2666,7 @@ dītiae arum, f
 dītior, dītissimus
 diū adv. with comp. diūtius, and sup. diūtissimē
 diūtius, diūtissimē
-diūturnus (diu-, ***Ov.***), adj. with comp.
+diūturnus (diu-, ***Ov. ***), adj. with comp.
 dīvāricō —, ātus, āre
 dīvellō vellī, volsus or vulsus, ere
 dīvēndō —, ditus, ere
@@ -2677,7 +2677,7 @@ dīvertium see divortium.
 dīvertō etc., see devert-.
 dīves itis, with comp. and sup. (no neut. plur., nom. or acc.), adj.
 dīvexō —, —, āre
-dīvidō vīsī (dīvīsse, ***Hor.***), vīsus, ere
+dīvidō vīsī (dīvīsse, ***Hor. ***), vīsus, ere
 dīvīnē adv. with comp.
 dīvīnō āvī, ātus, are
 dīvīnus adj. with comp. and sup.
@@ -2722,7 +2722,7 @@ drachma or dragma (old drachuma), ae, f
 dracō ōnis, m
 dragma see drachma.
 dromas adis, m
-Druides um (Cs.), or Druidae, ārum (C., ***Tac.***), m
+Druides um (Cs.), or Druidae, ārum (C., ***Tac. ***), m
 Dryades um, f
 dubiē adv., doubtfully, uncertainly
 dubitābilis e, adj.
@@ -2730,7 +2730,7 @@ dubitāns adj.
 dubitō āvī, ātus, āre, freq.
 ducēnī ae, a, gen. nūm
 ducentiēns (iēs) adv. num.
-dūcō ūxī (dūxtī, Ct., ***Prop.***), uctus, ere
+dūcō ūxī (dūxtī, Ct., ***Prop. ***), uctus, ere
 ductō āvī, ātus, āre, freq.
 ductus
 duellum see bellum.
@@ -2757,13 +2757,13 @@ duodēvīcēnī ae, a, adj.
 duodēvīgintī
 (duovirātus or) II virātus acc., um
 duo virī, duovirī or II virī (less correctly duūmvirī) ōrum, m
-duplex icis (abl. icī; rarely ice, ***Hor.***), adj.
+duplex icis (abl. icī; rarely ice, ***Hor. ***), adj.
 dupondius ī, m n
 dūrābilis e, adj.
 dūrātus
 dūrē adv. with comp.
 dūrēscō ruī, —, ere, inch.
-dūritia ae (acc. duritiem, ***Ov.***, Ct.), f
+dūritia ae (acc. duritiem, ***Ov. *** , Ct.), f
 (dūritiēs) see duritia.
 dūrō āvī ātus, āre
 duūmvir, duūmvirātus, duūmvirī see duovir-.
@@ -2802,7 +2802,7 @@ edepol interj.
 ēdissertō —, —, āre, intens.
 (ēditum ī), n
 ēditus adj. with comp.
-edō ēdī, ēsus, ere, or ēsse (ēst for edit; ēsses, ēsset, for ederes, etc., ***Ver.***, ***Hor.***, ***Ov.***, ***Iuv.***; ēstur, ***Ov.*** — Subj: edit for edat, ***Hor.***; edint, ***Cic.***)
+edō ēdī, ēsus, ere, or ēsse (ēst for edit; ēsses, ēsset, for ederes, etc., ***Ver. *** , ***Hor. *** , ***Ov. *** , ***Iuv. ***; ēstur, ***Ov. *** — Subj: edit for edat, ***Hor. ***; edint, ***Cic. ***)
 ēdō didī, ditus, ere
 ēdoceō cuī, ctus, ēre
 ēdolō āvī, —, āre
@@ -2838,7 +2838,7 @@ effrēnātē adv. with comp.
 effrēnātus adj. with comp.
 effringō frēgī, frāctus, ere
 effugiō (ecf) fūgī, —, ere
-effulgeō sī, ēre (once ere, ***Ver.***)
+effulgeō sī, ēre (once ere, ***Ver. ***)
 effultus P.
 effundō (ecf) fūdī, fūsus, ere
 effūsē adv. with comp.
@@ -2933,7 +2933,7 @@ emō ēmī, ēmptus, ere
 ē  molliō iī, ītus, īre
 ēmolumentum (ēmoli) ī, n
 ēmoneō —, —, ēre
-ēmorior —, ī (old, īrī, ***Ter.***), dep.
+ēmorior —, ī (old, īrī, ***Ter. ***), dep.
 ēmoveō mōvī
 ēmptus
 ēmulgeō —, ulsus, ēre
@@ -2971,7 +2971,7 @@ enthȳmēma atis, n
 ēnucleō —, —, āre
 ēnumquam see en.
 ēnūtriō īvī, —, īre
-eō īvī or iī (3d pers. rarely īt, ***Ver.***; inf. īvisse or. īsse), itūrus (P. praes. iēns, euntis; ger. eundum), īre
+eō īvī or iī (3d pers. rarely īt, ***Ver. ***; inf. īvisse or. īsse), itūrus (P. praes. iēns, euntis; ger. eundum), īre
 eōdem adv. of place
 ēōs (only nom.), f
 ephēmeris idis, f
@@ -2980,7 +2980,7 @@ epimēnia ōrum, n
 epirēdia ōrum, n
 epistola see epistula.
 epitaphios ī, m
-epitomē (once -ma, ***Cic.***), ēs, f
+epitomē (once -ma, ***Cic. ***), ēs, f
 epodes um, m
 epops opis, m
 epos (only acc.), n
@@ -2989,12 +2989,12 @@ epulāris e, adj.
 epulō ōnis, m
 epulor ātus, ārī, dep.
 epulum ī (only sing.), n
-equester (tris, ***Liv.***) tris, tre, adj.
+equester (tris, ***Liv. ***) tris, tre, adj.
 equīria ōrum, n
 equitābilis e, adj.
 equitātus ūs, dat. uī or ū, m
 equuleus see eculeus.
-equus or ecus ī (gen plur. equōm or equūm, ***Ver.***), m
+equus or ecus ī (gen plur. equōm or equūm, ***Ver. ***), m
 era (not hera), ae, f
 ērādīcō —, —, āre
 ērādō sī, —, ere
@@ -3105,7 +3105,7 @@ excavō —, ātus, āre
 excēdō cessī
 excellēns entis, adj. with comp. and sup.
 excellenter adv. with comp.
-excellō (praes. excellet, ***Curt.***), —, celsus, ere
+excellō (praes. excellet, ***Curt. ***), —, celsus, ere
 excelsus adj. with comp. and sup.
 excēnsiō see escensio.
 exceptō āvī, ātus, āre, freq.
@@ -3122,7 +3122,7 @@ excīsus
 excitātus adj. with comp.
 excitō āvī, ātus, āre, freq.
 excitus and excītus
-exclūdō sī (exclūstī for exclūsistī, ***Ter.***), sus, ere
+exclūdō sī (exclūstī for exclūsistī, ***Ter. ***), sus, ere
 exclūsus
 excoctus
 excōgitātus
@@ -3149,7 +3149,7 @@ exequiae, exequor see exseq-.
 exerceō uī, itus, ēre
 exerciō see exsarcio.
 exercitātus adj. with comp. and sup.
-exercitus ūs (dat. ū, ***Caes.***, ***Liv.***; gen plur. tūm, ***Liv.***)
+exercitus ūs (dat. ū, ***Caes. *** , ***Liv. ***; gen plur. tūm, ***Liv. ***)
 exerō, exertō see exser-.
 exēsus
 exfutūō see effutus.
@@ -3180,7 +3180,7 @@ existō see exsisto.
 exitiābilis e, adj.
 exitiālis e, adj.
 exitiōsus adj. with comp.
-exitium ī (gen plur. exitiūm, Enn. ap. ***Cic.***), n
+exitium ī (gen plur. exitiūm, Enn. ap. ***Cic. ***), n
 exitus
 exlēx ēgis, adj.
 exolēscō olēvī, ētus, ere
@@ -3188,7 +3188,7 @@ exonerō vī, ātus, āre
 exoptātus adj. with comp. and sup.
 exōrābilis e, adj. with comp.
 exōrdior ōrsus, īrī, dep.
-exorior (exoritur, ***Ver.***: exorerentur, ***Liv.***; imper. exorere, ***Ter.***), ortus, īrī, dep.
+exorior (exoritur, ***Ver. *** : exorerentur, ***Liv. ***; imper. exorere, ***Ter. ***), ortus, īrī, dep.
 exōrsa ōrum, n
 exōrsus
 exortus
@@ -3220,7 +3220,7 @@ expingō —, pictus, ere
 expiō āvī, ātus, āre. — In religion
 expīrō see exspiro.
 expiscor ātus, ārī, dep.
-expleō ēvī (explēris, ***Cic.***, ***Ver.***; explēssent, ***Liv.***; explēsse, ***Ver.***), ētus, ēre
+expleō ēvī (explēris, ***Cic. *** , ***Ver. ***; explēssent, ***Liv. ***; explēsse, ***Ver. ***), ētus, ēre
 explicātus adj. with comp.
 (explicitus) adj.
 explicō āvī and uī, ātus or itus, āre
@@ -3348,7 +3348,7 @@ exūrō ūssī, ūstus, ere
 exūstus
 exūtus
 fabālis e, adj.
-faber brī (gen plur. brūm; rarely brōrum, ***Cic.***), m
+faber brī (gen plur. brūm; rarely brōrum, ***Cic. ***), m
 faber bra, brum, adj.
 fabricor ātus, ārī, dep.
 fabrīlis e, adj.
@@ -3364,7 +3364,7 @@ facinus oris, n
 faciō fēcī (old fut perf. faxo; subj. faxim), factus, ere; imper. fac (old, face); pass. fīō, fierī; pass imper. fī
 facteon adj.
 factitō āvī, ātus, āre, freq.
-facultās ātis (gen plur. facultātum, ***Cic.***), f
+facultās ātis (gen plur. facultātum, ***Cic. ***), f
 faecēs
 faelēs see feles.
 faenebris (fen) e, adj.
@@ -3398,7 +3398,7 @@ fascia (fascea) ae, f
 fascinō —, —, āre
 fasciola (fasce) ae, f dim.
 fassus
-fāstī ōrum (acc pl. fastūs, ***Hor.***), m
+fāstī ōrum (acc pl. fastūs, ***Hor. ***), m
 fastīdiō īvī, ītus, īre
 fastīdiōsē adv. with comp.
 fastīdiōsus adj. with comp. and sup.
@@ -3410,7 +3410,7 @@ fatīscō —, —, ere
 fātus
 faucēs ium, f
 (faux, faucis) f
-favēns ntis (gen pl. tūm, ***Ver.***), adj.
+favēns ntis (gen pl. tūm, ***Ver. ***), adj.
 faveō fāvī, fautūrus, ēre
 favor ōris, m
 favōrābilis. e, adj.
@@ -3425,7 +3425,7 @@ fēcundus adj. with comp. and sup.
 fel fellis, n
 fēlīcissimē
 fēlīciter adv. with comp. and sup.
-fēlīx īcis (abl. īcī, once īce, ***Cic.***), adj. with comp. and sup.
+fēlīx īcis (abl. īcī, once īce, ***Cic. ***), adj. with comp. and sup.
 (femen) inis; see femur.
 femur oris or inis, n
 fēnebris see faen-.
@@ -3436,7 +3436,7 @@ ferāx ācis, adj. with comp. and sup.
 ferculum n
 ferendus
 feriō —, —, īre
-ferō tulī (tetulī, ***Ter.***, Ct.), lātus, ferre
+ferō tulī (tetulī, ***Ter. *** , Ct.), lātus, ferre
 ferōciter adv. with comp. and sup.
 ferōx ōcis, adj. with comp. and sup.
 ferramenta ōrum, n
@@ -3458,13 +3458,13 @@ fētus (not foet-), ūs, m
 fī
 fictilis e, adj.
 fictūm ī, n
-fictus (finctus, ***Ter.***) adj.
-fīcus ī (ūs, ***Iuv.***; abl. ficū, ***Cic.***, ***Hor.***), f
+fictus (finctus, ***Ter. ***) adj.
+fīcus ī (ūs, ***Iuv. ***; abl. ficū, ***Cic. *** , ***Hor. ***), f
 fidēlis e, adj. with comp. and sup.
 fidēliter adv. with comp.
 fīdēns entis, adj.
 fīdenter adv. with comp.
-fidēs gen. (rare), usu. fidē (H., ***Ov.***), once fidēī (Enn. ap. ***Cic.***), once fidei (disyl., ***Ter.***); dat. fidē, ***Sall.***, ***Hor.***, fidei (disyl., ***Ter.***), f
+fidēs gen. (rare), usu. fidē (H., ***Ov. ***), once fidēī (Enn. ap. ***Cic. ***), once fidei (disyl., ***Ter. ***); dat. fidē, ***Sall. *** , ***Hor. *** , fidei (disyl., ***Ter. ***), f
 fidicen inis, m
 fīdō fīsus sum, ere
 fīdus adj. with comp. and sup.
@@ -3476,7 +3476,7 @@ fīne
 fingō finxī, fictus, ere
 fīniēns ntis, m
 fīniō īvī, ītus, īre
-fīnis is, m (often f in sing., ***Cic.***, ***Ver.***, ***Hor.***, ***Ov.***)
+fīnis is, m (often f in sing., ***Cic. *** , ***Ver. *** , ***Hor. *** , ***Ov. ***)
 fīō fierī, used as
 fīrmātus
 fīrmē adv. with comp. and sup.
@@ -3502,7 +3502,7 @@ flāvēns ntis, adj.
 flāvēscō —, —, ere, inch.
 flēbilis e, adj. with comp.
 flectō flēxī, flexus, ere
-fleō flēvī (flēmus, ***Prop.***, flēsti, ***Ov.***, flērunt, ***Ver.***, flēsse, ***Liv.***, ***Ov.***), flētus, ēre
+fleō flēvī (flēmus, ***Prop. *** , flēsti, ***Ov. *** , flērunt, ***Ver. *** , flēsse, ***Liv. *** , ***Ov. ***), flētus, ēre
 flētus
 flexibilis e, adj.
 flexilis e, adj.
@@ -3523,7 +3523,7 @@ fluitō āvī, —, āre, freq.
 fluō fluxī, fluxus, ere
 fluviālis e, adj.
 fluviātilis e, adj.
-fluvius ī (fluviōrum, trisyl., ***Ver.***), m
+fluvius ī (fluviōrum, trisyl., ***Ver. ***), m
 fōcāle is, n
 fodicō —, ātus, āre
 fodiō fōdī, fossus, ere
@@ -3534,7 +3534,7 @@ foedus eris, n
 (foen) see fēn.
 (foet) see fēt.
 fōns fontis, m
-(for) fātus, fārī, defect. (in use are fātur, fantur, fābor, fābitur; P. perf. fātus; perf. fātus sum or eram; imper. fāre; inf. fārī; old, fārier, ***Ver.***: gerund. fandī, fandō; supin abl. fātū; P. praes. fāns, fantis, fantem)
+(for) fātus, fārī, defect. (in use are fātur, fantur, fābor, fābitur; P. perf. fātus; perf. fātus sum or eram; imper. fāre; inf. fārī; old, fārier, ***Ver. *** : gerund. fandī, fandō; supin abl. fātū; P. praes. fāns, fantis, fantem)
 forābilis e, adj.
 forceps cipis, f
 fore, forem see sum.
@@ -3551,7 +3551,7 @@ fors fortis (only nom. and abl. except in the name Fors Fortuna), f
 forticulus adj. dim.
 fortis e, adj. with comp. and sup.
 fortiter adv. with comp. and sup.
-fortuītus (once trisyl., ***Iuv.***), adj.
+fortuītus (once trisyl., ***Iuv. ***), adj.
 fortūnātus adj. with comp. and sup.
 forulī ōrum, m dim.
 fossus
@@ -3565,7 +3565,7 @@ frāgrāns ntis, adj.
 (frāgum ī), n
 frangō frēgi, frāctus, ere
 fraudātus
-fraus fraudis (gen plur. fraudium, ***Cic.***), f
+fraus fraudis (gen plur. fraudium, ***Cic. ***), f
 fremēns ntis
 fremō uī, —, ere
 (frendō —, —, ere)
@@ -3574,7 +3574,7 @@ frēnum (frae) ī, n plur. frēnī, ōrum, m, or frēna, ōrum, n
 frequēns entis, adj. with comp. and sup.
 frequenter adv. with comp. and sup.
 fretēnsis e, adj.
-fretum ī, n (abl. also fretū, m, ***Cic.***)
+fretum ī, n (abl. also fretū, m, ***Cic. ***)
 (fretus, ūs) m
 fricō —, frictus, āre
 frictus.
@@ -3593,7 +3593,7 @@ frontāle is, n
 frontō ōnis, m
 frūctuōsus adj. with sup.
 frūctus
-frūctus ūs (frūctī, ***Ter.***), m
+frūctus ūs (frūctī, ***Ter. ***), m
 (frūgālis, e) adj.
 frūgālitās tātis, f
 frūgēs um; see frux.
@@ -3601,7 +3601,7 @@ frūgī adj. indecl.
 frūgifer fera, ferum, adj.
 fruitūrus
 frūmentor ātus, ārī, dep.
-fruor frūctus (P. fut. fruitūrus, ***Cic.***), ī, dep.
+fruor frūctus (P. fut. fruitūrus, ***Cic. ***), ī, dep.
 frūstror ātus, ārī, dep.
 fruticor ārī, —, dep.
 (frūx) frūgis, f
@@ -3610,16 +3610,16 @@ fueram, fuerō see sum.
 fugācius adv. comp.
 fugātus
 fugāx ācis, adj. with comp. and sup.
-fugiēns entis (gen plur. fugientum, ***Hor.***), adj.
-fugiō fūgī, — (P. fut. fugitūrus, ***Ov.***, ***Curt.***), ere
+fugiēns entis (gen plur. fugientum, ***Hor. ***), adj.
+fugiō fūgī, — (P. fut. fugitūrus, ***Ov. *** , ***Curt. ***), ere
 fugitāns antis, adj.
 fugitō āvī, ātus, āre, freq.
 fuī, fuisse
 fulciō fulsī, fultus, īre
 fulgēns ntis, adj.
-fulgeō fulsī, —, ēre (fulgere, ***Ver.***)
+fulgeō fulsī, —, ēre (fulgere, ***Ver. ***)
 (fulgō) ere; see fulgeo.
-fulgur uris (plur. once fulgora, ***Cic.***), n
+fulgur uris (plur. once fulgora, ***Cic. ***), n
 fulgurālis e, adj.
 fulgurō —, —, āre, impers.
 fulminō —, —, āre
@@ -3639,7 +3639,7 @@ fūnus eris, n
 fūr fūris, m
 fūrāx ācis, adj. with sup.
 furcifer erī, m
-furēns ntis (gen plur. ntum, ***Ver.***), adj.
+furēns ntis (gen plur. ntum, ***Ver. ***), adj.
 furfurēs um, m
 furiālis e, adj.
 furiō —, ātus, āre
@@ -3692,7 +3692,7 @@ genō —, —, ere
 gēns gentis, f
 gentīlīcius (tius) adj.
 gentīlis e, adj.
-genū ūs (gen. genū, ***Ov.***; plur. genua, disyl. ***Ver.***), n
+genū ūs (gen. genū, ***Ov. ***; plur. genua, disyl. ***Ver. ***), n
 genus eris, n
 genus —, n
 Geōrgica ōn, n
@@ -3738,9 +3738,9 @@ gnāv see nāv-.
 gōbio (Iu.), ōnis, or gōbius, ī (O.), m
 Gorgō onis, f
 gōrȳtos see corytos.
-gracilis e (plur f. gracilae, ***Ter.***), adj.
+gracilis e (plur f. gracilae, ***Ter. ***), adj.
 gradior gressus, ī, dep.
-Grādīvus (once Grad-, ***Ov.***), ī, m
+Grādīvus (once Grad-, ***Ov. ***), ī, m
 graecor ātus, ārī, dep.
 Graeculus adj. dim.
 Grāius (disyl.), adj.
@@ -3750,7 +3750,7 @@ grandēscō —, —, ere, inch.
 grandiculus adj. dim.
 grandifer era, erum, adj.
 grandis e, adj. with comp.
-(grandiuscula error for grandicula, ***Ter.***
+(grandiuscula error for grandicula, ***Ter. ***
 grandō inis, f
 grānifer era, erum, adj.
 grassāns
@@ -3779,9 +3779,9 @@ grex gregis, m
 gruis is, see grus.
 grūndītus (grūnnītus) ūs, m
 grūnniō īvī, —, īre
-grūs (nom. gruis, ***Phaed.***), gruis, m and f
+grūs (nom. gruis, ***Phaed. ***), gruis, m and f
 grȳps grȳpis, m
-gubernāculum (poet. -nāclum, ***Ver.***), ī, n
+gubernāculum (poet. -nāclum, ***Ver. ***), ī, n
 guminasium see gymnasium.
 gurgustium n
 gustātus ūs
@@ -3794,7 +3794,7 @@ gynaecōnītis idis, f
 gypsātus adj. with sup.
 ha!
 habēns adj.
-habeō uī (old perf subj. habessit for habuerit, ***Cic.***), itus, ēre
+habeō uī (old perf subj. habessit for habuerit, ***Cic. ***), itus, ēre
 habilis e, adj. with comp.
 habitābilis e, adj.
 (habitāns, ntis) m
@@ -3835,7 +3835,7 @@ hastīle is, n
 hau (au)
 hau see haud.
 haudquāquam or haud quāquam
-hauriō hausī, haustus (p. fut. hausūrus, ***Ver.***), īre
+hauriō hausī, haustus (p. fut. hausūrus, ***Ver. ***), īre
 haustus
 haut see haud.
 (haveō or aveō, —, —, ēre) imper. havē, havētō
@@ -3864,12 +3864,12 @@ herbifer fera, ferum, adj.
 hercīscō —, —, ere, inch.
 hercle interj.
 hercule interj.
-Herculēs is (rarely ī, ***Cic.***, ***Tac.***), m
+Herculēs is (rarely ī, ***Cic. *** , ***Tac. ***), m
 hērēditās ātis (gen plur. -tātum, rarely -tātium), f
 hērēs ēdis, m and f
 (herīlis) see erilis.
 hēroīnē ae, f
-hērōis idis (dat plur. hērōisin, ***Ov.***), f
+hērōis idis (dat plur. hērōisin, ***Ov. ***), f
 hērōs ōis, acc. ōa, m
 (herus) see erus.
 Hesperis idis, f
@@ -3884,7 +3884,7 @@ hīberna ōrum, n
 hībernācula ōrum, n dim.
 hībernō āvī, ātūrus, āre
 hibrida see hybrida.
-hīc or hic f haec, n hōc or hoc (old, hōce, ***Ter.***), gen. hūius (old, hūiusce, ***Ter.***, ***Cic.***), plur. hī (hīsce, ***Ter.***), f hae (old, haec, ***Ter.***, ***Ver.***), n
+hīc or hic f haec, n hōc or hoc (old, hōce, ***Ter. ***), gen. hūius (old, hūiusce, ***Ter. *** , ***Cic. ***), plur. hī (hīsce, ***Ter. ***), f hae (old, haec, ***Ter. *** , ***Ver. ***), n
 (hice, haece, hoce) older form of hic, haec, hoc.
 hicine see 1 hic.
 hīcine see 2 hic.
@@ -3927,7 +3927,7 @@ horrifer fera, ferum, adj.
 horrificō —, —, āre
 (hortātus) ūs, m
 hortor ātus, ārī, dep.
-hospes itis (gen plur. hospitium, ***Liv.***), m (rarely f, ***Ov.***)
+hospes itis (gen plur. hospitium, ***Liv. ***), m (rarely f, ***Ov. ***)
 hospitālis e, adj. with sup.
 (hospitus) adj.
 hostīlis e, adj.
@@ -3967,7 +3967,7 @@ Iāpys ydis, adj.
 Iāpyx ygis, adj.
 iaspis idis, f
 ībam ībat
-ībis idis (acc. ībim, ***Cic.***, ībin, ***Ov.***, ***Iuv.***; plur. ībes, ***Cic.***, acc. ībīs, ***Cic.***), f
+ībis idis (acc. ībim, ***Cic. *** , ībin, ***Ov. *** , ***Iuv. ***; plur. ībes, ***Cic. *** , acc. ībīs, ***Cic. ***), f
 ibiscum see hibiscum.
 ībō
 ibrida see hibrida.
@@ -3986,7 +3986,7 @@ igitur conj.
 īgnifer era, erum, adj.
 īgnipēs pedis, adj.
 īgnipotēns entis, adj.
-īgnis or (once in ***Hor.***) īgnīs is (abl. īgnī; rarely īgne), m
+īgnis or (once in ***Hor. ***) īgnīs is (abl. īgnī; rarely īgne), m
 īgnōbilis e, adj.
 īgnōrābilis e, adj.
 īgnōrāns antis, adj.
@@ -3997,7 +3997,7 @@ igitur conj.
 īgnōtus adj. with comp. and sup.
 (īle is, n
 īlia ōrum, n
-īlium or īlion ī, n (C., ***Ver.***, ***Hor.***, ***Ov.***), f
+īlium or īlion ī, n (C., ***Ver. *** , ***Hor. *** , ***Ov. ***), f
 illa in compounds with in; see inla-.
 ille illa, illud
 ille in words compounded with in; see inle-.
@@ -4077,7 +4077,7 @@ immūgiō (inm) iī, —, īre
 immundus (inm) adj.
 immūniō (inm) īvī, —, īre
 immūnis (inm) e, adj.
-immūnitās (inm) ātis (gen plur. tātium, ***Cic.***), f
+immūnitās (inm) ātis (gen plur. tātium, ***Cic. ***), f
 immūnītus (inm) adj.
 immurmurō (inm) —, —, āre
 immūtābilis (inm) e, adj.
@@ -4089,7 +4089,7 @@ immūtō (inm) āvī, ātus, āre
 (īmō) see immo.
 impācātus (inp) adj.
 impāctus
-impār (inp) aris (abl. imparī; twice impare, ***Ver.***), adj.
+impār (inp) aris (abl. imparī; twice impare, ***Ver. ***), adj.
 imparātus (inp) adj.
 impāstus (inp) adj.
 impatiēns (inp) entis, adj.
@@ -4191,7 +4191,7 @@ imprōvīsus (inpr) adj.
 imprūdēns (inpr) entis, adj.
 imprūdenter (inpr) adv. with comp.
 imprūdentia (inpr) ae, f
-impūbēs (inp) eris (C., ***Caes.***, ***Ov.***), and impūbis, is (H., ***Ver.***, ***Liv.***, ***Ov.***, ***Tac.***), adj.
+impūbēs (inp) eris (C., ***Caes. *** , ***Ov. ***), and impūbis, is (H., ***Ver. *** , ***Liv. *** , ***Ov. *** , ***Tac. ***), adj.
 impudēns (inp) entis, adj.
 impudenter (inp) adv. with comp. and sup.
 impudentia (inp) ae, f
@@ -4489,7 +4489,7 @@ inlepidus (ill) adj.
 inlībātus (ill) adj.
 inlīberālis (ill) e, adj.
 inlīberālitās (ill) ātis, f
-inliciō (ill) lexī, lectus, ere (inlēxe for inlēxisse, Att. ap. ***Cic.***)
+inliciō (ill) lexī, lectus, ere (inlēxe for inlēxisse, Att. ap. ***Cic. ***)
 inlicitātor (ill) ōris, m
 inlicitus (ill) adj.
 inlīdō (ill) sī, sus, ere
@@ -4515,7 +4515,7 @@ innāscor nātus, ī, dep.
 innatō āvī, ātus, are
 innāvigābilis e, adj.
 innectō nēxuī, nexus, ere
-innītor nīxus (-nīsus, ***Tac.***), ī, dep.
+innītor nīxus (-nīsus, ***Tac. ***), ī, dep.
 innocēns entis, adj.
 innocenter adv. with comp.
 innōtēscō tuī, —, ere
@@ -4533,7 +4533,7 @@ inquam
 inquiēs ētis, adj.
 inquiētō —, —, āre
 inquinātus adj. with comp. and sup.
-inquīrō sīvī (-sīsse, -sīssent, ***Liv.***), sītus, ere
+inquīrō sīvī (-sīsse, -sīssent, ***Liv. ***), sītus, ere
 inquīsītus
 inraucēscō (irr) rausī, —, ere, inch.
 inreligātus (irr) adj.
@@ -4579,7 +4579,7 @@ inruptus (irr) adj.
 īnsānābilis e, adj.
 īnsānē adv. with comp.
 īnsāniēns ntis, adj.
-īnsāniō (imperf: īnsānībat, ***Ter.***), īvī, ītus, īre
+īnsāniō (imperf: īnsānībat, ***Ter. ***), īvī, ītus, īre
 īnsatiābilis e, adj.
 īnsaturābilis e, adj.
 īnscendō —, —, ere
@@ -4607,12 +4607,12 @@ inscrīptus
 īnsidiōsus adj. with comp.
 īnsīdō sēdī, sessus, ere
 īnsīgne is, n
-īnsīgniō (imperf. īnsīgnībat, ***Ver.***), īvī, ītus, īre
+īnsīgniō (imperf. īnsīgnībat, ***Ver. ***), īvī, ītus, īre
 īnsīgnis e, adj. with comp.
 īnsīgnītē adv. with comp.
 īnsīgniter adv. with comp.
 īnsīgnītus adj. with comp.
-īnsiliō uī (īnsilīvī, ***Liv.***), —, īre
+īnsiliō uī (īnsilīvī, ***Liv. ***), —, īre
 īnsimulātiō (insimil) ōnis, f
 īnsipiēns entis, adj. with comp.
 īnsistō stitī, —, ere
@@ -4668,7 +4668,7 @@ integrāscō —, —, ere, inch.
 intellēctus
 intellegēns entis, adj.
 intellegentia (intellig) ae, f
-intellegō (not intelligō), ēxī (intellēxtī, ***Ter.***, ***Cic.***; intellēgit, ***Sall.***), ēctus
+intellegō (not intelligō), ēxī (intellēxtī, ***Ter. *** , ***Cic. ***; intellēgit, ***Sall. ***), ēctus
 (intelligō) see intellego.
 intemperāns antis, adj.
 intemperanter adv. with comp.
@@ -4832,7 +4832,7 @@ ipsus old for ipse.
 īrāscor īrātus, ī, dep.
 īrātus adj. with comp. and sup.
 īre īrī
-īris idis (acc. īrim, ***Ver.***, voc. īri, ***Ov.***), f
+īris idis (acc. īrim, ***Ver. *** , voc. īri, ***Ov. ***), f
 irr see inr-.
 is ea, id, gen. ēius (sometimes monosyl. in poetry), dat. ēī (rarely eī or monosyl. ei), pron. demonst.
 istaec see istic.
@@ -4842,7 +4842,7 @@ Isthmus or os ī, m
 istī old for 2 istic
 istic aec, oc and uc (with -ne, istucine), pron demonstr.
 istīus modī see modus.
-ītalicus (C., ***Sall.***, ***Caes.***, ***Liv.***, ***Tac.***) or ītalis, idis, f (V., ***Ov.***), or ītalus (H.) or Italus (H., ***Ver.***), adj.
+ītalicus (C., ***Sall. *** , ***Caes. *** , ***Liv. *** , ***Tac. ***) or ītalis, idis, f (V., ***Ov. ***), or ītalus (H.) or Italus (H., ***Ver. ***), adj.
 itaque
 iter itineris, n
 itō —, —, āre, freq.
@@ -4858,7 +4858,7 @@ iūgerum ī, n gen plur. iūgerūm; dat. and abl. iūgeribus, n
 iūgis e, adj.
 iūgis e, adj.
 iūglāns glandis, f
-iugulum ī, n (iugulus, ī, m, ***Iuv.***), dim.
+iugulum ī, n (iugulus, ī, m, ***Iuv. ***), dim.
 Iūlius (poet. sometimes quadrisyl.), adj.
 iūnctus adj. with comp. and sup.
 iungō ūnxī, ūnctus, ere
@@ -4874,7 +4874,7 @@ iūris dictiō see dictio.
 iūris perītus
 (iūror ātus, ārī,) dep.
 iūs iūris, n
-iūs iūris (dat. iūre, ***Liv.***; plur. only nom. and acc.), n
+iūs iūris (dat. iūre, ***Liv. ***; plur. only nom. and acc.), n
 iūs iūrandum
 iūssō for iūsserō; see iubeo.
 iūssus
@@ -4886,17 +4886,17 @@ iūtus
 iuvenālis e, adj.
 iuvenēscō —, —, ere, inch.
 iuvenīlis e, adj. with comp.
-iuvenis is, adj. with comp. iūnior (once iuvenior, ***Tac.***)
+iuvenis is, adj. with comp. iūnior (once iuvenior, ***Tac. ***)
 iuvenor —, —, ārī, dep.
-iuvō iūvī, iūtus (iuvātūrus, ***Sall.***), āre
+iuvō iūvī, iūtus (iuvātūrus, ***Sall. ***), āre
 iūxtā praep. with acc.
 Kalendae (Cal-; often written K), ārum, f
 labāscō —, —, ere, inch.
 labefaciō fēcī, factus, ere; pass. labefīō, factus, fierī
 labefactō āvī, ātus, āre, freq.
 labefactus, labefīō see labefacio.
-lābor lapsus, ī (lābier, ***Hor.***), dep.
-labor (old labōs, ***Ter.***, ***Sall.***, Ct.), ōris, m
+lābor lapsus, ī (lābier, ***Hor. ***), dep.
+labor (old labōs, ***Ter. *** , ***Sall. *** , Ct.), ōris, m
 labōrifer fera, ferum, adj.
 labōriōsē adv. with comp. and sup.
 labōriōsus adj. with comp. and sup.
@@ -4987,8 +4987,8 @@ laudābilis e, adj. with comp.
 laudātus adj. with sup.
 laureola (lor) ae, f dim.
 lauriger gera, gerum, adj.
-laurus ī (abl. laurū and laurō, ***Hor.***, ***Ov.***; plur, nom. and acc. laurūs, ***Ver.***, Ct., Tb.; voc. laurūs, ***Ov.***), f
-laus laudis, gen plur. laudum (once laudium, ***Cic.***), f
+laurus ī (abl. laurū and laurō, ***Hor. *** , ***Ov. ***; plur, nom. and acc. laurūs, ***Ver. *** , Ct., Tb.; voc. laurūs, ***Ov. ***), f
+laus laudis, gen plur. laudum (once laudium, ***Cic. ***), f
 lautē adv. with comp. and sup.
 lautia ōrum, n
 lautus adj. with comp. and sup.
@@ -5001,12 +5001,12 @@ lēctitō āvī, ātus, āre, freq.
 lēctus adj. with comp. and sup.
 legēns entis, m
 lēgifer fera, ferum, adj.
-lēgō āvī (lēgāssit for lēgāverit, XII Tabb. ap. ***Cic.***), ātus, āre
+lēgō āvī (lēgāssit for lēgāverit, XII Tabb. ap. ***Cic. ***), ātus, āre
 legō lēgī, lēctus, ere
 Lēmnias adis, f
 lemurēs um, m
 Lemūria ōrum, n
-lēniō (imperf. lēnībat, lēnībant, ***Ver.***; fut. lenibunt, ***Prop.***), īvī, ītus, īre
+lēniō (imperf. lēnībat, lēnībant, ***Ver. ***; fut. lenibunt, ***Prop. ***), īvī, ītus, īre
 lēnis e, adj.
 lēniter adv. with comp. and sup.
 lēnō ōnis, m
@@ -5021,7 +5021,7 @@ lentus adj. with comp. and sup.
 leō ōnis, m
 lepidus adj. with sup.
 lepōs ōris, m
-lepus oris, m (once f, ***Hor.***)
+lepus oris, m (once f, ***Hor. ***)
 lepusculus m dim.
 (lessus) —, acc. um, m
 lētālis e, adj.
@@ -5036,7 +5036,7 @@ levipēs pedis, adj.
 levis e, adj. with comp. and sup.
 lēvis e, adj.
 leviter adv. with comp. levius and sup. levissimē
-levō āvī (old fut perf. levāssō, Enn. ap. ***Cic.***), ātus, āre
+levō āvī (old fut perf. levāssō, Enn. ap. ***Cic. ***), ātus, āre
 lēx lēgis, f
 lexis eos
 lībāmenta ōrum, n
@@ -5115,7 +5115,7 @@ līvidulus adj. dim.
 līvidus adj. with sup.
 līvor ōris, m
 locitō —, —, āre, freq.
-locō āvī (locāssint, for locāverint, ***Cic.***), ātus, āre
+locō āvī (locāssint, for locāverint, ***Cic. ***), ātus, āre
 loculī ōrum, m dim.
 locuplēs ētis (abl. -plētī or -plēte; plur gen. -plētium and -plētum), adj. with comp. and sup.
 locus ī, m (plur. loci, single places; loca, n
@@ -5180,7 +5180,7 @@ lūxuriēs —, acc. em, f
 lūxurior ātus, ārī, dep.
 lūxuriōsē adv. with comp.
 lūxuriōsus adj. with comp.
-lūxus ūs (dat. lūxū, ***Sall.***)
+lūxus ūs (dat. lūxū, ***Sall. ***)
 lymphātus
 lynx lyncis, m and f
 macer cra, crum, adj.
@@ -5195,8 +5195,8 @@ madēscō duī, —, ere, inch.
 Maeander or Maeandros drī, m
 maena (mēna) ae, f
 Maenas adis, f
-Maenalus (os) ī, m (V., ***Ov.***), and Maenala, ōrum, n
-maerēns entis (gen plur. maerentum, ***Ver.***), adj.
+Maenalus (os) ī, m (V., ***Ov. ***), and Maenala, ōrum, n
+maerēns entis (gen plur. maerentum, ***Ver. ***), adj.
 maereō —, —, ēre
 maeror (not moer-), ōris, m
 maestitia (not moest-), ae, f
@@ -5209,7 +5209,7 @@ māgnēs ētis, adj.
 māgnificē adv. with comp. māgnificentius, and sup. māgnificentissimē
 māgnificō —, —, āre
 māgnificus adj. with comp. magnificentior, and sup. magnificentissimus
-māgnoperē (Cs., ***Liv.***) or māgnō opere (T., ***Cic.***), adv. with sup. māximō opere
+māgnoperē (Cs., ***Liv. ***) or māgnō opere (T., ***Cic. ***), adv. with sup. māximō opere
 māior ōris, and
 māximus
 māior
@@ -5229,7 +5229,7 @@ malificus see maleficus.
 malīgnē adv. with comp.
 malitiōsē adv. with comp.
 malivol see malevol-.
-mālō māluī, mālle (old māvolō for mālō, ***Ter.***)
+mālō māluī, mālle (old māvolō for mālō, ***Ter. ***)
 mālobathron (thrum) ī, n
 manceps ipis, m
 mancipium (mancupium) ī, n
@@ -5261,11 +5261,11 @@ manubiae (manib) ārum, f
 manufēstus see manifestus.
 manūmissus
 manūmittō or manū mittō mīsī, missus, ere
-manus ūs (dat. manu, ***Prop.***), f
+manus ūs (dat. manu, ***Prop. ***), f
 marathrus (os) ī, m
 marceō —, —, ēre
 marcēscō —, —, ere, inch.
-mare is (abl. mare, ***Ov.***), n
+mare is (abl. mare, ***Ov. ***), n
 Mareōtis idis
 margarīta ae, f (C.), and margarītum, ī, n
 marginō —, —, āre
@@ -5306,7 +5306,7 @@ meditātus
 meditor ātus, ārī, dep.
 medius fidius see fidius.
 medix see meddix.
-Megalēnsia (Ta.) or Megalēsia (C., ***Liv.***, ***Ov.***, ***Iuv.***), ium, n
+Megalēnsia (Ta.) or Megalēsia (C., ***Liv. *** , ***Ov. *** , ***Iuv. ***), ium, n
 megistānes um, m
 mehercle, mehercule, meherculēs see hercle, hercule, Hercules.
 mēiō —, —, ere
@@ -5369,7 +5369,7 @@ metō messuī, messus, ere
 mētor ātus, ārī, dep.
 metuēns entis, adj. with comp.
 metuō uī, —, ere
-metus ūs (old gen. metuis, ***Ter.***, ***Cic.***; dat. metu, ***Ver.***, ***Tac.***), m
+metus ūs (old gen. metuis, ***Ter. *** , ***Cic. ***; dat. metu, ***Ver. *** , ***Tac. ***), m
 meus pron possess.
 mī.
 micāns antis, adj.
@@ -5444,7 +5444,7 @@ moderor ātus, ārī, dep.
 modestē adv. with sup.
 modestus adj. with comp. and sup.
 (modificō) —, ātus, āre
-modo (modō, ***Cic.*** poët.), adv. (sometimes passing into a conj.)
+modo (modō, ***Cic. *** poët.), adv. (sometimes passing into a conj.)
 modulor ātus, ārī, dep.
 moechor ātus, ārī, dep.
 moenia ium, n
@@ -5458,7 +5458,7 @@ mōlītus
 mollēscō —, —, ēre, inch.
 mollicellus adj. dim.
 molliculus adj. dim.
-molliō (mollībat for molliēbat, ***Ov.***), īvī, ītus, īre
+molliō (mollībat for molliēbat, ***Ov. ***), īvī, ītus, īre
 mollipēs pedis, adj.
 mollis e, adj. with comp. and sup.
 molliter adv. with comp. and sup.
@@ -5483,7 +5483,7 @@ mordāx ācis, adj.
 mordeō momordī, morsus, ēre
 moriēns entis, adj.
 mōrigeror ātus, ārī, dep.
-morior mortuus (P. fut. moritūrus), ī (morīrī, ***Ov.***), dep.
+morior mortuus (P. fut. moritūrus), ī (morīrī, ***Ov. ***), dep.
 moritūrus
 mormyr ȳris, f
 moror ātus, ārī, dep.
@@ -5521,7 +5521,7 @@ mūnia ōrum, n
 mūniceps ipis
 mūnicipālis e, adj.
 mūnificus adj. with sup.
-mūnīmentum (old moen-, Enn. ap. ***Cic.***), ī, n
+mūnīmentum (old moen-, Enn. ap. ***Cic. ***), ī, n
 mūniō īvī, ītum, īre
 mūnītō —, —, āre, freq.
 mūnītus adj. with comp. and sup.
@@ -5555,11 +5555,11 @@ myrrh see murr-.
 myrtēta see murteta.
 myrteus (murteus) adj.
 myrtum (mur) ī, n
-myrtus (mur) ī (plur nom. ūs, ***Ver.***), f
+myrtus (mur) ī (plur nom. ūs, ***Ver. ***), f
 mȳtilus, mȳtulus see mitulus.
 nactus
 naenia see nenia.
-Nāis (once Nāīas, ***Ov.***), —, plur. Nāides or Naiades, um, f
+Nāis (once Nāīas, ***Ov. ***), —, plur. Nāides or Naiades, um, f
 nam conj.
 namque
 nancīscor nactus or nanctus, ī, dep.
@@ -5595,7 +5595,7 @@ nebulō ōnis, m
 nec or neque (in nec the negation is more prominent, in neque the connective), adv. and conj.
 necdum or nec dum see nec.
 necesse adj. (only nom. and acc sing. n., with esse or habere)
-necessitās ātis (gen plur. tātium, ***Caes.***), f
+necessitās ātis (gen plur. tātium, ***Caes. ***), f
 (necessum adj.
 necessus —, n
 necnōn see nec.
@@ -5612,16 +5612,16 @@ negitō āvī, —, āre, freq.
 neglegēns (not neglig-, necl-), entis, adj. with comp.
 neglegenter (neglig) adv. with comp.
 neglegentia (not neglig-), ae, f
-neglegō (not negligō, neclegō), ēxī (neglegisset, ***Sall.***), ēctus, ere
+neglegō (not negligō, neclegō), ēxī (neglegisset, ***Sall. ***), ēctus, ere
 negōtiālis e, adj.
 negōtior ātus, ārī, dep.
-nēmō (rarely nēmo, ***Ov.***, ***Iuv.***), —, dat. nēminī, acc. nēminem; abl. once nēmine, ***Tac.*** (class. writers borrow the plur. and the gen. and abl sing. from nullus), m and f
+nēmō (rarely nēmo, ***Ov. *** , ***Iuv. ***), —, dat. nēminī, acc. nēminem; abl. once nēmine, ***Tac. *** (class. writers borrow the plur. and the gen. and abl sing. from nullus), m and f
 nemorālis e, adj.
 nemorēnsis e, adj.
 nempe conj.
 nemus oris, n
 nēnia (naenia) ae, f
-neō (neunt, Tb.), ēvī (nērunt, ***Ov.***), —, ēre
+neō (neunt, Tb.), ēvī (nērunt, ***Ov. ***), —, ēre
 nepōs ōtis, m
 nēquam adj.
 neque, nequedum see nec.
@@ -5636,7 +5636,7 @@ nervōsē adv. with comp.
 (nervulus ī), m dim.
 nēsciēns (nē sciēns) entis, adj.
 nēsciō īvī, —, īre
-Nestor oris (acc. Nestora, ***Hor.***), m
+Nestor oris (acc. Nestora, ***Hor. ***), m
 neu see neve.
 neuter tra, trum, gen. trīus, dat. trī, adj. pronom.
 nex necis, f
@@ -5674,7 +5674,7 @@ nīxus P. of 1 nitor. — Plur. as subst: Nīxī, m
 nō āvī, —, āre
 nōbilis e, adj. with comp. and sup.
 nōbīs, nōbīscum see ego.
-nocēns entis (gen plur. nocentūm, ***Ov.***), adj. with comp. and sup.
+nocēns entis (gen plur. nocentūm, ***Ov. ***), adj. with comp. and sup.
 noceō cuī, citūrus, ēre
 noctifer erī, m
 nōlō nōluī, —, nōlle
@@ -5718,14 +5718,14 @@ nūbō nūpsī, nūptum, ere
 nūdātus
 nūgae arum, f
 nūgor ātus, ārī, dep.
-nūllus gen. nūllīus (m nūllī, ***Ter.***, ***Cic.***; nūllius, ***Hor.***), dat. nūllī (m nūllō, ***Caes.***; f nūllae, ***Prop.***), adj.
+nūllus gen. nūllīus (m nūllī, ***Ter. *** , ***Cic. ***; nūllius, ***Hor. ***), dat. nūllī (m nūllō, ***Caes. ***; f nūllae, ***Prop. ***), adj.
 (nūmārius, nūmātus) see nummā-.
 numcubi adv. interrog.
 numerābilis e, adj.
 numerōsus adj. with comp. and sup.
 nummātus (not nūmā-), adj.
 nummulus (not nūmu-), ī, m dim.
-nummus (not nūm-), ī (gen plur. -mūm; rarely -mōrum, ***Ter.***, ***Cic.***, ***Hor.***), m
+nummus (not nūm-), ī (gen plur. -mūm; rarely -mōrum, ***Ter. *** , ***Cic. *** , ***Hor. ***), m
 numnam, numne see num.
 num quandō see quando.
 numquis, numquid see 2 quis.
@@ -5745,7 +5745,7 @@ nūptiālis e, adj.
 nūptus
 nūtō āvī, ātus, āre, freq.
 nūtrīcor ātus, ārī, dep.
-nūtriō (nūtrībat, nūtrībant, for nūtriēbat, etc., ***Ver.***), īvī, ītus, īre
+nūtriō (nūtrībat, nūtrībant, for nūtriēbat, etc., ***Ver. ***), īvī, ītus, īre
 nūtrior —, īrī, dep.
 nūtus —, abl. ū (only nom sing. and acc. and abl sing. and plur.), m
 nux nucis, f
@@ -5813,7 +5813,7 @@ obsequor cūtus (not quūtus), ī, dep.
 obserō sēvī, situs, ere
 observāns antis, adj. with sup.
 observitō āvī, —, āre, freq.
-obses idis (gen plur. obsidum, rarely obsidium, ***Caes.***, ***Liv.***), m and f
+obses idis (gen plur. obsidum, rarely obsidium, ***Caes. *** , ***Liv. ***), m and f
 obsessus
 obsideō ēdī, essus, ēre
 obsidiālis e, adj.
@@ -5886,7 +5886,7 @@ occultō āvī, ātus, āre, freq.
 occultus adj. with comp. and sup.
 occumbō cubuī, cubitum, ere
 occupātus adj. with comp. and sup.
-occurrō (obc) currī (cucurrī, ***Phaed.***), cursus, ere
+occurrō (obc) currī (cucurrī, ***Phaed. ***), cursus, ere
 occursō āvī, ātus, āre, freq.
 (occursus, ūs) m
 ōcior ōcius, adj. comp.
@@ -5908,7 +5908,7 @@ octōnī ae, a, num distr.
 octōphoros (octāph) adj.
 octuplicātus (octi) adj.
 (octussis, is) m
-ōdī (ōdīvit, Anton. ap. ***Cic.***), ōsūrus, ōdisse, defect.
+ōdī (ōdīvit, Anton. ap. ***Cic. ***), ōsūrus, ōdisse, defect.
 odiōsus adj. with comp. and sup.
 odor or
 odōs ōris, m
@@ -5953,14 +5953,14 @@ omissus adj. with comp.
 omittō īsī, issus, ere
 omniparēns tis, adj.
 omnipotēns ntis, adj.
-omnis e (omnia, disyl., ***Ver.***), adj.
+omnis e (omnia, disyl., ***Ver. ***), adj.
 onager ī, m
 onerōsus adj. with comp.
 onus eris, n
 onyx ychis, m
 operāns antis
 operātus
-operiō (operībat, ***Prop.***), uī, ertus, īre
+operiō (operībat, ***Prop. ***), uī, ertus, īre
 (operior) see opperior.
 operor ātus, ārī, dep.
 operōsus adj. with comp.
@@ -6003,7 +6003,7 @@ opulentus adj. with comp. and sup.
 opus eris, n
 (ōrātus, ūs) m
 orbātus
-orbis is, abl. orbe (rarely -bī, ***Cic.***), m
+orbis is, abl. orbe (rarely -bī, ***Cic. ***), m
 orchas adis, f
 (ordeum) see nordeum.
 ōrdior ōrsus, īrī, dep.
@@ -6082,7 +6082,7 @@ palpitō —, —, āre, freq.
 palpō —, —, āre
 palpor ātus, ārī, dep.
 palumbēs is, m and f
-palūs (once palus, ***Hor.***), ūdis, gen plur. palūdum, rarely palūdium, ***Liv.***, f
+palūs (once palus, ***Hor. ***), ūdis, gen plur. palūdum, rarely palūdium, ***Liv. *** , f
 palūster tris, tre, adj.
 pampinus ī, m and f
 Pān Pānos, acc. Pāna, m
@@ -6092,7 +6092,7 @@ papae
 pāpās (pappās) —, m
 pappās see papas.
 papȳrifer fera, ferum, adj.
-pār paris, abl. parī (rarely as subst. pare, ***Cic.***, ***Ov.***), adj.
+pār paris, abl. parī (rarely as subst. pare, ***Cic. *** , ***Ov. ***), adj.
 parābilis e, adj.
 parapsis see paropsis.
 parasītaster trī, m
@@ -6111,7 +6111,7 @@ parentō —, ātus, āre
 pāreō uī, —, ēre
 (pāricīda, pāricīdium) see parricid-.
 pariēns entis
-pariēs etis (parietibus, quadrisyl., ***Ver.***), m
+pariēs etis (parietibus, quadrisyl., ***Ver. ***), m
 Parīlis see Palilis.
 parilis e, adj.
 pariō peperī, partus (P. fut. pariturus), ere
@@ -6128,17 +6128,17 @@ particeps cipis, adj.
 partiō īvī, ītus, īre
 partior ītus, īrī, dep.
 partītus
-parturiō (parturībat, ***Phaed.***), īvī, —, īre, desid.
+parturiō (parturībat, ***Phaed. ***), īvī, —, īre, desid.
 parum adv. (for comp. and sup., see minus, minime)
 parvolus or parvulus adj. dim.
 parvus adj. (for comp. and sup., see minor, minimus)
 pāscō pāvī, pāstus, ere
 pāscor pāstus sum, ī, dep.
 passus
-passus ūs (gen plur. rarely passūm, ***Liv.***), m
+passus ūs (gen plur. rarely passūm, ***Liv. ***), m
 pāstōrālis e, adj.
 pāstus
-Pataraeus (O.), or Patareus (trisyl., ***Hor.***), adj.
+Pataraeus (O.), or Patareus (trisyl., ***Hor. ***), adj.
 patefaciō fēcī, factus, ere
 patefactus, patefīō
 patēns entis, adj. with comp.
@@ -6178,7 +6178,7 @@ pectō pēxī, pexus, ere
 pecūliāris e, adj.
 pecūniōsus adj. with sup.
 pecus pecoris, n
-pecus udis (plur acc. once pecuda, ***Cic.***), f
+pecus udis (plur acc. once pecuda, ***Cic. ***), f
 pedālis e, adj.
 pedester tris, tre, adj.
 pēdō pepēdī, pēditus, ere
@@ -6234,7 +6234,7 @@ perceler celeris, adj.
 percellō culī, culsus, ere
 percēnseō uī, —, ēre
 (percieō, —, itus, ēre) see percitus.
-percipiō cēpī (pluperf. percēpset, old poet. ap. ***Cic.***), ceptus, ere
+percipiō cēpī (pluperf. percēpset, old poet. ap. ***Cic. ***), ceptus, ere
 percolō coluī, —, ere
 percōmis e, adj.
 percontātiō (percūnct) ōnis, f
@@ -6252,7 +6252,7 @@ percurrō percucurrī or percurrī, cursus, ere
 percursō —, —, āre, freq.
 percursus
 percussus
-percutiō cussī (percusti, ***Hor.***), cussus, ere
+percutiō cussī (percusti, ***Hor. ***), cussus, ere
 perdepsō uī, ere
 perdifficilis e, adj.
 perdīligens entis, adj.
@@ -6277,7 +6277,7 @@ perēloquēns entis, adj.
 peremnis e, adj.
 peremō see perimo.
 perēmptus or perēmtus
-perennis e (abl sing. perenne, ***Ov.***), adj. with comp.
+perennis e (abl sing. perenne, ***Ov. ***), adj. with comp.
 perennō —, —, āre
 pereō iī or
 perequitō āvī, —, āre
@@ -6309,7 +6309,7 @@ perfundō fūdī, fūsus, ere
 perfungor fūnctus, ī, dep.
 perfurō —, —, ere
 perfūsus
-Pergama (-mum, Enn. ap. ***Cic.***), ōrum, n
+Pergama (-mum, Enn. ap. ***Cic. ***), ōrum, n
 pergaudeō —, —, ēre
 pergō perrēxī, perrēctus, ere
 pergrandis e, adj.
@@ -6366,7 +6366,7 @@ permūniō īvī, ītus, īre
 pernecesse adj.
 pernegō āvī, —, āre
 perniciābilis e, adj.
-perniciēs (not-tiēs), acc. em (gen. once iī, ***Cic.***; dat. once iē, ***Liv.***, once iī, ***Nep.***), f
+perniciēs (not-tiēs), acc. em (gen. once iī, ***Cic. ***; dat. once iē, ***Liv. *** , once iī, ***Nep. ***), f
 perniciōsē adv. with comp.
 perniciōsus adj. with comp. and sup.
 (pernitiēs) see pernicies.
@@ -6500,7 +6500,7 @@ pestifer era, erum, adj.
 pestilēns entis, adj. with comp. and sup.
 petessō —, —, ere, intens.
 petīturiō —, —, īre, desid.
-petō īvī and iī (perf. petīt, ***Ver.***, O; petīstī, ***Cic.***, ***Ver.***; petīsse, ***Cic.***, ***Ov.***; petīssem, ***Cic.***, L, ***Ov.***), petītus, ere
+petō īvī and iī (perf. petīt, ***Ver. *** , O; petīstī, ***Cic. *** , ***Ver. ***; petīsse, ***Cic. *** , ***Ov. ***; petīssem, ***Cic. *** , L, ***Ov. ***), petītus, ere
 petorritum (petōri) ī, n
 petulāns antis, adj.
 petulanter adv. with comp. and sup.
@@ -6517,13 +6517,13 @@ philitia ōrum, n
 philosophor ātus, ārī, dep.
 philyra (philura) ae, f
 Phlegethōn ontis, m
-phōca ae (acc. ēn, ***Ov.***), f
+phōca ae (acc. ēn, ***Ov. ***), f
 Phoebas adis, f
 Phoebē ēs, f
-Phoebēius (O.) or Phoebēus (V., ***Ov.***), adj.
+Phoebēius (O.) or Phoebēus (V., ***Ov. ***), adj.
 Phoenīces um, m
 Phoenīssa adj.
-phoenīx īcis (acc. īca, ***Ov.***), m
+phoenīx īcis (acc. īca, ***Ov. ***), m
 phrenēticus (phrenīt) ī, m
 Phryx ygis, adj.
 phȳ
@@ -6531,7 +6531,7 @@ physica ōrum, see physicus:
 physiognōmōn onis, m
 piābilis e, adj.
 piāculāris e, adj.
-Picēns ntis (C., ***Liv.***), or Pīcēnus, adj.
+Picēns ntis (C., ***Liv. ***), or Pīcēnus, adj.
 pictus adj. with comp.
 Pīeris idis, f
 piger gra, grum, adj. with comp. pigrior, and sup. pigerrimus
@@ -6557,11 +6557,11 @@ pīnotērēs (thērēs) ae, m
 pīnus (ūs), abl. pīnū; plur. pīnūs; acc. pīnūs or pīnōs; f
 piper peris, n
 pīpilō —, —, āre
-Pīraeeus (trisyl., ***Cic.***) or Pīraeus (T., ***Cic.***, Ct., ***Liv.***, ***Nep.***, ***Prop.***), ī, m, or Pīraea, ōrum, n
+Pīraeeus (trisyl., ***Cic. ***) or Pīraeus (T., ***Cic. *** , Ct., ***Liv. *** , ***Nep. *** , ***Prop. ***), ī, m, or Pīraea, ōrum, n
 pirum (pyr) ī, n
 (piscātus ūs), m
 piscor ātus, ārī, dep.
-pītuīta (trisyl, ***Hor.***), ae, f
+pītuīta (trisyl, ***Hor. ***), ae, f
 pix picis, f
 plācābilis e, adj. with comp.
 plācātē adv. with comp.
@@ -6609,7 +6609,7 @@ plūs plūris (plur. plūres, plūra, gen. plūrium), adj.
 plūsculus adj. dim.
 pluviālis e, adj.
 Poecilē es, f
-poēma atis (dat. and abl plur. poëmatis, ***Cic.***), n
+poēma atis (dat. and abl plur. poëmatis, ***Cic. ***), n
 Poenīnus (Pennī) adj.
 (poenitēns, poenitentia, poeniteō) see paenit-.
 Poenus ī, see Poeni.
@@ -6625,14 +6625,14 @@ polliceor itus, ērī, dep.
 pollicitor ātus, ārī, freq.
 polluō uī, ūtus, ere
 Pollūx ūcis, m
-polypus (pōl, ***Hor.***) ī, m
+polypus (pōl, ***Hor. ***) ī, m
 (pomerīdiānus) see postmeridianus.
 pōmifer era, erum, adj.
 pōmoerium see pomerium.
 Pompēius
 pondus eris, n
 pōne praep. with acc.
-pōnō posuī (posīvērunt, ***Cic.***), positus, ere
+pōnō posuī (posīvērunt, ***Cic. ***), positus, ere
 pōns ontis, m
 pontifex (pontu) ficis
 pontificālis e, adj.
@@ -6648,8 +6648,8 @@ porgō, porgite, porgēns see 1 porrigo.
 porrectus
 porrēctus adj. with comp.
 porriciō (pori) —, rectus, ere
-porrigō (plur 2d pers. porgite, ***Ver.***: p. praes. porgens, ***Cic.***), rēxī, rēctus, ere
-Porsena (C., ***Hor.***), Porsenna (C., ***Ver.***), or Porsinna (L.), ae, m
+porrigō (plur 2d pers. porgite, ***Ver. *** : p. praes. porgens, ***Cic. ***), rēxī, rēctus, ere
+Porsena (C., ***Hor. ***), Porsenna (C., ***Ver. ***), or Porsinna (L.), ae, m
 portendō dī, tus, ere
 portentus
 porthmeus (disyl.), —, acc. ea, m
@@ -6662,7 +6662,7 @@ possessus
 possessus
 possideō sēdī, sessus, ēre
 possīdō sēdī, sessus, ere
-possum (possiem, possiet, ***Ter.***), potuī, posse (old potesse), irreg.
+possum (possiem, possiet, ***Ter. ***), potuī, posse (old potesse), irreg.
 post praep. with acc.
 (posteāquam) see postea.
 posterī, posterior see posterus.
@@ -6671,7 +6671,7 @@ posterius adv. comp.
 postferō —, —, ferre
 posthabeō uī, itus, ēre
 (posthumus) see postumus.
-postis is (abl. posti, ***Ov.***), m
+postis is (abl. posti, ***Ov. ***), m
 postmerīdiānus (posm-, not pom-), adj.
 postpōnō posuī, positus, ere
 postputō āvī, —, āre
@@ -6681,16 +6681,16 @@ postscrībō scrīpsī, —, ere
 (postulātus, ūs) m
 postumus (posthu) adj. sup.
 pote adj.
-potēns entis (gen plur. potentum, ***Ver.***), adj. with comp. and sup.
+potēns entis (gen plur. potentum, ***Ver. ***), adj. with comp. and sup.
 potenter adv. with comp.
 potin for potisne, see potis.
-potior (potitur, ***Ter.***, ***Ver.***, ***Ov.***; poterētur, Ct.; poterēmur, ***Ov.***; poterentur, ***Liv.***, ***Ov.***), ītus, īrī (potī, Enn. ap. ***Cic.***), dep.
+potior (potitur, ***Ter. *** , ***Ver. *** , ***Ov. ***; poterētur, Ct.; poterēmur, ***Ov. ***; poterentur, ***Liv. *** , ***Ov. ***), ītus, īrī (potī, Enn. ap. ***Cic. ***), dep.
 potior
 potis or pote adj. indecl. with comp. potior, potius, and sup. potissimus
 potissimum (sumum) adv. sup.
 potītus
 potius adv. comp.
-pōtō āvī, ātus (pōtūrus, Tb., ***Prop.***), āre
+pōtō āvī, ātus (pōtūrus, Tb., ***Prop. ***), āre
 pōtulentus (pōcul) adj.
 prae praep. with abl.
 praebeō uī, itus, ēre
@@ -6883,7 +6883,7 @@ prandeō prandī, prānsus, ēre
 prātēnsis e, adj.
 prātulum ī, dim.
 prāvē adv. with sup.
-precāns ntis (gen plur. precantūm, ***Ov.***), adj.
+precāns ntis (gen plur. precantūm, ***Ov. ***), adj.
 preces see
 precor ātus, ārī, dep.
 prehendō (prae) and prēndo dī, sus, ere
@@ -6934,13 +6934,13 @@ prōcrāstinō —, —, āre
 prōcubō —, —, āre
 prōcūdō dī, sus, ere
 prōcumbō cubuī, cubitum, ere
-prōcūrātor (once proc-, ***Ov.***), ōris, m
+prōcūrātor (once proc-, ***Ov. ***), ōris, m
 prōcūrō
 prōcurrō cucurrī and currī, cursum, ere
 prōcursātorēs ōris, m
 prōcursō —, —, āre, freq.
 prōcursus (ūs), m
-procus ī (gen plur. procūm, ***Cic.***), m
+procus ī (gen plur. procūm, ***Cic. ***), m
 Procyōn —, m
 prōd old form of pro, in prod-eo, prod-est.
 prōdeambulō (Fleck.) or prōdambulō
@@ -6980,7 +6980,7 @@ prognōstica ōrum, n
 prōgredior gressus, ī, dep.
 prōgressus
 (proh)
-prohibeō uī (old subj perf. prohibessit, ***Cic.***), itus, ēre
+prohibeō uī (old subj perf. prohibessit, ***Cic. ***), itus, ēre
 prohibitus
 prōiciō iēcī, iectus, ere
 (prōiiciō) see proicio.
@@ -7051,7 +7051,7 @@ prōsecō cuī, ctus, āre, in religion, of parts of the victim to be offered
 prōsecūtus (quūtus)
 prōsēminō —, ātus, āre
 prōsequor cūtus (quūtus), ī, dep.
-Prōserpina (Pros-, ***Hor.***), ae, f
+Prōserpina (Pros-, ***Hor. ***), ae, f
 prōsiliō uī, —, īre
 prōsocer erī, m
 prōspectō āvī, ātus, āre, freq.
@@ -7071,7 +7071,7 @@ prōtendō —, tus, ere
 prōtenus see prōtinus.
 prōterō —, trītus, ere
 prōterreō uī, itus, ēre
-protervē (prō-, ***Ter.***), adv. with comp.
+protervē (prō-, ***Ter. ***), adv. with comp.
 Prōteus (disyl.), eī, acc. ea, voc. eu, m
 prōtraho trāxī, tractus, ere
 prōtrītus
@@ -7113,11 +7113,11 @@ pudīous adj. with comp.
 puellāris e, adj.
 puer erī, m
 puerīlis e, adj. with comp.
-pueritia (puertia, ***Hor.***), ae, f
+pueritia (puertia, ***Hor. ***), ae, f
 puertia ae, see pueritia.
 pūga (pȳga) ae, f
 pugil ilis, m
-pugillāris e (pūg-, ***Iuv.***), adj.
+pugillāris e (pūg-, ***Iuv. ***), adj.
 (pugillātus ūs), m
 pūgnāciter adv. with sup.
 pūgnantēs ium, m
@@ -7142,7 +7142,7 @@ Pūnicus (Poen) adj.
 pūniō or poeniō īvī, ītus, īre
 pūnior or poenior ītus, īrī, dep.
 pūpillāris e, adj.
-puppis is, acc. im, abl. ī (puppe, ***Ov.***, ***Iuv.***), f
+puppis is, acc. im, abl. ī (puppe, ***Ov. *** , ***Iuv. ***), f
 pūrē adv. with comp.
 (pūrgāmen īnis), n
 (pūrgāmentum ī), n
@@ -7158,7 +7158,7 @@ pūtidē adv. with comp.
 pūtidiusculus adj. dim.
 pūtidus adj. with comp.
 pūtīscō —, —, ere, see putesco.
-putō āvī (putāstī, ***Ter.***; putārem putāsset, ***Cic.***), ātus, āre
+putō āvī (putāstī, ***Ter. ***; putārem putāsset, ***Cic. ***), ātus, āre
 putrefaciō fēcī, factus, ere
 putrēscō —, —, ere, inch.
 putus adj. with sup.
@@ -7171,7 +7171,7 @@ Pȳthicus (L.), adj.
 pȳtisma atis, n
 pȳtīsō —, —, āre
 pyxis idis, f
-quadrāgēnī ae, a (gen. nūm, ***Caes.***, ***Liv.***), num distrib.
+quadrāgēnī ae, a (gen. nūm, ***Caes. *** , ***Liv. ***), num distrib.
 quadrāgēnsimus (gēsimus) adj.
 quadrāgiēns (iēs) adj. num.
 quadrāgintā or XL or XXXX num.
@@ -7190,7 +7190,7 @@ quaerō sīvī, sītus, ere
 quaesītus adj. with comp. and sup.
 quaesō —, — (ere)
 quaestuōsus adj. with comp. and sup.
-quaestus ūs (old gen. quaestuis, ***Ter.***; quaestī, ***Ter.***), m
+quaestus ūs (old gen. quaestuis, ***Ter. ***; quaestī, ***Ter. ***), m
 quālis e, pronom adj.
 quāliscumque qualecumque, adj.
 quālislibet quālelibet
@@ -7222,7 +7222,7 @@ quatiō —, quassus, ere
 quatrī see quadri-.
 quattuor (quāt) or IIII or IV
 quattuordecim (quāt) or XIIII or XIV num.
-que (sometimes -quē, ***Ver.***, ***Ov.***), conj enclit.
+que (sometimes -quē, ***Ver. *** , ***Ov. ***), conj enclit.
 quem ad modum
 queō quīvī, quitus, īre
 quercētum see querquētum.
@@ -7238,10 +7238,10 @@ quicquam, quicquid see quisquam, quisquis.
 quīcum see 1 qui.
 quīcumque
 quid adv. interrog.
-quīdam quaedam, quoddam, and (as subst.) quiddam, pron indef. — Sing., a certain, a certain one, somebody, one, something: quidam ex advocatis: quaedam certa vox: unius cuiusdam operis (homo), some single craft: Accurrit quidam, notus mi nomine tantum, ***Hor.***: quodam tempore, once upon a time. — As subst n.: quiddam divinum, a something: quiddam mali, somewhat: Quaedam, si credis consultis, mancipat usus, some things, ***Hor.*** — Plur, some, certain, certain ones: excesserunt urbe quidam, ali i, etc., ***Liv.***: quaedam quaestiones: quibusdam Andriorum persuasit, etc., ***Liv.*** — With a subst. or adj.
+quīdam quaedam, quoddam, and (as subst.) quiddam, pron indef. — Sing., a certain, a certain one, somebody, one, something: quidam ex advocatis: quaedam certa vox: unius cuiusdam operis (homo), some single craft: Accurrit quidam, notus mi nomine tantum, ***Hor. *** : quodam tempore, once upon a time. — As subst n.: quiddam divinum, a something: quiddam mali, somewhat: Quaedam, si credis consultis, mancipat usus, some things, ***Hor. *** — Plur, some, certain, certain ones: excesserunt urbe quidam, ali i, etc., ***Liv. *** : quaedam quaestiones: quibusdam Andriorum persuasit, etc., ***Liv. *** — With a subst. or adj.
 quidnī see quid.
 quidpiam, quidquam see quispiam, quisquam.
-quiēscō ēvī (quiērunt, ***Ver.***; quiērim, ***Cic.***; quiēssem, ***Ter.***, ***Hor.***; quiēsset, ***Ter.***; quiēsse, ***Cic.***, ***Liv.***), ētus, ere
+quiēscō ēvī (quiērunt, ***Ver. ***; quiērim, ***Cic. ***; quiēssem, ***Ter. *** , ***Hor. ***; quiēsset, ***Ter. ***; quiēsse, ***Cic. *** , ***Liv. ***), ētus, ere
 quiētē adv. with comp. and sup.
 quiētus adj. with comp. and sup.
 quīlibet (lubet) quaelibet, quodlibet, and
@@ -7322,7 +7322,7 @@ rancidulus adj. dim.
 rapāx ācis, adj. with comp. and sup.
 rapidē adv. with comp.
 rapidus adj. with comp. and sup.
-rapiō puī (old fut perf. rapsit, ***Cic.***), raptus, ere
+rapiō puī (old fut perf. rapsit, ***Cic. ***), raptus, ere
 raptō āvī, ātus, āre, freq.
 raptus
 raptus (ūs), m
@@ -7347,7 +7347,7 @@ recantō —, ātus, āre
 reccidō see 1 recido.
 recēdō cessī, cessus, ere
 recellō —, —, ere
-recēns entis (abl sing. entī; poet. also ente; gen plur. tium; poet. rarely tum, ***Hor.***), adj.
+recēns entis (abl sing. entī; poet. also ente; gen plur. tium; poet. rarely tum, ***Hor. ***), adj.
 recēnseō suī, —, ēre
 receptō āvī, —, āre, intens.
 receptus
@@ -7390,7 +7390,7 @@ recūrō āvī, āre
 recurrō currī, —, ere
 recursō —, —, āre, freq.
 recurvō —, ātus, āre
-recūsō (P. praes. gen. plur. recusantūm, ***Ver.***), āvī (recūsārō, for recūsāverō, ***Cic.***), ātus, āre
+recūsō (P. praes. gen. plur. recusantūm, ***Ver. ***), āvī (recūsārō, for recūsāverō, ***Cic. ***), ātus, āre
 (recutiō) —, cussus, ere
 red see re-.
 (rēda) see raeda.
@@ -7414,7 +7414,7 @@ redomitus
 redōnō āvī, —, āre
 redūcō
 reduvia (redivia) ae, f
-redux ducis (abl. reduce; poet. also reducī, ***Ov.***), adj.
+redux ducis (abl. reduce; poet. also reducī, ***Ov. ***), adj.
 refarciō see refercio.
 refectus
 refellō fellī, —, ere
@@ -7455,7 +7455,7 @@ rēgnātrīx īcis, adj. f
 regō rēxī, rēctus, ere
 regredior gressus, ī, dep.
 regustō —, ātus, āre. — Fig.
-rēiciō (not reiiciō; imper. reice, disyl., ***Ver.***), rēiēcī, iectus, ere
+rēiciō (not reiiciō; imper. reice, disyl., ***Ver. ***), rēiēcī, iectus, ere
 rēiectus
 (rēiicio) see reicio.
 relābor lapsus, ī, dep.
@@ -7572,7 +7572,7 @@ resideō sēdī, —, ēre
 resīdō sēdī, —, ere
 resiliō uī, —, īre
 resipiō —, —, ere
-resipīscō īvī or uī (resipīsset, ***Cic.***), —, ere, inch.
+resipīscō īvī or uī (resipīsset, ***Cic. ***), —, ere, inch.
 resistēns ntis, adj.
 resistō stitī, —, ere
 resolvō solvī, solūtus, ere
@@ -7596,7 +7596,7 @@ restāgnō —, —, āre
 restaurō āre
 restinguō nxī, nctus, ere
 restipulor —, ārī, dep.
-restis īs, acc. restim (rarely em, ***Iuv.***), abl. reste, f
+restis īs, acc. restim (rarely em, ***Iuv. ***), abl. reste, f
 restitō —, —, āre, freq.
 restituō ūī, ūtus, ere
 restitūtus
@@ -7711,7 +7711,7 @@ rudis e, adj.
 rudō —, —, ere
 rūdus (raudus) eris
 rūdus eris, n
-Rūmīnālis e (f Rūmīna, ***Ov.***), adj.
+Rūmīnālis e (f Rūmīna, ***Ov. ***), adj.
 rūminō —, —, āre
 rumpō rūpī, ruptus, ere
 ruō uī, ātus (P. fut. ruitūrus), ere
@@ -7723,7 +7723,7 @@ rūsticē adj. with comp.
 rūsticor ātus, ārī, dep.
 rūta ōrum, n
 sabbata ōrum, n
-Sabellicus (V.) or Sabellus (L., ***Ver.***, ***Hor.***, ***Iuv.***), adj.
+Sabellicus (V.) or Sabellus (L., ***Ver. *** , ***Hor. *** , ***Iuv. ***), adj.
 sacer cra, crum, adj. with sup.
 sacerdōs ōtis, m and f
 sacricola ae, m and f
@@ -7764,12 +7764,12 @@ salsus adj. with comp.
 (saltātus ūs), m
 saltō āvī, ātus, āre, freq.
 (saltus ūs), m
-salūbris (m salūber, ***Ov.***), is, e, adj. with comp. and sup.
+salūbris (m salūber, ***Ov. ***), is, e, adj. with comp. and sup.
 salūbriter adv. with comp.
 (salum ī), n
 salūtāris e, adj. with comp.
 salūtifer fera, ferum, adj.
-salūtō (P. plur. gen. salutantūm, ***Ver.***, ***Ov.***), āvī, ātus, āre
+salūtō (P. plur. gen. salutantūm, ***Ver. *** , ***Ov. ***), āvī, ātus, āre
 salvē
 (salveō) —, —, ēre
 Samē ēs
@@ -7784,11 +7784,11 @@ sānē adv. with comp.
 sanguālis see sanqualis.
 sanguen inis, n
 sanguināns ntis, P.
-sanguis (poet. also sanguīs, ***Ver.***, ***Ov.***), inis, m, or (old) sanguen, inis, n
+sanguis (poet. also sanguīs, ***Ver. *** , ***Ov. ***), inis, m, or (old) sanguen, inis, n
 saniēs —, acc. em, abl. ē, f
 Sanquālis e, adj.
 sānus adj. with comp. and sup.
-sapiēns entis (abl sing. adj. ente or entī, as subst. usu. ente; gen plur. entium, poet. also entūm, ***Hor.***), adj. with comp. and sup.
+sapiēns entis (abl sing. adj. ente or entī, as subst. usu. ente; gen plur. entium, poet. also entūm, ***Hor. ***), adj. with comp. and sup.
 sapienter adv. with comp. and sup.
 sapientipotēns entis, adj.
 sapiō īvī, —, ere
@@ -7848,7 +7848,7 @@ scilla see squilla.
 scīn for scisne see scio.
 scindō (scidī, late), scissus, ere
 scintillō —, —, āre
-sciō (scībam, old for sciēbam, ***Ter.***; scībō, old for sciam, ***Ter.***; scīn', colloq. for scīsne, ***Ter.***), īvī (sciit, sciēre, ***Liv.***; scīstī, ***Ter.***, ***Ov.***; scieram, scierō, scierim, ***Cic.***; scīsse, scīssem, ***Ter.***, ***Cic.***, ***Liv.***, ***Ov.***), ītus
+sciō (scībam, old for sciēbam, ***Ter. ***; scībō, old for sciam, ***Ter. ***; scīn', colloq. for scīsne, ***Ter. ***), īvī (sciit, sciēre, ***Liv. ***; scīstī, ***Ter. *** , ***Ov. ***; scieram, scierō, scierim, ***Cic. ***; scīsse, scīssem, ***Ter. *** , ***Cic. *** , ***Liv. *** , ***Ov. ***), ītus
 scirpea (sirp) ae, f
 scirpeus (sirp) adj.
 scīscitor ātus, ārī, dep.
@@ -7909,7 +7909,7 @@ secūtor (sequūtor) ōris, m
 sed or (old) set, conj.
 sēdātus adj. with comp. and sup.
 sedeō sēdī, sessum, ēre
-sēdēs (sēdis, ***Liv.***; gen plur. sēdum, ***Cic.***, ***Liv.***), is, f
+sēdēs (sēdis, ***Liv. ***; gen plur. sēdum, ***Cic. *** , ***Liv. ***), is, f
 sedīle is, n
 sēditiōsē adv. with comp. and sup.
 sēditiōsus adj. with sup.
@@ -7958,7 +7958,7 @@ sēmiūstus (sēmūstus) adj.
 sēmivir virī, m
 sēmoveō movī, mōtus, ēre
 sēmūst see semiust-.
-senātus ūs (gen. senatī, ***Sall.***, ***Cic.***), m
+senātus ūs (gen. senatī, ***Sall. *** , ***Cic. ***), m
 senātūs cōnsultum see senatus, consultum.
 seneō —, ēre
 senēscō nuī, —, ere, inch.
@@ -7969,7 +7969,7 @@ senior ōris
 sēnsa ōrum, n
 sēnsus
 sentēs ium, m
-sentiō sēnsī (2d pers. sēnstī, ***Ter.***), sēnsus, īre
+sentiō sēnsī (2d pers. sēnstī, ***Ter. ***), sēnsus, īre
 (sentis, is) see sentes.
 sēparābilis e, adj.
 sepeliō pelīvī
@@ -8003,7 +8003,7 @@ sequāx ācis, adj.
 sequēns entis, adj.
 sequester tris or tra, tre, adj.
 sequius
-sequor (P. praes. gen. plur. sequentūm, ***Ver.***), secūtus (-quūtus), ī, dep.
+sequor (P. praes. gen. plur. sequentūm, ***Ver. ***), secūtus (-quūtus), ī, dep.
 sequūtor see secutor.
 Serāpis (is or idis), acc. im, m
 serēnō —, —, āre
@@ -8025,7 +8025,7 @@ serva ae
 servābilis e, adj.
 (servāns) antis, adj.
 servīlis e, adj.
-serviō (-vības, -vībō, ***Ter.***), īvī, ītus, īre
+serviō (-vības, -vībō, ***Ter. ***), īvī, ītus, īre
 servola (servula) ae, f dim.
 servolus (servulus) ī, m dim.
 servus or servos adj.
@@ -8082,12 +8082,12 @@ sigilla ōrum, n dim.
 sīgnātus
 sīgnifer fera, ferum, adj.
 silenda ōrum, n
-silēns entis (abl. ente, rarely entī, ***Liv.***, ***Ov.***; gen plur. tūm, ***Ver.***, ***Ov.***), adj.
+silēns entis (abl. ente, rarely entī, ***Liv. *** , ***Ov. ***; gen plur. tūm, ***Ver. *** , ***Ov. ***), adj.
 Sīlēnūs ī, m
 sileō uī, —, ēre
 silēscō —, —, ere, inch.
 silex icis, m and (poet.) f
-silva (not sylva; poet. silua, trisyl., ***Hor.***), ae, f
+silva (not sylva; poet. silua, trisyl., ***Hor. ***), ae, f
 silvēscō —, —, ere, inch.
 silvestris e, adj.
 silvicola ae, m and f
@@ -8112,7 +8112,7 @@ singultō —, ātus, āre
 (singultus, ūs) m
 (singulus) see singuli.
 sinister tra, trum, adj., with comp.
-sinō sīvī (siit, ***Ter.***; sīstis, ***Cic.***; subj. sieris, Pac. ap. ***Cic.***; sīris, sirit, ***Liv.***; pluperf. sīsset, ***Liv.*** sīssent, ***Cic.***, ***Liv.***), situs, ere
+sinō sīvī (siit, ***Ter. ***; sīstis, ***Cic. ***; subj. sieris, Pac. ap. ***Cic. ***; sīris, sirit, ***Liv. ***; pluperf. sīsset, ***Liv. *** sīssent, ***Cic. *** , ***Liv. ***), situs, ere
 sinuātus
 sīphō ōnis, n
 sī quidem or siquidem
@@ -8134,7 +8134,7 @@ smaris idis, f
 smīlax acis, f
 Smintheus (disyl.), —, acc. ea, m
 (sobolēs, sobolēscō) see subol-.
-socer erī (abl. socrō for socerō, ***Cic.*** poët.), m
+socer erī (abl. socrō for socerō, ***Cic. *** poët.), m
 sociābilis e, adj.
 sociālis e, adj.
 sōcors cordis, adj.
@@ -8154,7 +8154,7 @@ solidus (poet. also soldus), adj. with sup.
 solistimus (sollist) adj.
 sollemne is, n
 sollemnis (-ennis, -empnis, not sōle-), e, adj.
-sollers (not sōlers), tis (abl. ertī; once erte, ***Ov.***), adj. with comp. and sup.
+sollers (not sōlers), tis (abl. ertī; once erte, ***Ov. ***), adj. with comp. and sup.
 sollerter adv. with comp. and sup.
 sollertia (not sōlert-), ae, f
 sollicitō (sōli) āvī, ātus, āre
@@ -8163,7 +8163,7 @@ solliferreum (sōlif) ī, n
 sollistimus see solistimus.
 sōlor ātus, ārī, dep.
 sōlstitiālis e, adj.
-sōlus gen. sōlīus, dat. sōlī (dat f. sōlae, ***Ter.***), adj.
+sōlus gen. sōlīus, dat. sōlī (dat f. sōlae, ***Ter. ***), adj.
 solūtē adv. with comp.
 solūtus adj. with comp. and sup.
 solvō solvī (soluit, Ct.; soluisse, Tb.), solūtus, ere
@@ -8171,7 +8171,7 @@ somnifer era, erum, adj.
 sonābilis e, adj.
 sonāns antis (gen plur. sonantum, Ct.), adj. with comp.
 sonipēs (sonupēs) pedis, adj.
-sonō uī, itus (P. fut. sonātūrus, ***Hor.***), āre
+sonō uī, itus (P. fut. sonātūrus, ***Hor. ***), āre
 (sōns) sontis, adj.
 sonupēs see sonipes.
 sōpiō īvī, ītus, īre
@@ -8186,7 +8186,7 @@ sordidē adv. with comp.
 sordidulus adj. dim.
 sordidus adj. with comp. and sup.
 sōrītēs ae, dat. ī, m
-sors (old nom. sortis, ***Ter.***), tis, abl. sorte or sortī, f
+sors (old nom. sortis, ***Ter. ***), tis, abl. sorte or sortī, f
 sortior ītus, īrī, dep.
 sortītus
 (sortītus, ūs) m
@@ -8201,7 +8201,7 @@ spatior ātus, ārī, dep.
 spatiōsus adj. with comp.
 speciēs —, acc. em, abl. ē, f
 spectābilis e, adj.
-spectāculum (-tāclum, ***Prop.***), ī, n
+spectāculum (-tāclum, ***Prop. ***), ī, n
 spectātus adj. with sup.
 spectō āvī, ātus, āre, freq.
 speculāria (ōrum), n
@@ -8210,7 +8210,7 @@ specus ūs, m or (poet.) n
 spērātus
 spernō sprēvī, sprētus, ere
 spernor —, ārī
-spēs speī (spei, monosyl., ***Ter.***), f
+spēs speī (spei, monosyl., ***Ter. ***), f
 spīniger gera, gerum, adj.
 spīnōsus adj. with comp.
 spīrābilis e, adj.
@@ -8254,7 +8254,7 @@ stelliger gera, gerum, adj.
 stelliō (stēliō) ōnis, m
 stemma atis, n
 stercorō —, —, āre
-sterculīnum (sterquil-, ***Phaed.***), ī, n
+sterculīnum (sterquil-, ***Phaed. ***), ī, n
 stercus oris, n
 sterilis e, adj.
 sternāx ācis, adj.
@@ -8272,10 +8272,10 @@ stīpātus
 (stips) stipis, f
 stipulor ātus, ārī, dep.
 stirpēs, stirpis see stirps.
-stirps (rarely stirpis, once stirpēs, ***Liv.***), pis, f or (poet.) m
+stirps (rarely stirpis, once stirpēs, ***Liv. ***), pis, f or (poet.) m
 stlāttārius (stlāta) adj.
 stlis old for lis.
-stō stetī (steterunt for stetērunt, ***Ver.***, ***Ov.***, ***Prop.***), status, āre
+stō stetī (steterunt for stetērunt, ***Ver. *** , ***Ov. *** , ***Prop. ***), status, āre
 Stōicidae (ārum), m
 stolidus adj. with comp. and sup.
 stomachor ātus, ārī, dep.
@@ -8287,7 +8287,7 @@ strepitō —, —, āre, intens.
 strepō uī, —, ere
 strīdeō —, —, ēre
 strīdō —, —, ere
-strigilis is (plur abl. striglibus, ***Iuv.***), f
+strigilis is (plur abl. striglibus, ***Iuv. ***), f
 (strigōsus) adj.
 stringō inxī, ictus, ere
 strix strigis, f
@@ -8394,7 +8394,7 @@ subreptus (surr)
 subrīdeō (surr) sī, ēre
 subrigō (surr) —, rēctus, ere
 subringor (surr) —, ī, dep.
-subripiō or surripiō (imper. surpite, ***Hor.***), ripuī (pluperf. surpuerat, ***Hor.***), ruptus, ere
+subripiō or surripiō (imper. surpite, ***Hor. ***), ripuī (pluperf. surpuerat, ***Hor. ***), ruptus, ere
 subrogō or surrogō āvī, ātus, āre. — Of the presiding officer in the comitia
 subrubeō (surr) —, ēre
 subruō (surr) uī, utus, ere
@@ -8498,7 +8498,7 @@ suggrandis (subg) e, adj.
 suggredior (subg) —, gressus, ī
 (sūgillō or suggillō) —, ātus, āre
 sūgō sūxī, —, ere
-suī (gen.), dat. sibi or sibī, acc. and abl. sē or (more emphatic) sēsē (strengthened sēpse for sē ipse, ***Cic.***; sēmet, ***Liv.***, ***Hor.***), sing. and plur, pron. of 3d pers.
+suī (gen.), dat. sibi or sibī, acc. and abl. sē or (more emphatic) sēsē (strengthened sēpse for sē ipse, ***Cic. ***; sēmet, ***Liv. *** , ***Hor. ***), sing. and plur, pron. of 3d pers.
 suīllus adj. dim.
 sulcō āvī, —, āre
 sulfur (phur, pur) uris, n
@@ -8506,7 +8506,7 @@ sulfureus (sulph) adj.
 Sulla (not Sylla), ae, m
 sullāturiō —, —, īre, desid.
 sulphur, sulphureus see sulfu-.
-sum (2d pers. es, or old ēs; old subj praes. siem, siēs, siet, sient, for sim, etc., ***Ter.***; fuat for sit, ***Ter.***, ***Ver.***, ***Liv.***; imperf. often forem, forēs, foret, forent, for essem, etc.; fut. escunt for erunt, ***Cic.***), fuī (fūvimus for fuimus, Enn. ap. ***Cic.***), futūrus (inf fut. fore or futūrum esse, ***Cic.***), esse
+sum (2d pers. es, or old ēs; old subj praes. siem, siēs, siet, sient, for sim, etc., ***Ter. ***; fuat for sit, ***Ter. *** , ***Ver. *** , ***Liv. ***; imperf. often forem, forēs, foret, forent, for essem, etc.; fut. escunt for erunt, ***Cic. ***), fuī (fūvimus for fuimus, Enn. ap. ***Cic. ***), futūrus (inf fut. fore or futūrum esse, ***Cic. ***), esse
 summ see sub-m-.
 summus adj. sup.
 summūtō see submuto.
@@ -8594,7 +8594,7 @@ suprā adv. with comp. superius
 suprā praep. with acc.
 suprāscandō —, —, ere
 surdaster tra, trum, adj. dim.
-surgō surrēxī, and subrēxī (surrēxe, for surrēxisse, ***Hor.***), —, ere, perf.
+surgō surrēxī, and subrēxī (surrēxe, for surrēxisse, ***Hor. ***), —, ere, perf.
 surr see sub-r-.
 sūs suis, m and f
 suscēnseō or succēnseō suī, —, ēre
@@ -8619,14 +8619,14 @@ susurrō —, —, āre
 sūta ōrum, n
 sūtilis e, adj.
 sūtus
-suus (suae, monosyl., ***Ter.***; gen plur. suūm, ***Ter.***), pron poss. 3d pers.
+suus (suae, monosyl., ***Ter. ***; gen plur. suūm, ***Ter. ***), pron poss. 3d pers.
 sȳcophanta (sūc) ae, m
 syllaba (sul) ae, f
 (sylva, sylvānus, sylvester) see silv-.
 symbola (sumb) ae, f
 Synapothnēscontes
 synodūs ontis, m
-Syrācosius (C., ***Ver.***, ***Ov.***) adj.
+Syrācosius (C., ***Ver. *** , ***Ov. ***) adj.
 Syriacus
 syrma atis, n
 tābeō —, —, ēre
@@ -8639,16 +8639,16 @@ tāctus
 tāctus (ūs), m
 taedet —, —, ēre, impers.
 taedifer fera, ferum, adj.
-taenia ae (abl plur. taenis, ***Ver.***), f
+taenia ae (abl plur. taenis, ***Ver. ***), f
 taeter (tēter) tra, trum, adj.
 taetrē adv. with sup.
 tagāx ācis, adj.
 tālāria ium, see talaris.
 tālāris e, adj.
 Talassius (Thal) ī, m
-talentum ī (gen plur. talentūm, ***Cic.***, ***Liv.***), n
+talentum ī (gen plur. talentūm, ***Cic. *** , ***Liv. ***), n
 tālis e, adj.
-talpa ae, f (m, ***Ver.***)
+talpa ae, f (m, ***Ver. ***)
 tamenetsī or tamen etsī
 tametsī conj.
 Tanaquil īlis, f
@@ -8768,7 +8768,7 @@ tibi or tibī
 tibimet see tu.
 tībīcen inis, m
 Tīburs urtis, adj.
-tigris idis (V., ***Ov.***), acc. tigrim (V.), abl. tigrī (V.) or tigride (O., ***Iuv.***), plur. tigrēs (V., ***Hor.***, ***Ov.***, ***Curt.***), acc. tigrīs (V.) or tigridas (O.), dat. and abl. tigribus (H., ***Ov.***), m or (poet.) f
+tigris idis (V., ***Ov. ***), acc. tigrim (V.), abl. tigrī (V.) or tigride (O., ***Iuv. ***), plur. tigrēs (V., ***Hor. *** , ***Ov. *** , ***Curt. ***), acc. tigrīs (V.) or tigridas (O.), dat. and abl. tigribus (H., ***Ov. ***), m or (poet.) f
 timendus
 timēns ntis, adj.
 timeō uī, —, ēre
@@ -8808,7 +8808,7 @@ torpēdō inis, f
 torpeō —, —, ēre
 torpēscō puī, —, ere, inch.
 torpor ōris, m
-torqueō (old inf. torquērier, ***Hor.***, ***Prop.***), torsī, tortus, ēre
+torqueō (old inf. torquērier, ***Hor. *** , ***Prop. ***), torsī, tortus, ēre
 torquis is, m and (poet.) f
 torrēns entis, adj. with comp.
 torreō torruī, tōstus, ēre
@@ -8818,17 +8818,17 @@ tōstus
 tot adj. num indecl.
 totidem adj. num indecl.
 totiēns (totiēs) adv. num.
-tōtus gen. tōtīus, dat. tōtī (m tōtō, ***Caes.***, ***Nep.***, ***Curt.***, ***Prop.***)
+tōtus gen. tōtīus, dat. tōtī (m tōtō, ***Caes. *** , ***Nep. *** , ***Curt. *** , ***Prop. ***)
 trabālis e, adj.
 trabs or (old) trabēs trabis, f
 tractābilis e, adj. with comp.
 (tractātus, ūs) m
 tractō āvī, ātus, āre, freq.
-trādō (old also trānsdō, ***Ter.***), didī, ditus, ere
-trādūoō or trānsdūoō (imper. trādūce, ***Ter.***), dūxī, ductus, ere
+trādō (old also trānsdō, ***Ter. ***), didī, ditus, ere
+trādūoō or trānsdūoō (imper. trādūce, ***Ter. ***), dūxī, ductus, ere
 trāductus
 tradux ucis, m
-trahō trāxī (inf perf. trāxe for trāxisse, ***Ver.***), tractus, ere
+trahō trāxī (inf perf. trāxe for trāxisse, ***Ver. ***), tractus, ere
 trāiciō (trāiic) and trānsiciō (trānsiic-), iēcī, iectus, ere
 trāiectus
 trāiectus (trānsie) ūs, m
@@ -8902,7 +8902,7 @@ tribolus (bulus) ī, m
 trībulum (trīvol) ī, n
 tribulus see tribolus.
 tribuō uī, ūtus, ere
-tribus ūs (dat. and abl plur., tribūbus, ***Cic.***, ***Liv.***), f
+tribus ūs (dat. and abl plur., tribūbus, ***Cic. *** , ***Liv. ***), f
 tribūtus
 trīcēnī ae, a, num distr.
 trīcēnsimus see tricesimus.
@@ -8964,7 +8964,7 @@ trūsitō —, —, āre
 trūsō —, —, āre
 trūsus
 trux ucis (abl. truce, poet. also trucī), adj.
-tū gen. tuī, dat. tibi or tibī, acc. and abl. tē; plur nom. and acc. vōs, gen. vestrūm or vostrūm, gen obj. vestrī or vostrī (fem. vostrarum, ***Ter.***); dat. and abl. vōbis, pron pers.
+tū gen. tuī, dat. tibi or tibī, acc. and abl. tē; plur nom. and acc. vōs, gen. vestrūm or vostrūm, gen obj. vestrī or vostrī (fem. vostrarum, ***Ter. ***); dat. and abl. vōbis, pron pers.
 tubicen cinis, m
 tubilūstrium (tubul) ī, n
 tueō —, —, ēre
@@ -8979,14 +8979,14 @@ tumidus adj. with comp.
 tumultuor ātus, ārī, dep.
 tumultuōsē adv. with comp. and sup.
 tumultuōsus adj. with comp. and sup.
-tumultus ūs (gen. tumultī, ***Ter.***, ***Sall.***), m
+tumultus ūs (gen. tumultī, ***Ter. *** , ***Sall. ***), m
 tūn colloq. for tū-ne; see tu.
 tunc adv. demonstr., of time
 tundō tutudī, tūnsus, or tūsus, ere
 tūnsus
 turbāssit for turbāverit, see turbo.
 turbidus adj. with comp. and sup.
-turbō āvī, ātus (turbāssitur for turbātum erit, ***Cic.***), āre
+turbō āvī, ātus (turbāssitur for turbātum erit, ***Cic. ***), āre
 turbō inis, m
 turbulentē adv. with comp.
 turbulentus adj. with comp. and sup.
@@ -9022,7 +9022,7 @@ ubiquomque see ubicumque.
 ulcerō —, ātus, āre
 ulcīscor ūltus, ī, dep.
 ulcus eris, n
-ūllus gen. ūllīus (rarely ūllius, Ct., ***Ov.***), dat. ūllī, adj.
+ūllus gen. ūllīus (rarely ūllius, Ct., ***Ov. ***), dat. ūllī, adj.
 ūlterior ius, adj.
 ūltimus (ūltumus) adj. sup.
 ūltrā praep. with acc.
@@ -9059,13 +9059,13 @@ undō —, —, āre
 ūnetvīcēsimus num adj.
 ungō or unguō unxī, ūnctus, ere
 unguen inis, n
-unguis is, abl. ungue (unguī, Ct., ***Hor.***), m
+unguis is, abl. ungue (unguī, Ct., ***Hor. ***), m
 unguō see ungo.
 ūnicolor ōris, adj.
 ūnifōrmis e, adj.
 ūnigena ae, adj.
 unquam see umquam.
-ūnus (old oenos, ***Cic.***), gen. ūnīus, poet. a<⋆>so ūnius, Ct., ***Ver.***, ***Hor.***; ūnī, Ct.; voc. ūne, Ct., adj. num.
+ūnus (old oenos, ***Cic. ***), gen. ūnīus, poet. a<⋆>so ūnius, Ct., ***Ver. *** , ***Hor. ***; ūnī, Ct.; voc. ūne, Ct., adj. num.
 ūnus quisque see unus.
 ūpiliō (ōpiliō) ōnis, m
 ūrania ae (C.), or ūraniē, ēs (O.), f
@@ -9088,7 +9088,7 @@ Urios (us) ī, m
 ut conj.
 (ūtēns, entis) adj.
 ūtēnsilis e, adj.
-uter utra, utrum, gen. utrīus (rarely utrius, ***Hor.***), dat. utrī, pron.
+uter utra, utrum, gen. utrīus (rarely utrius, ***Hor. ***), dat. utrī, pron.
 utercumque (cunq) utracumque, utrumcumque
 uterlibet utralibet, utrumlibet
 uterque utraque, utrumque
@@ -9139,8 +9139,8 @@ vas vadis, m
 vās vāsis, n plur. vāsa, ōrum
 vāstē adv. with comp.
 vāstus adj. with comp. and sup.
-vātēs is, gen plur. vātum (C., ***Liv.***, ***Ver.***, ***Hor.***, ***Ov.***), rarely vātium (C.), m and f
-Vāticānus (Vātī-, ***Iuv.***), adj.
+vātēs is, gen plur. vātum (C., ***Liv. *** , ***Ver. *** , ***Hor. *** , ***Ov. ***), rarely vātium (C.), m and f
+Vāticānus (Vātī-, ***Iuv. ***), adj.
 vāticinius
 vāticinor ātus, ārī, dep.
 ve
@@ -9151,7 +9151,7 @@ vectō —, —, āre, freq.
 vectus
 veemēns see vehemens.
 vēgrandis e, adj.
-vehemēns (veemēns, vēmēns, Ct., ***Hor.***), entis, adj.
+vehemēns (veemēns, vēmēns, Ct., ***Hor. ***), entis, adj.
 vehementer (vēmenter) adv. with comp. and sup.
 vehō vexī, vectus, ere
 vel conj.
@@ -9179,9 +9179,9 @@ vēneō (vaeneō; imperf. -ībam), iī (inf. vēnīsse), —, īre
 venerābilis e, adj. with comp.
 Venerius (reus) adj.
 veneror ātus, ārī, dep.
-veniō (imperf. venībat, ***Ter.***; P. praes. gen. plur. venientūm, ***Ver.***), vēnī, ventus, īre
+veniō (imperf. venībat, ***Ter. ***; P. praes. gen. plur. venientūm, ***Ver. ***), vēnī, ventus, īre
 vennuncula (vēnun, nūcula) ae, f
-vēnor (P. gen. plur. vēnantūm, ***Ver.***, ***Ov.***, ***Phaed.***), ātus, ārī, dep.
+vēnor (P. gen. plur. vēnantūm, ***Ver. *** , ***Ov. *** , ***Phaed. ***), ātus, ārī, dep.
 ventilō —, ātus, āre
 ventitō āvī, —, āre, freq.
 ventōsus adj. with comp. and sup.
@@ -9233,7 +9233,7 @@ vesperāscō —, ēre, inch.
 Vestālis e, adj.
 vester or voster tra, trum, pron poss.
 vestīgō āre, —, —
-vestiō (imperf. vestībat, ***Ver.***), īvī, ītus, īre
+vestiō (imperf. vestībat, ***Ver. ***), īvī, ītus, īre
 vestītus
 vetō (old votō), uī, itus, āre
 vetulus adj. dim.
@@ -9241,7 +9241,7 @@ vetus eris, adj. with sup. veterrimus (for comp. see vetustus)
 vetustus adj. with comp. and sup.
 vexātus
 vexō āvī, ātus, āre, freq.
-via ae (old viāī, Enn. ap. ***Cic.***), f
+via ae (old viāī, Enn. ap. ***Cic. ***), f
 vice, vicem see vicis.
 vīcēnī ae, a, num distrib.
 vīcēnsima (vicēs, suma) ae, f
@@ -9251,15 +9251,15 @@ vīcīnālis e, adj.
 vīcīnus adj. with comp.
 (vicis) only gen. vicis, acc. vicem, abl. vice, plur nom. vicēs, acc. vicīs or vicēs, dat. and abl. vicibus, f
 vīctitō —, —, āre, freq.
-vīctrīx icis, abl. īce, rarely īcī (gen plur. -īcium, ***Tac.***), f
+vīctrīx icis, abl. īce, rarely īcī (gen plur. -īcium, ***Tac. ***), f
 vīctus
 viden for vidēsne, see video.
 videō vīdī, vīsus, ēre
-viētus (once disyl., ***Hor.***), adj.
+viētus (once disyl., ***Hor. ***), adj.
 vigeō uī, —, ēre
 vigēscō —, —, ere, inch.
 vīgēsimus see vicesimus.
-vigil ilis (gen plur. once, vigilium, ***Liv.***), adj.
+vigil ilis (gen plur. once, vigilium, ***Liv. ***), adj.
 vigilāns antis, adj. with comp.
 vigilanter adv. with comp. and sup.
 vigilāx ācis, adj.
@@ -9275,7 +9275,7 @@ vincibilis e, adj.
 vinciō vinxī, vinctus, īre
 vincō vīcī, vīctus, ere
 vinctus
-vīndēmiātor (poet. quadrisyl., ***Hor.***), ōris, m
+vīndēmiātor (poet. quadrisyl., ***Hor. ***), ōris, m
 vindex icis, m and f
 vindicō (vend) āvī, ātus, āre
 vīnolentia (vīnul) ae, f
@@ -9285,7 +9285,7 @@ violābilis e, adj.
 violātus
 violēns entis, adj.
 violentus adj. with comp. and sup.
-vir virī, gen plur. virōrum (poet. also virūm, Ct., ***Ver.***, ***Ov.***), m
+vir virī, gen plur. virōrum (poet. also virūm, Ct., ***Ver. *** , ***Ov. ***), m
 virdicātus (virid) adj.
 virecta (virēta) ōrum, n
 virēns entis
@@ -9317,7 +9317,7 @@ vitiōsus adj. with comp. and sup.
 vituperābilis e, adj.
 vituperō āvī, —, āre
 vīvāx ācis, adj. with comp.
-vīvō vīxī (subj pluperf. vīxet for vīxisset, ***Ver.***), —, ere
+vīvō vīxī (subj pluperf. vīxet for vīxisset, ***Ver. ***), —, ere
 vīvus (vos) adj.
 vīxet see vivo.
 vōbīs see tu.
@@ -9338,13 +9338,13 @@ volēns entis, adj.
 volgāris (vulg) e, adj.
 volgātor (vulg) ōris, m
 volgātus (vulg) adj. with comp.
-volgus or vulgus ī, n (acc. also volgum, m, ***Caes.***, ***Sall.***, ***Liv.***, ***Ver.***)
+volgus or vulgus ī, n (acc. also volgum, m, ***Caes. *** , ***Sall. *** , ***Liv. *** , ***Ver. ***)
 volitō āvī, ātus, āre, freq.
 volnerātiō (vuln) ōnis, f
 volnerō (vuln) āvī, ātus, āre
 volnificus (vuln) adj.
 volnus (vuln) eris, n
-volō (2d pers. vīs, 3d pers. volt or vult, plur. volumus, voltis or vultis, volunt; vīn for vīsne, ***Ter.***, ***Hor.***; sīs for sī vīs, ***Ter.***, ***Cic.***, ***Liv.***), voluī, velle
+volō (2d pers. vīs, 3d pers. volt or vult, plur. volumus, voltis or vultis, volunt; vīn for vīsne, ***Ter. *** , ***Hor. ***; sīs for sī vīs, ***Ter. *** , ***Cic. *** , ***Liv. ***), voluī, velle
 volō āvī, ātūrus, āre
 volō ōnis, m
 volpēcula (vulp) ae, f dim.
@@ -9356,12 +9356,12 @@ voltur (vult) uris, m
 volturius (vult) ī, m
 voltus (vult) ūs, m
 volūbilis e, adj.
-volucer ucris, ucre (gen plur. -crum, rarely -crium, ***Cic.***), adj.
+volucer ucris, ucre (gen plur. -crum, rarely -crium, ***Cic. ***), adj.
 voluptās ātis (gen plur. -ātum and -ātium), f
 volūtō āvī, ātus, āre, freq.
 volūtus
 volvō volvī, volūtus, ere
-vōmer (rarely vōmis, ***Ver.***), eris, m
+vōmer (rarely vōmis, ***Ver. ***), eris, m
 vōmis eris, see vomer.
 vomō uī, itus, ere
 vorāx ācis, adj. with comp.
