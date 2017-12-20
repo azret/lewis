@@ -54,10 +54,14 @@ full of tears, tearful, weeping: lumina vino (i. e. oculi), ***Ov.*** — Causin
 milk-white: puellae, Ct.
 ##### lacteus adj.
 of milk, milky, full of milk: umor, ***Ov.*** : ubera, ***Ver.*** — Milk-white, milk-colored, milky: colla, ***Ver.*** : circus, the Milky Way: via, ***Ov.***
+##### lactō āvī, —, āre, freq.
+to allure, wheedle, flatter, dupe, cajole: animos, ***Ter.*** : me amantem, ***Ter.***
 ##### lactūca ae, f
 lettuce, ***Hor.***
 ##### lacūna ae, f
 a ditch, pit, hole, pool, pond: cavae, ***Ver.*** : tenet ima lacunae salix, ***Ov.*** : caecas lustravit luce lacunas. — Fig., a gap, void, defect, want: rei familiaris: in auro.
+##### lacūnō —, —, āre
+to panel, chequer, ***Ov.***
 ##### lacūnōsus adj.
 full of hollows: nihil lacunosum, no gap.
 ##### lacus ūs, m
@@ -90,6 +94,8 @@ left, on the left side: manus: auris, ***Ov.*** : Pontus, to the left, ***Ov.***
 a cake of flour and oil (eaten by the poor), ***Hor.***
 ##### lāma ae, f
 a slough, bog, fen: Viribus uteris per lamas, ***Hor.***
+##### lambō —, —, ere
+to lick, lap, touch: hi canes, quos tribunal meum vides lambere: lagonae collum, ***Phaed.*** : manūs, ***Ov.*** : crustula, ***Iuv.*** : volnera, ***Ver.*** — To flow by, wash, bathe, lick, play upon: quae loca Lambit Hydaspes, washes, ***Hor.*** : Aetna Attollit globos flammarum et sidera lambit, ***Ver.*** : Cluviam, fondles, ***Iuv.***
 ##### lāmentābilis e, adj.
 mournful, lamentable, full of sorrow: vox: mulierum comploratio, ***Liv.*** : regnum, ***Ver.*** : tributum, deplorable, ***Ov.***
 ##### lāmentātiō ōnis, f
@@ -110,8 +116,12 @@ bearing wool, woolly: animalia, ***Iuv.*** — Plur f. as subst, sheep, ***Iuv.*
 a Spanish lance, light spear, lance, spear: lanceas portare, ***Sall.*** : lata, i. e. with a broad head, ***Ver.*** : duas lanceas dextrā praeferens, ***Curt.*** : miles lanceis adsultans, ***Tac.***
 ##### lāneus adj.
 woollen, of wool: pallium: infula, ***Ver.*** : effigies, ***Hor.*** — Fig., soft as wool, velvety: latusculum, Ct.
+##### languefaciō —, —, ere
+to make faint, weary: excitatos.
 ##### languēns entis, adj.
 faint, weak, feeble, inert, powerless, inactive, languid: incitare languentīs: manus, ***Ov.*** : vox: hyacinthus, drooping, ***Ver.*** : cor, heavy, Ct.
+##### langueō —, —, ēre
+to be faint, be weary, be languid: nostris languentibus, ***Caes.*** : e viā, to be fatigued: per adsiduos motūs, to be wearied, ***Ov.*** : Inachiā minus ac me, ***Hor.*** : flos languet, droops, ***Prop.*** : tristi languebant corpora morbo, were faint, ***Ver.*** — Fig., to be languid, be dull, sink, be heavy, be listless: languet iuventus: nec eam solitudinem languere patior, pass in idleness: paululum, to be without energy, ***Sall.*** : recursus Languentis pelagi, i. e. ebbing, ***Ver.***
 ##### languidē adv.
 faintly, feebly, slowly, spiritlessly. — Only comp: languidius in opere versari, ***Caes.*** : dictum languidius.
 ##### languidulus adj.
@@ -178,6 +188,8 @@ a mask, ***Hor.***
 a cooking-pot, ***Hor.***
 ##### lascīvia ae, f
 sportiveness, playfulness, frolicsomeness, jollity: lasciviā Diffluit, ***Ter.*** : hilaritas et lascivia: per lusum atque lasciviam currere, ***Liv.*** — Wantonness, licentiousness: quos licentia atque lascivia corruperat, ***Sall.*** : lasciviam a vobis prohibetote, impious exultation, ***Liv.***
+##### lascīviō —, —, īre
+to be wanton, sport, frisk, frolic: licet lascivire: agnus Lascivit fugā, wantonly frisks away, ***Ov.*** : lascivientes pisces, ***Liv.***
 ##### lassitūdō inis, f
 faintness, weariness, heaviness, lassitude: militum, ***Sall.*** : nulla lassitudo inpedire officium debet: nostros vires lassitudine deficiebant, ***Caes.***
 ##### lassō āvī, ātus, āre
@@ -342,12 +354,16 @@ with comp. and sup, soft, smooth, mild, gentle, easy, calm: aliud (vinum) lenius
 softness, smoothness, gentleness, mildness: Arar in Rhodanum influit incredibili lenitate, ***Caes.*** : vocis. — Fig., mildness, gentleness, tenderness, lenity: inepta patris, ***Ter.*** : dare se ad lenitatem: legum. — Of style: elaborant alii in lenitate: genus orationis cum lenitate quādam aequabili profluens.
 ##### lēnitūdō inis, f
 softness, mildness, gentleness, calmness: orationis, Pac. ap. ***Cic.*** : nimia in istum.
+##### lēnō ōnis, m
+a pimp, pander, procurer: leno sum, fateor, ***Ter.*** : improbissimus: Verba facit leno, ***Hor.*** — A seducer, allurer: Lentuli.
 ##### lēnōcinium ī, n
 the trade of pander, bawdry: lenocinium petere: lenociniis confectus. — An allurement, enticement, charm: se cupiditatum lenociniis dedere. — Adventitious ornament, finery: corporum. — Flattery, ***Tac.***
 ##### lentīscus ī, f
 the mastic-tree: viridis, ***Cic.*** poët.
 ##### lentitūdō inis, f
 sluggishness, dulness, apathy, insensibility: vitiosum nomen: non irasci est lentitudinis.
+##### lentō —, —, āre
+to make flexible, bend: lentandus remus in undā, i. e. to be plied, ***Ver.***
 ##### Lentulitās ātis, f
 the nobility of a Lentulus, Lentulity (a word coined in jest).
 ##### lēnunculus ī, m dim.
@@ -490,6 +506,8 @@ an apron crossed with purple (worn by attendants at sacrifices), ***Ver.***
 slime, mud, mire: limum saxa trahunt, ***Sall.*** : frumenti acervos sedisse inlitos limo, ***Liv.*** : limo Turbata aqua, ***Hor.*** : Limus ut hic durescit igni, clay, ***Ver.*** : limumque inducere monstrat, ***Ov.*** — Fig., filth, pollution: Pectora limo vitiata malorum, ***Ov.***
 ##### līneus adj.
 of flax, of lint, flaxen, linen-: lanterna: vestis, ***Curt.*** : vincula, ***Ver.*** : terga, lining (of a shield), ***Ver.***
+##### lingō —, —, ere
+to lick: crepidas carbatinas, Ct.
 ##### lingua ae, f
 the tongue: lingua haeret metu, ***Ter.*** : exsectio linguae: linguā titubante loqui, ***Ov.*** : linguam exserere (in derision or contempt), ***Liv.*** — A tongue, utterance, speech, language: ignara, ***Sall.*** : verborum copia in nostrā lingua: Largus opum, linguā melior, ***Ver.*** : Latium beare divite linguā, ***Hor.*** : ut vitemus linguas hominum: Aetolorum linguas retundere, check, ***Liv.*** : Favete linguis, i. e. give attention, ***Hor.*** : nam lingua mali pars pessima servi, ***Iuv.*** : mercedem imponere linguae, i. e. speak for pay, ***Iuv.*** — Tongue, speech, dialect, language: Latina, Graeca: qui ipsorum linguā Celtae, nostrā Galli, appellantur, ***Caes.*** : dissimili linguā, ***Sall.*** : linguā utrāque, i. e. Greek and Latin, ***Hor.*** — Of animals, the voice, note, song, bark: linguae volucrum, ***Ver.*** : linguam praecludere (of a dog), ***Phaed.*** — A tongue of land: eminet in altum lingua, ***Liv.*** — Tongue, garrulity, insolence: linguā promptus hostis, ***Liv.*** : magna, ***Hor.*** : materna, boasting, ***Ov.*** — Fluency, eloquence, readiness of speech: quibus lingua prompta, ***Liv.*** : Est animus tib i, est lingua, ***Hor.***
 ##### linteātus adj.
@@ -500,6 +518,8 @@ a linen cloth: linte is et vitro delatis: inscripta lintea, i. e. curtains (as a
 of linen, linen-: lintea vestis: tunica, ***Liv.*** : libri, an ancient chronicle on linen, kept in the temple of Juno Moneta, ***Liv.*** : thorax, a linen breastplate, ***Liv.*** : loricae, ***Nep.***
 ##### līnum ī, n
 flax: lini inopia, ***Caes.*** : reticulum tenuissimo lino. — A thread: linum ostendit non una cicatrix, ***Iuv.*** : linum incidimus, legimus, the fastening (of a letter). — A fishingline: moderabar harundine linum, ***Ov.*** — A linen cloth, linen: Massica lino vitiata, strained through linen, ***Hor.*** — A rope, cable: subducere carbasa lino, ***Ov.*** — A net, hunter's net, toils: positarum lina plagarum, ***Ov.*** : umida, a fisher's net, ***Ver.*** : cymbae linique magister, i. e. the fisherman, ***Iuv.***
+##### lippiō —, —, īre
+to have watery eyes, be blear-eyed: leviter.
 ##### lippitūdō inis, f
 blearedness, rheum, inflammation of the eyes: diuturna: molestior.
 ##### lippus adj.
@@ -526,6 +546,8 @@ of the sea-shore, shore-, beach harena, ***Ov.*** : aves, ***Ver.***
 a smearing on a writing tablet, blotting out, erasure, correction: unius nominis: tabularum. — A passage erased, erasure: pars nominis demersa in liturā: carmen multā liturā coërcere, ***Hor.*** — A blot, blur: Littera quod habet lituras, ***Ov.***
 ##### līvēns entis, adj.
 bluish, leadcolored, black and blue, livid: plumbum, ***Ver.*** : pruna, ***Ov.*** : crura compedibus: margarita, ***Tac.***
+##### līveō —, —, ēre
+to be black and blue, be livid: livent rubigine dentes, ***Ov.*** — To envy: iis, qui eloquentiam exercent, ***Tac.***
 ##### lixa ae, m
 a sutler, camp-follower: lixae permixti cum militibus, ***Sall.*** : non lixa sequebatur, ***Liv.*** : lixae ac negotiatores, ***Tac.***
 ##### locātiō ōnis, f
@@ -562,6 +584,8 @@ a leather cuirass, corselet of thongs: lata insignisque: graves loricis, ***Liv.
 clothed in mail, harnessed: statua, ***Liv.*** : equites, ***Liv.***
 ##### lōrum ī, n
 a thong, strap, strip of leather: quin tu adducis lorum? ***Liv.*** : Qui lora restrictis lacertis Sensit, ***Hor.*** : signum de paupere loro, leather, ***Iuv.*** — Plur, the reins, a bridle: loris ducere equos, ***Liv.*** : lora dare, slacken, ***Ver.*** : lora remisit, ***Ov.*** : lora tenere, ***Iuv.*** — A whip, lash, scourge: ad necem operiere loris, ***Ter.*** : loris uri, ***Hor.*** : eum servi loris ceciderunt. — A leathern bulla, ***Iuv.***
+##### lūbricō —, —, āre
+to make slippery, lubricate: Lacedaemonium orbem, ***Iuv.***
 ##### lūbricus adj.
 slippery: fastigium, ***Liv.*** : terga (colubri), ***Ver.*** : conchylia, slimy, ***Hor.*** — Plur n. as subst: per lubrica surgens, slippery ground, ***Ver.*** — Easily moved, sliding, gliding: (natura) lubricos oculos fecit: anguis, ***Ver.*** : amnis, gliding, ***Ov.*** — Fig., slippery, uncertain, hazardous, dangerous, critical: via (vitae): cupiditas dominandi: defensionis ratio: annus, fleeting, ***Ov.*** : patrias tentasti lubricus artīs, tricky, ***Ver.*** : Voltus nimium lubricus adspici, seductive, ***Hor.*** — As subst n.: in lubrico versari, in danger.
 ##### Lūcānus adj.
@@ -598,6 +622,8 @@ a wrestler: in fulvā harenā, ***Ov.***
 causing sorrow, doleful, baleful: clades, ***Cic.*** poët.: Alecto, ***Ver.***
 ##### lūctisonus adj.
 sad-sounding, doleful: mugitus, ***Ov.***
+##### luctō —, —, āre
+to wrestle, struggle: dum luctat, ***Ter.***
 ##### lūctus ūs, m
 sorrow, mourning, grief, affliction, distress, lamentation: filio luctum paras, ***Ter.*** : cum maerore et luctu vitam exigunt, ***Sall.*** : suum luctum patris lacrimis augere: tantus luctus excepit (multitudinem), ut, etc., ***Caes.*** : luctus suus vestis mutatione declarandus: muliebris, ***Hor.*** : luctum inportare sibi, ***Phaed.*** : dare animum in luctūs, ***Ov.*** : multis in luctibus senescere, ***Iuv.*** — Signs of sorrow, mourning, mourning apparel, weeds: erat in luctu senatus: diebus triginta luctus est finitus, ***Liv.*** — A source of grief, affliction: levior, ***Ov.*** : luctūs suos tradit, ***Ov.*** — Person., Grief, ***Ver.***
 ##### lūcubrātiō ōnis, f
@@ -718,3 +744,5 @@ lynxstone, transparent stone, said to be the crystallized urine of the lynx, ***
 a lute, lyre, a stringed instrument invented by Mercury and presented to Apollo: curvae lyrae parens, ***Hor.*** : pulsa manu, ***Ov.*** — Lyric poetry, song: imbellis, ***Hor.*** : opus est leviore lyrā, ***Ov.*** — The constellation, the Lyre: exoriente Lyrā, ***Ov.***
 ##### lyricus adj.
 of the lute, of the lyre, lyric: soni, ***Ov.*** : vates, ***Hor.*** : senex, i. e. Anacreon, ***Ov.***
+##### lectō —, —, ere
+pass, to be punished, suffer punishment, be beaten: Venusinae Plectantur silvae, ***Hor.*** : ego plectar pendens, ***Ter.*** : in suo vitio: multis in rebus neglegentiā plectimur, suffer through negligence. — To be blamed, incur censure: ne quā in re iure plecteretur, ***Nep.***

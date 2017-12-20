@@ -201,6 +201,8 @@ shamelessness, immodesty, impurity: sua.
 with impunity: facere.
 ##### inaccessus adj.
 unapproached, inaccessible: lucus, ***Ver.*** : spelunca radiis, ***Ver.***
+##### inacēscō —, —, ere
+inch, to turn sour at, sour upon. — Fig.: tibi per sensūs, i. e. imbitter you, ***Ov.***
 ##### inadsuētus adj.
 unaccustomed: equi, ***Ov.***
 ##### inadūstus adj.
@@ -215,14 +217,22 @@ uneven: loca, ***Tac.*** : phiala, ***Iuv.*** — Unequal, unlike: portūs, of d
 unequally, disproportionately: deprimere alios, alios extollere, ***Liv.*** : campus sinuatur, ***Tac.***
 ##### inaequātus adj.
 unequal: onus, Tb.
+##### inaequō —, —, āre
+to make even, level: haec cratibus terrāque, ***Caes.***
 ##### inaestimābilis e, adj.
 not to be judged of, unaccountable: animi multitudinis, ***Liv.*** — Inestimable, invaluable, incalculable: e grege se velut inaestimabilem secernere, ***Liv.*** : gaudium, ***Liv.*** — Not estimable, valueless.
+##### inaestuō —, —, āre
+to boil in, rage within: inaestuat praecordiis bilis, ***Hor.***
 ##### inamābilis e, adj.
 unlovely, unattractive, repugnant, repulsive, odious: palus undā, i. e. the Styx, ***Ver.*** : regnum (of Pluto), ***Ov.***
+##### inamārēscō —, —, ere
+inch, to become bitter: epulae, ***Hor.***
 ##### inambitiōsus adj.
 unambitious, modest: rura, ***Ov.***
 ##### inambulātiō ōnis, f
 a walking up and down, ***Cic.*** — A shaking, swaying: lecti, Ct.
+##### inambulō —, —, āre
+to walk up and down, pace to and fro: ante lucem domi; in porticu: per muros, ***Liv.***
 ##### inamoenus adj.
 unpleasant, disagreeable, gloomy: regna (of Pluto), ***Ov.***
 ##### inanimālis e, adj.
@@ -257,6 +267,8 @@ without consulting the auspices: lex, passed without omens, ***Liv.***
 not ventured, unattempted: nil linquere inausum, ***Ver.*** : quid inausum vobis? ***Tac.***
 ##### incaeduus adj.
 uncut, not felled: lucus, ***Ov.***
+##### incalfaciō —, —, ere
+to warm, heat: culmos Titan incalfacit, ***Ov.*** : cultros, ***Ov.***
 ##### incallidē adv.
 unskilfully: non incallide, cleverly.
 ##### incallidus adj.
@@ -299,10 +311,14 @@ a going, walking, pace, gait: Seplasiā dignus: citus, tardus, ***Sall.*** : ver
 a paramour, ***Iuv.***
 ##### incestē adv.
 impurely, with pollution: facere sacrificium Dianae, ***Liv.*** : eā (aquā) uti.
+##### incestō āvī, —, āre
+to pollute, defile: funere classem, ***Ver.*** : filiam, ***Tac.***
 ##### incestum ī, n
 impious unchastity, incest: incestum supremo supplicio sancire: facere: ab incesto id ei loco nomen factum, ***Liv.*** — Plur., ***Cic.***
 ##### incestus adj.
 not religiously pure, unclean, impure, polluted, defiled, sinful, criminal: virum incesto ore lacerare: incesto addidit integrum, punished the good with the bad, ***Hor.*** : an triste bidental Moverit incestus, impiously, ***Hor.*** — Unchaste, lewd, lustful, incestuous: iudex, i. e. Paris, ***Hor.*** : medicamen, ***Ov.*** : sermo, ***Liv.*** : corruptor et idem Incestus, ***Iuv.***
+##### incinō —, —, ere
+to cause to sound, strike up: varios ore modos, ***Prop.***
 ##### incīsē adv.
 in short clauses: dicere.
 ##### incīsim adv.
@@ -334,6 +350,8 @@ a leaning, bending, inclining: corporis. — Fig., inclination, tendency, bias, 
 a shutting up, confinement: cuius (Bibuli).
 ##### incōgitāns antis, adj.
 thoughtless, inconsiderate: ni fuissem incogitans, ***Ter.***
+##### incōgitō —, —, āre
+to contrive, design: fraudem socio, ***Hor.***
 ##### incōgnitus adj.
 not examined, untried, not investigated: de absente incognitā causā statuere, ***Sall.*** : de incognitā re iudicare: sagitta incognita transilit umbras, untraced, ***Ver.*** — Not known, unknown: incognita pro cognitis habere: consilium: quae omnia fere Gall is erant incognita, ***Caes.*** : tertio (die) incognita sub hastā veniere, the unclaimed property, ***Liv.*** : palus oculis incognita nostris, i. e. unseen, ***Ov.*** : res animos incognita turbat, strangeness, ***Ver.*** — Unknown, unparalleled, enormous: serpens, ***Ov.*** : longi mensura incognita nervi, ***Iuv.***
 ##### incohātus adj.
@@ -410,6 +428,8 @@ growth, increase, augmentation: vītium incrementa: multitudinis, ***Liv.*** —
 not made bloody, unwounded: Inque cruentatus Caeneus, ***Ov.***
 ##### incruentus adj.
 bloodless, without bloodshed: victoria, ***Sall.*** : exercitu incruento, without loss, ***Sall.*** : Darium incruentus devicit, ***Liv.*** : pax, ***Tac.***
+##### incrūstō —, —, āre
+to coat, incrust: vas, ***Hor.***
 ##### inculcō āvī, ātus, āre
 to tread in, tread down; hence, in discourse, to force in, drag in: Graeca verba: inculcata invenias inania verba, i. e. superfluous. — To force upon, impress on, inculcate, insist: id quod inculcetur, percipere: oculis imagines: se auribus nostris, intrude: inculcatum est Metello, te aratores evertisse: ut nominaret, etc
 ##### inculpātus adj.
@@ -456,6 +476,8 @@ not owed, not due: non indebita posco, only my rights, ***Ver.*** : praemia, ***
 unchanged, constant: amico, ***Ov.*** : amicitia, ***Ov.***
 ##### indecōrē adv.
 unbecomingly, indecently: facere: haud indecore, ***Tac.***
+##### indecorō —, —, āre
+to disgrace, disfigure: Indecorant bene nata culpae, ***Hor.***
 ##### indecōrus adj.
 unbecoming, unseemly, unsightly: motūs, ***Liv.*** : Non indecoro pulvere sordidi, i. e. honorable, ***Hor.*** — Plur f. as subst, ill-favored women. — Fig., without fame, of no repute: Trebellius, ***Tac.*** — Unbecoming, disgraceful: indecorum est locis uti communibus.
 ##### indēfēnsus adj.
@@ -554,6 +576,8 @@ an inborn quality, natural quality, nature: in frugibus pecudibusque, ***Liv.***
 untamed, ungovernable, wild: equus, ***Hor.*** : indomitā cervice feri, ***Hor.*** — Unsubdued, unrestrained, indomitable: pastores, ***Caes.*** : agricolae, ***Ver.*** : dextra, unconquered, ***Ov.*** — Fig., unrestrained, unbridled, indomitable: undae, ***Hor.*** : licentia, unbridled, ***Hor.*** : cupiditates animi: irae, ***Ver.***
 ##### indōtātus adj.
 unportioned, portionless: (virgo), ***Ter.*** : soror, ***Hor.*** — Fig., unadorned, poor: ars. — Poet.: corpora, without funeral honors, ***Ov.***
+##### indubitō —, —, āre
+to throw doubt upon, express distrust of: Viribus tuis, ***Ver.***
 ##### indubius adj.
 not doubtful, certain: innocentia, ***Tac.***
 ##### inductiō ōnis, f
@@ -566,6 +590,8 @@ a yielding, indulgence, forbearance: Caesaris in se, ***Caes.*** : mea in illum 
 a commander-in-chief, emperor: barbarus, ***Iuv.***
 ##### indūrātus adj.
 hardened. — Fig.: induratus resistendo hostium timor, ***Liv.***
+##### indūrō —, —, āre
+to make hard, harden: nivīs, ***Ov.*** : ora cornu Indurata, ***Ov.***
 ##### industria ae, f
 diligence, activity, assiduity, industry, zeal: poëtae ad scribendum, ***Ter.*** : ingenium industriā alitur: naturam industriā vincere, ***Sall.*** : in scribendo tantum industriae ponam, pains: magna, ***Nep.*** : illi numquam super industriam fortuna fuit, surpassed his assiduity, ***Sall.*** : maxima, the noblest employment, ***Sall.*** : novis industrius honores mandare, i. e. services rendered by men of obscure origin. — Esp. abl., usu. with de or ex, diligently, assiduously, deliberately, on purpose, purposely, intentionally: de industriā in odium inruere: ex industriā, ***Liv.*** : onus ferre industriā.
 ##### industriē adv.
@@ -574,6 +600,8 @@ diligently, ***Caes.***
 active, diligent, assiduous, industrious: primo industrios esse, deinde, etc., ***Sall.*** : homo: in rebus gerundis: armis, ***Iuv.***
 ##### indūtus ūs, m
 a putting on. — Only dat: quam (vestem) indutui gerebat, ***Tac.***
+##### inēbriō —, —, āre
+to make drunk, intoxicate: miseram aurem, drench, ***Iuv.***
 ##### inedia ae, f
 an abstaining from food, fasting: inediae patiens, ***Sall.*** : fessus inediā.
 ##### inēditus adj.
@@ -592,12 +620,16 @@ inexplicable: res.
 improperly, impertinently, absurdly: disserere: dicere: nil molitur inepte, ***Hor.*** : fautor (i. e. favens), ***Hor.***
 ##### ineptia ae, f
 silliness, folly, absurdity: tua, ***Ter.*** — Plur, silliness, fooleries, trifles, absurdities: omnium ineptiarum an ulla sit maior, quam, etc.: paene aniles: mearum ineptiarum lectores, Ct.
+##### ineptiō —, —, īre
+to be absurd, trifle, play the fool: ineptis, ***Ter.*** : desinas ineptire, Ct.
 ##### inequitābilis e, adj.
 unfit for riding over, impassable to horsemen: campi, ***Curt.***
 ##### inermis e, adj.
 unarmed, without weapons, defenceless: tribunus: milites, ***Caes.*** : latrones, ***Sall.*** : inermis Constitit, ***Ver.*** : ex agro inermi ac nudo praesidiis, ***Liv.*** : me lupus Fugit inermem, ***Hor.*** : bracchia, ***Ov.*** : gingiva, toothless, ***Iuv.*** — Fig.: in alterā philosophiae parte, unversed: iustitia, unarmed, ***Iuv.*** : carmen, without a sting, ***Ov.***
 ##### inermus adj.
 unarmed, without weapons: alquos inermos timere, ***Caes.*** : pectus, ***Ver.*** : cum paucis inermis.
+##### inerrō —, —, āre
+to wander, err: si versus noster summo inerret in ore, i. e. is repeated inaccurately, Tb.
 ##### inertia ae, f
 want of art, unskilfulness, ignorance, rudeness: adfecti artibus, inertiis. — Inactivity, idleness, laziness: animi, ***Sall.*** : turpis: hominum: laboris, aversion to: operis, ***Liv.*** : strenua, ***Hor.***
 ##### inērudītus adj.
@@ -658,6 +690,8 @@ to bring into ill repute, disgrace, dishonor, defame: aliorum iniuriam: hunc inf
 unspeakable, unutterable, unheard of, unnatural, shocking, abominable: facinus, ***Ter.*** : res: epulae, i. e. of human flesh, ***Liv.*** : amor, ***Ver.*** : bellum, ***Ver.*** : stuprum, ***Liv.*** — Plur n. as subst: infanda furens, ***Ver.*** — Sing n. as exclamation: navibus, infandum! amissis, oh, woe unutterable, ***Ver.***
 ##### īnfantia ae, f
 inability to speak, want of eloquence: incredibilis. — Childhood: nostra, ***Iuv.*** — Second childhood, childishness: madidi nasi, ***Iuv.***
+##### īnfatuō —, —, āre
+to make a fool of, infatuate: hominem mercede: neminem.
 ##### īnfaustus adj.
 of ill omen, unfortunate, unpropitious: puppes, ***Ver.*** : gradus, ***Ov.*** : dies, ***Tac.*** — Of persons, unfortunate: bellis, ***Tac.***
 ##### īnfector ōris, m
@@ -674,10 +708,16 @@ ill-luck, misfortune: quid hoc infelicitatis? ***Ter.*** : tua: gravior, ***Liv.
 unhappily, unfortunately: fit mihi obviam, ***Ter.*** : tentata res, ***Liv.***
 ##### īnfēnsē adv.
 with hostility, bitterly: invectus, ***Tac.*** : Isocrati adversatus infensius: infensius pugnare, ***Liv.***
+##### īnfēnsō —, —, āre
+to treat in a hostile manner, ravage: bello Armeniam, ***Tac.*** — To be hostile: quasi infensantibus Dis, ***Tac.***
+##### īnferciō —, —, īre
+to stuff in, force in: inferciens verba.
 ##### īnferius adj.
 lower, further down: Inferius terras (cremabis), too low, ***Ov.*** : inferius suis fraternos currere equos, ***Ov.*** — With quam, ***Ov.***
 ##### īnfernus adj.
 lower, under: sese infernis de partibus erigit Hydra: stagna, ***Liv.*** — Underground, of the lower regions, infernal: superi infernique di, ***Liv.*** : rex, Pluto, ***Ver.*** : gurges, ***Ov.*** : aspectus, revolting, ***Tac.***
+##### īnfēstō —, —, āre
+to annoy, disturb, infest: latus dextrum, ***Ov.***
 ##### īnfidēlis e, adj.
 with sup, not to be trusted, unfaithful, faithless: fides infideli data: qui ante erant per se infideles, ***Caes.*** : arbitrae, ***Hor.*** : infidelissimi (socii): Novis rebus Allobrox, in times of change, ***Hor.***
 ##### īnfidēlitās ātis, f
@@ -800,16 +840,22 @@ not tasted before: ilia rhombi, ***Hor.***
 unmanageable, unwieldy: navis inhabilis prope magnitudinis, ***Liv.*** : multitudo ad consensum, ***Liv.*** : hostibus, awkward, ***Tac.***
 ##### inhabitābilis e, adj.
 uninhabitable: regiones.
+##### inhālō āvī, —, āre
+to breathe upon: nobis popinam, the smell of food that has been eaten.
 ##### inhiō āvī, ātus, āre
 to stand open, gape, gaze, be amazed: inhians Cerberus, ***Ver.*** : attonitis inhians animis, ***Ver.*** : uberibus lupinis inhians: postīs, gape at, ***Ver.*** — To gaze eagerly, regard longingly: congestis undique saccis Indormis inhians, ***Hor.***
 ##### inhonestē adv.
 dishonorably, disgracefully: parere divitias, ***Ter.*** : accusare.
+##### inhonestō —, —, āre
+to dishonor, disgrace: palmas adeptas, ***Ov.***
 ##### inhonestus adj.
 with sup, dishonorable, disgraceful, shameful: ignotā matre, ***Hor.*** : vita, ***Sall.*** : mors, ***Liv.*** : volnus, ***Ver.*** : lubido, ***Sall.*** : homo inhonestissimus. — Unseemly, repulsive: meretrices, ***Ter.***
 ##### inhonōrātus adj.
 with comp. and sup, unhonored, disregarded: vita: inhonoratior triumphus, ***Liv.*** : dea, ***Ov.*** — Without reward, unrewarded: regem inhonoratum dimittere, ***Liv.*** : gentium inhonoratissimi post victoriam, ***Liv.*** : nos, ***Ov.***
 ##### inhonōrus adj.
 unsightly: signa, defaced, ***Tac.***
+##### inhorreō —, —, ēre
+to stand erect, bristle: haud secus quam vallo saepta inhorreret acies, ***Liv.***
 ##### inhospitālis e, adj.
 inhospitable: Caucasus, ***Hor.***
 ##### inhospitālitās ātis, f
@@ -828,6 +874,8 @@ therein, in that place, there: superbia nata inibi esse videtur (i. e. Capuae). 
 a casting on, throwing over. — Only abl: multae vestis, ***Tac.***
 ##### inimīcitia ae, f
 enmity, hostility: inimicitia (est) ira ulciscend i, etc. — Usu. plur: inimicitias capere in familiam, ***Ter.*** : erant ei veteres inimicitiae cum Rosciis: inimicitias mihi denuntiare: inimicitias rei p. condonavit: inimicitias temporibus rei p. permittere: nobiles inter eos, well known, ***Liv.*** : nobilissimae, ***Liv.*** : inimicitias habebat ex aedilitate conceptas, ***Caes.*** : cum illo inimicitias exercere, ***Sall.*** : mortales, transient, ***Liv.*** : veteres Caesaris, ***Caes.***
+##### inimīcō —, —, āre
+to make hostile, set at variance: miseras urbīs, ***Hor.***
 ##### inīquitās ātis, f
 inequality, unevenness: loci, ***Caes.*** : in talibus iniquitatibus locorum, ***Liv.*** — Fig., unfavorableness, difficulty, hardness: loci, ***Liv.*** : rerum, ***Caes.*** : temporum. — Unfairness, injustice, unreasonableness: praetoris, ***Sall.*** : iudici: iniquitatis condemnari, ***Caes.*** : vestram iniquitatem accusatote, unreasonable demands: deūm, ***Liv.*** : ad obtinendas iniquitates, enforcing unjust measures, ***Tac.***
 ##### initiō āvī, ātus, āre
@@ -884,6 +932,8 @@ blamelessness, innocence: eius innocentiam ostendere: solā innocentiā vivere, 
 innocently: vivere, ***Ov.***
 ##### innocuus adj.
 harmless, innocuous: herba, ***Ov.*** : litus, safe, ***Ver.*** : iter, undisputed, ***Tac.*** — Unharmed, uninjured: sedere carinae Omnes inno-cuae, ***Ver.*** — Inoffensive, innocent: viximus innocuae, ***Ov.*** : agere causas innocuas, defend the innocent, ***Ov.***
+##### innovō āvī, —, āre
+to renew, restore: te ad tuam intemperantiam, i. e. return.
 ##### innoxius adj.
 harmless, innoxious: anguis, ***Ver.*** — Not guilty, blameless, innocent: nominat multos innoxios, ***Sall.*** : illum innoxium plecti, ***Nep.*** : verba, ***Ver.*** : tactu flamma, ***Ver.*** : criminis innoxia, ***Liv.*** : initi consili in caput regis innoxius, ***Curt.*** — Unharmed, unhurt, uninjured: ipsi innoxii florentes, ***Sall.*** : (navigia) in ripam innox ia expulsa, ***Curt.***
 ##### innubus adj.
@@ -910,6 +960,8 @@ unobserved, unperceived: ille in herbis, ***Ov.*** : sidera, ***Ov.***
 unobstructed, unhindered, uninterrupted: mare, ***Ver.*** : vita, placid, ***Ov.***
 ##### inofficiōsus adj.
 undutiful: testamentum, i. e. violating natural affection. — Disobliging: in hos.
+##### inolēscō —, —, ere
+to grow, grow upon: germen udo inolescere libro, ***Ver.*** — Fig., to sink in, become inveterate: Multa inolescere, ***Ver.***
 ##### inōminātus adj.
 ill-omened: cubilia, ***Hor.***
 ##### inopia ae, f
@@ -928,6 +980,8 @@ not pleaded: re inoratā reverterunt, without presenting their case.
 not arranged, disordered, irregular: milites, ***Liv.*** : inordinati in proelium ruunt, ***Liv.*** — As subst n.: idque ex inordinato in ordinem adduxit, disorder.
 ##### inōrnātus adj.
 unadorned, without ornament: mulieres: capilli, ***Ov.*** : nomina et verba, plain, ***Hor.*** : Non meis Chartis inornatus, uncelebrated, ***Hor.***
+##### inquiētō —, —, āre
+to disturb: victoriam, ***Tac.***
 ##### inquiētus adj.
 restless, unquiet, disturbed: animus, ***Liv.*** : nox, ***Liv.*** : praecordia, ***Hor.***
 ##### inquilīnus adj.
@@ -964,6 +1018,8 @@ insatiably, ***Tac.***
 insatiable: abdomen.
 ##### īnsaturābiliter adv.
 insatiably.
+##### īnscendō —, —, ere
+to climb up, mount, ascend: in rogum.
 ##### īnsciēns entis, adj.
 unknowing, without knowledge, unaware: Insciens feci, ***Ter.*** : inscientibus ipsis, ***Caes.*** : utrum inscientem... fecisse, an scientem?: abi sis, insciens, simpleton, ***Ter.***
 ##### īnscienter adv.
@@ -988,6 +1044,8 @@ a persecutor: plebis, ***Liv.***
 unburied: acervi civium: membra, ***Hor.*** : insepultos proiecit, ***Liv.*** : sepultura, without funeral rites.
 ##### īnsequēns entis, adj.
 following, next: annus, ***Caes.*** : dies, ***Liv.***
+##### īnsībilō —, —, āre
+to whistle within: ubi insibilat Eurus, ***Ov.***
 ##### īnsidiae ārum, f
 a snare, trap: non lupus insidias explorat, ***Ver.*** : caprum Excipere insidiis, ***Ver.*** — In war, an ambush, ambuscade: signa aenea in insidiis ponere: insidias intravisse, ***Caes.*** : eius vitae a me insidiae positae: insidiae tenduntur alcui: Miloni insidias conlocare: ex insidiis petere, ***Liv.*** : locum insidiis conspeximus, for a secret attack, ***Ver.*** — Fig., artifice, crafty device, plot, snare: Insidias nostrae fecit adulescentiae, ***Ter.*** : nimis insidiarum ad capiendas aurīs adhiberi videtur: noctis, ***Ver.*** — In abl. or in phrases with per or ex, by artifice, by stratagem, craftily, insidiously: insidiis circumventi, ***Sall.*** : Marcellus insidiis interfectus est: fraude et insidiis circumventus, ***Liv.*** : per insidias circumveniri, ***Caes.*** : ex insidiis.
 ##### īnsidiātor ōris, m
@@ -1020,6 +1078,8 @@ inconsolably: dolens, ***Hor.***
 unaccustomed, unusual, not used, contrary to custom: Quid tu Athenas insolens? ***Ter.*** : aspera aequora Emirabitur insolens, ***Hor.*** : in dicendo, inexperienced: infamiae: belli, ***Caes.*** — Excessive, immoderate, haughty, arrogant, insolent: insolenti alacritate gestire: exercitus, ***Hor.*** : in re notā: victoriā factus, ***Sall.*** : victoria naturā: ludus, ***Hor.*** — Extravagant, prodigal: in alienā re: in pecuniā.
 ##### īnsolentia ae, f
 unusualness, strangeness, novelty: fori iudiciorumque: itineris, ***Sall.*** : voluptatum. — Of language, novelty, strangeness, affectedness: orationis: verborum. — Want of moderation, haughtiness, arrogance, insolence, extravagance: tua singularis: insolentiam suam continere ex secundis rebus, ***Sall.*** : gloriae, ***Nep.*** : in circumscribendis tribunis, ***Caes.*** : noxiorum insolentiae, ***Phaed.***
+##### īnsolēscō —, —, ere
+inch, to grow haughty, become elated: per licentiam animus insolescit, ***Sall.*** : rebus secundis, ***Tac.***
 ##### īnsolidus adj.
 not solid, tender: herba, ***Ov.***
 ##### īnsolitus adj.
@@ -1036,6 +1096,8 @@ sleeplessness. — Only plur: insomnia portare ocellis, ***Prop.***
 sleepless, wakeful: draco, ***Ov.***
 ##### īnspērātus adj.
 unhoped for, unlooked for, unexpected, unforeseen: gaudium, ***Ter.*** : praesidium: tellus, ***Ver.*** : pluma, unwelcome, ***Hor.*** : omnibus consilium: nihil tam insperatum accidere potuit, ***Liv.*** — As subst n.: ex insperato, unexpectedly, ***Liv.***
+##### īnspīcō —, —, ere
+to cut in the form of an ear of corn, sharpen: ferro faces, ***Ver.***
 ##### īnspīrō āvī, ātus, āre
 to blow upon, breathe into, inspire: conchae, ***Ov.*** : Se (Fames) viro inspirat, ***Ov.*** — Fig., to inspire, excite, inflame: occultum ignem, V: animas, ***Ov.*** — To instil, implant: venenum Morsibus, ***Ver.*** : virus, ***Ov.*** : fortitudinem, ***Curt.***
 ##### īnspoliātus adj.
@@ -1062,6 +1124,8 @@ to goad on, urge, stimulate, stir, set on, incite, instigate: si hic non insanit
 to pour in by drops, drop in, instil: lumini oleum: (oleum) caulibus, ***Hor.*** — To drop upon, fall on: guttae saxa instillant. — Fig., to instil, infuse: tuae litterae mihi quiddam quasi animulae instillarunt: praeceptum auriculis, ***Hor.***
 ##### īnstimulātor ōris, m
 a stimulator: seditionis.
+##### īnstimulō —, —, āre
+to goad, urge on, stimulate: Bacchas sonis, ***Ov.*** : Venerem verbis, ***Ov.***
 ##### īnstinctor ōris, m
 an instigator: sceleris, ***Tac.***
 ##### īnstinctus ūs, m
@@ -1088,6 +1152,8 @@ an array: instructione aspectuque signorum pulsus.
 a preparer: convivi.
 ##### īnstrūmentum ī, n
 an implement, utensil, tool, instrument: tela et cetera instrumenta militiae, ***Sall.*** : crudelia instrumenta necis, ***Ov.*** — Collect. in sing, instruments, apparatus, material, stock, furniture: instrumentum ac ornamenta villae: militare, ***Caes.*** : aratorum: nauticum, ***Liv.*** : artis, ***Hor.*** — Store, provision, supply, means: quid viatici, quid instrumenti satis sit, i. e. for a journey: instrumenta ad obtinendam sapientiam: virtutis. — Ornament, embellishment: felices ornent haec instrumenta libellos, ***Ov.*** : anilia, attire, ***Ov.*** — A commission, authorization: tribunatus.
+##### īnsūdō —, —, āre
+to sweat on, stain with sweat: quīs (libellis) manus insudet volgi, ***Hor.***
 ##### īnsuēfactus adj.
 accustomed, habituated (adsuetus): equi, ***Caes.***
 ##### īnsuētus adj.
@@ -1148,6 +1214,10 @@ unseasonable, unpropitious, dark: nox, the dead of night. — Person.: intempest
 a stretching, straining, tension: corporis. — Fig., an exertion, effort, application, attention: animi: lusūs, to play, ***Liv.*** — A purpose, intention: adversariorum.
 ##### intentus ūs, m
 a stretching out: palmarum intentūs.
+##### intepeō —, —, ēre
+to be lukewarm: lacus, ***Prop.***
+##### interārēscō —, —, ere
+inch, to become dry, dry up, decay: nihil interarescere debet.
 ##### intercalārius adj.
 for insertion, intercalary: mensis, ***Liv.*** : Kalendae, of an intercalary month, ***Liv.*** — As subst. (sc. mensis).
 ##### intercalō āvī, ātus, āre
@@ -1160,6 +1230,8 @@ an intercepter, usurper, embezzler: praedae, ***Liv.*** : donativi, ***Tac.***
 a mediation, suretyship: mea intercessio parata est. — An intervention, interposition, protest, veto: tribunicia, ***Caes.*** : empta: remittere intercessionem, ***Liv.***
 ##### intercessor ōris, m
 one who interposes, a mediator, surety: intercessorem quaerere: isto intercessore legati non adierunt, through his interference: rei malae. — An interferer, protester, adversary, preventer: stultitia intercessoris (of a tribune who exercises his veto): legis, ***Liv.***
+##### intercinō —, —, ere
+to sing between: neu quid medios intercinat actūs, ***Hor.***
 ##### intercīsē adv.
 piecemeal, interruptedly: dictum (opp. directe).
 ##### interclūsiō ōnis, f
@@ -1180,12 +1252,16 @@ interpunctuation; only abl.
 sometimes, occasionally, now and then: Pecuniam neglegere est interdum lucrum, ***Ter.*** : saepe gratiā interdum iurgiis trahendo tempus, ***Sall.*** : lacrimas tenere, ***Caes.*** : dicere: interdum... interdum, now... now, at one time... at another, ***Ov.*** : modo... interdum, ***Sall.*** : interdum... alias.
 ##### intereā adv.
 meanwhile, in the meantime, in the interim: saepe interea mihi senex Narrabat, ***Ter.*** : dies advenit: quietus erat, ***Sall.*** : interea loci, in the meantime, ***Ter.*** — Meanwhile, nevertheless, however: tu interea non cessabis: nec nulla interea est gratia, ***Ver.*** : cum interea: tamen interea, Ct.
+##### interequitō —, —, āre
+to ride between: ipse interequitans, ***Liv.*** : ordines, ***Liv.*** : agmina, ***Curt.***
 ##### interfātiō ōnis, f
 a speaking between, interruption.
 ##### interfector ōris, m
 a slayer, murderer, assassin: eorum, ***Cic.*** , ***Liv.***
 ##### interfectrīx īcis, f
 a murderess: nepotis, ***Tac.***
+##### interfluō —, —, ere
+to flow between: quantum interfluit fretum, ***Liv.*** : media moenia, ***Curt.*** : Romanos Cheruscosque, ***Tac.***
 ##### interfūsus adj.
 poured between, interposed: Dido maculis trementīs interfusa genas, stained, ***Ver.*** : Styx coërcet (animas), ***Ver.*** : interfusa nitentīs aequora Cycladas, ***Hor.***
 ##### interiectus ūs, m
@@ -1200,6 +1276,8 @@ overthrow, fall, ruin, destruction, annihilation: interitum rei p. lugere: famil
 neut. of interior.
 ##### interius adv.
 in the inner part, on the inside, in the middle, within: oratio ne insistat interius, i. e. halt too soon: recondere, ***Ver.*** — Fig.: attendere, to look closely, ***Iuv.***
+##### interlegō —, —, ere
+to pluck here and there, cull. — In tmesis: Carpendae frondes, interque legendae, ***Ver.***
 ##### interlūnium ī, n
 the time of new moon. — Plur., ***Hor.***
 ##### intermēnstruus adj.
@@ -1214,10 +1292,16 @@ dead, lifeless, faint: intermortuus exspiravit, fainted, ***Liv.*** — Fig.: co
 between the walls: amnis, i. e. ditch, ***Liv.***
 ##### internecīvus adj.
 murderous, destructive: bellum, of extermination, ***Cic.*** , ***Liv.***
+##### internectō —, —, ere
+to bind together, bind up: ut fibula crinem Auro internectat, ***Ver.***
+##### interniteō —, —, ēre
+to shine through, shine at intervals: si qua sidera internitebant, ***Curt.***
 ##### internōdium ī, n
 the space between two joints: quā facit internodia poples, ***Ov.***
 ##### internūntia ae, f
 a mediator, messenger: aves internuntiae Iovis: Iudaea: caeli, ***Iuv.***
+##### internūntiō —, —, ēre
+to exchange messages, negotiate: utri transgrederentur, ***Liv.***
 ##### internus adj.
 inward, internal: arae, ***Ov.*** — Fig.: mala, domestic, ***Sall.*** : discordiae, ***Tac.***
 ##### interpellatiō ōnis, f
@@ -1252,16 +1336,22 @@ to ask, question, inquire, interrogate: recte, ***Ter.*** : interrogandi faculta
 interruptedly: non interrupte narrare, continuously.
 ##### interruptus adj.
 broken, interrupted: officium: voces: opera, ***Ver.***
+##### interserō —, —, ere
+to place between, interpose, add: oscula mediis verbis, ***Ov.*** — Fig.: causam, se esse, etc., allege as a pretext, ***Nep.***
 ##### interspīrātiō ōnis, f
 a catching of breath, pause for breathing. — Sing. and plur.
 ##### intertrīmentum ī, n
 loss by attrition, waste: in auro, ***Liv.*** — Fig., loss, damage: sine magno intertrimento, ***Ter.*** : nullum intertrimenti vestigium.
+##### interturbō —, —, āre
+to make disturbance, ***Ter.***
 ##### intervāllum ī, n
 — Prop., the space between palisades, an intermediate space, interval, distance: pari intervallo, at an equal distance, ***Caes.*** : quo consuerat intervallo, at the usual distance, ***Caes.*** : videt magnis intervallis sequentes, ***Liv.*** : unius sign i: ex intervallo, from a distance, ***Liv.*** : longo proximus intervallo, ***Ver.*** : ab Capsā duūm milium intervallo, ***Sall.*** — In time, an interval, intermission, respite: annuum regni, interregnum, ***Liv.*** : sine intervallo loquacitas, incessant: dolor dat intervalla, relaxes sometimes: ex tanto intervallo, ***Liv.*** — A pause: trochaeus temporibus et intervall is est par iambo: intervallo dicere, after a pause: in cantibus intervalla, musical pauses. — Fig., difference, dissimilitude: quantum sit interiectum inter, etc.
 ##### interventor ōris, m
 a visitor, intruder: vacuus ab interventoribus dies.
 ##### interventus ūs, m
 a coming in, intervention: alicuius: hominum, ***Liv.*** — An intervention, occurrence: noctis, ***Caes.*** : malorum.
+##### intervīsō —, —, ere
+to look after, inspect secretly: ipse crebro interviso. — To visit at times: nos: manipulos, ***Tac.***
 ##### intestābilis e, adj.
 with comp, infamous, execrable, detestable, abominable: homo, ***Sall.*** : saevitiā, ***Tac.*** : intestabilior et saevior, ***Tac.***
 ##### intestātō adv.
@@ -1310,6 +1400,8 @@ a going in, entering, entrance: militum, ***Caes.*** : non introitu quempiam pro
 towards the inside, inwards, within: hostem introrsum in media castra accipiunt, ***Liv.*** — Inwardly, within, on the inside: turpis, ***Hor.***
 ##### intrōrsus adv.
 inwards, within: non facile introrsus perspici, ***Caes.*** — Inwardly, within: nihil introrsus robor is esse, ***Liv.*** : lacrimae obortae, ***Ov.***
+##### intrūdō —, —, ere
+to thrust in, force in: se.
 ##### intumulātus adj.
 unburied, ***Ov.***
 ##### inturbidus adj.
@@ -1356,6 +1448,8 @@ an acquisition: inventis abstinet, ***Hor.*** — A device, contrivance, inventi
 without charm, ungraceful, unattractive: actor: res, Ct. — Without Venus, unfortunate in love: homo, ***Ter.***
 ##### inverēcundus adj.
 without shame, unreserved, shameless, immodest: deus, i. e. Bacchus, ***Hor.*** : animi ingenium, Poët. ap. ***Cic.***
+##### invergō —, —, ere
+to incline, pour upon: invergens charchesia mellis, ***Ov.*** : fronti vina, ***Ver.***
 ##### inversiō ōnis, f
 an inversion: verborum, i. e. irony.
 ##### investīgātiō ōnis, f
@@ -1518,6 +1612,8 @@ a joining, uniting, juncture, joint: tignorum, ***Caes.*** : iuncturae verticis,
 a rush: Limosus, ***Ver.*** : acutā cuspide iunci, ***Ov.***
 ##### iūniperus ī, f
 the juniper-tree, ***Ver.***
+##### Iūnō ōnis, f
+a daughter of Saturn, sister and wife of Jupiter, goddess of marriage, ***Cic.*** , ***Ver.*** , ***Hor.*** , ***Ov.*** : Iuno Lucina, ***Ter.*** : urbs Iunonis, i. e. Argos, ***Ov.*** — Prov.: Iunonis sacra ferre, i. e. to walk as in solemn procession, ***Hor.*** — Iuno inferna, i. e. Proserpine, ***Ver.***; called Averna, ***Ov.***
 ##### Iūnōnālis e, adj.
 of Juno: tempus, i. e. the month of June, ***Ov.***
 ##### Iūnōnicola ae, m

@@ -66,6 +66,8 @@ a nutshell, trifle; only gen. with a negative, of no value, good for nothing: no
 a shipwreck: multi naufragia fecerunt. — Prov.: istorum naufragia ex terrā intueri, in safety behold their ruin. — Fig., shipwreck, ruin, loss, destruction: fortunarum: gloriae factum: tabula ex naufragio, a plank from a wreck. — The shattered remains, wreck, remnants: naufragia Caesaris amicorum: rei p.: Mollia naufragiis litora posse dari, ***Ov.***
 ##### naufragus adj.
 that suffers shipwreck, shipwrecked, wrecked: Marium Africa naufragum vidit: corpora, ***Ver.*** : simulacra, of the shipwrecked, ***Ov.*** — As subst m., a shipwrecked person: natans: naufragus assem Dum rogat, ***Iuv.*** — That causes shipwreck, shipwrecking: mare, ***Hor.*** : unda, Tb.: monstra, ***Ov.*** — Fig., ruined: aliquis patrimoni. — Plur m. as subst: naufragorum manus.
+##### nauseō —, —, āre
+to be sea-sick, ***Cic.*** , ***Hor.*** — To be squeamish, be qualmish, vomit: modo ne nauseet. — Fig., to belch forth, give vent to, utter: ista. — To cause disgust: stultitiā, ***Phaed.***
 ##### nauseola ae, f dim.
 squeamishness.
 ##### nauta ae, m
@@ -138,6 +140,8 @@ a denying, negation.
 a denial, negation: vis negation is eius: facti.
 ##### negātum ī, n
 a forbidden thing: cupimus negata, ***Ov.***
+##### negitō āvī, —, āre, freq.
+to deny steadfastly, persist in denying: alqd esse: rex primo negitare, ***Sall.*** : renuit negitatque Sabellus, ***Hor.***
 ##### neglēctiō ōnis, f
 a neglecting: amicorum, indifference towards.
 ##### neglēctus adj.
@@ -246,6 +250,8 @@ of snow, snowy, snow-: dies, ***Liv.*** : vertex, covered with snow, ***Ver.*** 
 of snow, snowy, snow-: aggeres, ***Ver.*** — Snow-white, snowy: lac, ***Ver.*** : Briseis niveo colore, ***Hor.*** : dens, ***Ov.*** : Quirites, in white togas, ***Iuv.***
 ##### nivōsus adj.
 full of snow, snowy: hiems, ***Liv.*** : Scythia, ***Ov.***
+##### nō āvī, —, āre
+to swim, float: nat lupus, ***Ov.*** : piger ad nandum, ***Ov.*** : ars nandi, ***Ov.*** — Prov.: nare sine cortice, i. e. to do without a guardian, ***Hor.*** : per aestatem liquidam, i. e. fly, ***Ver.*** : cymba, i. e. sail, ***Ver.*** , Ct.: u<⋆>dae nantes, Ct.
 ##### nōbilitās ātis, f
 celebrity, fame, renown: nobilitatem despicere: repentini, ***Liv.*** : eum nobilitate praecurrere, ***Nep.*** — High birth, noble origin, nobility: sua: nobilitate sui municipi facile primus. — The nobility, nobles, aristocracy: nobilitatis fautor: omnis noster nobilitas interiit, ***Caes.*** : nobilitas rem p. deseruerat, ***Liv.*** : superbia commune, nobilitatis malum, ***Sall.*** — Nobleness, excellence, superiority: florere nobilitate discipulorum: eloquio tantum nobilitatis inest, ***Ov.*** : nobilitas sola est virtus, ***Iuv.*** : nobilitate ingenitā, ***Tac.***
 ##### nōbilitō āvī, ātus, āre

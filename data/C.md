@@ -8,6 +8,8 @@ a loud laugh, immoderate laughter, jeering: cachinnum sustulisse: tollere, ***Ho
 to go to stool. — Supin. acc., ***Hor.*** — With acc, to pass, void, ***Phaed.*** : cacata charta, smeared with refuse, Ct.
 ##### cacūmen inis, n
 an extremity, point, peak, top, summit: montis, Ct.: rupis, ***Liv.*** : arboris, ***Ver.*** : umbrosa cacumina, ***Ver.*** : praeacuta (ramorum): tumulum cacumine rupit, ***Ov.*** : videsne cacumen illud? peak, ***Liv.*** : Exser it e tepidā molle cacumen humō, ***Ov.***
+##### cacūminō —, —, āre
+to make pointed, sharpen: summas aurīs, ***Ov.***
 ##### cadāver eris, n
 a dead body, corpse, carcass: aqua cadaveribus inquinata: Unctum oleo, ***Hor.*** : informe, ***Ver.*** : paene in ipsis cadaveribus decertare, ***Caes.*** : hostium cadavera, ***Sall.*** : dilapsa tabo, ***Ver.*** — Fig., of a worthless man, a carcass: eiectum petebam? — Meton., ruins: tot oppidūm cadavera, Sulp. ap. ***Cic.***
 ##### cadāverōsus adj.
@@ -66,6 +68,8 @@ a wicker-basket, hand-basket (for flowers, wool, etc.): calathi Minervae, work-b
 a little shoe.
 ##### calceus ī, m
 a shoe, halfboot (covering the whole foot): calcei habiles et apti ad pedem: laxus, ***Hor.*** : pede maior subvertet, minor uret, ***Hor.*** — Because senators wore a peculiar half-boot: calceos mutare, i. e. to become senator.
+##### calcitrō —, —, āre
+to kick, ***Ov.*** — Fig., to resist, be refractory: calcitrat, respuit.
 ##### calcō āvī, ātus, āre
 to tread, tread upon, trample: exstructos morientum acervos, ***Ov.*** : calcata vipera, trodden, ***Ov.*** : in foro calcatur, ***Liv.*** : pede, ***Tac.*** : Huc ager dulcesque undae ad plenum calcentur, packed in, ***Ver.*** : cineres ossaque legionum, ***Tac.*** — Fig., to trample upon, suppress: hostem, ***Iuv.*** : libertas nostra, ***Liv.*** : amorem, ***Ov.*** — Of space, to tread, pass over: calcanda semel via leti, ***Hor.*** : durum aequor, the frozen sea, ***Ov.***
 ##### calculus ī, m dim.
@@ -78,8 +82,12 @@ wearing soldiers' boots; hence, in hob-nailed boots, rough-shod, ***Iuv.***
 misty, dark, obscure, gloomy: caelum: stella. — Fig., dark, obscure: nox, ***Hor.***
 ##### cālīgō inis, f
 a thick air, mist, vapor, fog: picea, ***Ver.*** : atra, ***Ver.*** : noctem eadem caligo obtinuit (i. e. nebula), ***Liv.*** : Boreas caligine tectus, i. e. dust and clouds, ***Ov.*** — Meton., darkness. obscurity, gloom: cum altitudo caliginem oculis obfudisset, i. e. had caused dizziness, ***Liv.*** : in tantā caligine, ***Liv.*** : obscura: caeca, ***Ver.*** : inter caliginis umbras, ***Ov.*** : caligo ac tenebrae, ***Curt.*** : quod videbam... quasi per caliginem. — Mental darkness, confusion, ignorance: illa, quam dixi: caecā mentem caligine consitus, Ct. — Calamity, affliction, gloom: caligo bonorum, tenebrae rei p.
+##### cālīgō —, —, āre
+to steam, reek, darken: caligans (Centaurus): (nubes) umida circum Caligat, ***Ver.*** — Meton., to be dark, gloomy: caligans nigrā formidine lucus, ***Ver.*** : altae caligantesque fenestrae, dizzy, ***Iuv.***
 ##### calix icis, m
 a cup, goblet, drinkingvessel: maximi calices: maiores, ***Hor.*** : plebeii, ***Iuv.*** — Meton., wine, ***Hor.*** — A cooking-vessel, pot, ***Ov.***
+##### calleō —, —, ēre
+to be callous; hence, fig., to be experienced, be skilful, be versed: in ea, quorum usu calleret, ***Liv.*** — To know by experience, be skilled in, have the knowledge of, un derstand: illius sensum, ***Ter.*** : iura: urbanas rusticasque res pariter, ***Liv.*** : sonum digit is et aure, ***Hor.*** : Duram pauperiem pati, to know how, ***Hor.*** : deprendere, ***Iuv.*** : quo pacto id fieri soleat calleo, ***Ter.***
 ##### calliditās ātis, f
 shrewdness, skill, readiness, aptness (rare): ingeni, ***Nep.*** : fori, ***Tac.*** — Cunning, craft, slyness, artfulness: calliditas potius quam sapientia: calliditate Poenos superare: Graeca, ***Liv.*** : servi Calliditates, rogueries, ***Ter.***
 ##### callōsus adj.
@@ -250,6 +258,8 @@ dearness, costliness, high price: annonae: rei frumentariae: annus in summā car
 a song, poem, verse, oracular response, prophecy, form of incantation, tune, air, lay, strain, note, sound (vocal or instrumental): canentes carmina, ***Liv.*** : Carmine vocali clarus, ***Ov.*** : lyrae, ***Prop.*** : per me concordant carmina nervis, ***Ov.*** : ferale, ***Ver.*** : cygnorum, ***Ov.*** : citharā carmina divides, ***Hor.*** : barbaricum, ***Ov.*** — Esp., a composition in verse, poem, poetry, verse, song: cantūs et carmina, melodies and words: Maeonii carminis alite, ***Hor.*** : tragicum, ***Hor.*** : carmina Livi, ***Hor.*** : Lydis remixto carmine tibiis, ***Hor.*** : famosum, abusive, ***Hor.*** : canere, to compose: pueris canto, ***Hor.*** : condere, ***Hor.*** : contexere: fingere, ***Hor.*** : docere, ***Hor.*** : ad umbilicum adducere, ***Hor.*** — Lyric poetry: Carmine tu gaudes, hic delectatur iambis, ***Hor.*** : Carmina compono, h ic elegos, ***Hor.*** — A poetic inscription: carminibus templorum aditūs exornare: tumulo superaddite carmen, ***Ver.*** — A passage from a poem, poetical extract: audiens tam grande carmen: Euripideum illud. — An oracular response, prophecy, prediction: Cumaeum, ***Ver.*** : in libris Sibyllinis, ***Liv.*** — A charm, incantation: Carminibus Circe socios mutavit Ulixi, ***Ver.*** : veneficae Scientioris, ***Hor.*** : Auxiliare, ***Ov.*** — A form of speech, ceremonial phrase, formula (in religious or legal observances): quae (verba) longo effata carmine, ***Liv.*** : diro quodam carmine iurare, ***Liv.*** : cruciatūs carmina: lex horrendi carmin is erat, of a dreadful form, ***Liv.*** : Appii Caeci carmen, a proverbial saying: magistri, a school-task for the memory: sacrum, ***Liv.***
 ##### Carmentālis e, adj.
 of Carmentis: flamen: porta, near the temple of Carmentis, ***Liv.***
+##### carnificō —, —, āre
+to cut to pieces, mangle: carnificari (hostes) iacentes, ***Liv.***
 ##### carpentum ī, n
 a carriage, chariot (covered, with two wheels), ***Liv.*** , ***Ov.*** , ***Tac.*** , ***Iuv.*** , ***Prop.***
 ##### carptim adv.
@@ -392,6 +402,8 @@ a great number, multitude, throng, crowd, large assembly, concourse: odi celebri
 to frequent, throng, crowd, fill: viae multitudine legatorum celebrabantur: genus spectaculi omni frequentiā hominum: alqm magistratum, Tb.: silvas, ***Ov.*** : coetum celebrate faventes, ***Ver.*** — To do frequently, practise, engage in, reiterate, dwell upon, repeat: ad eas artes celebrandas: modus transferendi verbi, quem iucunditas celebravit, made frequent: popularem potestatem, kept in the foreground, ***Liv.*** : seria ac iocos cum aliquo, ***Liv.*** — To celebrate, solemnize, keep: festos dies: (dies) celebratus per omnem Africam, ***Sall.*** : natales, ***Hor.*** : coniugia, ***Ver.*** : exsequias, ***Liv.*** : totā celebrante Siciliā sepultus est, ***Nep.*** — To fill with, cause to resound: contiones convicio cantorum: ripas carmine, ***Ov.*** : cuius nuntiis celebrantur aures meae, i. e. are filled. — To make known, publish abroad, proclaim: factum esse consulem Murenam: quod vocibus maledictisque celebratum est. — To honor, praise, celebrate with praise, celebrate in song: Caesaris laudes: fortuna res cunctas celebrat, ***Sall.*** : talia carminibus, ***Ver.*** : se remque p. haec faciundo, to make renowned, ***Sall.*** : victoriam famā, ***Tac.***
 ##### celeritās ātis, f
 swiftness, quickness, speed, celerity: horum (equitum), ***Caes.*** : reditūs eius: belli celeritatem morari: in re gerundā: in castris capiendis, ***Caes.*** : veneni, the quick effect: incredibili celeritate fama perfertur, ***Caes.*** : celeritate uti, ***Nep.*** : celeritate opus est: ne suscipiamus nimias celeritates: animorum: calliditas et celeritas ingeni, quickness of device, ***Nep.*** : orationis: dicendi.
+##### celerō —, —, āre
+to quicken, hasten, accelerate: fugam in silvas, ***Ver.*** : haec celerans, swift in obeying this order, ***Ver.*** : celerandae victoriae intentior, ***Tac.*** — To make haste, be quick, Ct., ***Tac.***
 ##### cella ae, f
 a place of concealment, store-room, cell, granary: penaria: Falernae, ***Ver.*** : avitae, ***Hor.*** — Hence, aliquid in cellam dare, to furnish household stores: cellae nomine, as household supplies. — A chamber, closet, cabinet, hut, cot: me in cellam concludam, ***Ter.*** : servorum in cellis lecti: angust is eiecta cadavera cellis, mean abodes, ***Hor.*** — Plur, the cells (of bees), ***Ver.*** — A sanctuary (of a temple), shrine (where the image stood): Concordiae. — An oil-press: Venafri, ***Hor.***
 ##### cellula ae, f dim.
@@ -536,6 +548,8 @@ acc n. sing. of ceterus for the rest, in other respects, else, otherwise: foeder
 the other, remainder, rest: ornatus: regio cultu, ***Nep.*** : cohortes veteranas... ceterum exercitum locat, ***Sall.*** : multitudo, ***Sall.*** : aetas, ***Ver.*** : murus supra ceterae modum altitudin is emunitus, ***Liv.*** : inter ceteram planitiem mons, ***Sall.*** : pro ceterā eius audaciā: unā iugi aquā, ceterā pluviā utebantur, ***Sall.*** : vos curis solvi ceteris, ***Ter.*** : amici, ***Caes.*** : praestare ceteris animalibus, ***Sall.*** : ceterarum rerum prudens: non abhorret a cetero scele <⋆>e, ***Liv.*** — Idiomat. (with the genus instead of the species), the others, besides, also: Ipse (consul) vocat pugnas, sequitur tum cetera pubes, ***Ver.*** : hi ceterorum Britannorum fugacissimi (i. e. omnium), ***Tac.*** — As subst m., the others, all the rest, everybody else: ceteri nihil suspicantes dant (ius iurandum), Cassius, etc., ***Sall.*** — As subst n.: ceterum omne incensum est, the rest, ***Liv.*** : de cetero, as for the rest: n ii egregie praeter cetera studebat, ***Ter.*** : ad cetera addiderunt, falsum numerum deferr i, etc., ***Caes.*** : inter cetera trist ia eius anni, ***Liv.*** : Cetera de genere hoc, adeo sunt multa, etc., ***Hor.*** : ut omittam cetera. — Esp., et cetera or ceteraque, and the rest, and the like, and so forth: cum scriptum ita sit... et cetera: ut illud, ‘Agas asellum’ et cetera.
 ##### ceu adv.
 as, like as, just as: genus omne natantum, ceu naufraga corpora, fluctus Proluit, like, ***Ver.*** : Dirus per urbes Afer Ceu flamma per taedas, etc., ***Hor.*** : ceu nubibus arcus iacit colores, ***Ver.*** — Followed by haud aliter, ***Ver.***; by sic, ***Ver.*** : aliae turpes horrent, ceu Cum venit viator, as when, ***Ver.*** : lupi ceu raptores, ***Ver.*** : pars vertere terga, Ceu quondam petiere rates, just as, ***Ver.*** — As if, as it were, just as if: per aperta volans, ceu liber habenis, Aequora, ***Ver.*** : ceu cetera nusquam Bella forent, ***Ver.***
+##### ceveō —, —, ēre
+to move the haunches, ***Iuv.***
 ##### Chaldaeus adj.
 Chaldaean: grex, of soothsayers, ***Iuv.***
 ##### chalybēïus adj.
@@ -620,34 +634,62 @@ a hair-curler, Ct.
 and praep., later for circum.
 ##### circāmoerium ī, n
 the space about a wall, on both sides of a wall (as a definition of pomerium), ***Liv.***
+##### circinō —, —, āre
+to make round, round: easdem circinat auras, i. e. traverses in a circle, ***Ov.***
 ##### circinus ī, m
 flumen Dubis, ut circino circumductum, ***Caes.***
 ##### circuitus or circumitus ūs, m
 a going round, circling, revolving, revolution. solis. — A circuit, compass, way around: quod interiore spatio minorem circuitum habebant, ***Caes.*** : parvo circuitu locum petere, ***Liv.*** : in circuitu ascensus, ***Caes.*** : omnem pererrat Undique circuitum, ***Ver.*** : circuitu curvantem bracchia longo, ***Ov.*** — Fig., in rhet., a period: verborum.
 ##### circulātor ōris, m
 a peddler, hawker: auctionum, Asin. ad ***Cic.***
+##### circumarō āvī, —, āre
+to plough around, ***Liv.***
 ##### circumcīsus adj.
 cut around, cut off, steep, precipitous, inaccessible: saxum: Henna ab omni aditu: coll is ex omni parte, ***Caes.***
+##### circumcolō —, —, ere
+to dwell round about, dwell near: sinum maris, ***Liv.*** : paludem, ***Liv.***
+##### circumcursō —, —, āre
+freq, to run around, run about: Hac illac circumcursa, ***Ter.*** : hinc illinc, Ct.
+##### circumequitō —, —, āre
+to ride around: moenia, ***Liv.***
+##### circum  flō —, —, āre
+to blow around: ab omnibus ventis invidiae circumflari, to be assailed.
 ##### circumfluus adj.
 flowing around, circumfluent: amnis, ***Ov.*** — Flowed around, surrounded with water: insula, ***Ov.*** : campi Tigre, ***Tac.***
 ##### circumforāneus adj.
 around the forum, about the market - place: aes, debts (at the bankers). — Frequenting markets: pharmacopola.
+##### circum  gemō —, —, ere
+to roar around: circumgemit ursus ovile, ***Hor.***
+##### circumgestō —, —, āre
+to carry around: epistulam.
+##### circumiaceō —, —, ēre
+to lie around, border upon: (Lycaon ia et Phrygia) Europae, ***Liv.***
 ##### circumiectus adj.
 lying around, surrounding: aedificia muris, ***Liv.*** : silvae itineri, ***Liv.*** : lucus, ***Liv.*** — Plur n. as subst, the neighborhood, ***Tac.***
 ##### circumiectus ūs, m
 a casting around, surrounding, encompassing; only abl: (aether) terram tenero circumiectu amplectitur, with soft embrace, ***Cic.*** poet.: arduo.
+##### circum iniciō —, —, ere
+to throw up all around: vallum, ***Liv.***
 ##### circumligō āvī, ātus, āre
 to bind to, fasten around: natam hastae, ***Ver.*** — To bind, encompass, surround: ferrum stuppā, ***Liv.*** : circumligatus angui.
+##### circumluō —, —, ere
+to flow around: Rhenus tergum insulae circumluit, ***Tac.*** : quo (mari) pars arcis circumluitur, ***Liv.***
 ##### circumluviō ōnis, f
 the formation of an island (by floods): circumluvionum iura, the law of title to alluvial lands.
 ##### circummūnītiō ōnis, f
 an investing, circumvallation: oppidi, ***Caes.***
 ##### circumpadānus adj.
 about the Po: campi, ***Liv.***
+##### circum  plaudō —, —, ere
+to applaud all around: manibus, ***Ov.***
 ##### circumplicō āvī, ātus, āre
 to wind around: anguem vectis: belua circumplicata serpentibus.
 ##### circumpōtātiō ōnis, f
 a drinking around, drinking in turn, ***Cic.*** (XII Tables).
+##### circumrōdō —, —, ere
+to gnaw around. — Fig.: dudum enim circumrodo, quod, etc., i. e. have long hesitated to utter: Dente Theonino circumroditur, i. e. is slandered, ***Hor.***
+##### circumscindō —, —, ere
+to rend around, strip (once): aliquem, ***Liv.***
 ##### circumscrīptē adv.
 in periods: dicere: complecti singulas res.
 ##### circumscrīptiō ōnis, f
@@ -656,8 +698,16 @@ a boundary, circle, limit, outline, contour, circuit, compass: terrae: temporis.
 a defrauder, deceiver, cheat, ***Cic.*** : ad iura vocare Circumscriptorem, ***Iuv.***
 ##### circumscrīptus adj.
 in periods, periodic: verborum ambitūs.
+##### circumsecō —, —, āre
+to cut around: aliquid serrulā, to saw around.
 ##### circumsessiō ōnis, f
 a hostile encompassing, besieging.
+##### circumsīdō —, —, ere
+to besiege: Plistiam, ***Liv.*** : oppidum, ***Sall.***
+##### circumsiliō —, —, īre
+to leap around, dance around: circumsilit Morborum omne genus, ***Iuv.***
+##### circumsonō —, —, āre
+to sound, resound on every side: locus circumsonat ululatibus, is filled, ***Liv.*** : ad circumsonans clamor, ***Liv.*** — To surround with sound, make to resound, fill with sound: aurīs vocibus undique: clamor hostes circumsonat, ***Liv.*** : murum armis, ***Ver.*** : Scythio circumsonor ore, ***Ov.***
 ##### circumsonus adj.
 sounding around, filling with sound: turba canum, barking around, ***Ov.***
 ##### circumspectiō ōnis, f
@@ -666,6 +716,8 @@ foresight, circumspection, caution: aliqua.
 well considered, guarded: verba, ***Ov.***
 ##### circumspectus ūs, m
 a looking about, regarding: ut distineret regem ab circumspectu rerum aliarum, consideration, ***Liv.*** — A view around, outlook: facil is est circumspectus, unde exeam: eo, unde circumspectus esset, ***Liv.***
+##### circum  terō —, —, ere
+to crowd around: hunc, Tb.
 ##### circumtextus adj.
 woven around: velamen acantho, ***Ver.***
 ##### circumvagus adj.
@@ -674,8 +726,18 @@ wandering about, flowing around: oceanus, ***Hor.***
 to surround with a wall, circumvallate, blockade, invest, encompass: circumvallare loci natura prohibebat, ***Caes.*** : castra, ***Liv.*** : Tot res circumvallant, beset, ***Ter.***
 ##### circumvectiō ōnis, f
 a carrying around — Solis, the circuit, revolution.
+##### circum  vēlō —, —, āre
+to veil, envelop, enfold: aurato circumvelatur amictu, ***Ov.***
+##### circumvertō —, —, ere
+to turn around, revolve on: rota circumvertitur axem, ***Ov.***
+##### circumvestiō —, —, īre
+to clothe, cover over. — Of language: se circumvestire dictis, ***Cic.*** poet.
+##### circum  volitō āvī, —, āre
+to fly around: lacūs circumvolitavit hirundo, ***Ver.*** : thyma, ***Hor.*** : circumvolitantes alites, ***Tac.***
 ##### circum  volō āvī, ātus, āre
 to fly around: praedam, ***Ver.*** : mors atris circumvolat alis, ***Hor.*** : Spem suam, his prey, ***Ov.***
+##### circumvolvō —, —, ere
+to roll around, revolve through: magnum sol circumvolvitur annum, ***Ver.*** : rota perpetuum circumvolvitur axem, ***Ov.***
 ##### circus ī, m
 a circular line, circle: lacteus, the Milky Way. — An enclosure for athletic games, race-course, ring: longo decedere circo, ***Ver.*** : munera circo locantur In medio, ***Ver.*** : maritimus (at Anagnia), ***Liv.*** — Esp.: Circus Maximus, an oval circus between the Palatine and Aventine hills, with room for 100, 000, ***Cic.*** , ***Liv.*** , ***Ov.***; often called Circus, ***Cic.*** : Fallax (as the resort of soothsayers and jugglers), ***Hor.*** — The Circus Flaminius, ***Cic.***; called Circus, ***Ov.***
 ##### cīris is, f
@@ -700,6 +762,8 @@ the cithara, cithern, guitar, lute, ***Ver.*** , ***Hor.*** : citharae peritus, 
 a player on the cithara.
 ##### citharistria ae, f
 a female player on the cithara, ***Ter.***
+##### citharīzō —, —, āre
+v. n., to play on the cithara, ***Nep.***
 ##### citharoedus ī, m
 one who sings to the accompaniment of the cithara, ***Cic.*** , ***Hor.***
 ##### citreus adj.
@@ -724,6 +788,8 @@ clamorous, full of noise: pater, ***Iuv.*** : circus, resounding, ***Iuv.*** : P
 secret, hidden, concealed, clandestine: scelus: nuntii legationesque, ***Caes.*** : foedus, ***Liv.*** : colloquia cum hostibus.
 ##### clangor ōris, m
 a sound, clang, noise: tubarum, ***Ver.*** : clangorem fundere (of birds), ***Cic.*** poët.: consonus (pennarum), ***Ov.*** : cum magno clangore volitare, ***Liv.***
+##### clāreō —, —, ēre
+to be bright, shine (of the stars), ***Cic.*** poet. — Fig., to be renowned, be illustrious: viri gloria claret, Enn. ap. ***Cic.***
 ##### clārigātiō ōnis, f
 a fine, ransom (for transgressing limits), ***Liv.***
 ##### clārisonus adj.
@@ -732,6 +798,8 @@ clear-sounding, loud: vox, Ct.: aurae, ***Cic.*** poet.
 brightness, splendor; hence, of sound, clearness: in voce. — Of reputation, celebrity, renown, fame, splendor: num te claritatis paenitebat? pro tuā claritate: claritate praestantes, ***Nep.*** : Herculis, ***Tac.***
 ##### clāritūdō inis, f
 brightness: deae (i. e. lunae), ***Tac.*** — Renown, celebrity, splendor, fame: summa, ***Sall.*** : tanta, ***Sall.***
+##### clārō —, —, āre
+to make bright, exhibit, ***Cic.*** poet. — Fig., to illustrate, make famous, ***Hor.***
 ##### classiārius adj.
 of the navy: centurio, captain of a ship, ***Tac.*** — Plur m. as subst, marines, naval forces, ***Caes.*** , ***Nep.***
 ##### classicula ae, f dim.
@@ -742,6 +810,8 @@ a field signal, trumpet-call: cecinit, ***Liv.*** : cani iubet, ***Caes.*** : cl
 of the fleet, of the navy: milites, marines, ***Liv.*** : bella, naval, ***Prop.*** : legio, ***Tac.*** — Plur m. as subst, marines, ***Tac.***
 ##### claudicātiō ōnis, f
 a limping, ***Cic.***
+##### claudō —, —, ēre
+to limp; hence, fig., to falter, hesitate, stumble: etiam si (vita) ex aliquā parte clauderet: qu id est cur claudere orationem malint?: si alterā parte claudet res p., ***Liv.***
 ##### claudus adj.
 limping, halting, lame: deus: altero pede, ***Nep.*** : pes, ***Hor.*** : pars serpentis, ***Ver.*** — Prov.: claudus pilam, the lame man (holds fast) the ball. — Fig., crippled, imperfect, defective: naves, ***Liv.*** — Of language: carmina alterno versu, i. e. elegies (the alternate verses short), ***Ov.*** — Wavering, untrustworthy: pars officii tui, ***Ov.***
 ##### claustrum ī, n
@@ -784,6 +854,8 @@ hilly, full of hills (poet.): rus, ***Ver.*** — Steep, arduous: Latina (via), 
 a canal for waste liquids, sewer, drain, ***Cic.*** : alqd in cloacam iacere, ***Hor.*** : maxima, the great sewer draining the Aventine, Capitoline, and Palatine hills, ***Liv.***
 ##### Cloācīna or Cluācīna ae, f
 the purifier, a surname of Venus, ***Liv.***
+##### clueō —, —, ēre
+to hear, be spoken of, be said (old): ignis cluet mortalibus clam divisus, Att. ap. ***Cic.***
 ##### coacervātiō ōnis, f
 an accumulation (of proofs, etc.): universa.
 ##### coacervō āvī, ātus, āre
@@ -802,6 +874,8 @@ to join, cement together, connect: trabes, ***Caes.*** : opus suum (natura). —
 a joining together, joint: inter coagmenta lapidum, ***Caes.***
 ##### coāgulum ī, n
 an agent of coagulation, rennet, runnet, ***Ov.*** — Curds: liquefacta coagula lacte, ***Ov.***
+##### coangustō —, —, āre
+to limit, restrict: legem.
 ##### coccinus adj.
 scarlet: laena, ***Iuv.***
 ##### coccum ī, n
@@ -858,6 +932,8 @@ a coherence, connection: mundi.
 to honor in common, do honor to, honor, grace: exsequias: statuas: aliquid virtute, ***Liv.*** : funus laudatione, ***Tac.***
 ##### cohortātiō ōnis, f
 an exhorting, inciting, exhortation, encouragement: militum, ***Nep.*** : legionis, ***Caes.*** : iudicum ad honeste iudicandum: concitatus cohortatione alicuius ad alqd. — Plur., ***Caes.*** , ***Cic.***
+##### coinquinō —, —, āre
+to pollute, contaminate: matres coinquinari regum, Att. ap. ***Cic.***
 ##### coitiō ōnis, f
 a coming together, meeting: prima, ***Ter.*** : absterrere singulos a coitionibus, ***Liv.*** — A conspiracy, plot, coalition: suspitio coitionis: coitiones tribunorum adversus inventutem, ***Liv.*** : coitionem facere.
 ##### coitus ūs, m
@@ -1166,6 +1242,8 @@ a skirmisher. hostis, ***Liv.*** : pedes, ***Liv.***
 a concurrence, concourse: atomorum: crebra vocum. — Fig., in rhet., an emphatic repetition: in eadem verba.
 ##### concursus ūs, m
 a running together, concourse, throng, mob, tumult: hominum: concursūs facere: magni domum ad Afranium fiebant, ***Caes.*** : in forum a totā urbe, ***Liv.*** : ingens, ***Ver.*** : undique, ***Hor.*** : in oppido. — An assault, onset, attack, charge: exercitūs, ***Caes.*** : acerrimo concursu pugnare, ***Nep.*** : Ut nostris concursibus insonet aether, ***Ov.*** : concursūs philosophorum sustinere, assaults: caeli, thunder, ***Ov.*** — Fig., a dashing together, encountering, meeting, concourse, collision: nubila Excutiunt concursibus ignes, ***Ov.*** : fortuitus (atomorum): ut utraque (navis) ex concursu laborarent, ***Caes.*** : navium, ***Liv.*** : asper verborum, a harsh combination. — A combination, union, coincidence: studiorum: calamitatum.
+##### condecorō —, —, āre
+to grace, applaud, honor: ludos scenicos, ***Ter.***
 ##### condemnātiō ōnis, f
 a conviction, condemnation: Oppianici.
 ##### condemnātor ōris, m
@@ -1188,6 +1266,8 @@ close, hidden, secret: praecordia, ***Hor.***
 a giving away: bonorum possessionumque.
 ##### condōnō āvī, ātus, āre
 to give, present, deliver, surrender, abandon: apothecas hominibus: hereditatem alicui, to adjudge. — To remit, acquit of: pecunias creditas debitoribus. — With two accs.: Argentum quod habes, condonamus te, ***Ter.*** : habeo alia multa quae nunc condonabitur, ***Ter.*** — Fig., to give up, render, surrender, deliver up, sacrifice, devote: aliquid dicioni alicuius: huius vitam matris crudelitati: consuli Achaiam: seque vitamque suam rei p., ***Sall.*** : suum dolorem eius voluntati, ***Caes.*** — To pardon, remit, overlook, forbear to punish: crimen nobis: uti scelus condonaretur, ***Sall.*** : alterius lubidini male facta, i. e. out of indulgence to, ***Sall.*** : trīs fratres non solum sibi ipsis, sed etiam rei p., i. e. for the sake of: tibi condonatus est ille: filium sibi, ***Liv.*** : Divitiaco fratri (Dumnorigem), ***Caes.***
+##### condormiō —, —, īre
+to fall quite asleep, ***Curt.***
 ##### conductiō ōnis, f
 a bringing together, recapitulation, ***Cic.*** — A hiring, farming: (fundi): (vectigalium), ***Liv.***
 ##### conductor ōris, m
@@ -1196,6 +1276,8 @@ a hirer, lessee, farmer, tenant. — Plur., ***Caes.*** — A contractor: operis
 something hired, the subject of a lease: alqd habere conducti, a hired apartment.
 ##### conductus ī, m
 plur, hirelings: operae conductorum: conducti plorant in funere, ***Hor.*** — Mercenary soldiers: conductorum III (milia), ***Nep.***
+##### conduplicō āvī, —, āre
+to double: quod boni promeritus fueris, ***Ter.*** : tenebrae conduplicantur: patrimonia, ***Iuv.***
 ##### cōnexum ī, m
 a necessary consequence, inevitable inference: ratio conexi.
 ##### cōnfātālis e, adj.
@@ -1216,6 +1298,8 @@ immediately, speedily, without delay, forthwith, suddenly: res gerenda: consequi
 a fabricating: criminis.
 ##### cōnfīdentia ae, f
 confidence, boldness: confidentiam et vocem defuisse. — Assurance, audacity, impudence: ingens, ***Ter.*** : quā confidentiā dicant.
+##### cōnfindō —, —, ere
+to cleave, split: pontus conscinditur aere, Tb.
 ##### cōnfīnis e, adj.
 bordering, conterminous, adjoining, contiguous: ager, ***Liv.*** : hi Senonibus, ***Caes.*** : potentiori, ***Sall.*** : caput collo, ***Ov.*** : litora prato, ***Ov.*** — Fig., nearly related, like, similar: carmina studio vestro, ***Ov.***
 ##### cōnfīnium ī, n
@@ -1250,6 +1334,8 @@ a place of refuge, refuge, shelter, ***Ov.***
 a mingling, mixing, blending: virtutum. — A confounding, confusion, disorder: temporum: suffragiorum: vitae: oris, i. e. a blush, ***Tac.***
 ##### cōnfūtō āvī, ātus, āre
 to check, repress, dampen, suppress, diminish: dolores memoriā: audaciam. — To put down, put to silence, confute, refute, overthrow: verbis senem, ***Ter.*** : dictis confutabitur, ***Ter.*** : argumenta: verba rebus, ***Liv.***
+##### cōnfutuō —, —, ere
+to cohabit with, Ct.
 ##### congēlō āvī, ātus, āre
 to freeze together, congeal: cum duro lingua palato Congelat, stiffens, ***Ov.*** : alqd congelat aëre tacto, is petrified, ***Ov.*** — Fig., to grow stiff: congelasse amicum otio. — To freeze, make stiff: in lapidem rictūs serpentis, ***Ov.***
 ##### congeminō āvī, ātus, āre
@@ -1262,6 +1348,8 @@ a bring ing together, heaping, accumulation (only abl sing.) copiarum, ***Tac.**
 a largess to the poor of a congius to each man (of oil, etc.): congiariis multitudinem delenire. — A largess in money, gift, distribution: ab Antonio: plebi, ***Tac.*** : molitum, ***Curt.*** : multa, ***Liv.***
 ##### congius ī, m
 a measure for liquids, six sextarii (nearly six pints English): olei, ***Liv.***
+##### conglaciō —, —, āre
+to freeze, congeal: aqua conglaciaret frigoribus.
 ##### conglobātiō ōnis, f
 a crowding together: fortuita (militum), ***Tac.***
 ##### conglobō āvī, ātus, āre
@@ -1342,6 +1430,8 @@ to stain with guilt, pollute, dishonor, disgrace: oculos videndo, ***Ov.*** : do
 an embarking: in navīs.
 ##### cōnscientia ae, f
 joint knowledge, consciousness, common knowledge, privity, cogni zance: conscientiae contagio: alqm in conscientiam adsumere, ***Tac.*** : a conscientiae suspitione abesse: perfugit, suam conscientiam metuens, ***Liv.*** : conscientiae eius modi facinorum: hominum: plurium, ***Liv.*** — Consciousness, knowledge, feeling, sense: nostra: sua, ***Liv.*** : virium nostrarum, ***Liv.*** : pulcherrimi facti: scelerum tuorum, ***Caes.*** : spretorum (deorum), ***Liv.*** : de culpā, ***Sall.*** : conscientiā, quid abesset virium, detractavere pugnam, ***Liv.*** : inerat conscientia derisui fuisse triumphum, he was keenly aware, ***Tac.*** — A sense of right, moral sense, conscience: recta, a good conscience: egregia, ***Liv.*** : bonae conscientiae pretium, of self - approval, ***Tac.*** : Abacta nullā conscientiā, scruple, ***Hor.*** : generis humani, the moral judgment, ***Tac.*** : mala, ***Sall.*** — A good conscience, self - approval: maximi aestimare conscientiam mentis suae: in gravi fortunā conscientiā suā niti. — A sense of guilt, remorse: fuga, et sceler is et conscientiae testis: conscientiā convictus: angor conscientiae: mentem vastabat, ***Sall.*** : animi. — With ne, guilty fear, ***Tac.***
+##### cōnsciō —, —, īre
+to be conscious, feel guilty: nil conscire sibi, ***Hor.***
 ##### cōnscius adj.
 knowing in common, conscious with, privy, participant, accessory, witnessing: tam multis consciis, when so many knew it, ***Nep.*** : tam audacis facinoris, ***Ter.*** : alius alii tanti facinoris conscii, ***Sall.*** : horum eram conscius: ante actae vitae, ***Liv.*** : flagitiorum: peccati, ***Hor.*** : numina veri, ***Ver.*** : quorum nox conscia sola est, ***Ov.*** : qui fuere ei conscii, ***Ter.*** : mendacio meo: conscium illi facinori fuisse: coeptis, ***Ov.*** : conubiis aether, ***Ver.*** : mihi in privatis omnibus conscius: his de rebus Piso: res multis consciis quae gereretur, ***Nep.*** : Quo nec conscia fama sequatur, that knows me, ***Ver.*** : conscia agmina iungunt, of allies, ***Ver.*** — As subst, a partaker, accessory, accomplice, confidant, witness: conscius omnis abest, ***Ov.*** : ipsi tui conscii, socii: meorum consiliorum: illos (equos) conscios putant (deorum), ***Tac.*** : conscia, the confidante, ***Hor.*** — Knowing, conscious: alicuius iniuriae sibi, ***Caes.*** : sibi nullius culpae: mens sibi conscia recti, ***Ver.*** : lupus audacis facti, ***Ver.*** : mihi, numquam me nimis cupidum fuisse vitae: ego, quae mihi sum conscia, hoc scio, ***Ter.*** : virtus, ***Ver.*** : partim conscii sibi, ali i, etc., from a sense of guilt, ***Sall.*** : quos conscius animus exagitabat, guilty, ***Sall.***
 ##### cōnscrīptiō ōnis, f
@@ -1408,6 +1498,8 @@ abl. of consilium intentionally, designedly, purposely: seu forte, seu consilio,
 a council, body of counsellors, deliberative assembly: senatum, orbis terrae consilium: senatūs: Iovis, ***Hor.*** : consilium viribus parat, ***Liv.*** : publicum, i. e. a court of justice: hac re ad consilium delatā, a council of war, ***Caes.*** : sine consiliis per se solus, without advisers, ***Liv.*** : Illa Numae coniunx consiliumque fuit, counsellor, ***Ov.*** — Deliberation, consultation, considering together, counsel: capere unā tecum, ***Ter.*** : summis de rebus habere, ***Ver.*** : quasi vero consili sit res, ac non, etc., a question for discussion, ***Caes.*** : arbitrium negavit sui esse consili, for him to decide, ***Nep.*** : qu id efficere possis, tui consili est, for you to consider: nihil quod maioris consili esset: nocturna, ***Sall.*** : in consil io est aedilibus, admitted to the counsels, ***Iuv.*** — A conclusion, determination, resolution, measure, plan, purpose, intention, design, policy: unum totius Galliae, ***Caes.*** : callidum, ***Ter.*** : arcanum, ***Hor.*** : saluberrima, ***Tac.*** : adeundae Syriae, ***Caes.*** : consili participes, ***Sall.*** : superioris temporis, former policy, ***Caes.*** : consilium expedire, resolve promptly, ***Liv.*** : certus consili, in purpose, ***Tac.*** : incertus consilii, ***Ter.*** , ***Curt.*** : Consilia in melius referre, change her policy, ***Ver.*** : quod consilium dabatur? resource, ***Ver.*** : unde consilium afuerit culpam abesse, ***Liv.*** : eo consilio, ut i, etc., their object being, ***Caes.*** : quo consilio huc imus? ***Ter.*** : omnes uno consilio, with one accord, ***Caes.*** : cum suo quisque consilio uteretur, pursued his own course, ***Caes.*** : publico factum consilio, by the state, ***Caes.*** : alqm interficere publico consilio, i. e. by legal process, ***Caes.*** : privato consil io exercitūs comparare, on their own account: audax, ***Liv.*** : fidele: sapiens, ***Ov.*** : plenum sceleris. — In phrases with capere or suscipere, to form a purpose, plan, resolve, decide, determine: neque, quid nunc consili capiam, scio, De virgine, ***Ter.*** : legionis opprimendae consilium capere, ***Caes.*** : obprimundae rei p., ***Sall.*** : hominis fortunas evertere: ex oppido profugere, ***Caes.*** : consilium ceperunt, ut, etc.: capit consilium, ut nocte iret, ***Liv.*** — With inire, to form a plan, resolve, conspire, determine: inita sunt consilia urbis delendae: iniit consilia reges tollere, ***Nep.*** : consilia inibat, quem ad modum discederet, ***Caes.*** : de recuperandā libertate consilium initum, ***Caes.*** — With est, it is intended, I purpose: non est consilium, pater, I don't mean to, ***Ter.*** : non fuit consilium otium conterere, ***Sall.*** : ea uti deseram, non est consilium, ***Sall.*** : quibus id consili fuisse cognoverint, ut, etc., who had formed the plan, etc., ***Caes.*** : quid sui consili sit, ostendit, ***Caes.*** — In war, a plan, device, stratagem: consilia cuiusque modi Gallorum, ***Caes.*** : tali consilio pro fligavit hostīs, ***Nep.*** : Britannorum in ipsos versum, ***Tac.*** : te consilium Praebente, ***Hor.*** — Counsel, advice: recta consilia aegrotis damus, ***Ter.*** : fidele: lene, ***Hor.*** : consilio uti tuo, take your advice: consilium dedimus Sullae, ut, etc., ***Iuv.*** — Understanding, judgment, wisdom, sense, penetration, prudence, discretion: neque consili satis habere: a consilio principum dissidere: res forte quam consilio melius gestae, ***Sall.*** : Simul consilium cum re amisti? ***Ter.*** : pari consilio uti: vir consili magni, ***Caes.*** : plus in animo consili, ***Liv.*** : catervae Consiliis iuvenis revictae, ***Hor.*** : tam nulli consili, ***Ter.*** : tam expers consili: misce stultitiam consiliis brevem, ***Hor.*** : consilii inopes ignes, indiscreet, ***Ov.*** : vis consili expers, ***Hor.***
 ##### cōnsimilis e, adj.
 entirely similar, very like: ludus, ***Ter.*** : laus: causa consimil is earum, quae, etc.: formae mores consimiles, ***Ter.*** : fugae profectio, ***Caes.*** : rem gerere, consimilem rebus, etc.
+##### cōnsipiō —, —, ere
+to be sane, be of sound mind: mentibus, ***Liv.*** dub.
 ##### cōnsitiō ōnis, f
 a sowing, planting.
 ##### cōnsitor ōris, m
@@ -1500,6 +1592,8 @@ a consumer, destroyer: omnium ignis.
 a standing up (to express assent): iudicum: omnium.
 ##### Cōnsus ī, m
 an ancient deity, god of secret plans, ***Liv.*** , ***Ov.***
+##### cōnsusurrō —, —, āre
+to whisper together: cum illo, ***Ter.***
 ##### contabulātiō ōnis, f
 a structure of planks, flooring, floor, story, ***Caes.***
 ##### contabulō āvī, ātus, āre
@@ -1512,6 +1606,8 @@ a touching, contact, touch: pulmonum: contagione Romanorum, ***Liv.*** : contagi
 infection, contagion, taint (only plur, nom. and acc; poet.): mala vicini pecoris, ***Ver.*** : Nulla nocent pecori, ***Hor.*** : terrae contagia fugit, ***Ov.*** : per incautum serpant volgus, ***Ver.*** — Fig.: lucri, ***Hor.***
 ##### contāminō āvī, ātus, āre
 to bring into contact, mingle, blend, unite: Graecas (fabulas), ***Ter.*** — To corrupt, defile: spiritum. — Fig., to corrupt, defile, pollute, stain, spoil, taint: gaudium aegritudine, ***Ter.*** : se vitiis: sanguinem suum lege (Canuleiā), ***Liv.*** : veritatem mendacio: sese maleficio: se praedā, ***Liv.*** : contaminati facinore, ***Caes.*** : tot parricidiis: iudicia.
+##### contemerō āvī, —, āre
+to pollute, violate: torum, ***Ov.***
 ##### contemnendus adj.
 despicable, contemptible, trifling, unworthy of notice: nos: principes minime: (orationes) non contemnendae, respectable: in dicendo: copiae numero, ***Caes.***
 ##### contemplātiō ōnis, f
@@ -1578,6 +1674,8 @@ in opposite ways, in a different manner: scriptum esse: relata verba: dicere, **
 see contrarius.
 ##### contrārius adj.
 lying over against, opposite: ripa: collis huic, ***Caes.*** : Phrygiae tellus, ***Ov.*** : contrario ictu transfixus, by a blow from the opposite direction, ***Liv.*** : volnera, in front, ***Tac.*** — Opposite, contrary, opposed, conflicting: defendere contrariam partem: inter se pugnantia studia: disputare in contrarias partīs, on both sides: huius virtutis vitiositas: iura omnibus aliis: aestus vento, ***Ov.*** : ex orationibus capita alterna inter se contraria: contrario motu atque caelum, opposite to that of the sky. — As subst n., the opposite, contrary, reverse: contrarium est.. ut frigus calori, the antithesis: lex imperans honesta, prohibens contraria: si ea volt... sin autem contraria, etc., ***Nep.*** : vocant animum in contraria, in opposite directions, ***Ver.*** : in contraria versus, transformed: vitia quae sunt virtutum contraria, the opposites: ex contrario, on the contrary, on the other hand, ***Caes.*** : hoc ex contrario contendo: e contrario, ***Nep.*** — Hostile, inimical, antagonistic: Tibi, ***Phaed.*** : litora litoribus, ***Ver.*** : undis ignis, ***Ov.***
+##### contremō —, —, ere
+to tremble, quake: caelum tonitru contremit, Pac. ap. ***Cic.***
 ##### contrīstō āvī, ātus, āre
 to sadden, make gloomy, cloud, dim, darken: frigore caelum, ***Ver.*** : (Aquarius) annum, ***Hor.***
 ##### contrītus adj.
@@ -1594,6 +1692,8 @@ a beholding. — Only abl sing.: parricidarum, ***Curt.***
 inflexibility, contumacy, obstinacy, stubbornness: illa tua: in voltu, ***Liv.*** : responsi: adversus principem, ***Tac.*** — Firmness, constancy: libera.
 ##### contumēlia ae, f
 insult, abuse, affront, reproach, invective, contumely: ei facere contumeliam, ***Ter.*** : contumelias dicere, ***Liv.*** : improborum: tam insignem in me accipere, ***Ter.*** : tantā adfectus: tantā acceptā, ***Caes.*** : contumeliam remanere in exercitu sinere, disgrace, ***Sall.*** : addere contumeliam iniuriae, ***Phaed.*** : contumelias perferre, ***Caes.*** : graves, ***Hor.*** : verborum: a quibus contumeliā perfugae appellarentur, ***Caes.*** : ingenium contumeliā adcensum, ***Sall.*** : quam sine contumeliā describo. — Person.: Contumeliae fanum. — Fig., injury, assault, violence: naves factae ad contumeliam perferendam, violence, ***Caes.*** : praebere ora contumeliis, to the blows, ***Tac.***
+##### con  tumulō —, —, āre
+to cover with a mound, inter, bury: contumulari humo, ***Ov.***
 ##### conturbātiō ōnis, f
 confusion, disquiet, consternation: mentis: est metus excutiens cogitata.
 ##### conturbō āvī, ātus, āre
@@ -1604,6 +1704,8 @@ a pole, pike: conti bini a prorā prominentes, ***Liv.*** — As a weapon, ***Ve
 a cone: coni forma. — The apex of a helmet, ***Ver.***
 ##### con  vallis is, f
 a valley, ravine, dell, ***Cic.*** : magna, ***Caes.*** : interiectae collibus convalles, ***Liv.*** : depressae, ***Ver.***
+##### convāsō āvī, —, āre
+to pack together, pack up: aliquid, ***Ter.***
 ##### convector ōris, m
 a fellow-passenger.
 ##### conveniēns entis, adj.
@@ -1636,6 +1738,8 @@ companionship, intercourse, intimacy, ***Cic.*** — A companion: convictiones d
 a table companion, messmate, familiar friend, ***Hor.*** , ***Cic.***
 ##### convīctus ūs, m
 a living together, intimacy, social intercourse: humanus: longi convictibus aevi, ***Ov.*** — A banquet, feast: convictibus indulgere, ***Tac.*** : sobrii, ***Tac.*** : omnis Convictus... De Rutilo, the talk of every dinner, ***Iuv.***
+##### convīsō —, —, ere
+to shine upon, ***Cic.*** poet.
 ##### convīvālis e, adj.
 of a guest, festal, convivial: oblectamenta, ***Liv.*** : fabulae, ***Tac.***
 ##### convīvātor ōris, m
@@ -1648,6 +1752,8 @@ a convoking, calling together, assembling: populi R.
 to call together, convoke, assemble, summon: milites: senatum in aedem: principes Trevirorum ad se, ***Caes.*** : principes penes Laecam, ***Sall.*** : convocato consilio, ***Caes.*** : ad contionem, ***Liv.***
 ##### convolō āvī, ātus, āre
 to fly together, come hastily together, run together: populus convolat, ***Ter.*** : ad rostra: ad sellas consulum, ***Liv.***
+##### convomō —, —, ere
+to bespew, vomit upon: mensas: maritum, ***Iuv.***
 ##### cooptātiō ōnis, f
 an election to office, appointment, choice: collegiorum: censoria, by the censors: in Patres, ***Liv.***
 ##### cooptō āvī, ātus, āre
@@ -1708,6 +1814,8 @@ a kettie, caldron, the tripod of Apollo, in the form of a caldron, ***Ver.*** �
 see corylus.
 ##### Cōrus ī, m
 the northwest wind; see Caurus.
+##### coruscō —, —, āre
+to move quickly, vibrate, shake, brandish, weave, tremble (poet.): duo Gaesa manu, ***Ver.*** : telum, ***Ver.*** : linguas (colubrae), ***Ov.*** : frontem, toss, ***Iuv.*** : Cunctanti telum, brandishes at, ***Ver.*** — To be in quick motion, flit, flutter, shake: apes pennis coruscant, ***Ver.*** : (colubrae) linguā, ***Ov.*** : abies, trembles, ***Iuv.*** — To flash, glitter, gleam, coruscate: flamma inter nubīs coruscat: (apes) fulgore, ***Ver.***
 ##### coruscus adj.
 in waving motion, waving, vibrating, tremulous: silvae, ***Ver.*** : ilices, ***Ver.*** — Flashing, gleaming, glittering: ignis, ***Hor.*** : vis fulminis, ***Cic.*** poet.: sol, ***Ver.*** : radii (solis), ***Ov.*** : Pyrrhus telis, ***Ver.*** : cristis capita alta corusci, ***Ver.***
 ##### corvus ī, m
@@ -1868,12 +1976,16 @@ a room for reclining, sleeping - chamber, bedchamber: altum: exire de cubiculo: 
 a cushion, elbowcushion, ***Hor.***
 ##### cubitālis e, adj.
 of a cubit, ***Liv.***
+##### cubitō āvī, —, āre, freq.
+to lie down often, be accustomed to lie: tecum semper.
 ##### cubus ī, m
 a mass, quantity: modicus, ***Ov.***
 ##### cucullus ī, m
 a hood, cowl, cap on a cloak, ***Iuv.***
 ##### cucurbita ae, f
 (prop., a gourd), a cuppingglass (from its form), ***Iuv.***
+##### cūdō —, —, ere
+to strike, beat, pound, knock. — Prov.: istaec in me cudetur faba, i. e. I shall smart for that, ***Ter.*** — To hammer, stamp, coin: argentum, ***Ter.***
 ##### cuicuimodī adv.
 gen. of quisquis + modus of whatever kind, of what sort soever: cuicuimodi es: sunt.
 ##### culcita ae, f

@@ -2,6 +2,8 @@
 a small board: ternis instructa lapillis, i. e. gaming-board, ***Ov.*** : Heu quantum fati parva tabella vehit, frail plank (i. e. bark), ***Ov.*** : liminis, the door-sill, Ct. — A fan: quos (ventos) faciet nostrā mota tabella manu, ***Ov.*** — A little picture, small painting: ea (exedria) tabellis ornare: priscis sparsa tabellis Porticus, ***Ov.*** — A waxed tablet for writing, writing-tablet: tabellae Imponere manūs, ***Ov.*** : abiegnae, ***Ov.*** — In the comitia, a ballot, polling-ticket, vote: cerata tabella cerā legitimā, i. e. with wax of uniform color (to protect secrecy): tabellā consulem declarare, i. e. by ballot: tabella modo detur nobis, sicut populo data est. — In a court of justice, a judge's ballot, juror's tablet, vote (inscribed with letters indicating his judgment or verdict, as C for condemno; A for absolvo; NL for non liquet): iudicialis: ternas tabellas dari ad iudicandum iis, etc., ***Caes.*** — A votive tablet, memorial tablet: votiva, ***Hor.*** : memores, ***Ov.*** — Plur, a writing, written composition, letter, epistle: tabellae laureatae, a despatch reporting a victory, ***Liv.*** : Cur totiens video mitti recipique tabellas? ***Ov.*** : tabellas proferri iussimus. — A document, contract, deed, record: Heracliensium publicae, public records: tabellae quaestionis, minutes of the examination: falsae forged wills, ***Iuv.*** : tabellis obsignatis agis mecum, i. e. you hold me strictly to what I have said.
 ##### tabellārius adj.
 of a ballot, relating to voting: lex, regulating the ballot. — As subst, a letter-carrier, messenger, courier: a Marco.
+##### tābeō —, —, ēre
+to melt away, waste, consume: tabentes genae, ***Ver.*** : sale tabentes artūs, dripping, ***Ver.*** : corpora tabent, ***Ov.***; see also tabesco.
 ##### taberna ae, f
 a rude dwelling, hut, cabin: mors pulsat pauperum tabernas, ***Hor.*** : Migret in obscuras tabernas, ***Hor.*** — A place of business, booth, shop, stall, office: instructa medicinae exercendae causā: libraria, a book-stall: Nulla taberna meos habeat libellos, ***Hor.*** : Nec vicina subest vinum praebere taberna, bar, ***Hor.*** : tabernae argentariae, money-changers' shops, ***Liv.*** : sutrina, ***Tac.*** : Liparea, Vulcan's shop, ***Iuv.*** : Adriae, market, Ct. — An inn, tavern: in tabernam devertere: occlusis tabernis: prope Cloacinae ad tabernas, ***Liv.*** : Tres Tabernae, a hamlet on the Appian Way near Ulubrae. — An archway in the circus.
 ##### tabernāculum ī, n
@@ -119,6 +121,8 @@ hap, chance, accident: in quibus nulla temeritas, sed ordo apparet: fortunae. �
 to treat rashly, violate, profane, defile, dishonor, disgrace, desecrate, outrage: hospitii sacra, ***Ov.*** : templa temerata Minervae, ***Ver.*** : sepulcra maiorum temerata, ***Liv.*** : patrium cubile, ***Ov.*** : Venerem maritam, ***Ov.*** : fluvios venenis, ***Ov.*** : temerata est nostra voluntas, ***Ov.***
 ##### tēmētum ī, n
 an intoxicating drink, mead, wine: carent temeto mulieres: accipis cadum temeti, ***Hor.*** , ***Iuv.***
+##### temnō —, —, ere
+to slight, scorn, disdain, despise, contemn: volgaria, ***Hor.*** : divos, ***Ver.*** : ne temne, quod Praeferimus manibus vittas, ***Ver.***
 ##### tēmō ōnis, m
 a pole, beam. — Of a wagon, the tongue: iunctos temo trahat aereus orbīs, ***Ver.*** , ***Ov.*** — Of a plough, the beam, tongue: pedes temo protentus in octo, ***Ver.*** — A wagon: de temone Britanno Excidet Arviragus, ***Iuv.*** — As a constellation, the Wagon of Boötes, Charles's Wain, ***Ov.***
 ##### temperāmentum ī, n
@@ -173,6 +177,8 @@ a tent: in tentoria abducti, ***Liv.*** : niveis tentoria velis Adgnoscit, ***Ve
 thinness, slenderness, fineness, smallness, tenuity: tanta ut fugiat aciem: tenuitas ipsa, slimness: crurum, ***Phaed.*** — Smallness, insignificance, poverty, indigence, scarcity: homin is earum rerum, quas terra procreet. — Fig., of language, simplicity, plainness: rerum et verborum.
 ##### tenuō āvī, ātus, āre
 to make thin, make slender, wear away, dilute, rarefy, attenuate: adsiduo vomer tenuatur ab usu, ***Ov.*** : Ipsā autem macie tenuant armenta volentes, make lean, ***Ver.*** : tenuatum corpus, ***Hor.*** : se in undas, dissolve, ***Ov.*** : vocis v ia est tenuata, contracted, ***Ov.*** : Luna tenuata, i. e. waning, ***Ov.*** — Fig., to make small, lessen, diminish, reduce, weaken, enfeeble: Utque meae famam tenuent oblivia culpae, ***Ov.*** : virīs amoris, ***Ov.*** : Magna modis tenuare parvis, to degrade, ***Hor.***
+##### tepeō —, —, ēre
+to be moderately warm, be lukewarm, be tepid: ubi plus tepeant hiemes, ***Hor.*** : tepentes aurae, ***Ver.*** : Sole tepente, ***Ov.*** — Fig., to be warm, glow with love, be enamoured: quo (Lycidā) mox virgines tepebunt, ***Hor.*** : Nescio quem sensi corde tepente deum. ***Ov.*** — To be lukewarm, be without ardor, be indifferent: Seu tepet sive amat, ***Ov.***
 ##### tepidus adj.
 moderately warm, lukewarm, tepid: lac, ***Ov.*** : ius, ***Hor.*** : sol, ***Hor.*** : cruor, ***Ver.*** : rogi, ***Ov.*** — Fig., lukewarm, cool, faint, languid: mens, ***Ov.*** : faces, ***Ov.***
 ##### terdeciēns (iēs) adv.
@@ -205,6 +211,8 @@ of the globe, on the earth, earthly, terrestrial, terrene: corpora: umores: best
 of earth, earthen: progenies, ***Ver.***
 ##### terriculum ī, n
 a source of terror, fright, scarecrow, bugbear, ***Liv.***
+##### terrificō —, —, āre
+to make afraid, frighten, alarm, scare: animos, ***Ver.***
 ##### terrificus adj.
 causing terror, frightful, terrible: Caesaries, ***Ov.*** : vates, ***Ver.***
 ##### territōrium ī, n
@@ -335,6 +343,8 @@ a ringing, jingling, tingling: Tinnitūsque c ie et quate cymbala, ***Ver.*** : 
 ringing, tinkling, shrillsounding: sistra, ***Ov.*** : vox, Ct.
 ##### tintinnābulum ī, n
 a bell, signalbell, call-bell: (mulus) collo iactat tintinnabulum, ***Phaed.*** : tintinnabula dicas pulsari, ***Iuv.***
+##### tintinō —, —, āre
+to ring, jingle, tingle: sonitu suopte Tintinant aures, Ct.
 ##### tīnus ī, f
 the snowball (a plant), ***Ov.***
 ##### tīrō ōnis, m
@@ -347,6 +357,8 @@ a young beginner, little tiro: noster, ***Iuv.***
 of Tiryns (in Argolis, the early home of Hercules). — Hence, of Hercules, Herculean: heros, i. e. Hercules, ***Ov.*** : tela, of Hercules, ***Ov.*** — As subst m., Hercules, ***Ver.*** , ***Ov.*** — As subst f., Alcmena, the mother of Hercules, ***Ov.***
 ##### tītillātiō ōnis, f
 a tickling, titillation: voluptatum.
+##### tītillō —, —, āre
+to tickle, titillate: sensūs: multitudinis levitatem voluptate: ne vos titillet gloria, ***Hor.***
 ##### titubanter adv.
 totteringly, hesitatingly, falteringly.
 ##### titubātiō ōnis, f
@@ -373,6 +385,8 @@ a bearing, supporting, endurance: rerum humanarum: priorum, ***Tac.***
 a bearing, supporting, enduring: dolorum.
 ##### tolerō āvī, ātus, āre
 to bear, endure, support, sustain, suffer: militiam: difficile toleratu: mores, ***Ter.*** : aequo animo servitutem, ***Sall.*** : cursūs, ***Ov.*** : sitim aestumque, ***Tac.*** : quis tolerare potest, illis divitias superare? etc., ***Sall.*** : paulo longius tolerari posse, i. e. they might hold out, ***Caes.*** — To support, nourish, maintain, sustain, preserve: his rationibus equitatum tolerare, ***Caes.*** : vitam, ***Caes.*** : colo vitam, ***Ver.*** : inopiam, ***Sall.***
+##### tollēnō ōnis, m
+a swing-beam, derrick, lever: supra murum eminens, ***Liv.***
 ##### tomāculum ī, n
 a sausage, liver-sausage, ***Iuv.***
 ##### tonāns antis, adj.
@@ -401,6 +415,8 @@ to turn in a lathe, round off: sphaeram. — Poet.: male tornati versūs, badly 
 a turner's wheel, lathe: Nec tiliae leves torno Non formam accipiunt, ***Ver.*** — Fig.: angusto versūs includere torno, ***Prop.***
 ##### torōsus adj.
 full of muscle, muscular, brawny, lusty: Colla boum, ***Ov.***
+##### torpeō —, —, ēre
+to be stiff, be numb, be inactive, be torpid: torpentes gelu, numb, ***Liv.*** : torpent infractae ad proelia vires, ***Ver.*** : torpente palato, ***Iuv.*** — Fig., to be stupid, be stupefied, be dull, be inactive: torpentibus metu qui aderant, ***Liv.*** : deum volumus cessatione torpere: Defixis oculis animoque et corpore torpet, ***Hor.*** : cum Pausiacā torpes tabellā, are lost in admiration, ***Hor.*** : frigere ac torpere senis consilia, are feeble, ***Liv.*** : si tua re subitā consilia torpent, i. e. if you are surprised out of your self-possession, ***Liv.*** : Tyrii desperatione torpebant, ***Curt.***
 ##### torpidus adj.
 benumbed, stupefied, torpid: somno, ***Liv.***
 ##### torquātus adj.
@@ -507,6 +523,8 @@ beyond sea, from over the sea, transmarine: subsidium: artes: legationes, ***Liv
 a sending across, passing over, passage: superior tua: ab eā urbe in Graeciam.
 ##### trānsmontānus adj.
 beyond the mountains. — Plur. m. as subst, the people beyond the mountains, ***Liv.***
+##### trānsmoveō —, —, ēre
+to remove, transfer: gloriam Verbīs in sc. ***Ter.***
 ##### Trānspadānus adj.
 beyond the Po, ***Caes.*** , ***Cic.*** — As subst m., one who dwells beyond the Po, Ct. — Plur., ***Cic.***
 ##### trānsportō āvī, ātus, āre
@@ -515,6 +533,8 @@ to carry over, take across, carry, convey, remove, transport: duas legiones, ***
 beyond the Rhine, ***Caes.*** — Plur m. as subst, dwellers beyond the Rhine, ***Caes.***
 ##### trānstrum ī, n
 a cross-beam, crossbank, bank for rowers, thwart: transtra pedalibus trabibus confixa, ***Caes.*** : considite transtris, ***Ver.*** : transtra carinae, ***Ov.***
+##### trānsverberō —, —, āre
+to strike through, thrust through, pierce through, transfix: bestia venabulo transverberatur: abiete pectus, ***Ver.***
 ##### trānsversa adv.
 Plur n. of transversus across, askance, sideways: Mutati fremunt venti, ***Ver.***
 ##### trapētum ī, n
@@ -599,6 +619,8 @@ measuring three feet, three feet long: parma, ***Liv.***
 in three parts, into three parts: bona dividere: equitatus, tripertito divisus, ***Caes.*** : urbem adgreditur, ***Liv.***
 ##### triplus adj.
 num., threefold, triple: pars.
+##### tripudiō —, —, āre
+to beat the ground with the feet, leap, jump, dance exultingly: more suo, ***Liv.*** : in funeribus rei p.
 ##### tripudium ī, n
 a measured stamping, leaping, jumping, dancing, exultant dance, solemn dance: per urbem ire cum tripudiis sollemnique saltatu, ***Liv.*** : cantūs et ululatūs et tripudia, ***Liv.*** — In augury, the excited stamping of the sacred chickens when fed, ***Liv.***
 ##### triquetrus adj.
@@ -669,18 +691,26 @@ to maim, mutilate, shorten, cut off: truncata simulacra deum, ***Liv.*** : Trunc
 maimed, mutilated, mangled, dismembered, disfigured: Trunca manu pinus regit (Polyphemum), i. e. the trunk of a pinetree, ***Ver.*** : frons, without its horn, ***Ov.*** : corpus, limbless, ***Ov.*** : puerum trunci corporis natum, ***Liv.*** : Tela, i. e. broken, ***Ver.*** : arbor, deprived of branches, ***Curt.*** — Poet. with gen: animalia Trunca pedum, i. e. without feet, ***Ver.*** — Undeveloped, imperfect, wanting: ranae pedibus, ***Ov.*** — Fig., maimed, mutilated: urbs trunca, sine senatu, etc., ***Liv.***
 ##### truncus ī, m
 the stem, stock, bole, trunk: arborum trunci, ***Caes.*** : quid interest inter hominem et truncum? etc.: enodes trunci, ***Ver.*** : inlapsus cerebro, ***Hor.*** : acernus, ***Ov.*** — The trunk, body: corporis: recto se attollere trunco, ***Ov.*** : iacet ingens litore truncus, ***Ver.*** — Fig., a stock, blockhead, dunce, dolt: qui potest esse in eius modi trunco sapientia? — A trunk, stem: quae (stirpes aegritudinis) ipso trunco everso omnes elegendae sunt.
+##### trūsitō —, —, āre
+to push often: mulum trusitant, ***Phaed.***
+##### trūsō —, —, āre
+freq, to push often, push hard, Ct.
 ##### trutina ae, f
 a balance, pair of scales. — Fig.: ea quae populari quādam trutinā examinantur: Romani pensantur eādem Scriptores trutinā, ***Hor.*** : aliā parte in trutinā suspendit Homerum, ***Iuv.***
 ##### tuba ae, f
 a trumpet, war-trumpet: ille arma misit, tubas: At tuba terribilem sonitum procul Increpuit, ***Ver.*** : non exaudito tubae sono, ***Caes.*** — Fig., an instigator, stirrer: belli civilis: rixae, ***Iuv.***
 ##### tūber eris, n
 a lump, bump, swelling, tumor, protuberance, hump: colaphis tuber est totum caput, is one boil, ***Ter.*** — Poet.: tuberibus propriis offendere amicum, i. e. great faults, ***Hor.*** — A mushroom, truffle, moril, ***Iuv.***
+##### tueō —, —, ēre
+collat. form of tueor, to care for, maintain: censores vectigalia tuento.
 ##### tugurium ī, n
 a hut, cot, cottage, ***Cic.*** , ***Ver.*** , ***Sall.*** , ***Liv.***
 ##### tuitiō ōnis, f
 a caring for, watching over, guardianship, protection: sui.
 ##### Tulliānus adj.
 of Tullius, Tullian. — As subst n. (sc. robur), a dungeon in Rome, built by Servius Tullius, ***Sall.*** , ***Liv.***
+##### tumeō —, —, ēre
+to swell, be swollen, be tumid, puff out, be inflated: corpus tumet veneno, ***Ov.*** : pedes, ***Ver.*** : gemma in tenero palmite, ***Ov.*** : multo sacci hordeo, ***Phaed.*** : cuius aceto tumes? ***Iuv.*** — Fig., to swell, be swollen, be excited, be violent, rage: sapientis animus numquam tumet: multis gentibus irā tumentibus, ***Liv.*** : pectus anhelum, Et rabie fera corda tument, ***Ver.*** : tument negotia, are in a ferment: Bella tument, ***Ov.*** — To be puffed up, swell: Tumens graculus superbiā, ***Phaed.*** : longā serie Caesarum, ***Tac.*** : alto stemmate, ***Iuv.*** : Laudis amore tumes, ***Hor.*** — Of language, to be pompous, be bombastic, ***Tac.***
 ##### tumor ōris, m
 the state of being swollen, swelling, tumor: oculorum; cf. recentes quasi tumores animi. — Of the ground, a swelling, elevation: tumor ille loci permansit, et alti Collis habet speciem, ***Ov.*** — Fig., a swelling, commotion, ferment, excitement: cum tumor animi resedisset: tumor et irae Concessere deum, ***Ver.*** : rerum.
 ##### tumulō āvī, ātus, āre
@@ -717,6 +747,8 @@ shaped like a top, cone-shaped: vortex, ***Ov.***
 confusedly, tumultuously: nihil facere.
 ##### turdus ī, m
 a thrush, fieldfare, ***Hor.***
+##### turgeō —, —, ēre
+to swell out, be swollen, be tumid: turgentia ora (from the stings of hornets). ***Ov.*** : laeto in palmite gemmae, ***Ver.*** : sacculus pleno ore, ***Iuv.*** — Fig., of speech, to be inflated, be turgid, be bombastic: professus grandia turget, ***Hor.***
 ##### turgidus adj.
 swollen, inflated, distended, turgid: membrum: haedus, Cui frons turgida cornibus, ***Hor.*** : (femina), i. e. pregnant, ***Ov.*** — Fig., of speech, inflated, turgid: Alpinus, ***Hor.***
 ##### tūrilegus adj.
@@ -737,6 +769,8 @@ to make unsightly, soil, defile, pollute, disfigure, deform: Iovis aram sanguine
 furnished with towers, towered, turreted, castled, castellated: moenia, ***Ov.*** : puppes, ***Ver.*** — Fem., as an epithet of Cybele, towercrowned, turreted: Berecyntia mater, ***Ver.*** , ***Ov.*** — Towering, lofty: scopuli, ***Ver.***
 ##### Tuscus adj.
 of the Tuscans, Tuscan, Etruscan, Etrurian, ***Cic.*** , ***Liv.*** , ***Nep.*** , ***Ov.*** : amnis, i. e. the Tiber, ***Hor.*** , ***Ov.*** : flumen, ***Ov.*** : alveus, ***Hor.*** : vicus, a street of bad repute in Rome, ***Liv.*** , ***Hor.***
+##### tussiō —, —, īre
+to cough, have a cough: male, ***Hor.***
 ##### tussis is, f
 a cough, ***Ter.*** : quatit Tussis anhela sues, ***Ver.*** , ***Hor.*** : tussīs abstine, ***Ter.***
 ##### tūtāmen inis, n

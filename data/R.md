@@ -2,6 +2,8 @@
 madly, furiously: omnia appetens.
 ##### rabidus adj.
 raving, mad, rabid, enraged: tigres, ***Ver.*** : leones, ***Hor.*** : lupa, ***Ov.*** : ut rabida ora quierunt, inspired, ***Ver.*** : mores, ungoverned, ***Ov.*** : lingua, ***Prop.*** : furor animi, Ct.
+##### rabiō —, —, ere
+to rave, be mad, ***Cic.*** poët.
 ##### rabiōsē adv.
 ravingly, madly, fiercely: nihil iracunde rabioseve fecerunt.
 ##### rabiōsus adj.
@@ -98,12 +100,22 @@ a renewal of war, revolt, rebellion: facta post deditionem, ***Caes.*** : ad reb
 a revolt, ***Liv.*** dub.
 ##### rebellō āvī, ātus, āre
 to wage war again, revolt, rebel: Volsci rebellarunt, ***Liv.*** : tauro mutatus membra rebello, renew the combat, ***Ov.***
+##### reboō —, —, āre
+to bellow back, resound, reecho: reboant silvae, ***Ver.*** , Ct.
+##### recalcitrō —, —, āre
+to kick back, be inaccessible: recalcitrat undique tutus, ***Hor.***
+##### recaleō —, —, ēre
+to grow warm again: recalent fluenta Sanguine, run warm, ***Ver.***
+##### recellō —, —, ere
+to spring back, fly back, recoil: cum (ferrea manus) recelleret ad solum, ***Liv.***
 ##### recēns adv.
 lately, freshly, newly, just, recently: recens accepta cladis, ***Liv.*** : Sole recens orto, ***Ver.***
 ##### recēnsiō ōnis, f
 an enumeration, recension: memoria publica recensionis tabulis impressa, i. e. the censor's register.
 ##### receptāculum ī, n
 a place of deposit, reservoir, magazine, receptacle: cibi et potionis (alvus): frugibus, ***Tac.*** : omnium purgamentorum urbis, ***Liv.*** — A place of refuge, lurking-place, shelter, retreat: nisi illud receptaculum classibus nostris pateret: pro receptaculo turrim facere, ***Caes.*** : castella diruit, ne receptaculo hostibus essent, ***Liv.*** : praedonum receptacula sustulit: oppidum receptaculum praedae, a hiding-place: adversae pugnae, refuge from defeat, ***Liv.*** : exsulum, ***Curt.*** : (mors) aeternum nihil sentiendi receptaculum.
+##### receptō āvī, —, āre, intens.
+to take back, wrest away: hastam receptat Ossibus haerentem, ***Ver.*** — To receive habitually, harbor, entertain: meum filium ad te, i. e. my son's visits, ***Ter.*** : mercatores, admit, ***Liv.*** — With pron reflex., to betake oneself, withdraw, retire, recede: in tectum te, ***Ter.*** : Saturni sese quo stella receptet, ***Ver.***
 ##### receptor ōris, m
 a harborer, concealer: ille latronum receptor locus.
 ##### receptrīx īcis, f
@@ -116,6 +128,8 @@ a taking back, retraction, recantation: nimis pertinacis sententiae, ***Liv.*** 
 a going back, receding, retiring, retreat, departure: a pestiferis (rebus): ut luna accessu et recessu suo solis lumen accipiat: recessum primis ultimi non dabant, i. e. means of retreat, ***Caes.*** — A remote place, retired spot, nook, corner, retreat, recess: mihi solitudo et recessus provinc ia est: non recessus ipse defendit, our remote position, ***Tac.*** : auctumno tecta ac recessum circumspicere, ***Liv.*** : spelunca vasto submota recessu, in a deep recess, ***Ver.*** : Lumin is exigui prope templa, inner chamber, ***Ov.*** : Phrygiae recessūs omnīs peragrasti, ***Liv.*** : pulchri, inner rooms, ***Ov.*** — Fig., a withdrawal: tum accessus a te ad causam fati, tum recessus, advance<⋆> and retreats: habere in dicendo umbram aliquam et recessum, shade and background: in animis hominum sunt recessūs.
 ##### recidīvus adj.
 falling back, returning, recurring: nummus, ***Iuv.*** : Pergama, rebuilt, ***Ver.***
+##### recinō —, —, ere
+to cause to echo, make to resound, repeat, re-echo: parrae recinentis omen, ***Hor.*** : cuius recinet Nomen imago, ***Hor.*** — To repeat, celebrate, praise: haec dictata, ***Hor.*** : curvā lyrā Latonam, ***Hor.***
 ##### reciprocus adj.
 returning, receding: mare, ***Tac.***
 ##### recitātiō ōnis, f
@@ -132,6 +146,8 @@ to cry out against, exclaim against, contradict, protest: cum cunctus ordo recla
 leaning back, reclining: In sinu iuvenis, ***Ov.***
 ##### reclīnō āvī, ātus, āre
 to bend back, cause to lean, recline: alces ad eas (arbores) reclinatae, ***Caes.*** : caput: scuta, rest, ***Ver.*** : ab labore me, relieve, ***Hor.***
+##### recōgitō āvī, —, āre
+to think over, reconsider: de formā Numisianā.
 ##### recōgnitiō ōnis, f
 a reviewing, investigation, examination: consulis, ***Liv.***
 ##### recompositus adj.
@@ -142,10 +158,14 @@ a re-establishing, reinstatement, restoration, renewal: concordiae: gratiae, rec
 a restorer: pacis, ***Liv.***
 ##### reconciliō āvī, ātus, āre
 to procure again, regain, recover, restore, re-establish: Parum insulam oratione, ***Nep.*** : fides reconciliatae gratiae: detrimentum virtute militum reconciliatur, is made good, ***Caes.*** : cum fratre gratiam, ***Liv.*** : de reconciliandis invicem inimicis, ***Tac.*** — To bring together again, reunite, reconcile: me cum Caesare in gratiam: quibus eum omnibus eadem res p. reconciliavit, quae alienarat, reunited: animos militum imperatori, ***Liv.*** — To win over again, conciliate: Pompeium.
+##### reconcinnō —, —, āre
+to set right again, repair: tribus locis aedifico, reliqua reconcinno: detrimentum, ***Caes.***
 ##### recordātiō ōnis, f
 a recalling to mind, recollection, remembrance: grata: recordationes fugio, quae dolorem efficiunt rerum: veteris memoriae, the recollection of an old circumstance: servitutis: benefactorum: nostrae amicitiae: iucundae recordationes conscientiae nostrae.
 ##### recreō āvī, ātus, āre
 to make anew, renew, restore, revive, refresh, recruit, invigorate: voculae recreandae causā: recreatus legatus ex volneribus, ***Liv.*** : e gravi morbo: leni vento umerum, ***Hor.*** : Arbor aestivā recreatur aurā, ***Hor.*** : squillis Poto <⋆> rem, ***Hor.*** : ex acie semivivum elatum, ***Nep.*** : adflictum erexit, perditumque recreavit: provinciam perditam: res p. revivescat et recreetur: recreatur civitas: (animus) cum se recreavit, has recovered itself: litteris sustentor et recreor: Caesarem antro, ***Hor.*** : spatium ad recreandos animos, ***Caes.*** : ab hoc maerore recreari.
+##### recrepō —, —, āre
+to resound, echo: cava cymbala recrepant, Ct.
 ##### rēctā adv.
 abl f. of rectus; sc. viā straightway, straightforward, right on, directly. Tu rus hinc ibis?... rectā, ***Ter.*** : ab subselliis in rostra rectā: perge in exsilium: Tendimus hinc rectā Beneventum, ***Hor.***
 ##### rēctiō ōnis, f
@@ -154,12 +174,18 @@ a guiding, government, direction: rerum p.
 a guide, leader, director, ruler, master, helmsman, pilot: navium rectores: navis, ***Ver.*** : ut in curru det rector Lora, driver, ***Ov.*** : exterriti sine rectoribus equi, ***Tac.*** : elephanti ab rectoribus interfecti, ***Liv.*** — Fig., a ruler, leader, guide, governor: civitatis: rei p., ***Liv.*** : Thebarum, ***Hor.*** : populorum, ***Ov.*** : summi rectoris ac domini numen: pelagi, Neptune, ***Ov.*** : milites, qui ad tra <⋆> dendam disciplinam, exemplum et rectores habebantur, officers, ***Tac.*** : Rectores iuvenum, ***Ver.***
 ##### rēctum ī, n
 good, uprightness, rectitude, virtue: illud rectum, quod ***Ter.*** : curvo dignoscere rectum, ***Hor.*** : mens sibi conscia recti, ***Ver.*** : fidem rectumque colebat, ***Ov.***
+##### recubō —, —, āre
+to lie upon the back, lie down, lie back, recline: molliter et delicate: in sinu consulis, ***Liv.*** : sus solo, ***Ver.*** : sub tegmine fagi, ***Ver.*** : Sub arbore, ***Ov.***
 ##### recursus ūs, m
 a running back, going back, return, retreat: Inde alios ineunt cursūs aliosque recursūs, ***Ver.*** : ut recursus pateret, ***Liv.*** : dent modo fata recursūs, ***Ov.*** : per alternos undā labente recursūs, ***Ov.***
 ##### recurvus adj.
 turned back, bent, crooked, curved inward, winding: cornu, ***Ver.*** : hederae nexus, tangled, ***Ov.*** : tectum, i. e. the Labyrinth, ***Ov.*** : aera, i. e. fish-hooks, ***Ov.***
 ##### recūsātiō ōnis, f
 a declining, refusal: quod ubi sine recusatione fecerunt, ***Caes.*** : sine ullā recusatione. — In law, an objection, protest: haec tua. — A plea in defence, counter-plea (opp. petitio).
+##### redamō —, —, āre
+to return love for love.
+##### redārdēscō —, —, ere
+to blaze up anew, ***Ov.***
 ##### redēmptiō ōnis, f
 a buying back, releasing, ransoming, redemption: cum captivis redemptio negabatur, ***Liv.*** — A farming of the revenue: temeritas redemptionis. — A corrupt purchase, bribery: iudici: reorum pactiones, redemptiones.
 ##### redēmptor ōris, m
@@ -174,6 +200,8 @@ a going back, coming back, returning, return: Quid huc tibi reditiost? ***Ter.**
 a going back, returning, return: noster itus, reditus: arcens reditu tyrannum: spe omni reditūs incisā, ***Liv.*** : excludi reditu, ***Nep.*** : ne metum reditūs sui barbaris tolleret, ***Caes.*** : Maturum reditum pollicitus, ***Hor.*** : Votum pro reditu simulant, ***Ver.*** : animis reditum in caelum patere: domum, home. — Plur.: Sanguine quaerendi reditūs, ***Ver.*** : populum reditūs morantem, ***Hor.*** : populo reditūs patent, ***Ov.*** — Of heavenly bodies, a return, revolution, circuit: annum solis reditu metiuntur: solis anfractūs reditūsque convertere. — A return, revenue, income, proceeds, yield, profit: omnisque eius pecuniae reditus constabat, ***Nep.*** : reditūs metallorum, ***Liv.*** : reditūs quisque suos amat, ***Ov.*** — Fig., a return, restoration: in gratiam cum inimicis: gratiae.
 ##### redivīvus adj.
 freshened up, used again, renewed, renovated (of old building-materials): columnam efficere novam, nullo lapide redivivo. — As subst n.: quasi quicquam redivivi ex opere illo tolleretur.
+##### redōnō āvī, —, āre
+to give back, restore, return: te Dis patriis, ***Hor.*** : gravīs Iras Marti redonabo, i. e. for the sake of Mars will give up, ***Hor.***
 ##### reductiō ōnis, f
 a bringing back, restoring, restoration: regis.
 ##### reductor ōris, m
@@ -186,14 +214,26 @@ curved back, bent inward, ***Ov.***
 an overflowing, excess, lavishness. — Of style: iuvenilis.
 ##### redundō āvī, ātus, āre
 to run over, pour over, stream over, overflow: mare neque redundat umquam: Gutture pleno redundet aqua, ***Ov.*** : cum pituita redundat aut bilis. — P. pass.: redundatae aquae, surging, ***Ov.*** — To be over full, overflow, be choked, swim, reek: quae (crux) civis sanguine redundat: hic locus acervis corporum et civium sanguine redundavit. — Fig., to run over, overflow, remain, be left, redound, be in excess, abound: ex meo tenui vectigali aliqu id etiam redundabit, will still remain: hinc illae extraordinariae pecuniae redundarunt, have proceeded: si ex hoc beneficio nullum in me periculum redundarit: In genus auctoris miseri fortuna redundat, ***Ov.*** : ne quid invidiae mihi in posteritatem redundaret, should fall upon me: ex rerum cognitione efflorescat et redundet oportet oratio, flow abundantly: non reus ex eā causā redundat Postumus, is left under accusation: tuus deus non digito uno redundat, sed capite, collo, cervicibus, etc., has in excess. — Of style, to be lavish, be redundant, be copious, overflow: nimis redundantes iuvenili quādam dicendi impunitate: oratores nimis redundantes: ut neque in Antonio deesset hic ornatus orationis neque in Crasso redundaret. — To abound, be filled, overflow: munitus indicibus fuit, quorum hodie copia redundat: omnibus vel ornamentis vel praesidiis redundare: acerbissimo luctu redundaret ista victoria.
+##### referiō —, —, īre
+to strike back: Qui referire non audebam, ***Ter.*** : Oppositā speculi referitur imagine Phoebus, is reflected, ***Ov.***
 ##### refervēns ntis, adj.
 boiling over, hot: refervens falsum crimen, furious.
+##### refervēscō —, —, ere
+inch, to boil up, bubble over: (sanguis) refervescere videretur.
+##### refingō —, —, ere
+to make again, make over, construct anew: cerea regna, ***Ver.***
+##### reflāgitō —, —, āre
+to demand again, demand back, Ct.
 ##### reflō āvī, ātus, āre
 to blow back, blow in opposition, be contrary: reflantibus ventis: Etesiae valde reflant: pelagus respergit, reflat, Att. ap. ***Cic.*** — Fig.: cum reflavit (fortuna), adfligimur.
+##### refluō —, —, ere
+to flow back, flow off, overflow: Maeandros ambiguo lapsu refluitque fluitque, ***Ov.*** : refluit amnis, ***Ver.***
 ##### refluus adj.
 flowing back, refluent: mare, ***Ov.***
 ##### reformīdātiō ōnis, f
 a shuddering, horror: deliberantis.
+##### refrēnō —, —, āre
+to bridle, check, curb: equus, ***Curt.*** — To keep down, control: aquas, ***Ov.*** — Fig., to restrain, check, keep: adulescentīs a gloriā: a reditu: indomitam licentiam, ***Hor.***
 ##### refrīgerātiō ōnis, f
 a cooling, coolness: me delectat refrigeratio aestate.
 ##### refrīgerō āvī, ātus, āre
@@ -252,6 +292,8 @@ an easing, relaxation: animi: quae est ista relaxatio (sc. doloris), mitigation.
 to stretch out, widen again, make wider: fontibus ora, open, ***Ov.*** : vias et caeca Spiramenta, relax the ducts, ***Ver.*** — To unloose, loosen, open: alvus relaxatur: se intestinis relaxantibus: densa, rarefy, ***Ver.*** : tunicarum vincula, ***Ov.*** — Fig., to abate, remit, give respite: remittit aliquantum et relaxat. — To ease, relieve, cheer, relax, lighten: animos doctrinā: animus somno relaxatus: ut ex pristino sermone relaxarentur animi omnium: homines interdum animis relaxantur. — To make loose, relax, loosen: constructio verborum dissolutionibus relaxetur: pater indulgens, quicqu id ego astrinxi, relaxat. — To alleviate, mitigate, assuage: tristitiam ac severitatem: quiete laborem, ***Curt.*** — To relieve, release, free, abate: (animi) cum se corporis vinculis relaxaverint: insani cum relaxentur, i. e. become lucid.
 ##### relēgō āvī, ātus, āre
 to send away, send out of the way, despatch, remove, seclude: filium ab hominibus: (filium) rus supplici causā: relegati longe ab ceteris, ***Caes.*** : procul Europā in ultima orientis relegati senes, ***Curt.*** : civīs procul ab domo, ***Liv.*** : relegatum in aliā insulā exercitum detinere, ***Tac.*** : tauros in sola Pascua, ***Ver.*** : terris gens relegata ultimis: Hippolytum nemori, consign, ***Ver.*** — To send into exile, banish, exile, relegate (enforcing residence in a particular town or province, without loss of civil rights): ut equites a consule relegarentur: relegatus, non exsul, dicor in illo, ***Ov.*** : relegatus in exilium, ***Liv.*** : ultra Karthaginem, ***Liv.*** — Fig., to send back, send away, put aside, reject: a re p. relegatus, i. e. driven from public life: Samnitium dona: ambitione relegatā, apart, ***Hor.*** : mea verba, ***Ov.*** — To refer: studiosos ad illud volumen, ***Nep.*** : ornandi causas tibi, Tb.
+##### relēntēscō —, —, ere
+inch, to grow slack again, cool. — Fig.: Neve relentescat amor, ***Ov.***
 ##### relevō āvī, ātus, āre
 to life up, raise: e terrā corpus, ***Ov.*** : in cubitum membra, ***Ov.*** — To free from a bu<⋆>den, make light, lighten: epistulam graviorem pellectione: Ut relevent vimina curva favi (i. e. exonerare), ***Ov.*** : minimo ut relevere labore, i. e. be delivered, ***Ov.*** — Fig., to relieve, free, lighten, ease, soothe, alleviate, mitigate: curā et metu esse relevati: pectora sicca mero, ***Ov.*** : a curā mens rele vata est, ***Ov.*** : me, console: animum, ***Ter.*** : ut cibi satie tas et fastidium relevatur: casūs, ***Ov.*** : sitim, ***Ov.***
 ##### relictiō ōnis, f
@@ -264,26 +306,56 @@ to bind back, fasten up, bind fast: (Prometheus) religatus asperis Vinctusque sa
 a staying behind, remaining, stay, continuance: tua.
 ##### remedium ī, n
 that which restores health, a cure, remedy, antidote, medicine: tuis veneficiis remedia invenire: caecitatis, ***Tac.*** : remedium quoddam habere: remedio uti. — Fig., a means of aid, assistance, remedy, help, cure: ad omnia confugi remedia causarum: ad magnitudinem frigorum remedium comparare: remedium quaerere ad moram: volneris: aegritudinum, ***Ter.*** : iracundiae, ***Ter.*** : Inveni remedium huic rei, ***Ter.*** : quibus rebus reperire remedia, ***Caes.*** : saluti suae remediis subvenire: id remedium timori fuit, ***Liv.***
+##### remeō āvī, —, āre
+to go back, turn back, return: in patriam, ***Ov.*** : eodem remeante nuntio, ***Liv.*** : cum neque terra ali posset nec remearet aër, would flow back again: victor domito ab hoste, ***Ov.*** : patrias remeabo inglorius urbīs, without the glory of triumph, ***Ver.*** — To traverse again, live over: aevom peractum, ***Hor.***
 ##### rēmigātiō ōnis, f
 a rowing.
 ##### rēmigium ī, n
 an oar-plying, rowing: Olli remigio noctemque diemque fatigant, ***Ver.*** — Rowing apparatus, the oars: Nudum remigio latus, ***Hor.*** : mutabile, oars that can be shifted, ***Tac.*** : lembum Remigiis subigit, ***Ver.*** — Of wings: volat per aëra Remigio alarum, v., ***Ov.*** — Oarsmen, rowers: suppleverat remigio navīs, ***Liv.*** : remigium classicique milites, ***Liv.*** : vitiosum Ulixei, ***Hor.***
+##### rēmigō —, —, āre
+to ply the oar, row: alio modo: remigandi labor, ***Caes.*** : mare grave remigantibus, to rowers, ***Tac.***
+##### remigrō āvī, —, āre
+to journey back, go back, return: in nostram domum: trans Rhenum in suos vicos, ***Caes.*** : Romam tibi remigrandum est. — Fig.: ad iustitiam.
 ##### remissiō ōnis, f
 a sending back, sending away, releasing, returning: obsidum captivorumque, ***Liv.*** — An easing, letting down, lowering: superciliorum: vocis remissiones. — Fig., a relaxing, abating, diminishing, remitting, remission, relaxation, abatement: remissio lenitatis (in oratione), i. e. passages of a quiet tenor: morbi: poenae, i. e. a milder punishment: tributi, ***Tac.*** — Want of spirit, submissiveness: in acerbissimā iniuriā remissio animi. — Relaxation, recreation: quem non remissio, non ludi delectarent: tempora curarum remissionumque, ***Tac.*** : animi: animorum. — Mildness, gentleness: animi.
+##### remollēscō —, —, ere
+inch, to become soft again, grow soft, soften, melt: sole Cera remollescit, ***Ov.*** — Fig., to be enervated, lose strength: ad laborem ferendum, ***Caes.*** — To be moved, be influenced: precibus numina iustis Victa remollescunt, ***Ov.***
+##### remolliō —, —, īre
+to make soft again, soften, weaken: tactos artūs, O
 ##### remōtē adv.
 at a distance, afar off. — Only comp: stellae aliae, remotius eadem spatia conficiunt.
 ##### remōtiō ōnis, f
 a putting away, removal: criminis.
+##### remūgiō —, —, īre
+to bellow back, low in answer: ad mea verba, ***Ov.*** — To resound, re-echo: totus remugit Mons, ***Ver.*** : Ionius remugiens sinus Noto, ***Hor.*** : vox adsensu nemorum ingeminata remugit, ***Ver.***
+##### remulceō —, —, ēre
+to stroke back, fold back, curve: caudam, ***Ver.***
 ##### remulcum ī, n
 a tow-rope: navem remulco abstraxit, ***Caes.*** : navem remulco trahere, ***Liv.***
 ##### remūnerātiō ōnis, f
 a recompense, reward, remuneration: celerior: officiorum.
+##### remurmurō —, —, āre
+to murmur back, remurmur: nec fracta remurmurat unda, ***Ver.***
 ##### rēmus ī, m
 an oar: intermisso pulsu remorum: remis navigium incitare, ***Caes.*** : remis insurgere, ***Ver.*** : inpellere aequora remis, ***Ov.*** — Prov.: remis ventisque petere, in all haste, ***Ver.*** : res velis remisque fugienda, by all possible means. — Poet.: alarum, ***Ov.*** : rem is ego corporis utar, i. e. will swim, ***Ov.*** — Fig.: (orationem) dialecticorum remis propellere.
+##### renārrō —, —, āre
+to tell over again, recount, relate: fata divom, ***Ver.*** : facta, ***Ov.***
+##### renāvigō —, —, āre
+to sail back: in haec regna.
+##### reneō —, —, ēre
+to unspin, undo, unravel: dolent, haec fila reneri, i. e. that this decree of fate is reversed, O
+##### renīdeō —, —, ēre
+to shine again, shine back, glitter, glisten, be bright, be resplendent: pura nocturno renidet Luna mari, ***Hor.*** : Circum renidentes Lares, i. e. polished, ***Hor.*** : fluctuat omnis Aere renidenti tellus, with the gleam of arms, ***Ver.*** — To beam with joy, be glad, smile: homo renidens, ***Liv.*** : Ore renidenti Captabat plumas, ***Ov.*** : falsum voltu, ***Tac.*** : adiecisse praedam Torquibus exiguis renidet, rejoices, ***Hor.***
+##### renō āvī, —, āre
+to swim back: saxa, i. e. rise to the surface, ***Hor.***
+##### renōdō —, —, āre
+to bind back, tie behind in a knot: longam comam, ***Hor.***
 ##### renovāmen inis, n
 a renewal, transformation: in hoc renovamine manere, ***Ov.***
 ##### renovātiō ōnis, f
 a renewing, renewal: mundi. — In computing interest, a rest: centesimis sexenni ductis cum renovatione singulorum annorum, i. e. with compound interest. — Fig., a renewal, renovation: doctrinae: auspiciorum, ***Liv.***
+##### renumerō —, —, āre
+to pay back, repay: dotem huc, T
 ##### renūntiātiō ōnis, f
 a report, proclamation, announcement: eius: suffragiorum.
 ##### renūntiō āvī, ātus, āre
@@ -324,6 +396,8 @@ a folding back, reflex movement.
 to fold back, bend back, unroll, open: annalium memoriam: primum quidque, i. e. reveal.
 ##### reportō āvī, ātus, āre
 to bear back, bring again, carry back: diligens fuit ad reportandum, restoring (the borrowed statue): candelabrum secum in Syriam: (milites) in Siciliam navibus, ***Caes.*** : exercitum e Britanniā: legiones, ***Liv.*** : massam picis urbe, ***Ver.*** : curru aurato reportati, borne in triumph: pedem in hoste (i. e. redire), ***Ver.*** — To carry off, bear away, get, gain, obtain: nih il ex praedā domum suam: nihil praeter laudem ex hostibus: praedam ad decemviros. — Fig., to bring back: ex calamitate solacium: Spem bonam domum, ***Hor.*** : (Echo) audita verba, returns, ***Ov.*** — To bring back, report: adytis dicta, ***Ver.*** : fidem, trustworthy information, ***Ver.*** : Nuntius reportat Advenisse viros, ***Ver.***
+##### repōscō —, —, ere
+to demand back, ask again: propensiores ad bene merendum quam ad reposcendum: me Catilinam: Parthos signa, ***Ver.*** — Fig., to ask for, claim, demand, exact, require: Amissam meā virtutem voce, ***Ov.*** : foedus flammis, ***Ver.*** : Quos illi poenas ob nostra reposcent Effugia, ***Ver.*** : ab altero rationem vitae: vos rationem reposcitis, quid fecerimus? ***Liv.***
 ##### repostor ōris, m
 a restorer: templorum, ***Ov.***
 ##### repostus adj.
@@ -346,6 +420,8 @@ a rejection, refusal, disdaining: supplicum.
 to cast off, put away, reject: Repudiatus repetor, ***Ter.*** — To reject, refuse, scorn, disdain, repudiate: sequestremne Plancium? respuerent aures... repudiarent, would scout (the suggestion): consilium senatūs a re p., deprive the state of, etc.: duces, ***Caes.*** : eloquentia a philosophis repudiata: condicionem aequissimam: populi R. gratiam, ***Caes.*** : consilium, ***Ter.*** : opimum dictionis genus funditus: ista securitas multis locis repudianda.
 ##### repudium ī, n
 a putting away, dissolution of marriage, divorce: illis repudium renuntiet, ***Ter.*** : repudium alterae remittere, ***Ter.***
+##### repuerāscō —, —, ere
+inch, to become a boy again, renew childhood, frolic childishly: ex hac aetate: incredibiliter.
 ##### repūgnāns antis, adj.
 inconsistent, contradictory: res inter se. — Plur n. as subst, contradictory things, contradictions: locus ex repugnantibus.
 ##### repūgnanter adv.
@@ -356,6 +432,8 @@ a contradiction, contrariety, incompatibility, repugnance: rerum: utilitatis.
 to fight back, oppose, make resistance, resist, struggle, defend oneself: integris viribus fortiter, ***Caes.*** : in repugnando telis obruta est, ***Liv.*** : ille repugnans Sustinet a iugulo dextram, ***Ver.*** — To resist, make resistance, oppose, make opposition, object, dissuade, contend against: quod ego multis repugnantibus egi, against the opposition of many: Catone acerrime repugnante, ***Caes.*** : valde: nec ego repugno: omnibus meis opibus repugnar im et restiterim crudelitati: dictis, ***Ov.*** : his omnibus rebus unum repugnabat, quod, etc., there was one objection, ***Caes.*** : si quis, ne fias nostra, repugnat, ***Ov.*** : amare repugno Illum, quem, etc., I shrink from loving, ***Ov.*** — Fig., to disagree, be contrary, be contradictory, be inconsistent, be incompatible: simulatio amicitiae repugnat maxime: haec inter se quam repugnent: sensūs moresque repugnant, ***Hor.***
 ##### repulsa ae, f
 a rejection, denial, refusal, repulse: ab repuls is eo magis debitum honorem repetentes, because of rejections, ***Liv.*** : nullam patiere repulsam, ***Ov.*** : Sint tua vota secura repulsae, ***Ov.*** : Veneris, ***Ov.*** : Nec hunc repulsam tua sentiret calamitas, ***Phaed.*** — In soliciting office, a refusal, denial, repulse, defeat: dolor repulsae, ***Caes.*** : omnīs magistratūs sine repulsā adsequi: sine repulsā consules facti sunt: huius comitiis frater repulsam tulit, failed of his election: consulatūs: aediliciae repulsae: repulsarum ignominiam timere: turpis repulsa, ***Hor.***
+##### repungō —, —, ere
+to goad in turn. — Fig.: illorum animos.
 ##### repūrgō āvī, ātus, āre
 to clean anew, cleanse off, clear again: iter, ***Liv.*** : humum, ***Ov.*** : hortum, ***Curt.*** : repurgato caelo, ***Ov.*** — To purge away, take away, remove: Quicquid in Aeneā fuerat mortale, ***Ov.***
 ##### reputātiō ōnis, f
@@ -364,8 +442,14 @@ a thinking over, considering: morum, ***Tac.***
 to count over, reckon, calculate, compute: solis defectiones. — To think over, ponder, meditate, reflect upon: secum eam rem viā, ***Ter.*** : facinus suum cum animo, ***Sall.*** : haec: horum nihil: se reputare solum esse: hoc animo, nostras nunc intueri manūs senatum, ***Liv.*** : quid ille vellet: cum animo suo, praemia an cruciatum mallet, ***Sall.***
 ##### requiētus adj.
 rested, refreshed: miles, ***Liv.*** : ager, i. e. after lying fallow, ***Ov.***
+##### resacrō —, —, āre
+to release from a curse, ***Nep.***
+##### resaeviō —, —, īre
+to rage again, be stirred anew: ne mota resaeviat ira, ***Ov.***
 ##### rēscrīptum ī, n
 an imperial rescript, ***Tac.***
+##### resēminō —, —, āre
+to sow again, produce again, reproduce: se (phoenix), ***Ov.***
 ##### reserō āvī, ātus, āre
 to unlock, unclose, open: Surgit anus, reseratque forīs, ***Ov.*** : limina, ***Ver.*** : ianuam, O: portas hosti, ***Ov.*** : exteris gentibus Italiam: aurīs, ***Liv.*** — Fig., to open, lay open, unclose: nos ausi reserare: nec res est familiaris ita reseranda, ut pateat omnibus: longum annum, i. e. begin, ***Ov.*** : oracula mentis, disclose, ***Ov.***
 ##### reservō āvī, ātus, āre
@@ -378,10 +462,14 @@ to unseal, open: litteras: testamenta, ***Hor.*** : (Mercurius) lumina morte res
 turned up, snub: nares, ***Ov.***
 ##### rēsīnātus adj.
 covered with resin: iuventus, i. e. with smooth skin, ***Iuv.***
+##### resipiō —, —, ere
+to have a flavor of, smack of. — Fig.: patriam.
 ##### resistēns ntis, adj.
 enduring, firm: ad calamitates perferendas, ***Caes.***
 ##### resonābilis e, adj.
 resounding: Echo, ***Ov.***
+##### resonō āvī, —, āre
+to sound again, resound, ring, re-echo: in vocibus... quiddam resonat urbanius: theatrum naturā ita resonans, ut, etc.: Umbrae cum resonarent triste, ***Hor.*** : resonabat Telorum custos (i. e. pharetra), ***Ov.*** : ut solent pleni resonare camini, roar, ***Ov.*** : undique magno domus strepitu, ***Hor.*** : spectacula plausu, ***Ov.*** : resonant avibus virgulta canoris, ***Ver.*** : testudo septem nervis, ***Hor.*** : qui (cornus) ad nervos resonant in cantibus: Suave locus voci resonat conclusus, echoes to the voice, ***Hor.*** : gloria virtuti resonat tamquam imago, answers like an echo. — To cause to resound: lucos cantu, ***Ver.*** : (sonus) in fidibus testudine resonatur, an echo is produced. — To repeat, re-echo, resound with: Litoraque alcyonen resonant, ***Ver.*** : Formosam resonare doces Amaryllida silvas, ***Ver.***
 ##### resonus adj.
 resounding, re-echoing: voces, ***Ov.***
 ##### respectus ūs, m
@@ -396,10 +484,14 @@ a breathing out, breathing, respiration: respirationem requirere: aquarum, exhal
 an inhalation, inspiration: qui (pulmones) in respiratu dilatant.
 ##### respīrō āvī, ātus, āre
 to blow back, breathe back, breathe out, exhale: ex eā pars redditur respirando. — To take breath, breathe, respire: propius fore eos ad respirandum: Clin. O Clitopho, Timeo. Clit. respira, ***Ter.*** : ter deciens, ***Iuv.*** — Fig., to fetch breath, recover breath, recover, revive, be relieved, be refreshed: (improbitas) numquam sin it eum respirare: si armis positis civitas respiraverit<⋆> respiravi, liberatus sum: nec respirare potestas, ***Ver.*** : ita respiratum, mittique legationes, coeptae, ***Liv.*** : ab eorum mixtis precibus minisque, ***Liv.*** — To abate, diminish, cease, pause: oppugnatio respiravit: respirasset cupiditas.
+##### resplendeō —, —, ēre
+to shine back, glitter, be resplendent: resplendent fragmina harenā, ***Ver.***
 ##### respōnsiō ōnis, f
 an answer, reply, refutation: alio responsionem suam derivavit: sibi ipsi responsio, to one's own argument.
 ##### respōnsum ī, n
 an answer, reply, response: exspectabat suis postulatis responsa, ***Caes.*** : haec ex illius ad nostra responsa responsis intellegentur: sine responso legatos dimisit, ***Liv.*** : tantis de rebus responsum dedisti: quo minus responsum equitibus redderetur: eadem ferunt responsa, ***Caes.*** : scire quae responsa referat a Pompeio, brings: petere, ***Hor.*** — A professional answer, opinion, advice, response, oracle: cum responsumque ab eo (Crasso) verum abstulisset: haruspicum responsa: In dubiis responsa petunt, ***Ver.*** : responsa vatis aguntur, ***Ov.*** : legatus a Delphis rediit, responsumque ex scripto recitavit, ***Liv.*** : Apollinis, ***Ter.***
+##### restāgnō —, —, āre
+to run over, overflow: paludes restagnantes, ***Liv.*** : restagnantis maris unda, ***Ov.*** : late is locus restagnat, is overflowed, ***Caes.***
 ##### resticula ae, f dim.
 a cord, line.
 ##### restinctiō ōnis, f
@@ -412,8 +504,12 @@ a restoration, reinstatement, pardon: damnatorum: salus restitutioque, a recalli
 a restorer, rebuilder: templorum omnium, ***Liv.*** — Fig.: salutis meae.
 ##### restrictē adv.
 closely, sparingly: facere. — Fig., strictly, exactly, precisely: cetera praefinio: praecipere.
+##### resūdō —, —, āre
+to sweat, exude (of the ground), ***Curt.***
 ##### resupīnus adj.
 bent back, thrown back, lying on the back, facing upward, supine: resupinum in caelo contueri: curru haeret resupinus inani, ***Ver.*** : cantabam resupinus amores, ***Ov.*** : tendo resupinus habenas, leaning backward, ***Ov.*** : tulerat gressūs resupina per urbem, i. e. arrogantly, ***Ov.***
+##### resuscitō —, —, āre
+to revive, renew: veterem iram, ***Ov.***
 ##### retardātiō ōnis, f
 a delaying, retarding: bellum tractum ex retardatione.
 ##### retardō āvī, ātus, āre
@@ -428,6 +524,10 @@ a keeping silent, silence, reticence: reticentiae poena, i. e. for suppressing t
 a little net, network bag, reticule: reticulum ad narīs sibi admovebat: panis, ***Hor.*** : Reticulo pilae fundantur aperto, the ball-net, racket, ***Ov.***
 ##### retinēns entis, adj.
 holding fast, tenacious, observant: libertatis: sui iuris, ***Ov.*** : moris, ***Tac.***
+##### retinniō —, —, īre
+to ring again, resound: in vocibus oratorum retinnit quiddam.
+##### retonō —, —, āre
+to thunder back, resound: fremitu loca retonent, Ct.
 ##### retorridus adj.
 parched, dried up, withered: mus, i. e. old, ***Phaed.***
 ##### retrāctātiō ōnis, f
@@ -436,6 +536,8 @@ a refusal, objection: sine ullā retractatione.
 revised, corrected. — Only comp:
 ##### retrō adv.
 — Of motion, backward, back, to the rear: vestigia sequor, ***Ver.*** : ora Flectit, ***Ov.*** : inhibitā nave, ***Liv.*** : fugam retro spectante milite, ***Liv.*** : fugit, ***Hor.*** : meretrix retro Periura cedit, ***Hor.*** : properare, ***Ov.*** — Of rest, behind, on the back side, in the rear: ultimis conclave in aedibus, ***Ter.*** : quid retro atque a tergo fieret, ne laboraret: retro Marsign i, etc., ***Tac.*** — Fig., in time, back, in time back, in past times, before, formerly: deinceps retro usque ad Romulum: Quodcumque retro est, is past, ***Hor.*** — In thought, back, behind, in return, on the contrary, on the other hand, vice versa: ut omnia, quae sine eā (honestate) sint, longe retro ponenda censeat: vide rursus retro: omnia fatis In peius ruere, a <⋆> retro sublapsa referri, i. e. against one's wish, ***Ver.***
+##### retrōcēdō or retrō cēdō —, —, ere
+to go back, retire, recede: eos retro cedentes recipiebant, ***Liv.*** : retrocedendo producere incantos, ***Curt.***
 ##### retrōrsum (C., ***Hor.***) or retrōrsus (V.), adv.
 back, backward, behind: vestigia nulla retrorsum, ***Hor.*** : mutata te ferat aura, ***Hor.*** : relegens errata retrorsus Litora, ***Ver.*** — Fig., in return, in reversed order: oritur ex aëre aether; deinde retrorsum, etc.
 ##### retrūsus adj.
@@ -444,12 +546,18 @@ concealed, hidden, deep: simulacra deorum: haec in philosophiā.
 blunted, blunt, dull: ferrum, ***Ver.*** : Tela, ***Ov.*** — Fig.: ingenia.
 ##### reus adj.
 concerned in a thing, party to an action: reos appello omnīs, quorum de re disceptatur. — Accused, arraigned, defendant, prosecuted, under charges: Milone reo ad populum, accusante P. Clodio: cum a me reus factus sit, was prosecuted: ne quis istis legibus reus fiat: rei ad populum circumeunt sordidati, when under charges before the tribal comitia, ***Liv.*** : ut socrus adulescentis rea ne fiat: tota rea citaretur Etruria: de vi: ob eandem causam et eodem crimine: Nunc reus infelix absens agor, ***Ov.*** — As subst m., the defendant, accused, prisoner: innocentem reum condemnatum audiebant: aliter condemnari reus non potest. — Bound, answerable, responsible: ut suae quisque partis tutandae reus sit, ***Liv.*** : voti reus, when bound by my vow, i. e. when my prayer is granted, ***Ver.*** : fortunae, to be blamed for, ***Liv.*** : Quid fiet sonti, cum rea laudis agar? i. e. though deserving praise am accused, ***Ov.***
+##### reverberō —, —, āre
+to repel, cause to rebound: Indus saxis reverberatur, ***Curt.***
 ##### reverendus adj.
 inspiring awe, venerable, reverend: Nox, ***Ov.*** : facies, ***Iuv.***
 ##### reverenter adv.
 respectfully. — Comp.: reverentius duci parere, ***Tac.***
 ##### reverentia ae, f
 timidity, respect, regard, fear, awe, reverence: adversus homines: imperi, ***Tac.*** : legum, ***Iuv.*** : poscendi, ***Prop.*** : absit reverentia vero, ***Ov.*** : Maxima debetur puero reverentia, ***Iuv.*** — Person., as a deity, ***Ov.***
+##### revirēscō —, —, ere
+inch, to become green again, recover verdure: iubet revirescere silvas, ***Ov.*** : Spes est... revirescere posse parentem, i. e. renew his youth, ***Ov.*** — Fig., to grow again, be renewed, revive: sunt accisae (res), tamen... ad renovandum bellum revirescent: imperium, ***Curt.***
+##### revīsō —, —, ere
+to look back, look back to see, come back to inquire: reviso, quid nam gerat, ***Ter.*** — To go to see again, revisit: nos: sedes suas, ***Ver.*** : rem Gallicanam: aut quae digna satis fortuna (te) revisit? ***Ver.***
 ##### revocābilis e, adj.
 to be recalled, revocable: telum, ***Ov.***
 ##### revocāmen inis, n
@@ -458,8 +566,12 @@ a calling back, recall: Accipio revocamen, ***Ov.*** — Plur., ***Ov.***
 a calling back, recalling: a bello. — Fig., a recalling, bringing back: ad contemplandas voluptates. — In rhet.: eiusdem verbi, i. e. repetition.
 ##### revocō āvī, ātus, āre
 to call again, call back, recall: Exclusit; revocat; redeam? ***Hor.*** : de medi <⋆> cursu rei p. voce revocatus: revocatus de exsilio, ***Liv.*** : Caesar in Italiam revocabatur, ***Caes.*** — Of troops, to call back, recall, call off, withdraw: legiones revocari atque itinere resistere iubet, ***Caes.*** : quae receptui canunt, ut eos etiam revocent: tardius revocati proel io excesserant, ***Sall.*** : equites, ***Caes.*** : ab opere legiones, ***Caes.*** : consul ab revocando ad incitandos versus milites, ***Liv.***; cf. fluctūs et flumina signo dato, ***Ov.*** — Of a player or declaimer, to call back, recall, encore: Livius saepius revocatus, ***Liv.*** : hunc vidi revocatum eandem rem dicere: primos trīs versūs, to encore: miliens revocatum est. — To recall to life, revive, bring back: revocatus a morte, ***Ver.*** : gelidos artūs in vivum calorem, ***Ov.*** — To summon again: hominem populus revocat, i. e. prosecute anew: si revocemur in suffragium, are called to vote again, ***Liv.*** — To summon in turn: unde tu me vocasti, inde ibi ego te revoco, i. e. I answer by demanding that you leave (the estate). — To ask again, invite in return: domum suam istum vocabat qui neque revocaturus esset: volpem, ***Phaed.*** — To draw back, withdraw, turn back: revocata (Lumina) rursus eodem Retuleram, ***Ov.*** : cupidas manūs, ***Ov.*** : pedem ab alto, ***Ver.*** — Fig., to call back, recall, resume, renew, regain, recover: dies revocandae libertatis: et virīs et corpus amisi: sed, facile illa revocabo, will recover: (studia) remissa temporibus: quod, utcunque praetermissum, revocari non posset, ***Liv.*** : veteres artīs, ***Hor.*** : exordia pugnae, i. e. recall to mind, ***Ver.*** : ductores, revocato a sanguine Teucri, i. e. the restored race, ***Ver.*** — To recall, check, control: in vitibus revocantur ea, quae, etc., i. e. are pruned: vinolenti revocant se interdum, bethink themselves. — To recall, withdraw, divert, turn away: revocare se non poterat familiaritate implicatus, could not withdraw: quos spes praedandi ab agriculturā revocabat, ***Caes.*** : te a turpitudine: animum ab irā, ***Ov.*** : me ad pristina studia: se ad industriam. — To recall, divert, turn, bring: disceptationem ab rege ad Romanos, ***Liv.*** : ad quae me exempla revocas: comitiis tot civitatum unam in domum revocatis, i. e. crowded: ad spem consulatūs in partem revocandam aspirare, to bring over to themselves (of the plebs), ***Liv.*** — To apply, reduce, refer, subject, submit: omnia ad suam potentiam revocant is esse sententiam: revocata res ad populum est, ***Liv.*** : illa de urbis situ ad rationem: rem ad illam rationem. — To recall, revoke, retract, cancel, undo: libertatem, i. e. to enslave again, ***Tac.*** : si facta mihi revocare liceret, ***Ov.***
+##### revolō —, —, āre
+to fly back: dux (gruum) revolat: mergi, ***Ver.*** : ceratis Daedalus alis, ***Ov.***
 ##### revolūbilis e, adj.
 to be rolled back: pondus (i. e. saxum), ***Ov.***
+##### revomō —, —, ere
+to spew forth again, vomit up, disgorge, throw up: pectore fluctūs, ***Ver.*** : raptas carinas (of Charybdis), ***Ov.***
 ##### rhapsōdia ae, f
 a rhapsody, book (of a poem): secunda (of the Iliad), ***Nep.***
 ##### Rhea ae, f
@@ -484,6 +596,8 @@ laughably, jokingly, jestingly, humorously: rogas, ***Ter.*** : ridicule ac face
 exciting laughter, laughable, droll, funny, amusing, facetious: Hui, tam cito? ridiculum! how comical! ***Ter.*** : facie magis quam facetiis: Ridiculum est, te istuc me admonere, ***Ter.*** : Ridiculus totas simul absorbere placentas, ***Hor.*** — As subst n., something laughable, a laughing matter, jest, joke: quae sint genera ridiculi: ridiculo sic usurum oratorem, ut, etc.: Mihi solae ridiculo fuit, I had the fun to myself, ***Ter.*** : materies omnis ridiculorum est in istis vitiis, quae, etc.: sententiose ridicula dicuntur. — Laughable, silly, absurd, ridiculous, contemptible: insania, quae ridicula est aliis, mih i, etc.: qui ridiculus minus illo (es)? ***Hor.*** : mus, ***Hor.*** : pudor, ***Iuv.*** : est ridiculum, quaerere, etc. — As subst m.: neque ridiculus esse Possum, etc., be a buffoon, ***Ter.***
 ##### rigēns entis, adj.
 stiff, inflexible, rigid, unbending: unguis, ***Ov.*** : lorica ex aere, ***Ver.***
+##### rigeō —, —, ēre
+to be stiff, be numb, stiffen: frigore (opp. uri calore): omnia rigentia gelu, ***Liv.*** : prata rigent, ***Hor.*** — To be stiff, be rigid, stand on end, bristle, stand erect: gelido comae terrore rigebant, ***Ov.*** : ardua cervix, ***Ov.*** : Cerealia dona rigebant, i. e. hardened into gold, ***Ov.*** : vestes auroque ostroque, stand out, ***Ver.*** — To stand stiff, stand upright, rise: (pars summa scopuli) riget, ***Ov.*** : sine frondibus arbos, ***Ov.***
 ##### rigidē adv.
 rigorously, severely, ***Ov.***
 ##### rigor ōris, m
@@ -520,6 +634,8 @@ a small stream, brook: Purae aquae, ***Hor.*** : rivis, qui ad mare pertinebant,
 a quarrel, brawl, dispute, contest, strife, contention: nova: rixa sedata est, ***Liv.*** : rixa super mero Debellata, ***Hor.*** : Academiae cum Zenone: crebrae, ***Tac.*** : sanguineae, ***Hor.*** : Deque tuo fiet corpore rixa lupis, a battle, ***Ov.***
 ##### rōboreus adj.
 oaken, of oak: pons, ***Ov.***
+##### rōborō āvī, —, āre
+to make strong, strengthen, invigorate, confirm. — Fig.: Recti cultūs pectora roborant, ***Hor.*** : eloquentia ipsa se roborat, acquires vigor.
 ##### rōbus adj.
 red, ruddy: iuvencus, ***Iuv.***
 ##### rogālis e, adj.
@@ -534,6 +650,8 @@ a collector of votes, polling-clerk: comitiorum. — One who makes a proposal, a
 a question, interrogatory: nobis ad rogatum respondere, i. e. to the point: copiose ad rogata respondere.
 ##### rogātus ūs, m
 a request, suit, entreaty (only abl sing.): rogatu tuo.
+##### rogitō āvī, —, āre, freq.
+to ask eagerly, inquire persistently, keep asking: at rogitas? ***Ter.*** : me, ubi fuerim, ***Ter.*** : Multa super Priamo, ***Ver.***
 ##### rogus ī, m
 a funeral pile: rogum ascia ne polito, XII Tabb. ap. ***Cic.*** : in rogum inlatus: Metellum in rogum imponere: exstruere rogum: circum accensos Decurrere rogos, ***Ver.*** : Diffugiunt avidos carmina sola rogos, i. e. escape destruction, ***Ov.*** — Fig., the grave, ***Prop.***
 ##### Rōma ae, f
@@ -578,6 +696,8 @@ roundly, smoothly, elegantly: apte ac rotunde.
 to make round, round off, round: eum ad volubilitatem. — Fig., of a sum of money, to make up, complete: Mille talenta rotundentur, ***Hor.***
 ##### rubēns entis, adj.
 red, ruddy, reddish: Murice, ***Ver.*** : ver, ***Ver.*** : Dexterā, ***Hor.***
+##### rubeō —, —, ēre
+to be red, be ruddy: Tyrio murice lana, ***Ov.*** : ocelli flendo, Ct.: Sanguineis aviaria bacis, ***Ver.*** : Sigea rubebant Litora, were stained, ***Ov.*** — To grow red, redden, color up, blush: rubeo, mihi crede: Ne rubeam, ***Hor.***
 ##### rubēta ae, f
 a toad, ***Iuv.*** , ***Prop.***
 ##### rubeus adj.
@@ -596,6 +716,8 @@ a belching, eructation.
 a first attempt, trial, essay, beginning, commencement: primum puerilis regni, ***Liv.*** — Of military service: belli Dura rudimenta, ***Ver.*** : rudimentum adulescentiae posuisse, to have passed his novitiate, ***Liv.***
 ##### rudis is, f
 a slender stick, staff for exercise in fighting, quarter-staff, foil: (milites) rudibus inter se concurrerunt, ***Liv.*** : rudibus relictis Spicula promit, ***Ov.*** : rudem tam cito (accepisti)? (the gladiator received the rudis when discharged from service): acceptā rude, ***Iuv.*** — As a symbol of honorable discharge: Me quoque donari iam rude tempus erat, i. e. to be dismissed, ***Ov.*** : donatus iam rude, ***Hor.*** : sibi dabit ipse rudem, ***Iuv.***
+##### rudō —, —, ere
+to roar, bellow, bray: gemitūs leonum sub nocte rudentūm, ***Ver.*** : rauco ore, ***Ov.*** : (Cacus) insueta rudens, roaring, ***Ver.*** : rudentem proram, creaking, ***Ver.***
 ##### Rufulus ī, m
 a tribune of the soldiers elected by the army (from Rutilius Rufus, the author of the law permitting the election), ***Liv.***
 ##### rūfus adj.
@@ -610,6 +732,8 @@ a rushing down, tumbling, falling down, fall: iumentorum, ***Liv.*** : primique 
 fallen, tumbling, ruinous, ruined: aedes: domūs, ***Ov.***
 ##### rūmīnātiō ōnis, f
 a chewing the cud, rumination, thinking over, revolving in mind: cottidiana.
+##### rūminō —, —, āre
+to chew over again, chew the cud, ruminate: herbas, ***Ver.*** , ***Ov.***
 ##### rūmor ōris, m
 a rustle, murmur, vague sound: Solvere secundo rumore, the murmur of the oars, Poët. ap. ***Cic.*** : ad caelum ferre rumore secundo, i. e. applause, ***Hor.*** — The talk of the many, common talk, report, hearsay, rumor: cum incertis rumoribus serviant, ***Caes.*** : perferet multa rumor: rumores Africanos excipere: volgi rumoribus exagitatus, ***Sall.*** : a rostris manat per compita rumor, ***Hor.*** : omnīs rumorum ventos conligere: rumor venit, Datum iri gladiatores, ***Ter.*** : crebri ad eum rumores adferebantur... omnīs Belgas coniurare, ***Caes.*** : rem te valde bene gessisse rumor erat: rumores de oppresso Dolabellā: de vitā imperatoris rumores dubii adlati sunt, ***Liv.*** : exstinctis rumoribus de auxiliis legionum, ***Caes.*** — Common opinion, current report, popular voice, fame, reputation: adversus famam rumoresque hominum stare, ***Liv.*** : qui erit rumor id si feceris? ***Ter.*** : quos rumor asperserat, calumny, ***Curt.*** : rumorem quendam esse quaesitum, notoriety: plebis rumorem adfectare, ***Tac.*** : adverso rumore esse, in bad repute, ***Liv.***
 ##### rumpīa ae, f

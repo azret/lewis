@@ -102,6 +102,8 @@ made of corn: omnia, preparations of meal, ***Iuv.***
 a fattener of fowls, poulterer, ***Ter.*** , ***Hor.***
 ##### fasciculus ī, m dim.
 a small bundle, packet: epistularum: librorum, ***Hor.*** — A nosegay.
+##### fascinō —, —, āre
+to enchant, bewitch, fascinate: teneros mihi agnos, ***Ver.*** : basia, Ct.
 ##### fascinum ī, n
 Prop., a charm, enchantment; hence, for membrum virile, ***Hor.***
 ##### fascis is, m
@@ -132,6 +134,8 @@ weariness, fatigue: equorum atque hominum, ***Liv.*** : laboris, ***Curt.***
 to weary, tire, fatigue, vex, harass, fret: dentem in dente, ***Ov.*** : (armenta) sole, ***Ver.*** : pugnā atroci semet, ***Liv.*** : sonitu vicina, ***Ov.*** : lolium tribulique fatigant messīs, mar, ***Ov.*** : (sicarii) sunt vincl is et carcere fatigandi: (milites) aestu fatigati, ***Caes.*** : Daedalus, ***Ov.*** — Fig., to weary, fatigue, importune, harass, plague, torment, vex, lay siege to: prece Vestam, ***Hor.*** : singulos precibus, ***Liv.*** : sapientium animos, ***Sall.*** : Consiliis animum, ***Hor.*** : remigio noctemque diem <⋆> que, wear out, ***Ver.*** : neque aliud se fatigando nisi odium quaerere, ***Sall.*** : dolis fatigari, ***Sall.*** : denique saepius fatigatus lenitur, ***Sall.*** : Hersilia precibus raptarum fatigata orat, etc., ***Liv.*** — To vex with raillery, jeer, banter, ***Iuv.***
 ##### fātiloquus adj.
 prophesying, prophetic: alquam fatiloquam mirari, as a prophetess, ***Liv.***
+##### fatīscō —, —, ere
+to open in chinks, fall apart, tumble to pieces: (naves) rimis fatiscunt, ***Ver.*** : Area ne pulvere victa fatiscat, ***Ver.*** : ianua, opens, Tb. — Fig., to grow weak, become exhausted, droop, faint: donec fatisceret seditio, ***Tac.*** : copiā (scriptores), ***Tac.***
 ##### fatuitās ātis, f
 folly, fatuity.
 ##### fātum ī, n
@@ -164,6 +168,8 @@ feverish, sick of a fever: scortum, Ct.
 of purifying, of expiation: mensis, the month of the Februa, February, ***Cic.*** : Nonae, of February, ***Cic.*** , ***Sall.***
 ##### fēcunditās ātis, f
 fruitfulness, fertility, fecundity: terris fecunditatem dare: agrorum: mulieris. — Person., the goddess Fertility, ***Tac.*** — Fig., of style, luxuriance.
+##### fēcundō —, —, āre
+to make fruitful, fertilize: Aegyptum harenā, ***Ver.***
 ##### fēlēs or faelēs is, f
 a cat: faelem violare: Fele soror Phoebi latuit, ***Ov.***
 ##### fēlīcitās ātis, f
@@ -198,6 +204,8 @@ days of rest, holidays, festivals: decrevit habendas triduum ferias: Latinae, **
 keeping holiday, unoccupied, idle: Deus: a negotiis publicis: male Troes, ***Hor.***
 ##### ferīnus adj.
 of wild animals: voltus, ***Ov.*** : car <⋆>, venison, game, ***Sall.*** : vellera, ***Ov.*** : lac, ***Ver.*** : in ferinas ire domos, i. e. bodies, ***Ov.*** — As subst f., the flesh of wild animals, game, ***Ver.***
+##### feriō —, —, īre
+to strike, smite, beat, knock, cut, thrust, hit: velut si re verā feriant, ***Hor.*** : cornu ferit ille, butts, ***Ver.*** : alqm: parietem: murum arietibus, batter, ***Sall.*** : calce feritur aselli, ***Ov.*** : mare, ***Ver.*** : frontem, beat the brow, i. e. be provoked: Sublimi sidera vertice, hit, touch, ***Hor.*** : his spectr is etiam si oculi possent feriri, etc.: feriuntque summos Fulmina montes, ***Hor.***. tabulae laterum feriuntur ab undis, ***Ov.*** : Sole radiis feriente cacumina, ***Ov.*** : ferit aethera clamor, ***Ver.*** — To kill by striking, give a death-blow, slay, kill: hostem: (eum) securi, behead: telo orantem multa, ***Ver.*** : te (maritum), ***Hor.*** : leonem, S <⋆> Frigore te, i. e. cut you dead, ***Hor.*** — To slaughter, offer, sacrifice: agnam, ***Hor.*** : porcum, ***Liv.*** (old form.). — With foedus, to make a compact, covenant, enter into a treaty (because a sacrifice was offered to confirm a covenant): is, quicum foedus feriri in Capitolio viderat: amorum turpissimorum foedera ferire, form illicit connections: lungit opes foedusque ferit, ***Ver.*** — Fig., to strike, reach, affect, impress: multa in vitā, quae fortuna feriat: verba palato, coin, ***Hor.*** : binis aut ternis ferire verbis, make a hit. — To cozen, cheat, gull, trick (colloq.): Geta Ferietur alio munere, ***Ter.***
 ##### feritās ātis, f
 wildness, fierceness, roughness: beluae: tauri, ***Ov.*** : nimium feritatis in illo est, ***Ov.*** : ex feritate ad iustitiam transducere: insita, ***Tac.*** : neque ipse manūs feritate dedisset, ***Ver.*** — Of places: Scythici loci, ***Ov.***
 ##### fermē adv.
@@ -230,6 +238,10 @@ a reed, whip, rod, ferule, staff: ferulā caedere, ***Hor.*** : manum ferulae su
 wild, untamed, uncultivated: beluae: leones, ***Hor.*** : fructūs, ***Ver.*** — As subst m.: hastam in feri alvum contorsit, of the horse, ***Ver.*** : Pectebat ferum, the stag, ***Ver.*** : ut vidit ferum, the lion, ***Phaed.*** — Meton., of places, waste, wild, desert: montes, ***Ver.*** : silvae, ***Hor.*** — Fig., wild, rude, uncultivated, savage, barbarous, fierce, cruel: hostis: genus hominum, ***Sall.*** : Nemo adeo ferus est, ut non mitescere possit, ***Hor.*** : Britanni hospitibus, ***Hor.*** : mores: sibi fera sacra parari, death by sacrifice, ***Ov.***
 ##### fervefactus adj.
 made hot, melted, red hot, hot: pix, ***Caes.*** : iacula, ***Caes.***
+##### ferveō —, —, ēre
+to be boiling hot, boil, ferment, glow, steam: Quaecumque immundis fervent adlata popinis, ***Hor.*** : stomachus fervet vino, ***Iuv.*** — To be in a ferment, swarm, throng, surge: opere omnis semita fervet, ***Ver.*** : fervent examina putri De bove, ***Ov.*** : Fervet opus, is hotly pressed, ***Ver.*** — Fig., to burn, glow, be heated, be inflamed, be agitated, rage, rave: usque eo fervet avaritia, ut. etc.: Fervet avaritiā pectus, ***Hor.*** : animus tumidā fervebat ab irā, ***Ov.*** : equus cui plurima palma Fervet, shines, ***Iuv.***
+##### fervō —, —, ere
+to boil, be hot, glow, rage, blaze (old or poet. for ferveo): Quom fervit maxime, ***Ter.*** : videbis fervere litora flammis, ***Ver.*** : hostem Fervere caede novā, ***Ver.*** — To swarm, be thronged, be in a ferment: Marte fervere Leucaten, ***Ver.*** : cum litora fervere late Prospiceres, ***Ver.***
 ##### Fescinnīnus adj.
 of Fescennia (a city of Etruria): acies, ***Ver.*** : versūs, a rude form of dramatic or satiric verse, ***Liv.*** : licentia (i. e. of the Fescennine verses), ***Hor.***
 ##### fessus adj.
@@ -360,8 +372,12 @@ a little fan, ***Ter.***
 a small fan, flyflap, ***Ter.*** , ***Prop.*** — Fig.: seditionis, exciter.
 ##### flābilis e, adj.
 airy, breath-like.
+##### flacceō —, —, ēre
+to be flaccid, flag, droop: Messala flaccet, loses courage.
 ##### flaccus adj.
 flabby, flap-eared.
+##### flagellō —, —, āre
+to scourge, lash: parte caudae robora (arboris), ***Ov.***
 ##### flagellum ī, n dim.
 a whip, scourge: flagella rettulit: horribili sectari flagello, ***Hor.*** : accincta flagello Tisiphone, ***Ver.*** — A riding-whip, ***Ver.*** — A thong (of a javelin), ***Ver.*** — A young branch, vine-shoot, ***Ver.*** , Ct. — The arm of a polypus, ***Ov.*** — Fig., a lash, sting, goad: flagello Tange Chloen, ***Hor.*** : Occultum (of conscience), ***Iuv.***
 ##### flāgitātiō ōnis, f
@@ -446,6 +462,8 @@ lax, relaxed, lank: buccae. — Fig., lax, relaxed, enervated, effeminate: Campa
 waveresounding: litus, Ct.
 ##### fluidus adj.
 flowing, fluid, moist: liquor, V: humano sanguine rictūs, ***Ov.*** — Soft, slack, lax, languid: lacerti, ***Ov.*** : corpora, ***Liv.*** : calor, decomposing, ***Ov.***
+##### fluitō āvī, —, āre, freq.
+to float, flow: Fusile per rictūs aurum fluitare videres, ***Ov.*** — P. praes.: rei p. navem fluitantem in alto tempestatibus, tossed: alveus, ***Liv.*** : transtra, ***Ver.*** : corpora, ***Tac.*** — To wave, undulate: funes fluitabant, i. e. were slack, ***Tac.*** — P. praes.: vela summo fluitantia malo, ***Ov.*** : vestis, flowing, ***Tac.*** — Fig., to be uncertain, waver: neu fluitem dubiae spe pendulus horae, ***Hor.*** — P. praes.: creditur Caecinae fides fluitasse, ***Tac.*** : haec (mala) caecā fluitantia sorte, ***Hor.***
 ##### flūmen inis, n
 a flowing, flood, stream, running water: rapidus montano flumine torrens ***Ver.*** : languidum, ***Hor.*** : vivo perfundi flumine, ***Liv.*** secundo flumine iter facere, down stream, ***Caes.*** : adverso flumine proficisci, up stream, ***Caes.*** : flumina fontis, ***Ov.*** : a labris sitiens fugientia captat Flumina, ***Hor.*** : Scamandri flumina, ***Hor.*** — A river: ut flumina in contrarias partīs fluxerint: moratus ad flumen, ***Caes.*** : flumen est Arar, quod, etc., ***Caes.*** : Tanain prope flumen orti, ***Hor.*** : Tiberinum, ***Ver.*** : Himellae, ***Ver.*** — Person., a river, river-god: Conveniunt flumina, ***Ov.*** : flumine Gange Edita, ***Ov.*** — A stream, flood: umectat flumine voltum, of tears, ***Ver.*** : pressis manabunt flumina mammis, of milk, ***Ver.*** : lactis, nectaris, ***Ov.*** — Fig., a flow, fluency, stream, affluence: ingeni: orationis.
 ##### flūmineus adj.
@@ -606,6 +624,8 @@ murmuring: turba, ***Ov.***
 a rushing, resounding, murmuring, humming, loud noise: Afrorum fremitu terrere me: maris: eorum, qui veniebant, ***Caes.*** : ex nocturno fremitu, ***Caes.*** : si displicuit sententia, fremitu aspernantur, ***Tac.*** : fremitu virūm Consonat nemus, ***Ver.*** : frementis Verba volgi, ***Ov.*** : equorum, neighing, ***Liv.*** : (apum), humming, ***Ver.***
 ##### fremor ōris, m
 a low roaring, murmur: varius, ***Ver.***
+##### frendō —, —, ere
+to gnash, gnash the teeth (only P. praes.): leo Frendens, ***Cic.*** poët.: graviter, ***Ver.*** : tumidā frendens Mavortius irā, ***Ov.*** : frendente Alexandro eripi sibi victoriam, ***Curt.***
 ##### frēnō or fraenō āvī, ātus, āre
 to furnish with a bridle, curb, bridle: equos, ***Ver.*** : equi frenato est auris in ore, ***Hor.*** : ora cervi capistris, ***Ov.*** : Frenato delphine sedens Thetis, ***Ov.*** — To bridle, curb, restrain, check: ventos, ***Ver.*** : cum hiems glacie cursūs frenaret aquarum, ***Ver.*** — Fig., to bridle, curb, check, restrain, govern: furores legibus: impetum (scribendi), ***Phaed.*** : Iustitiā gentīs, ***Ver.*** : timore frenari, quo minus, etc., ***Liv.***
 ##### frēnus ī, m
@@ -620,12 +640,18 @@ an assembling in great numbers, concourse, multitude, crowd, throng: reduci cum 
 to visit frequently, frequent, resort to, do frequently, repeat: domum meam: arva, ***Ver.*** : Marium, often resort to, ***Sall.*** : coetu salutantium frequentari, ***Tac.*** : ‘Hymenaee’ frequentant, keep calling, ***Ov.*** : verbi translatio frequentata delectationis (causā). — Of persons, to assemble in throngs, bring together, crowd: quos cum casu hic dies ad aerarium frequentasset, etc.: populum: acervatim multa: est luminibus frequentanda omnis oratio sententiarum. — Of places, to fill with a multitude, fill, crowd, people, stock: urbes frequentari, be peopled: Templa frequentari Nunc decet, ***Ov.*** : contiones legibus agrariis, to draw a crowd by proclaiming, etc., ***Liv.*** — To celebrate, keep in great numbers, observe in multitudes: ludos: ad triumphum frequentandum deducti, ***Liv.*** : sacra, ***Ov.***
 ##### frētus adj.
 leaning, supported, relying, depending, trusting, daring, confident: malitiā suā, ***Ter.*** : Antoni copiis: meā prudentiā: iuventā, ***Ver.*** : ferro et animis, ***Liv.*** : multitudo nulli rei, ***Liv.*** : satis fretus esse etiam nunc tolerando certamini legatum, ***Liv.*** : excipi posse (hostem), ***Curt.***
+##### frīgeō —, —, ere
+to be cold, be chilly, freeze: totus friget, ***Ter.*** : corpus lavant frigentis, i. e. of the dead, ***Ver.*** : frigent in corpore vires, ***Ver.*** — Fig., to be inactive, be lifeless, be languid, flag, droop: ne frigeas in hibernis: Ubi friget, hu <⋆> evasit, halts, ***Ter.*** — To be coldly received, be coldly treated, be slighted, be disregarded: hisce homines frigent, ***Ter.*** : discipulus frigens ad populum: plane iam, Brute, frigeo: contio Pompei frigebat, remained unnoticed: cum omnia consilia frigerent, were of no effect.
+##### frīgerō —, —, āre
+to cool, refresh with coolness: Frigerans Aganippe, Ct.
 ##### fritillus ī, m dim.
 a little rattling box, dice-box, ***Iuv.***
 ##### frīvolus adj.
 trifling, frivolous, pitiful, sorry, worthless: aura, ***Phaed.*** : insolentia, ***Phaed.*** — Plur n. as subst, trifles, knickknacks: omnia regum, ***Iuv.***
 ##### frondātor ōris, m
 one who strips off leaves, a dresser, pruner, Ct., ***Ver.*** , ***Ov.***
+##### frondeō —, —, ēre
+to put forth leaves, be in leaf, become green: frondent silvae, ***Ver.*** : frondentia Arbuta, ***Ver.*** : Dicas frondere Tarentum, ***Hor.***
 ##### frondeus adj.
 covered with leaves, leafy: nemora, ***Ver.*** : tecta, i. e. trees in full leaf, ***Ver.*** : casa, embowered, ***Ov.***
 ##### frondōsus adj.
@@ -696,6 +722,8 @@ a coot, ***Cic.*** poët.
 a lightning flash, stroke of lightning, fire, thunderbolt: Iovi fulmen fabricati: ictu fulminis deflagrare: fulmine tactus, ***Ov.*** : fulmine percussus: fulminis ictūs Evadere, ***Iuv.*** : minister fulminis, ***Hor.*** : contemnere fulmina, ***Iuv.*** — Fig., a thunderbolt, destructive power, crushing blow: fulmina fortunae contemnere: dictatorium, ***Liv.*** : iustum, ***Iuv.*** : Fulmen habent in dentibus apri, ***Ov.*** : duo fulmina nostri imperi, Scipiones: verborum meorum, i. e. resistless might.
 ##### fulmineus adj.
 of lightning: ignes, ***Ov.*** : ictus, ***Hor.*** — Fig., sparkling, splendid, brilliant: Mnestheus (in arms), ***Ver.*** — Destructive, murderous, killing: ōs (apri), ***Ov.*** : ensis, ***Ver.***
+##### fulminō —, —, āre
+to lighten, hurl lightnings: fulminans Iuppiter, ***Hor.*** : Boreae de parte trucis, ***Ver.*** — Fig., to thunder: Caesar fulminat bello, ***Ver.***
 ##### fultūra ae, f
 a prop, support: accedit stomacho fultura, ***Hor.***
 ##### fulvus adj.
@@ -706,6 +734,8 @@ full of smoke, smoky: Lumina taedis, ***Ver.***
 full of smoke, smoky, smoking: Taeda, ***Ver.*** : altaria, ***Ov.*** : amnis, ***Ver.***
 ##### fūmificus adj.
 smoking, steaming: mugitus (taurorum), ***Ov.***
+##### fūmō —, —, āre
+to smoke, steam, reek, fume: naves: fumare aggerem, ***Caes.*** : cruor fumabat ad aras, ***Ver.*** : ara Fumat odore, ***Hor.*** : domus fumabat, reeked (with banquets): villarum culmina fumant, i. e. the evening meal is preparing, ***Ver.*** : villae incendiis fumabant, ***Liv.***
 ##### fūmōsus adj.
 full of smoke, smoky: tecta, ***Ver.*** : arae, ***Ov.*** — Smoked, smoke-dried: imagines: magistri equitum, ***Iuv.*** : perna, ***Hor.***
 ##### fūmus ī, m
@@ -766,6 +796,8 @@ raging, mad, furious: homo: taurus, ***Ov.*** : latronis impetūs: Dido, ***Ver.
 madly: alqd facere.
 ##### furnus ī, m
 an oven: furnis torrebant farra, ***Ov.*** — A bakery: a furno redeuntes, ***Hor.*** — A fire-place: furnos laudat, ***Hor.***
+##### furō —, —, ere
+to rage, rave, be out of one's mind, be mad, be furious: valetudinis vitio: inquiram, quid sit furere, etc., ***Hor.*** : recepto Dulce mihi furere est amico, play the fool, ***Hor.*** : luctu filii, be distracted: dolore, ***Ov.*** : Inachiā, to be madly in love with, ***Hor.*** : furebat, se vexatum, etc.: te reperire, is madly eager, ***Hor.*** — Poet.: hunc sine me furere ante furorem, ***Ver.*** — Of things, to rage, be furious: furit mugitibus aether Concussus, ***Ver.*** : ignis in stipulis, ***Ver.*** : stella leonis, ***Hor.***
 ##### furor ōris, m
 a raving, rage, madness, fury, passion: cuius furor consederit: Ira furor brev is est, ***Hor.*** : furore impulsus, ***Caes.*** : Catilinae, ***Sall.*** : Iuno acta furore, ***Ver.*** : se comitem illius furoris praebuit: iam hic conticescet furor, excitement, ***Liv.*** : civilis, dissension, ***Hor.*** : multitudinis: simplexne furor (est) Perdere? etc., is it not worse than folly? ***Iuv.*** : Mille puellarum furores, passions for, ***Hor.*** : ut tibi sim furor, a cause of anger, ***Prop.*** : maris, rage, Tb.: caeli, Ct. — Prophetic frenzy, inspiration: ea (praesagitio) furor appellatur: Ut cessit furor, ***Ver.*** : vaticinos concepit mente furores, ***Ov.*** — Passionate love, eager desire: caeca furore, Ct.: equarum, ***Ver.*** : mille puellarum furores, ***Hor.*** — A loved one, flame: sive mihi Phyll is esset Seu quicumque furor, ***Ver.*** — Person., the god of madness, Rage: inpius, ***Ver.***
 ##### fūrtim adv.
@@ -784,6 +816,8 @@ a petty thief, pilferer.
 dark, gloomy, swarthy, black: Proserpina, ***Hor.*** : antra, ***Ov.*** : gens (i. e. Mau rorum), ***Iuv.***
 ##### fuscina ae, f
 a three-pronged spear, trident: dant (deo) fuscinam: Gracchi, ***Iuv.***
+##### fuscō —, —, āre
+to make swarthy, blacken: corpora campo, ***Ov.*** : dentes, ***Ov.***
 ##### fuscus adj.
 dark, swarthy, dusky, tawny: purpura: cornix: Andromede, ***Ov.*** : alae (noctis), ***Ver.*** — Husky, hoarse: vocis (genus).
 ##### fūsilis e, adj.
@@ -800,6 +834,8 @@ stretched out, lying, recumbent, prostrate: in herbā, ***Ov.*** : humi, ***Ov.*
 a spindle, ***Ver.*** , Ct., Tb., ***Ov.*** , ***Iuv.*** — Of the Fates, ***Ver.*** , ***Ov.***
 ##### futtilis or fūtilis e, adj.
 that easily pours out, that cannot contain: canes, that void their excrement through fear, ***Phaed.*** : glacies, brittle, ***Ver.*** — Fig., untrustworthy, vain, worthless, futile: Servos, ***Ter.*** : haruspices: consiliis habitus non futtilis auctor, ***Ver.*** : sententiae: laetitiae: lingua, ***Phaed.***
+##### futuō —, —, ere
+to have carnal connection, ***Hor.*** , Ct.
 ##### futūrus adj.
 going to be, yet to be, to come, future: res: tempus: pesti devota futurae (Dido), ***Ver.*** : vindices, expected, ***Liv.*** — As subst n., the future: ignarus futuri, ***Liv.*** : haud ignara futuri, ***Ver.*** : futura prospicere.
 ##### futūtiō ōnis, f

@@ -1,3 +1,9 @@
+##### obambulō āvī, —, āre
+to walk before, go around: muris, ***Liv.*** : (lupus) gregibus obambulat, prowls about, ***Ver.*** : Aetnam, ***Ov.*** — To walk about, wander: ante vallum, ***Liv.*** : solus, ***Ov.***
+##### obarmō —, —, āre
+to arm: securi Dextras, ***Hor.***
+##### obarō āvī, —, āre
+to plough around, plough up: quicquid herbidi terreni erat, ***Liv.***
 ##### obductiō ōnis, f
 a covering, enveloping: capitis (before execution).
 ##### obductus adj.
@@ -6,8 +12,14 @@ overspread, clouded, gloomy: obductā nocte, ***Ov.*** : fronte, ***Hor.*** , **
 to be hard, hold out, persist, endure: persta atque obdura, ***Hor.*** : perfer et obdura, ***Ov.*** — Pass impers.: quā re obduretur hoc triduum, ut, etc.
 ##### obeliscus ī, m
 an obelisk, ***Tac.***
+##### obequitō āvī, —, āre
+to ride towards, ride up to: obequitando castris, ***Liv.*** : portis, ***Liv.***
+##### oberrō —, —, āre
+to wander among, ramble about: tentoriis, ***Tac.*** : cum periculi imago oculis oberraret, hovered before, ***Curt.*** — To err, mistake: chordā semper eādem, blunder at, ***Hor.***
 ##### ōbēsus adj.
 that has eaten, fat, stout, plump: turdus, ***Hor.*** : fauces, swollen, ***Ver.*** — Fig., gross, indelicate, dull: invenis naris obesae, ***Hor.***
+##### obganniō —, —, īre
+to snarl at: ei alqd ad aurem, ***Ter.***
 ##### obiectātiō ōnis, f
 a reproach, ***Caes.***
 ##### obiectus adj.
@@ -30,6 +42,8 @@ a delight, pleasure, amusement: senectutis: oblectamenta et solacia servitutis: 
 a delighting, delight: requies plena oblectationis fuit: vitae.
 ##### oblectō āvī, ātus, āre
 to delight, divert, entertain, amuse, interest: se: populum, ***Hor.*** : animum, ***Iuv.*** : senectutem: se agri cultione: me te (abl.), ***Ter.*** : ludis oblectamur: te cum Cicerone: In eo me oblecto, he is my delight, ***Ter.*** : me in Cumano, to be entertained. — Of time, to spend agreeably, fill pleasantly: studio tempus, ***Ov.*** — To delay, detain, occupy: se tam diu, ***Ter.*** : moras, ***Ov.***
+##### oblīdō —, —, ere
+to squeeze together, compress: caelum digitulis: oblisis faucibus, strangled, ***Tac.***
 ##### obligātiō ōnis, f
 an engaging, pledging, obligation: est gravior animi quam pecuniae.
 ##### obligō āvī, ātus, āre
@@ -72,6 +86,8 @@ obedience: abiciunt oboedientiam: fracti animi.
 a small Greek coin, a sixth of a drachma (about three cents, or three halfpence): Holera ferre obolo, ***Ter.***
 ##### obrussa ae, f
 a test, touchstone, proof: tamquam obrussa ratio.
+##### obsaturō —, —, āre
+to sate, cloy: istius obsaturari, have enough of him, ***Ter.***
 ##### obscūrātiō ōnis, f
 a darkening, obscuring: solis. — Fig.: in voluptatibus, i. e. disregard. — Plur., ***Cic.***
 ##### obscūritās ātis, f
@@ -96,6 +112,8 @@ to bolt, bar, fasten, shut up: ostium intus, ***Ter.*** : aedificia, ***Liv.*** 
 attention, respect, regard, reverence: observantiam dilexit: amicos observantiā retinere: in regem, ***Liv.***
 ##### observātiō ōnis, f
 a watching, observance, investigation: observationes animadvertebant, your searches for evidence: siderum. — Circumspection, care, exactness: summa in bello movendo.
+##### observitō āvī, —, āre, freq.
+to watch carefully, observe closely: motūs stellarum.
 ##### observō āvī, ātus, āre
 to watch, note, heed, observe, take notice of, attend to: filium, Quid agat, ***Ter.*** : fetūs, watch for, ***Ver.*** : occupationem eius: tempus epistulae tibi reddendae, watch for: sese, keep a close watch over: observant quem ad modum sese gerat, etc. — To watch, guard, keep: greges, ***Ov.*** — To observe, take care, see, provide: ne plus reddat quam acceperit: quod ne accidat observari nec potest, etc. — To observe, respect, regard, attend to, heed, keep, comply with: neque signa neque ordines, ***Sall.*** : leges: praeceptum diligentissime, ***Caes.*** : centesimas, adhere to: commendationes, regard: post illum observatum, ut, etc., i. e. it was the rec ognized rule, ***Liv.*** — To pay attention to, respect, regard, esteem, honor: talem hunc virum, ***Sall.*** : tribules suos: regem, ***Ver.*** : me ut patrem.
 ##### obsessiō ōnis, f
@@ -110,6 +128,8 @@ a siege, investment, blockade: urbis, ***Caes.*** : obsidione urbīs capere: Bib
 a siege, blockade: obsidio circumdare, ***Tac.***
 ##### obsidium ī, n
 the condition of a hostage, hostageship: obsidio nobis datus, ***Tac.***
+##### obsīdō —, —, ere
+to beset, invest, besiege, blockade: pontem, ***Sall.*** : excubiis portas, ***Ver.*** : Italos finīs, take possession of, ***Ver.*** : campos, i. e. to buy, Tb.
 ##### obsīgnātor ōris, m
 a sealer, one who attests under seal: litterarum: obsignatores adducit, witnesses (to a will).
 ##### obsīgnō āvī, ātus, āre
@@ -134,6 +154,10 @@ an obstruction, barrier: diuturna.
 a complying, obedience: legibus.
 ##### obtestātiō ōnis, f
 an adjuration, solemn charge: quae mulier obtestatione viri debuit, etc., was bound by her husband's adjuration: legis. — An entreaty, supplication: matronae in obtestationes versae, ***Liv.*** : Phaedri.
+##### obtexō —, —, ere
+to weave over, overspread, cover: caelum obtexitur umbrā, ***Ver.***
+##### obticeō —, —, ēre
+to be silent: Virgo obticet, ***Ter.***
 ##### obtrectātiō ōnis, f
 a belittling, detraction, disparagement: invidia atque obtrectatio: adversus crescentem gloriam, ***Liv.*** : erga Flavianos, ***Tac.*** : laudis, ***Caes.*** : gloriae alienae, ***Liv.***
 ##### obtrectātor ōris, m
@@ -167,6 +191,10 @@ a massacre, utter destruction, extermination: in occidione victoriam ponere, ***
 going down, setting: occiduo sole, ***Ov.*** : dies, ***Ov.*** — Western: ab occiduo sole, ***Ov.*** — Fig., sinking, failing: senecta, ***Ov.***
 ##### occīsiō ōnis, f
 a massacre, slaughter, murder: parentis.
+##### occō —, —, āre
+to harrow: segetes, ***Hor.***
+##### occubō —, —, āre
+to lie low, lie prostrate, lie dead: quo (tumulo), ***Ver.*** : consul morte occubans, ***Liv.***
 ##### occultātiō ōnis, f
 a covering, hiding, concealment: occultatione propositā, in the hope of secrecy: se occultatione tutantur, by hiding: cuius rei nulla est occultatio, ***Caes.***
 ##### occultātor ōris, m
@@ -231,6 +259,8 @@ a slight offence, trifling hurt: animi tui. — A slight repulse, trifling disap
 a workshop, manufactory: instituit officinam in regiā maximam, studio: armorum officinae in urbe: monetae, mint, ***Liv.*** : Cyclopum Volcanus urit officinas, ***Hor.*** — Fig., a workshop, factory, laboratory: tamquam omnium artium: sapientiae: ex rhetorum officinis: eloquentiae: corruptelarum, ***Liv.***
 ##### officium ī, n
 a service, kindness, favor, courtesy: pro recentibus Gallici belli officiis, help given in, ***Caes.*** : summo officio praeditus homo, exceedingly obliging: officio te certasse priorem, ***Ver.*** : Officiis dilecta suis, loved for her kindly services, ***Ov.*** — A ceremonial observance, ceremony, attendance: officium cras mihi peragendum, a ceremonial visit, ***Iuv.*** : tempus per officiorum ambitum transigunt, ***Tac.*** — An obligatory service, obligation, duty, function, part, office: patris, ***Ter.*** : functus officio, ***Liv.*** : in deos hominesque fungi officiis, ***Liv.*** : a pueris nullo officio adsuefacti, ***Caes.*** : vita cum officio coniuncta: amicitiae: satisfacere officio, perform: officium suum deserere, neglect: de officio decedis: in officio manere, ***Caes.*** : offici neglegentior. — An official duty, service, employment, business, work: officia inter se partiuntur, ***Caes.*** : maritimum, naval service, ***Caes.*** : fama aucti officii, i. e. of extending his authority, ***Tac.*** — A sense of duty, dutifulness, conscience: quicquid in eum iudici officique contuleris: utrum apud eos officium valeret, ***Caes.***
+##### offīgō —, —, ere
+to drive in, fasten: densos ramos, ***Liv.***
 ##### offīrmātus adj.
 firm, obstinate. — Only comp: voluntas offirmatior.
 ##### offīrmō āvī, ātus, āre
@@ -330,6 +360,8 @@ abl. of oppidum very, very much, completely, exceedingly, exactly, precisely: ir
 a village.
 ##### oppidum ī, n
 a town, city, collection of dwellings: toto me oppido quaerere, ***Ter.*** : arx oppidi, ***Sall.*** : oppida publico Sumptu decorare, ***Hor.*** : in oppidum intromitti, i. e. Rome, ***Liv.*** : is (campus) est ab oppido circiter, etc., i. e. Athens, ***Nep.*** : oppidum vocant, cum silvas munierunt, etc., ***Caes.*** — A provincial town: pervetus in Siciliā: Romana per oppida, ***Ver.*** : Antiochiae. — The inhabitants of a town: Oppida tota canem venerantur, ***Iuv.***
+##### oppīgnerō —, —, āre
+to give as a pledge, pledge, pawn: libelli pro vino oppignerabantur. — Fig.: filiam Meam, ***Ter.***
 ##### oppīlō āvī, ātus, āre
 to stop up, shut up: scalis tabernae oppilatis.
 ##### opportūnitās ātis, f
@@ -364,6 +396,8 @@ to choose, select, prefer: sapientius, ***Ov.*** : in navīs ternos iuvencos, th
 rich, wealthy, opulent: civitas, ***Sall.*** — Plur m. as subst: opulentium fortuna, ***Nep.*** — For comp. and sup., see opulentus.
 ##### opulentia ae, f
 riches, wealth, opulence, abundance, affluence: habemus privatim opulentiam, ***Sall.*** : Troiae, ***Ver.***
+##### opulentō —, —, āre
+to make rich, enrich: erum bacis olivae, ***Hor.***
 ##### opusculum ī, n dim.
 a little work: minutorum opusculorum fabricator: Cassi Parmensis, ***Hor.***
 ##### ōra ae, f
@@ -474,5 +508,7 @@ exulting, joyful, triumphant: socii comitentur ovantes, ***Ver.*** : ovantes gut
 of sheep, sheep-: grex, ***Liv.***
 ##### ovis is, f
 a sheep: multae dictione ovium et boum: aurata, ***Ov.*** : infirmae, ***Hor.*** : lanigera, ***Ver.*** : custos ovium, ***Ver.*** : tondere oves, ***Hor.*** — Prov.: ovem lupo commisti, made the wolf shepherd, ***Ter.*** : O praeclarum custodem ovium, ut aiunt, lupum. — Poet., wool: niveam Tyrio murice tingit ovem, Tb.
+##### ovō —, —, āre
+to exult, rejoice: Quo nunc Turnus ovat spolio potitus, ***Ver.*** : ovantes Horatium accipiunt, ***Liv.*** : successu caedis ovans, ***Ov.*** — To receive an ovation, triumph: me ovantem in Capitolium ferre: ovans urbem ingredi, ***Liv.***
 ##### ōvum ī, n
 an egg: ovum parere, to lay: ponere, ***Ov.*** : pullos ex ov is excuderunt, hatched: pisces ova cum genuerunt, spawn: integram famem ad ovum adfero, i. e. the beginning of the meal (when eggs were served): ab ova Usque ad mala, i. e. from the beginning to the end, ***Hor.*** : Nec gemino bellum Troianum orditur ab ovo (alluding to the mythical story of the eggs of Leda), ***Hor.*** : ovo prognatus eodem, i. e. of the same mother, ***Hor.*** : ova ad notas curriculis numerandus (wooden eggs used in the circus as counters, one being removed after each circuit made), ***Liv.***

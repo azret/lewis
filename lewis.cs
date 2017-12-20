@@ -29,107 +29,7 @@ static class App {
                 WORD.correct();
             }
 
-            Regex prōvocō = new Regex("^(.+)ō āvī, ātus, āre$", RegexOptions.None);
-            Regex adv = new Regex("^(.+) (adv.)$", RegexOptions.None);
-            Regex puella = new Regex("^(.+)a ae, (f|m|n)$", RegexOptions.None);
-            Regex abacus = new Regex("^(.+)(us|um) ī, (f|m|n)$", RegexOptions.None);
-            Regex puerulus = new Regex("^(.+)(us|um) ī, (f|m|n) dim.$", RegexOptions.None);
-            Regex volucris = new Regex("^(.+)is is, (f|m|n)$", RegexOptions.None);
-            Regex volūbilitās = new Regex("^(.+)ās ātis, (f|m|n)$", RegexOptions.None);
-            Regex ūsus = new Regex("^(.+)us ūs, (f|m|n)$", RegexOptions.None);
-            Regex pater = new Regex("^(.+)ter tris, (f|m|n)$", RegexOptions.None);
-            Regex pedes = new Regex("^(.+)es itis, (f|m|n)$", RegexOptions.None);
-            Regex pēgma = new Regex("^(.+)es atis, (f|m|n)$", RegexOptions.None);
-            Regex abaliēnātiō = new Regex("^(.+)ātiō īnis, (f|m|n)$", RegexOptions.None);
-            Regex volūtātiō = new Regex("^(.+)(i|r)ō ōnis, (f|m|n)$", RegexOptions.None);
-            Regex pectus = new Regex("^(.+)tus oris, (f|m|n)$", RegexOptions.None);
-            Regex perditor = new Regex("^(.+)(t|m|s|d|g|r|n)or ōris, (f|m|n)$", RegexOptions.None);
-            Regex mōlēs = new Regex("^(.+)ēs is, (f|m|n)$", RegexOptions.None);
-            Regex quiēs = new Regex("^(.+)ēs ētis, (f|m|n)$", RegexOptions.None);
-            Regex mystēs = new Regex("^(.+)ēs ae, (f|m|n)$", RegexOptions.None);
-            Regex Napaeae = new Regex("^(.+)ae ārum, (f|m|n)$", RegexOptions.None);
-            Regex nātrīx = new Regex("^(.+)īx īcis, (f|m|n)$", RegexOptions.None);
-            Regex fornix = new Regex("^(.+)ix icis, (f|m|n)$", RegexOptions.None);
-            Regex nauseola = new Regex("^(.+)a ae, (f|m|n) dim.$", RegexOptions.None);
-            Regex quadrīgulae = new Regex("^(.+)ae ārum, (f|m|n) dim.$", RegexOptions.None);
-            Regex mollitūdō = new Regex("^(.+)ūdō inis, (f|m|n)$", RegexOptions.None);
-            Regex frāgmen = new Regex("^(.+)men inis, (f|m|n)$", RegexOptions.None);
-            Regex vorāgō = new Regex("^(.+)gō inis, (f|m|n)$", RegexOptions.None);
-            Regex pūlmō = new Regex("^(.+)mō ōnis, (f|m|n)$", RegexOptions.None);
-            Regex pȳramis = new Regex("^(.+)mis īdis, (f|m|n)$", RegexOptions.None);
-            Regex quadrāns = new Regex("^(.+)āns antis, (f|m|n)$", RegexOptions.None);
-            Regex rāmex = new Regex("^(.+)ex icis, (f|m|n)$", RegexOptions.None);
-            Regex vectīgal = new Regex("^(.+)al ālis, (f|m|n)$", RegexOptions.None);
-            Regex vīcēsimānī = new Regex("^(.+)ī ōrum, (f|m|n)$", RegexOptions.None);
-            Regex Vīnālia = new Regex("^(.+)lia ium, (f|m|n)$", RegexOptions.None);
-            Regex ānser = new Regex("^(.+)er eris, (f|m|n)$", RegexOptions.None);
-            Regex antēs = new Regex("^(.+)ēs īum, (f|m|n)$", RegexOptions.None);
-            Regex anthias = new Regex("^(.+)as ae, (f|m|n)$", RegexOptions.None);
-            Regex verū = new Regex("^(.+)ū ūs, (f|m|n)$", RegexOptions.None);
-            Regex virtūs = new Regex("^(.+)ūs ūtis, (f|m|n)$", RegexOptions.None);
-            Regex animātus = new Regex("^(.+)us adj.$", RegexOptions.None);
-            Regex dēditīcius = new Regex("^(.+)ius ī, adj.$", RegexOptions.None);
-            Regex dēnicālis = new Regex("^(.+)lis ī, adj.$", RegexOptions.None);
-            Regex volūbilis = new Regex("^(.+)(l|m|n|t)is e, adj.$", RegexOptions.None);
-            Regex volēns = new Regex("^(.+)ēns entis, adj.$", RegexOptions.None);
-            Regex vēsāniēns = new Regex("^(.+)ēns ntis, adj.$", RegexOptions.None);
-            Regex viridāns = new Regex("^(.+)āns antis, adj.$", RegexOptions.None);
-            Regex vigilāx = new Regex("^(.+)āx ācis, adj.$", RegexOptions.None);
-            Regex dux = new Regex("^(.+)ux ucis, (f|m|n)$", RegexOptions.None);
-            Regex rex = new Regex("^(.+)ex egis, (f|m|n)$", RegexOptions.None);
-            Regex vōx = new Regex("^(.+)ōx ōcis, (f|m|n)$", RegexOptions.None);
-
-            Regex[] PATTERNS = new Regex[] {
-                rex,
-                dux,
-                vōx,
-                vigilāx,
-                vēsāniēns,
-                viridāns,
-                dēditīcius,
-                dēnicālis,
-                volūbilis,
-                volēns,
-                animātus,
-                verū,
-                virtūs,
-                anthias,
-                ānser,
-                antēs,
-                prōvocō,
-                adv,
-                puella,
-                abacus,
-                puerulus,
-                volucris,
-                volūbilitās,
-                ūsus,
-                pater,
-                pedes,
-                pēgma,
-                abaliēnātiō,
-                volūtātiō,
-                pectus,
-                perditor,
-                mōlēs,
-                quiēs,
-                mystēs,
-                Napaeae,
-                nātrīx,
-                fornix,
-                nauseola,
-                quadrīgulae,
-                mollitūdō,
-                frāgmen,
-                vorāgō,
-                pūlmō,
-                pȳramis,
-                quadrāns,
-                rāmex,
-                vectīgal,
-                vīcēsimānī,
-                Vīnālia,
-            };
+            Regex[] PATTERNS = Patterns();
 
             var UNK = new StringBuilder();
 
@@ -175,7 +75,7 @@ static class App {
                     }
                     LINES[c].Append($"\r\n");
                 } else {
-                    UNK.Append($"{WORD.Declaration}\r\n");
+                    UNK.Append($"##### {WORD.Declaration}\r\n");
                 }
             }
 
@@ -192,6 +92,127 @@ static class App {
         }
 
         Console.WriteLine("Done.");
+    }
+
+    static Regex[] Patterns() {
+        Regex prōvocō = new Regex("^(.+)ō āvī, ātus, āre$", RegexOptions.None);
+        Regex perpetuō = new Regex("^(.+)ō —, —, āre$", RegexOptions.None);
+        Regex perplaceō = new Regex("^(.+)ō —, —, ēre$", RegexOptions.None);
+        Regex circumsiliō = new Regex("^(.+)ō —, —, īre$", RegexOptions.None);
+        Regex circumscindō = new Regex("^(.+)ō —, —, ere$", RegexOptions.None);
+        Regex abstō = new Regex("^(.+)ō —, āre$", RegexOptions.None);
+        Regex ablūdō = new Regex("^(.+)ō —, ere$", RegexOptions.None);
+        Regex aberrō = new Regex("^(.+)ō āvī, —, āre", RegexOptions.None);
+        Regex adv = new Regex("^(.+) (adv.)$", RegexOptions.None);
+        Regex puella = new Regex("^(.+)a ae, (f|m|n)$", RegexOptions.None);
+        Regex abacus = new Regex("^(.+)(us|um) ī, (f|m|n)$", RegexOptions.None);
+        Regex puerulus = new Regex("^(.+)(us|um) ī, (f|m|n) dim.$", RegexOptions.None);
+        Regex volucris = new Regex("^(.+)is is, (f|m|n)$", RegexOptions.None);
+        Regex volūbilitās = new Regex("^(.+)ās ātis, (f|m|n)$", RegexOptions.None);
+        Regex ūsus = new Regex("^(.+)us ūs, (f|m|n)$", RegexOptions.None);
+        Regex pater = new Regex("^(.+)ter tris, (f|m|n)$", RegexOptions.None);
+        Regex pedes = new Regex("^(.+)es itis, (f|m|n)$", RegexOptions.None);
+        Regex pēgma = new Regex("^(.+)es atis, (f|m|n)$", RegexOptions.None);
+        Regex abaliēnātiō = new Regex("^(.+)ātiō īnis, (f|m|n)$", RegexOptions.None);
+        Regex volūtātiō = new Regex("^(.+)(i|r)ō ōnis, (f|m|n)$", RegexOptions.None);
+        Regex pectus = new Regex("^(.+)tus oris, (f|m|n)$", RegexOptions.None);
+        Regex perditor = new Regex("^(.+)(t|m|s|d|g|r|n)or ōris, (f|m|n)$", RegexOptions.None);
+        Regex mōlēs = new Regex("^(.+)ēs is, (f|m|n)$", RegexOptions.None);
+        Regex quiēs = new Regex("^(.+)ēs ētis, (f|m|n)$", RegexOptions.None);
+        Regex mystēs = new Regex("^(.+)ēs ae, (f|m|n)$", RegexOptions.None);
+        Regex Napaeae = new Regex("^(.+)ae ārum, (f|m|n)$", RegexOptions.None);
+        Regex nātrīx = new Regex("^(.+)īx īcis, (f|m|n)$", RegexOptions.None);
+        Regex fornix = new Regex("^(.+)ix icis, (f|m|n)$", RegexOptions.None);
+        Regex nauseola = new Regex("^(.+)a ae, (f|m|n) dim.$", RegexOptions.None);
+        Regex quadrīgulae = new Regex("^(.+)ae ārum, (f|m|n) dim.$", RegexOptions.None);
+        Regex mollitūdō = new Regex("^(.+)ūdō inis, (f|m|n)$", RegexOptions.None);
+        Regex frāgmen = new Regex("^(.+)men inis, (f|m|n)$", RegexOptions.None);
+        Regex vorāgō = new Regex("^(.+)gō inis, (f|m|n)$", RegexOptions.None);
+        Regex pūlmō = new Regex("^(.+)(m|c|n)ō ōnis, (f|m|n)$", RegexOptions.None);
+        Regex pȳramis = new Regex("^(.+)mis īdis, (f|m|n)$", RegexOptions.None);
+        Regex quadrāns = new Regex("^(.+)āns antis, (f|m|n)$", RegexOptions.None);
+        Regex rāmex = new Regex("^(.+)ex icis, (f|m|n)$", RegexOptions.None);
+        Regex vectīgal = new Regex("^(.+)al ālis, (f|m|n)$", RegexOptions.None);
+        Regex vīcēsimānī = new Regex("^(.+)ī ōrum, (f|m|n)$", RegexOptions.None);
+        Regex Vīnālia = new Regex("^(.+)lia ium, (f|m|n)$", RegexOptions.None);
+        Regex ānser = new Regex("^(.+)er eris, (f|m|n)$", RegexOptions.None);
+        Regex antēs = new Regex("^(.+)ēs īum, (f|m|n)$", RegexOptions.None);
+        Regex anthias = new Regex("^(.+)(as|ās) ae, (f|m|n)$", RegexOptions.None);
+        Regex verū = new Regex("^(.+)ū ūs, (f|m|n)$", RegexOptions.None);
+        Regex virtūs = new Regex("^(.+)ūs ūtis, (f|m|n)$", RegexOptions.None);
+        Regex animātus = new Regex("^(.+)us adj.$", RegexOptions.None);
+        Regex dēditīcius = new Regex("^(.+)ius ī, adj.$", RegexOptions.None);
+        Regex dēnicālis = new Regex("^(.+)lis ī, adj.$", RegexOptions.None);
+        Regex volūbilis = new Regex("^(.+)(l|m|n|t)is e, adj.$", RegexOptions.None);
+        Regex volēns = new Regex("^(.+)ēns entis, adj.$", RegexOptions.None);
+        Regex vēsāniēns = new Regex("^(.+)ēns ntis, adj.$", RegexOptions.None);
+        Regex viridāns = new Regex("^(.+)āns antis, adj.$", RegexOptions.None);
+        Regex vigilāx = new Regex("^(.+)āx ācis, adj.$", RegexOptions.None);
+        Regex dux = new Regex("^(.+)ux ucis, (f|m|n)$", RegexOptions.None);
+        Regex rex = new Regex("^(.+)ex egis, (f|m|n)$", RegexOptions.None);
+        Regex vōx = new Regex("^(.+)ōx ōcis, (f|m|n)$", RegexOptions.None);
+        Regex sandȳx = new Regex("^(.+)ȳx īcis, (f|m|n)$", RegexOptions.None);
+
+        Regex[] PATTERNS = new Regex[] {
+                circumscindō,
+                circumsiliō,
+                aberrō,
+                sandȳx,
+                abstō,
+                ablūdō,
+                prōvocō,
+                perpetuō,
+                perplaceō,
+                rex,
+                dux,
+                vōx,
+                vigilāx,
+                vēsāniēns,
+                viridāns,
+                dēditīcius,
+                dēnicālis,
+                volūbilis,
+                volēns,
+                animātus,
+                verū,
+                virtūs,
+                anthias,
+                ānser,
+                antēs,
+                adv,
+                puella,
+                abacus,
+                puerulus,
+                volucris,
+                volūbilitās,
+                ūsus,
+                pater,
+                pedes,
+                pēgma,
+                abaliēnātiō,
+                volūtātiō,
+                pectus,
+                perditor,
+                mōlēs,
+                quiēs,
+                mystēs,
+                Napaeae,
+                nātrīx,
+                fornix,
+                nauseola,
+                quadrīgulae,
+                mollitūdō,
+                frāgmen,
+                vorāgō,
+                pūlmō,
+                pȳramis,
+                quadrāns,
+                rāmex,
+                vectīgal,
+                vīcēsimānī,
+                Vīnālia,
+            };
+        return PATTERNS;
     }
 
     static List<Entry> compile(string XML) {

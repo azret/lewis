@@ -50,6 +50,8 @@ not, not at all, by no means: haud sane intellego, quid, etc.: res haud sane dif
 not at all as yet, not yet: cum patris favor hauddum exolevisset, ***Liv.*** : hiemps hauddum exacta, ***Liv.***
 ##### haustus ūs, m
 a drawing: puteus facili diffunditur haustu, ***Iuv.*** : aquae haustus, the right of drawing. — A drinking, swallowing, drawing in, drink, draught: exiguis haustibus bibi, in small draughts, ***Ov.*** : haustu sparsus aquarum, ***Ver.*** : aquae, ***Ov.*** : sanguinis, i. e. stream, ***Ov.*** : Esse apibus haustūs Aetherios, i. e. breath, ***Ver.*** : peregrinae harenae, a handful, ***Ov.*** : Pindarici fontis qui non expalluit haustūs, i. e. to imitate, ***Hor.***
+##### hebeō —, —, ēre
+to be blunt, be dull: ferrum nunc hebet? ***Liv.*** — Fig., to be sluggish, be inactive: Sanguis hebet, ***Ver.*** : sensu, ***Ov.*** : viri, ***Tac.***
 ##### hebetō āvī, ātus, āre
 to make blunt, dull, blunt, dim, deaden, weaken: hastas, ***Liv.*** : ferrum hostium, ***Liv.*** : visūs tibi, ***Ver.*** : sidera, ***Tac.*** : taurorum flammas, quench the fiery breath, ***Ov.*** : alcui visūs, ***Ver.*** — Fig.: Lethe hebetans pectora, stupefying, ***Ov.***
 ##### hēdychrum ī, n
@@ -158,6 +160,8 @@ a stage-player, actor: neque histrioni, ut placeat, peragenda fabula est: neque 
 of actors: modi, ***Tac.*** : studium, for actors, ***Tac.*** : favor, ***Tac.***
 ##### hiulcē adv.
 in a gaping manner, with a frequent hiatus: loqui.
+##### hiulcō —, —, āre
+to cause to gape, open in chinks: agros, Ct.
 ##### hiulcus adj.
 gaping, split, cleft, opened, open: siti arva, ***Ver.*** — Fig., of speech, gaping, not well connected, forming an hiatus: eorum (verborum) concursus: voces.
 ##### hōc adv.
@@ -212,6 +216,8 @@ dreadful, terrible, fearful, horrible: monstrum, ***Ver.*** : silva, ***Liv.*** 
 bristly, shaggy, rough: Terga suum, ***Ver.*** : umbra, ***Ver.***
 ##### horreum ī, n
 a storehouse, barn, granary, magazine, cellar: clavis horrei: si proprio condidit horreo, Quicquid, etc., ***Hor.*** : Illius inmensae ruperunt horrea messes, ***Ver.*** : deripere horreo amphoram, ***Hor.*** : floribus horrea texent (apes), hives, ***Ver.*** : mus horrea fecit, ***Ver.***
+##### horrificō —, —, āre
+to ruffle, make rough: horrificans Zephyrus, Ct. — To strike terror, appal: Terribili monitu, ***Ver.***
 ##### horrificus adj.
 exciting terror, dreadful, frightful: letum, ***Ver.***
 ##### horrisonus adj.

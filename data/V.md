@@ -22,6 +22,8 @@ a goddess of rural fertility, the ancestral divinity of the Sabines, ***Hor.*** 
 of Vacuna: foci, ***Ov.***
 ##### vadimōnium ī, n
 a promise of appearance secured by bail, bail-bond, bail, security, recognizance: vadimonium promittere: sine vadimonio disceditur: Aptius hae capiant vadimonia garrula cerae, i. e. legal forms, ***Ov.*** : res esse in vadimonium coepit, i. e. is to be duly tried: vadimonium tibi cum Quinctio nullum fuit, i. e. if you were under no bond to Quinctius to appear: vadimonium sistit, i. e. appears duly: Romam vadimoni causā venire: vadimonia deinde Irati faciunt, i. e. require bail of you, ***Iuv.*** : differre, to postpone appearance: vadimonium imponere, exact bail, ***Nep.*** : vadimonium deserere, to forfeit one's recognizance: vadimonium missum facere, release the bail.
+##### vādō —, —, ere
+to go, walk, go hastily, proceed rapidly, rush: Vadimus inmixti Danais, ***Ver.*** : ad eum (Pompeium) postridie mane vadebam: ad amnem, ***Ov.*** : in hostem, in advance, ***Liv.*** : cras mane vadit: Vade, vale, ***Hor.*** — Poet.: Ardua per praeceps gloria vadit iter, ***Ov.***
 ##### vadōsus adj.
 full of shallows, shallow, shoal: mare, ***Caes.*** : amnis, ***Ver.*** : Syrtes, ***Sall.*** : ostium portūs, ***Liv.***
 ##### vadum ī, n
@@ -62,6 +64,8 @@ emptiness, nothingness, naught: ad vanum et inritum victoria redacta, brought to
 a steam-chamber, sweating-room (in a bath).
 ##### vappa ae, f
 wine without flavor, vapid wine: potare vappam, ***Hor.*** — Fig., a spoiled fellow, good-for-nothing, ***Hor.*** , Ct.
+##### vāpulō āvī, —, āre
+to get a cudgelling, be flogged: vapulando defessi, ***Ter.*** — Of troops, to be beaten: septimam legionem vapulasse. — Fig., to be lashed, be reviled: omnium sermonibus.
 ##### variātiō ōnis, f
 a difference, variation: sine variatione ullā, ***Liv.***
 ##### varicōsus adj.
@@ -142,10 +146,16 @@ supernumeraries held in waiting to take the place of soldiers who may fall.
 a light-armed soldier. — Usu. plur, guerrilla troops, irregular bands, skirmishers, ***Liv.*** : a te, ut scurram velitem, malis oneratus, i. e. as a clown among soldiers.
 ##### vēlificātiō ōnis, f
 a making sail, sailing: mutatā velificatione.
+##### vēlificō —, —, āre
+to sail, make sail: per urbanas aquas, ***Prop.*** — Pass: velificatus Athos, sailed through, ***Iuv.***
 ##### vēlivolāns antis, adj.
 sail-flying, flying with sails: naves, ***Cic.*** poët.
 ##### vēlivolus adj.
 sail-flying, winged with sails: rates, ***Ov.*** : mare, covered with sails, ***Ver.*** , ***Ov.***
+##### vellicō —, —, āre
+to pluck, twitch, twit, taunt, carp, rail at: in circulis vellicant, maligno dente carpunt: absentem, ***Hor.***
+##### vellō —, —, ere
+to pluck, pull, tear away, pull out: poma, Tb.: caudae pilos equinae, ***Hor.*** : tot spicula, ***Ver.*** : ut signa, take up, ***Liv.*** : postīs a cardine, ***Ver.*** : capillos a stirpe, ***Prop.*** : castris signa, ***Ver.*** : Unguibus herbas, ***Ov.*** : hastam de caespite, ***Ver.*** — To pull down, tear down, destroy: vallum, ***Liv.*** : munimenta, ***Liv.*** — To pull, twitch, pluck: aurem, ***Ver.*** : vellere coepi Et prensare bracchia, ***Hor.***
 ##### vēlō āvī, ātus, āre
 to cover, cover up, enfold, wrap, envelop, veil: capite velato: caput velatum filo, ***Liv.*** : partes tegendas, ***Ov.*** : velatae antemnae, clothed with sails, ***Ver.*** : velatus togā, wrapped, ***Liv.*** : stolā, ***Hor.*** : Tempora tiaris, to encircle, ***Ov.*** : cornua lauro, ***Ov.*** : Palatia sertis, ***Ov.*** : delubra deūm fronde, ***Ver.*** : Velati ramis oleae, ***Ver.*** : Ampycus albenti velatus tempora vittā, ***Ov.*** — Fig., to hide, conceal: odium fallacibus blanditiis, ***Tac.***
 ##### vēlōcitās ātis, f
@@ -176,6 +186,8 @@ a specious display, boasting, vaunting, blazoning: omnia, quae sine venditatione
 a boaster, braggart, ***Tac.***
 ##### vēnditiō ōnis, f
 a selling, sale, vending: bonorum: hasta venditionis.
+##### vēnditō āvī, —, āre, freq.
+to keep offering for sale, try to sell: Tusculanum. — Fig., to deal in, make traffic of, sell, give for a bribe: istius omnia decreta, imperia: pacem pretio. — To commend, praise, recommend: obsequium amatori, ***Liv.*** : valde te: quo modo se venditant Caesari? i. e. ingratiate themselves: quod non florentibus se venditavit, ***Nep.*** : per illos se plebi, ***Liv.***
 ##### vēnditor ōris, m
 a seller, vender: frumenti: vestrae dignitatis, i. e. corrupt magistrates.
 ##### vēnditum ī, n
@@ -204,6 +216,8 @@ sea-colored, of a marine blue: cucullus, ***Iuv.***
 indulgence, kindness, grace, favor: ab Iove ceterisque dis pacem ac veniam peto: precor hanc veniam supplici des, ut, etc., ***Liv.*** : Caesar tibi petenti veniam non dedit: da veniam hanc mihi, do me this favor, ***Ter.*** : Extremam hanc oro veniam, this last kindness, ***Ver.*** : cum data esset ven ia eius diei, indulgence for that day, ***Liv.*** — Esp., in the phrase, bonā veniā, or cum bonā veniā; with audire, kindly, with favor, without prejudice: bonā veniā me audies: cum bonā veniā, quaeso, audiatis id quod invitus dico, ***Liv.*** — With verbs of saying, by your leave, with your permission, without offence, respectfully: nisi vero (bonā veniā huius optimi viri dixerim) tu, etc.: bonā hoc tuā veniā dixerim: bonā veniā vestrā liceat, etc., ***Liv.*** — Permission: veniā petitā puerum ad canendum ante tibicinem cum statuisset, ***Liv.*** : datā veniā seducit filiam ac nutricem, ***Liv.*** — Forbearance, forgiveness, pardon, remission: errati veniam impetrare: pacem veniamque impetrare a victoribus, ***Liv.*** : maximorum scelerum: veniam tuis dictis Supplice voce roga, ***Ov.*** : peccatis veniam poscens, ***Hor.***
 ##### venter tris, m
 the belly, paunch: quasi (fabā) mens, non venter infletur: inanis, stomach, ***Hor.*** : iratum ventrem placare, i. e. appetite, ***Hor.*** : dediti ventri, ***Sall.*** : magno Servorum ventres, i. e. the support of slaves, ***Iuv.*** — The womb: sua conplevit tempora venter, ***Ov.*** : homines in ventre necandos Conducit, ***Iuv.*** — In the phrase, ventrem ferre, to be pregnant, ***Liv.*** — The unborn child, embryo, foetus: Tuus, ***Hor.*** — A belly, swelling, protuberance: Quo modo... Cresceret in ventrem cucumis, ***Ver.*** : lagenae, ***Iuv.***
+##### ventitō āvī, —, āre, freq.
+to come often, be wont to come, keep coming, resort: ad Ambiorigem, ***Caes.*** : domum meam.
 ##### ventriculus ī, m dim.
 the belly, ***Iuv.*** : cordis, the ventricle.
 ##### ventulus ī, m dim.
@@ -234,6 +248,8 @@ shamefastness, bashfulness, shyness, coyness, modesty, shame, reserve: homo pudo
 to be feared, worthy of reverence, venerable, reverend, awful: maiestas, ***Ov.*** : ossa (viri), ***Ov.***
 ##### verētrum ī, n
 the private parts, parts of shame, ***Phaed.***
+##### vergō —, —, ere
+to bend, turn, be inclined, lie, be situated: declivis locus tenui fastigio vergebat in longitudinem, etc., ***Caes.*** : portus in meridiem vergit, ***Liv.*** : omnibus eius partibus in medium vergentibus. — Fig., to turn, incline, be directed: nisi Bruti auxilium ad Italiam vergere quam ad Asiam maluissemus: nox vergit ad lucem, verges towards, ***Curt.*** : anni vergentes in senium, ***Tac.*** : vergens annis femina, advanced, ***Tac.*** : illuc cuncta vergere, everything centred in him, ***Tac.***
 ##### vergobretus ī, m
 the minister of justice, executive (of the Aedui), ***Caes.***
 ##### vēridicus adj.
@@ -252,6 +268,8 @@ of home-born slaves: multitudo, ***Tac.*** — Native, domestic, indigenous, ver
 of a home-born slave, fawning, servile: blanditiae, ***Tac.*** — Jesting, waggish: dictum, ***Tac.***
 ##### vernīliter adv.
 slavishly, servilely: Fungi officiis, ***Hor.***
+##### vērnō —, —, āre
+to spring, feel new life, grow young: Vernat humus, ***Ov.*** : gutture vernat avis, i. e. begins to sing, ***Ov.***
 ##### vernula ae, m dim.
 a little home-born slave, young domestic: custos vernula capsae, ***Iuv.*** : (lupus) Tiberinus Vernula riparum, i. e. (a fish) of slavish birth under the bank, ***Iuv.***
 ##### vērnus adj.
@@ -268,8 +286,12 @@ a boar, male swine: obliquum meditans ictum, ***Hor.*** : tam nequam.
 of a boar, swinish: ius, broth of pork (a pun): ius Verrinus, the administration of justice by Verres.
 ##### Verrius adj.
 of Verres, Verrian.
+##### verrō —, —, ere
+to sweep, brush, scour, sweep out, sweep together: qui tergent, qui verrunt, qui spargunt: matres crinibus templa verrentes, ***Liv.*** : pavimentum, ***Iuv.*** : Aequora caudis (delphines), ***Ver.*** : Caesariem per aequora, trail, ***Ov.*** — Of grain, to clean up after threshing, collect: nigras pro farre favillas, ***Ov.*** : Quicquid de Libycis verritur areis, i. e. is collected, ***Hor.*** — To sweep, pass over, play upon, traverse: duplici genialia nablia palmā, ***Ov.*** : remis vada, ***Ver.***
 ##### verrūca ae, f
 a wart, fault, failing (opp tuber), ***Hor.***
+##### verruncō —, —, āre
+bene, to turn out well, have a fortunate issue: haec bene verruncent populo, Att. ap. ***Cic.*** : ea mihi bene verruncent, ***Liv.***
 ##### versābilis e, adj.
 changeable, mutable, fickle: acies, ***Curt.*** : fortuna, ***Curt.***
 ##### versātilis e, adj.
@@ -546,10 +568,14 @@ a potent juice, medicinal liquid, poison, venom, virus: (equa) destillat ab ingu
 smeared with birdlime: virgae, limed twigs, ***Ov.*** : alae, ***Ov.***
 ##### vīscerātiō ōnis, f
 a public distribution of flesh, dispensation of animal food: viscerationibus pecunias profundere: populo data, ***Liv.***
+##### vīscō —, —, āre
+to smear, besmear: viscantur labra mariti, are glued, ***Iuv.***
 ##### vīscum ī, n
 the mistletoe, ***Ver.*** — Birdlime of mistletoe-berries.
 ##### vīsiō ōnis, f
 the act of seeing: hence, meton., an appearance, apparition, vision: adventicia: fluentes visiones. — Fig., a mental image, idea, conception, notion: speciem dei percipi cogitatione... eamque esse eius visionem, ut, etc.
+##### vīsitō āvī, —, āre, freq.
+to go to see, visit: hominem.
 ##### vīsum ī, n
 a thing seen, sight, appearance, vision: visa somniorum: Dic visa quid ista ferant, ***Ov.*** — In the Academica of Cicero, for an image produced by a sensation, representation.
 ##### vīsus ūs, m
@@ -604,6 +630,8 @@ blameworthy, blamable, censurable: per se ipsum.
 a blaming, censuring, blame, censure, vituperation: communi vituperatione reprehendere: in vituperationem venire: vituperationem vitare. — A cause of blame, blameworthiness, blameworthy conduct: istius vituperatio atque infamia: eam rem laudi tibi potius quam vituperationi fore.
 ##### vituperātor ōris, m
 a blamer, censurer, vituperator: invidos vituperatores confutare: philosophiae.
+##### vituperō āvī, —, āre
+to inflict censure, find fault with, blame, censure, reproach, disparage, vituperate: notare ac vituperare: multimodis cum istoc animo es vituperandus, ***Ter.*** : si quis universam (philosophiam) velit vituperare: (Rhodiorum res p.) minime quidem vituperanda. — Prov.: qui caelum vituperant, find fault with heaven itself, ***Phaed.***
 ##### vīvārium ī, n
 an enclosure for live game, park, warren, preserve, fish-pond: vivaria Caesaris, ***Iuv.*** — Fig., of legacy-hunters: Excipiant senes, quos in vivaria mittant, ***Hor.***
 ##### vīvidus adj.

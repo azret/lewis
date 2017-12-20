@@ -165,6 +165,8 @@ of five years, five years old: vinum, ***Hor.*** : oleae, ***Hor.*** : Olympias,
 a period of five years, five years: quinqueni imperium prorogare: magistratum quinquennium habere: tria quinquennia, i. e. fifteen years, ***Ov.***
 ##### quīnquiēns (ēs) adv.
 five times: absolutus est: ad HS viciens quinquiens redegisse (sc. centena milia), i. e. 2, 500, 000.
+##### quīnquiplicō —, āre
+to make fivefold: magistratūs, ***Tac.***
 ##### quīntadecimānī ōrum, m
 the soldiers of the fifteenth legion, ***Tac.***
 ##### quīntānus adj.
@@ -181,6 +183,8 @@ of Cures, of the Quirites; hence, the deified Romulus: Quirinus vocatur Romulus:
 of Quirinus, of Romulus, Quirinal: collis, i. e. the Quirinal, ***Ov.*** : victor, i. e. Augustus, ***Ver.*** : umeri, ***Prop.***
 ##### quirītātiō ōnis, f
 a plaintive cry, call for help: quiritatio facta, ***Liv.***
+##### quirītō —, —, āre
+to call the Quirites, call to the rescue, wail: vox quiritantium, ***Liv.***
 ##### quisquiliae ārum, f
 odds and ends, offscourings, rubbish: seditionis Clodianae.
 ##### quoad (monosyl., ***Hor.***), adv.

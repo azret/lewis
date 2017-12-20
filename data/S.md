@@ -60,6 +60,8 @@ clothed in a sagum, wearing a military cloak: sagati bracatique.
 a stuffing, feeding, feasting: multitudinem saginā tenebat. — Food, nourishment: stomachum laxare saginis, ***Iuv.*** : gladiatoria, i. e. abundant, ***Tac.*** : inmunda, ***Prop.***
 ##### sagīnō āvī, ātus, āre
 to fatten, cram, feast: corpus, ***Curt.*** : popularīs suos, ut iugulentur, ***Liv.*** : nuptialibus cenis, ***Liv.*** : qui rei p. sanguine saginantur: septuagiens sestertio saginatus, ***Tac.***
+##### sāgiō —, —, īre
+to perceive keenly, discern acutely.
 ##### sagitta ae, f
 an arrow, shaft, bolt: suos configebat sagittis: confixae venenatis sagittis: sagittam iacere, Tb.: nervo aptare sagittas, ***Ver.*** — A constellation, the Arrow.
 ##### sagittārius ī, m
@@ -70,6 +72,8 @@ a tuft of grass gathered in the citadel and borne by the fetiales as a token of 
 a small military cloak, travelling-cloak, ***Cic.*** , ***Caes.*** , ***Liv.*** , ***Ver.*** , ***Tac.***
 ##### sagum ī, n
 a coarse woollen blanket, rough mantle: tegumen omnibus (Germanis) sagum, ***Tac.*** — A military cloak: qui sagis non abundares: sinistras sagis involvunt, ***Caes.*** — Fig., as a symbol of war, a military cloak, war-dress: cum est in sagis civitas, under arms: saga sumi dico oportere: propter cuius periculum ad saga issemus, i. e. would have fought.
+##### salacō ōnis, m
+a swaggerer, braggart.
 ##### salapūtium ī, n
 (a humorous appellation), a little man, manikin, Liliputian, Ct.
 ##### salārium ī, n
@@ -140,6 +144,8 @@ a saluter, one who makes complimentary visits, ***Iuv.***
 that makes complimentary visits: turba, of morning callers, ***Iuv.***
 ##### salvē adv.
 well, in good health, in good condition. — Only in the colloq. phrase, satin' salve? (sc. res se habent?), is all well? all right? ***Ter.*** , ***Liv.***; see salvus.
+##### salveō —, —, ēre
+to be well, be in good health; hence, in formulas of greeting, imper, infin., and (once) indic fut., to be well, be greeted: Cr. o Mysis, salve. My. salvus sis, Crito, bless you, ***Ter.*** : Dionysium iube salvere, greet for me: salvere iubet prior, ***Hor.*** : salvebis a meo Cicerone, i. e. Cicero sends his best wishes: Salve, vera Iovis proles (sc. Hercules), hail, ***Ver.*** — Esp., imper. with vale, in taking leave, farewell, good-by, adieu: vale, salve: salve aeternum mihi, Aeternumque vale, ***Ver.***
 ##### salvos or salvus adj.
 in good health, well, sound, safe, unharmed, uninjured: gaudeo tibi illam salvam, ***Ter.*** : tum illum... pedibus suis salvom revertisse: numquam salvis su is exuitur servitus muliebris, while their friends are living, ***Liv.*** : Non uxor salvom te volt, non filius, ***Hor.*** — Fig., safe, well, preserved, uninjured, in good condition: (rem p.) salvam servare, ***Liv.*** : ita me gessi, Quirites, ut salvi omnes conservaremin i: exercitus, ***Caes.*** : civibus salvis atque incolumibus, ***Caes.*** : res salva (opp. perdita), ***Ter.*** : epistula (opp. conscissa): quid salvi est mulieri amissā pudicitiā? ***Liv.*** : utinam salvis rebus conloqui potuissemus, before all was lost. — Esp., with a subst. in abl absol., without violation of, saving: salvā lege: salvo officio: salvo iure nostrae veteris amicitiae: quod salvā fide possim. — Colloq. uses: salvos sum, si haec vera sunt, i. e. I am out of trouble, ***Ter.*** : tace, obsecro; salvae sumus, we are all right, ***Ter.*** : ne sim salvus, s i, etc., may I die, if, etc.: Erubuit; salva res est, all is well, ***Ter.*** : satine salvae (sc. res sunt)? is all well? ***Ter.*** : Cr. o Mysis, salve. My. salvos sis, good luck to you, ***Ter.***
 ##### sambūcistria ae, f
@@ -168,6 +174,8 @@ an establisher, ordainer: legum, ***Tac.***
 a slipper, sandal, ***Ter.***
 ##### sandapila ae, f
 a cheap coffin, poor man's bier, ***Iuv.***
+##### sandȳx īcis, f
+a bright red, vermilion, ***Ver.*** , ***Prop.***
 ##### sanguinārius adj.
 bloodthirsty, bloody, sanguinary: iuventus.
 ##### sanguineus adj.
@@ -266,6 +274,8 @@ a little rock.
 a large stone, rough stone, broken rock, bowlder, rock: e saxo sculptus: magni ponderis saxa, ***Caes.*** : saxis suspensa rupes, ***Ver.*** : inter saxa rupīsque, ***Liv.*** : Capitolium saxo quadrato substructum, with foundations of hewn stone, ***Liv.*** — Prov.: satis diu iam hoc saxum vorso, i. e. struggle in vain (as Sisyphus with his stone), ***Ter.*** — As nom prop., the Tarpeian Rock: quis audeat laedere propositā cruce aut saxo?: Deicere de saxo civīs? ***Hor.*** — The Sacred Rock (on the Aventine hill, where Remus consulted the auspices): pulvinar sub Saxo dedicare: Appellant Saxum, pars bona montis ea est, ***Ov.*** — In the name, Saxa Rubra; see ruber. — Plur, stony ground, rocky places: in apricis coquitur vindemia saxis, ***Ver.*** — A stone wall: saxo lucum circumdedit, ***Ov.***
 ##### scabillum ī, n dim.
 a footstool, cricket: scabilla concrepant, aulaeum tollitur, the pedals (for signalling on the stage).
+##### scabō —, —, ere
+to scratch, scrape: caput, ***Hor.***
 ##### scālae ārum, f
 a flight of steps, stairs, staircase, ladder, scaling-ladder: murum scalis adgredi, ***Sall.*** : in scalis latuit, ***Hor.*** : scalas ponere, fix, ***Caes.*** : re in scalarum tenebris abdere, of the staircase.
 ##### scalmus ī, m
@@ -278,6 +288,8 @@ a sharp cutting instrument, chisel, knife: fabrile, carpenter's chisel, ***Liv.*
 scammony.
 ##### scamnum ī, n
 a bench, stool, step, ***Hor.*** : scamnis considere longis, ***Ov.*** — A throne: regni stabilita scamna solumque, Enn. ap. ***Cic.***
+##### scandō —, —, ere
+to rise, climb, mount, clamber, get up, ascend: in aggerem, ***Liv.*** : In domos superas, ***Ov.*** : Ad nidum volucris (faeles), ***Phaed.*** : eodem, quo dominus, ***Hor.*** : malos: in curru Capitolium, i. e. in triumph, ***Liv.*** : equum, ***Ver.*** : parentis regna, ***Hor.*** : scandit machina muros, ***Ver.*** : Scandit navīs Cura, ***Hor.***
 ##### scapha ae, f
 a light boat, ship's boat, skiff: in scapham confugere: biremis, ***Hor.***
 ##### scapulae ārum, f dim.
@@ -288,6 +300,8 @@ a sea-fish, scar, parrotfish (a delicacy), ***Hor.*** , ***Ov.***
 a bubbling, gushing: (unda) scatebris temperat arva, spring-water, ***Ver.***
 ##### scatēns ntis, adj.
 bubbling, full, abounding: arx fontibus, ***Liv.*** : Beluis pontus, ***Hor.***
+##### scatō —, —, ere
+to bubble, gush, well up, spring forth: Fontes scatere, Enn. ap. ***Cic.***
 ##### scaurus adj.
 with swollen ankles, club-footed, ***Hor.***
 ##### scelerōsus adj.
@@ -308,6 +322,8 @@ a knowing, knowledge, intelligence, science: nullam rem quae huius viri scientia
 acc. and inf, you may know, you may be sure, it is certain, it is obvious (old): scilicet Facturum me esse, ***Ter.*** : ubi illa formido decessit, scilicet lascivia atque superbia incessere, ***Sall.*** — As a particle of assurance, it is certain, it is obvious, of course, plainly, naturally, obviously, certainly: scilicet hoc Pansa aut non videt aut negliget: a te litteras exspectabam: nondum scilicet, not yet to be sure: quid ad haec Naevius? ridet scilicet nostram amentiam, qu i, etc.: senectus semper agens aliquid: tale scilicet, quale, etc., such, naturally: unda scilicet omnibus Enaviganda, alas! ***Hor.*** : Brutus terram osculo contigit, scilicet, quod, etc., evidently because, ***Liv.*** : nota scilicet illa res, cum, etc., the fact is surely well known, etc. — In concession, of course, no doubt, I admit, certainly (usu. followed by sed or tamen): cognoscat (orator) memoriae veteris ordinem, maxime scilicet nostrae civitatis, sed etiam, etc.: tuli scilicet moleste, ut debui, sed tamen constitui ad te venire. — As an answer, of course, certainly, ***Ter.*** : Pa. fratris igitur Thaïs totast? Ch. scilicet, ***Ter.*** — In irony, of course, to be sure, doubtless, certainly, forsooth, it is likely: Si. Meum gnatum rumor est amare. Da. id populus curat scilicet! of course people care for that! ***Ter.*** : et ego id scilicet nesciebam!: vim scilicet ego desideravi.
 ##### scintilla ae, f
 a spark: silici scintillam excudere, ***Ver.*** : scintillam levem ignis accendere, ***Liv.*** : parva, ***Curt.*** — Fig., a spark, glimmer, trace, particle: ingeni: belli: virtutum quasi scintillae.
+##### scintillō —, —, āre
+to sparkle, glitter, glow: testā ardente oleum, ***Ver.***
 ##### scīpiō ōnis, m
 a staff, walkingstick: eburneus (of the viri triumphales), ***Liv.***
 ##### scirpiculus ī, m dim.
@@ -419,6 +435,8 @@ adj., from secundus; sc. milites soldiers of the second legion: secundani terga 
 of the second class, second in order: habet statum res p. de tribus secundarium. — As subst n., a secondary point, point next in importance.
 ##### secundō adv.
 secondly, in the second place: primum... secundo... tertium, etc.: primo... secundo, ***Phaed.***
+##### secundō —, —, āre
+to favor, further, second, prosper: aura secundet aquas, ***Ov.*** : di nostra incepta secundent, ***Ver.*** : Rite visūs, i. e. bring to a favorable issue, ***Ver.***
 ##### sēcūritās ātis, f
 freedom from anxiety, unconcern, composure: securitatem appello vacuitatem aegritudinis: quam securitatem ei magna pars amicorum faciebat, ***Liv.*** : inhumana securitas, carelessness, ***Tac.*** — Freedom from danger, safety, security: publica, ***Tac.*** : annonae, ***Tac.***
 ##### sēdātē adv.
@@ -485,6 +503,8 @@ half-taught, half-learned.
 half-finished: opera, ***Tac.***
 ##### sēmigermānus adj.
 half-German: gentes, ***Liv.***
+##### sēmigrō āvī, —, āre
+to go away, remove.
 ##### sēmihiāns antis, adj.
 half-open: labellum, Ct.
 ##### sēmihōra ae, f
@@ -499,6 +519,8 @@ half-dead: membra, Ct.
 a nursery, seminary, hot-bed, school: rei p.: triumphorum: senatūs (equites), ***Liv.*** : ducum, ***Curt.***
 ##### sēminātor ōris, m
 an originator, producer, author: omnium rerum (mundus). — Fig.: malorum.
+##### sēminō —, —, āre
+to sow, bring forth, produce: agricolae cultu seminari: viscum quod non sua seminat arbos, ***Ver.***
 ##### sēminūdus adj.
 half-naked: consules, ***Liv.*** — Half-unarmed: pedes, defenceless, ***Liv.***
 ##### sēmiplēnus adj.
@@ -623,6 +645,8 @@ a bar, cross-bar, bolt: Mille domos clausere serae, ***Ov.*** : obde seras, ***O
 plur n. of serus late: sera comans Narcissus, late in flowering, ***Ver.***
 ##### serēnitās ātis, f
 clearness, serenity, fair weather: tranquilla, ***Liv.*** : caeli. — Fig., favorableness, serenity: fortunae, ***Liv.***
+##### serēnō —, —, āre
+to make clear, clear up, make serene: Luce serenanti, growing clear: caelum tempestatesque (Iuppiter), ***Ver.*** — Fig.: spem fronte, ***Ver.***
 ##### serēnus adj.
 clear, fair, bright, serene: tempestate serenā, Enn. ap. ***Cic.*** : caelo sereno, ***Ver.*** , ***Hor.*** , ***Ov.*** : lux, ***Liv.*** : Faciem ad serenam mutatur dies, ***Phaed.*** : ver, ***Ver.*** : stella, ***Ov.*** : unde serenas Ventus agat nubīs, ***Ver.*** — As subst n., a clear sky, fair weather: sereno, in a cloudless sky, ***Liv.*** : soles et aperta serena, ***Ver.*** — Fig., cheerful, glad, joyous, tranquil, bright, serene: Voltus, ***Hor.*** : frons: animus, ***Ov.*** : aliquid serenum videre, ***Ov.***
 ##### sēria ae, f
@@ -687,6 +711,8 @@ a blow and a half, ***Tac.***
 for sitting upon: tergum (equi), ***Ov.***
 ##### sessiō ōnis, f
 a sitting: status, sessio: sessiones quaedam, postures in sitting. — A seat, sitting-place: sessiones gymnasiorum. — A sitting idly, loitering, tarrying: Capitolina. — A session: pomeridiana.
+##### sessitō āvī, —, āre, freq.
+to keep sitting, rest: (Suadam) in Pericli labris sessitavisse.
 ##### sessiuncula ae, f dim.
 a little group small circle: sessiunculas consectari.
 ##### sessor ōris, m
@@ -919,6 +945,8 @@ wearing sandals, slippered.
 surely, wholly, fully, truly: hunc mea gaudere gaudia, ***Ter.***
 ##### soliditās ātis, f
 solidness, solidity: corpora individua propter soliditatem.
+##### solidō —, —, āre
+to make firm, make dense, solidify, compact, strengthen: (area) cretā solidanda, ***Ver.***
 ##### sōlitārius adj.
 alone, isolated, separate, lonely, solitary: homo: natura solitarium nihil amat: ne solitarium aliquod adferratur, an isolated instance.
 ##### sōlitūdō inis, f
@@ -983,6 +1011,8 @@ of sleep, sleep-bringing, causing sleep: Nox, ***Ver.***
 a dainty drink, broth: liquida, ***Phaed.***
 ##### sorbum ī, n
 a sorb-apple, serviceberry, ***Ver.***
+##### sordeō —, —, ēre
+to be dirty, be mean, be despised, be unvalued, appear worthless: suis sordere, ***Liv.*** : sordent tibi munera nostra, ***Ver.*** : pretium aetas altera sordet, i. e. seems to me no adequate price, ***Hor.***
 ##### sordidātus adj.
 in dirty clothes, meanly dressed, shabby: sordidata et sordida, ***Ter.*** : mancipia. — In mourning attire, clad in mourning: senex: Virginius sordidatus filiam deducit, ***Liv.***
 ##### sōrex icis, m
@@ -1003,6 +1033,8 @@ by lot: sacerdotem sortito capi. — By fate, by destiny: Lup is et agnis quanta
 a distributor by lot, allotter: si etiam pluribus de rebus uno sortitor <⋆> tulisti.
 ##### Sōspita ae, f
 she who saves, deliverer (an epithet of Juno), ***Ov.***
+##### sōspitō —, —, āre
+to save, keep safe, preserve, protect, prosper: suam progeniem, ***Liv.*** , Ct.
 ##### sparulus ī, m dim.
 a bream, ***Ov.***
 ##### sparus ī, m
@@ -1091,6 +1123,8 @@ thickened, condensed: Ignis, ***Ov.***
 crowdedly, thickly: pervenire, i. e. through a crowd.
 ##### spissus adj.
 with comp, thick, crowded, close, compact, dense: sanguis, ***Ov.*** : grando, ***Ov.*** : corona viris, ***Ver.*** : nemorum comae, ***Hor.*** : harena, ***Ver.*** : noctis umbrae, ***Ver.*** — Obstructed, tardy, lingering, slow: omnia tarda et spissa: in utroque genere dicendi exitūs, deliberate: si id erit spissius.
+##### splendeō —, —, ēre
+to shine, be bright, gleam, glitter, glisten: splendet pontus, ***Ver.*** : paternum Splendet salinum, ***Hor.*** : Glycera Splendens, ***Hor.*** — Fig., to shine, be bright, be illustrious, be glorious: virtus splendet per sese: alienā invidiā, i. e. by the odium thrown on others, ***Liv.***
 ##### splendidē adv.
 brightly, magnificently, splendidly, nobly: ornare convivium: acta aetas, with distinction: mendax, ***Hor.*** : parum se splendide gerere, with too little show, ***Nep.*** : loqui, grandly.
 ##### splendor ōris, m
@@ -1157,6 +1191,8 @@ a sea-fish, ***Ov.*** (al. squalus).
 a stay, support, fortification: regni, ***Cic.*** poët.
 ##### stabilitās ātis, f
 a standing fast, steadfastness, firmness, stability: peditum in procliis, ***Caes.*** : stirpes stabilitatem dant iis, quae sustinent. — Fig., steadfastness, durability, security, fixedness, stability: praesidia stabilitatis (rei p.): fortunae: sententiae, quae stabilitatis aliquid habeant.
+##### stabulō —, —, āre
+to have an abode, dwell, be stabled: Centauri in foribus stabulant, ***Ver.*** : (boves) unā, ***Ver.***
 ##### stabulum ī, n
 a standing-place, fixed abode; hence, of animals, a stall, stable, enclosure: stabulis gaudet pecus, ***Hor.*** : apium, i. e. a beehive, ***Ver.*** : stabula alta ferarum, lairs, ***Ver.*** : a stabulis tauros Avertit, pasture, ***Ver.*** — Of persons, a lowly abode, cottage, hut: pastorum: pueros ad stabula Larentiae uxori educandos datos, ***Liv.*** : tecta stabuli, ***Ver.*** — A brothel, house of ill-repute: pro cubiculis stabula.
 ##### stadium ī, n
@@ -1199,6 +1235,8 @@ a star: ignes, quae sidera et stellas vocatis: (stellae) errantes... inerrantes,
 starred, starry: caelum, ***Ver.*** : Olympus, ***Cic.*** poët.: gemmis caudam (pavonis) stellantibus implet, shining, ***Ov.***
 ##### stellātus adj.
 set with stars, starry: Cepheus, i. e. made a constellation: Argus, i. e. many-eyed, ***Ov.*** : iaspide fulvā Ensis, glittering, ***Ver.*** : variis stellatus corpore guttis, thickly strewn, ***Ov.***
+##### stercorō —, —, āre
+to dung, muck, fertilize: utilitas stercorandi.
 ##### sterilis e, adj.
 unfruitful, barren, sterile, unproductive: avenae, ***Ver.*** : herba, ***Ov.*** : agri, ***Ver.*** : tellus, ***Ov.*** : palus, ***Hor.*** : Robigo, causing sterility, ***Hor.*** : amor, i. e. unrequited, ***Ov.*** : amicus, unprofitable, ***Iuv.*** : virtutum sterile saeculum, ***Tac.***
 ##### sterilitās ātis, f
@@ -1207,6 +1245,12 @@ unfruitfulness, barrenness, sterility: genus agrorum propter fertilitatem incult
 prostrating, throwing down: equus, that throws his rider, ***Ver.***
 ##### sternūmentum ī, n
 a sneezing.
+##### sternuō —, —, ere
+to sneeze, sputter, crackle: Sternu it et lumen, ***Ov.*** — To give by sneezing: omen, ***Prop.*** : approbationem, Ct.
+##### stertō —, —, ere
+to snore: noctīs et dies, ***Ter.*** : ita stertebat, ut ego vicinus audirem: vigilanti naso, ***Iuv.***
+##### stigmatiās ae, m
+one branded (of a slave).
 ##### stīlla ae, f dim.
 a drop, viscous drop: mellis.
 ##### stīllō āvī, ātus, āre
@@ -1215,6 +1259,8 @@ to make drops, give drops, drop, distil, drip: stillantem pugionem ferre: paenul
 to goad, rouse, set in motion, stir, spur, incite, stimulate: stimulante fame, driven by hunger, ***Ov.*** : stimulante conscientiā, ***Curt.*** : avita gloria animum stimulabat, ***Liv.*** : stimulata pellicis irā, ***Ov.*** : Iurgia praecipue vino stimulata, excited, ***Ov.*** : ad huius salutem defendendam stimulari me: ad arma, ***Liv.*** : iniuriae dolor in Tarquinium eos stimulabat, ***Liv.*** : me, ut caverem, etc.: eodem metu stimulante, ne moraretur, ***Curt.*** : Festinare fugam... iterum stimulat, ***Ver.*** — To goad, torment, vex, trouble, plague, disquiet, disturb: te conscientiae stimulant maleficiorum tuorum: consulem cura de filio stimulabat, ***Liv.***
 ##### stimulus ī, m
 a prick, goad: Parce stimulis, ***Ov.*** : dum te stimulis fodiamus. — Prov.: Advorsum stimulum calces, kick against the pricks, ***Ter.*** — In war, stakes bearing iron hooks buried in the ground (to impede the enemy), ***Caes.*** — Fig., a spur, incentive, incitement, stimulus: animum gloriae stimulis concitare: Omnia pro stimulis facibusque ciboque furoris Accipit, ***Ov.*** : non hostili modo odio sed amor is etiam stimulis, ***Liv.***; cf. acriores quippe aeris alieni stimulos esse, ***Liv.*** : acrīs Subiectat lasso stimulos, ***Hor.*** — A sting, torment, pain: stimulos doloris contemnere: stimulos in pectore caecos Condidit, ***Ov.***
+##### stinguō —, —, ere
+to put out, extinguish: Stinguuntur radii. — Fig.: vetustas stinguens insignia caeli, dimming.
 ##### stīpātiō ōnis, f
 a crowd, throng, retinue: stipatio, greges hominum perditorum.
 ##### stīpātor ōris, m
@@ -1285,6 +1331,10 @@ superficially, cursorily, summarily, briefly: quasi per transennam strictim aspi
 a compression; hence, a mass of metal under the forge: striduntque cavernis Stricturae Chalybum, ***Ver.***
 ##### strictus adj.
 drawn together, close, strait, tight: nodus, ***Liv.*** : artūs, ***Tac.***
+##### strīdeō —, —, ēre
+to make a harsh noise, hiss, whiz: ferrum igne rubens Stridet in undā, ***Ov.*** : presso molari, gnash, ***Iuv.***
+##### strīdō —, —, ere
+to make a shrill noise, sound harshly, creak, hiss, grate, whiz, whistle, rattle, buzz: stridentia tinguunt Aera lacu, ***Ver.*** : cruor stridit, hisses, ***Ov.*** : belua Lernae Horrendum stridens, ***Ver.*** : horrendā nocte (striges), ***Ov.*** : mare refluentibus undis, ***Ver.*** : aquilone rudentes, ***Ov.*** : videres Stridere secretā aure susurros, buzz, ***Hor.***
 ##### strīdor ōris, m
 a harsh noise, shrill sound, creak, grating, hiss, rattle, buzz: (serpentis), ***Ov.*** : (elephantorum), ***Liv.*** : Aquilonis: rudentum, ***Ver.*** : ianuae, ***Ov.*** : catenae, ***Iuv.*** : acutus, ***Hor.*** : indignatum magnis stridoribus aequor, ***Ver.***
 ##### strīdulus adj.
@@ -1351,6 +1401,8 @@ a kiss; see savium.
 somewhat absurdly: quae subabsurde salseque dicuntur, i. e. with a dash of (affected) stupidity.
 ##### subabsurdus adj.
 rather inappropriate, somewhat absurd: tempus discessūs. — Plur n. as subst, sayings affecting stupidity.
+##### subaccūsō —, —, āre
+to blame somewhat, find a little fault with: meum discessum: Vestorium.
 ##### subāctiō ōnis, f
 a thorough working; of the mind, discipline.
 ##### subadroganter adv.
@@ -1359,6 +1411,8 @@ somewhat proudly, not without arrogance: facere.
 somewhat rustic, a trifle boorish: consilium.
 ##### subamārus adj.
 slightly bitter: aliqua res. — Plur n. as subst: alios subamara delectent.
+##### subauscultō —, —, āre
+to listen secretly. eavesdrop: subauscultando excipere voces: quae loquor.
 ##### subcenturiō or succenturiō ōnis, m
 an under office, subcenturion, ***Liv.***
 ##### subcontumēliōsē (succ) adv.
@@ -1367,12 +1421,18 @@ with a suggestion of contumely: tractare.
 a little faint, somewhat failing, ***Curt.***
 ##### subdifficilis e, adj.
 slightly puzzling, rather hard: quaestio.
+##### subdiffīdō —, —, ere
+to be distrustful.
 ##### subditīvus adj.
 substituted, suppositious, spurious: archipirata.
+##### subdoceō —, —, ēre
+to teach as a deputy school-master: meo labore subdoceri.
 ##### subdolē adv.
 cunningly, craftily: nihil subdole: speculatum Bocchi consilia, ***Sall.***
 ##### subdolus adj.
 crafty, cunning, sly, subtle, deceptive, deceitful: animus, ***Sall.*** : oratio, ***Caes.*** : lingua, ***Ov.*** : loci forma, ***Tac.***
+##### subdubitō —, —, āre
+to be somewhat in doubt, hesitate a little: antea: subdubitare te, quā essem voluntate.
 ##### subductiō ōnis, f
 a withdrawal, drawing up, hauling ashore: ad subductiones paulo facit humiliores (naves), ***Caes.*** — Fig., a reckoning.
 ##### sūber eris, n
@@ -1395,8 +1455,12 @@ rather vain.
 — Of time, immediately after, just after, presently, forthwith, thereupon: primum gaudere, subinde, etc., ***Hor.*** : primus Aulus suppositus ac subinde Ostorius, ***Tac.*** : duae subinde urbes captae direptaeque, ***Liv.*** — Of repeated actions, one after the other, from time to time, now and then, repeatedly, frequently, continually: praedac minus inventum est, quod subinde spolia agrorum capta domos mittebant, ***Liv.*** : quae subinde nuntiata sunt regi, ***Curt.***
 ##### subinsulsus adj.
 somewhat tasteless, rather insipid.
+##### subinvideō —, —, ēre
+to be somewhat envious of: tibi.
 ##### subinvīsus adj.
 a little disliked, somewhat odious: apud malevolos nomen.
+##### subinvītō āvī, —, āre
+to suggest to, invite by a hint: me, ut ad te scriberem.
 ##### subīrātus adj.
 somewhat angry: homo tibi: rescripsi tibi subiratus, with some feeling.
 ##### subitārius adj.
@@ -1417,20 +1481,32 @@ a stake, pile, palisade: sublicis in terram demissis, ***Caes.*** : isdem sublic
 resting upon piles: Pons, the pile-bridge (across the Tiber), ***Liv.***
 ##### subligāculum ī, n
 a waist-band, breech-cloth.
+##### subligō —, —, āre
+to bind below, bind on, fasten: lateri ensem, ***Ver.*** : clipeum sinistrae, ***Ver.***
 ##### sublīmen adv.
 on high, upwards: sublimen intro hunc rape, ***Ter.*** : aspice hoc sublimen candens, Enn. ap. ***Cic.*** (Ribbeck reads sublimen in several passages of Vergil, for sublime, etc.).
 ##### sublīmus adj.
 lofty, high: ex sublimo vertice, Acc. ap. ***Cic.***
+##### sublūceō —, —, ēre
+to shine a little, gleam faintly, glimmer: aries sublucet corpore totus, ***Cic.*** poët.: sublucent crepuscula, ***Ov.*** : violae sublucet purpura nigrae, ***Ver.***
 ##### submolestē (summ) adv.
 with some vexation: te non esse Romae submoleste fero, troubles me somewhat.
 ##### subnuba ae, f
 a rival: lecti nostri, ***Ov.***
 ##### subnūbilus adj.
 somewhat cloudy, overcast, obscure: nox, ***Caes.*** : Limes, ***Ov.***
+##### subō —, —, āre
+to be lustful, ***Hor.***
 ##### subobscūrus adj.
 somewhat obscure, not very intelligible: breves et interdum subobscuri: ingressio.
 ##### subodiōsus adj.
 rather vexatious.
+##### suboffendō —, —, ere
+to give some offence: apud faecem populi.
+##### subolō —, —, ere
+to be perceived, be suspected: Ut ne paululum quidem subolat, esse, etc., ***Ter.***
+##### subolēscō —, —, ere
+inch, to grow up anew, arise instead: iuventus frequentior pro tot caes is exercitibus subolescens, ***Liv.***
 ##### subōrnō āvī, ātus, āre
 to fit out, furnish, provide, supply, equip: pecuniā Brutum, Anton. ap. ***Cic.*** : a naturā subornatus in vitam venire: legati subornati criminibus, ***Liv.*** — To employ as a secret agent, incite secretly, instigate, suborn: fictus testis subornari solet: Macedonas trīs ad caedem regis, ***Liv.*** : ab eo subornati falsis criminibus occupant aurīs, ***Curt.*** : falsum testem Cluvium: ab subornato ab se per fallaciam litteras accepit, by the hand of a secret hireling, ***Liv.***
 ##### subrīdiculē (surr) adv.
@@ -1441,6 +1517,8 @@ a writing beneath, subscription: Serapionis. — Of the censor, a noting down, n
 a signer of an accusation, joint prosecutor: proximus: secessio subscriptorum.
 ##### subsellium ī, n
 a low bench, seat, form: ista subsellia vacuefacta sunt (in the senate): ut locus in subselliis occupetur, etc., i. e. a senator's seat: rei subsellium, of the accused, Ct. — A judge's seat, the bench: accusabat idem ad subsellia. — Fig., a court, tribunal: age vero ne semper forum, subsellia meditere: habet Alienum, hunc tamen ab subselliis, i. e. a lawyer in the courts: versatus in utrisque subselliis, i. e. as judge and advocate.
+##### subserviō —, —, īre
+to serve, come to the help of, aid: orationi, ***Ter.***
 ##### subsidiārius adj.
 of a reserve, reserved, subsidiary: cohortes, ***Caes.*** , ***Liv.*** — Plur m. as subst, the reserve, body of reserve, ***Liv.***
 ##### subsidium ī, n
@@ -1451,6 +1529,8 @@ that serves under the standard: miles, reserves to strengthen the centre, ***Tac
 a choosing of substitutes by lot: iudicum.
 ##### substantia ae, f
 resources: facultatum, i. e. wealth, ***Tac.***
+##### substō —, —, āre
+to stand firm, hold out, ***Ter.***
 ##### substrictus adj.
 drawn together, contracted, narrow, small: ilia, ***Ov.*** : crura, ***Ov.***
 ##### substrūctiō ōnis, f
@@ -1461,6 +1541,8 @@ below, beneath, underneath: supra et subter.
 underground, subterranean: specūs, ***Cic.*** , ***Tac.*** : regna, ***Iuv.***
 ##### subtīlitās ātis, f
 keenness, acuteness, penetration, definiteness, exactness, subtlety: sententiarum: Attica: militaribus ingeniis subtilitatem deesse, ***Tac.*** — Of style, plainness, simplicity, directness, absence of ornament: subtilitatem Lysias, vim Demosthenes habuit.
+##### subtimeō —, ere
+to be secretly afraid: numquid subtimes, ne? etc.
 ##### subtrīstis e, adj.
 somewhat sad, ***Ter.***
 ##### subturpiculus adj.
@@ -1489,6 +1571,10 @@ a carrying, conveying, ***Tac.***
 an overturner, subverter: legum, ***Tac.***
 ##### subvexus adj.
 sloping upwards: fastigio leni, ***Liv.***
+##### subvolō —, —, āre
+to fly up, fly upwards: in caelestem locum: utque novas umeris adsumpserat alas subvolat, ***Ov.***
+##### subvolvō —, —, ere
+to roll up, roll along: manibus saxa, ***Ver.***
 ##### successiō ōnis, f
 a taking another's place, following after, succeeding, succession: iura successionum, i. e. of inheritance, ***Tac.*** : voluptatis.
 ##### successor ōris, m
@@ -1497,6 +1583,8 @@ a follower, successor: coniunctissimus: successorem sibi cum exercitu mitterent,
 a leg of pork, flitch of bacon: hortum agricolae succidiam alteram appellant, their second flitch (supplementary provision).
 ##### succiduus adj.
 sinking down, sinking, failing: genu, ***Ov.*** : Poples, ***Ov.***
+##### succinō or subcinō —, —, ere
+to sing to, accompany: succinit alter, another chimes in, ***Hor.***
 ##### succlāmō or subclāmō āvī, ātus, āre
 to cry out in response, shout in answer, reply clamorously: si esset libera haec civitas, non tibi succlamassent, ***Liv.*** : haec Virginio vociferanti succlamabat multitudo, ***Liv.*** : ad hoc cum succlamatum est, ***Liv.***
 ##### sūdārium ī, n
@@ -1521,8 +1609,14 @@ fumigation, incense, ***Ov.***
 fumigation, incense: sine ullis suffiment is expiati.
 ##### sufflāmen inis, n
 a clog, brake, drag-chain: rotam astringit multo sufflamine, ***Iuv.*** : longum litis, hinderance, ***Iuv.***
+##### suffōcō āvī, —, āre
+to throttle, choke, stifle, strangle, suffocate: gallum... patrem. — Fig.: urbem fame, i. e. to starve.
 ##### suffrāgium ī, n
 a voting-tablet, ballot, vote, voice, suffrage: suffragia in magistratu mandando ferri: ferunt suffragia: ut competitores pares suffragi is essent: suffragium inire, ***Liv.*** : libera, ***Iuv.*** — The right of voting, right of suffrage, elective franchise: quarum (tribuum) suā lege suffragium sustulit: populi esse ius suffragium, quibus velit, impertire, ***Liv.*** : ut populus R. suffragio privaretur. — A decision, judgment, opinion: suffragio tuo rhetor. — Assent, approbation, applause: ventosae plebis suffragia, ***Hor.***
+##### suffringō —, —, ere
+to break below, break: crura vobis.
+##### suffugiō —, —, ere
+to flee for refuge, seek shelter: in tecta, ***Liv.***
 ##### suffugium ī, n
 a refuge, shelter, covert: id plurimis suffugium erat, ***Curt.*** : propinqua suffugia, ***Tac.*** : specūs hiemi, ***Tac.*** : ferarum imbriumque, ***Tac.***
 ##### suffuscus or subfuscus adj.
@@ -1531,6 +1625,8 @@ brownish, dusky: margarita, ***Tac.***
 an artificial mound, platform, stage, tribune: in communibus suggestis consistere: suggestum ascendens.
 ##### sūgillātiō ōnis, f
 a bruise, affront, insult: consulum, ***Liv.***
+##### sulcō āvī, —, āre
+to furrow, turn up, plough: vomere humum, ***Ov.*** — To furrow, plough, cross, traverse, mark: (anguis) harenam Sulcat, ***Ov.*** : vada salsa carinā, ***Ver.***
 ##### sulcus ī, m
 a furrow: altius impressus: sulcum patefacere aratro, ***Ov.*** : sulcis committere semina, ***Ver.*** — A trench, ditch: optare locum tecto et concludere sulco, ***Ver.*** — A track, furrow, wake, trail: Infindunt sulcos (i. e. navibus) ***Ver.*** : longo limite sulcus (stellae) Dat lucem, ***Ver.***
 ##### Sullānus adj.
@@ -1565,16 +1661,26 @@ a conqueror: populi Etrusci, ***Ov.*** : Gorgonis (Perseus), ***Ov.***
 loftiness, haughtiness, pride, arrogance: quae est ista superbia: divitiae plenae insolentis superbiae: illa tua singularis: increpans superbiam Papiri, ***Liv.*** : pone superbiam, ***Hor.*** : in voltu damnosa superbia vestro, ***Ov.*** — Conceit, vanity: ad ludibrium stolidae superbiae, ***Liv.*** — Rudeness, discourtesy: superbiam tuam accusant, quod negent te percontantibus respondere. — High spirit, honorable pride: sume superbiam Quaesitam meritis, ***Hor.***
 ##### superbiloquentia ae, f
 haughty speech, Poët. ap. ***Cic.***
+##### superbiō —, —, īre
+to be haughty, take pride, plume oneself: avi Nomine, ***Ov.*** : formā, ***Ov.*** : honore, ***Phaed.*** — Fig.: quae sub Tyriā concha superbit aquā, is magnificent, ***Prop.*** : superbire miles, quod, etc., ***Tac.***
 ##### superbus adj.
 with comp. and sup, haughty, proud, vain, arrogant, insolent, discourteous, supercilious, domineering: iuvenis, ***Ver.*** : superbum se praebuit in fortunā: utrum superbiorem te pecunia facit?: Laudato pavone superbior, ***Ov.*** : homines superbissimi, ***Sall.*** : non respondere vereor, ne superbum sit, ***Liv.*** : superbum est dicere, etc.: atque meo nunc Superbus incedis malo, ***Hor.*** : opibus superbi, ***Ver.*** : iura, ***Liv.*** : lex superbissima, ***Liv.*** — Expressive of pride, proud, lofty, arrogant: mutatio vestis, ***Liv.*** : aures quarum est iudicium superbissimum, i. e. very severe: responsa, arrogant: oculi, ***Ov.*** : Karthaginis arces, ***Hor.*** — Fastidious, squeamish, delicate: dens, ***Hor.*** : corpus, ***Hor.*** — Proud, august, splendid, magnificent, superb: populus bello, ***Ver.*** : triumphus, ***Hor.*** : Postes, ***Hor.*** : sedes Dolopum, ***Ver.***
 ##### supercilium ī, n
 an eyebrow: supercilia abrasa: superiora superciliis obducta: duris torva superciliis, ***Ov.*** : Hirsutum, ***Ver.*** : Deme supercilio nubem, ***Hor.*** — A brow, ridge, summit: clivosi tramitis, ***Ver.*** : infimo stare supercilio, at the bottom of the projection, ***Liv.*** — Fig., a nod, will: Cuncta supercilio movens, ***Hor.*** — Pride, haughtiness, arrogance, superciliousness, gloom: supercilium ac regius spiritus: aetas digna supercilio, ***Iuv.*** : supercilii matrona severi, ***Ov.***
+##### superēmineō —, —, ēre
+to overtop, surmount, rise above, tower over: victor viros supereminet omnīs, ***Ver.*** : fluctūs omnīs, ***Ov.***
 ##### superfīxus adj.
 attached above, fastened thereupon: superfixa capita hostium portantes, ***Liv.***
 ##### superfluēns entis, adj.
 running over, superabundant: Nili receptacula, ***Tac.*** : superfluente multitudine, ***Tac.*** — Fig., abounding, overfull: iuvenili quādam dicendi impunitate: superbus et superfluens, Ct.
 ##### Superī ōrum, m
 see superus.
+##### superimmineō —, —, ēre
+to hang over, overhang: Pastorem Ense nudo, ***Ver.***
+##### superincidō —, —, ere
+to fall from above, fall down thereupon. — Only P. praes.: superincidentibus telis, ***Liv.***
+##### superincubō —, —, āre
+to lie over, lie thereupon. — Only P. praes.: suberincubans Romanus, ***Liv.***
 ##### superlātiō ōnis, f
 an exaggeration, hyperbole: veritatis.
 ##### superlātus adj.
@@ -1585,24 +1691,42 @@ from above, above, upwards: mutor in alitem Superne, above, ***Hor.*** : volvitu
 that is above, celestial, supernal: Tusculum, lofty, ***Hor.*** : numen, celestial, ***Ov.***
 ##### superō āvī, ātus, āre
 to go over, rise above, overtop, surmount, transcend: capite et cervicibus, ***Ver.*** : has (turrīs) altitudo puppium ex barbaris navibus superabat, ***Caes.*** : ut aqua genua vix superaret, ***Liv.*** : Posterior partīs superat mensura priores, ***Ov.*** — To go over, rise above, mount, ascend, surmount, overtop: ardua montis Per deserta iugo superans, passing over the summit, ***Ver.*** : (tempestas) summas ripas fluminis superavit, ***Caes.*** : munitiones, ***Liv.*** : montīs, ***Ver.*** : Caucasum, ***Curt.*** : tantum itineris, traverse, ***Tac.*** : regionem castrorum, go beyond, ***Caes.*** : insidias circa ipsum iter locatas, ***Liv.*** : superant (Parnasi) cacumina nubes, ***Ov.*** — To sail by, pass, double, weather: promunturium, ***Liv.*** : Euboeam, ***Nep.*** : cursu Isthmon, ***Ov.*** : Regna Liburnorum, ***Ver.*** — Poet.: musarum scopulos, Enn. ap. ***Cic.*** — To exceed, be in excess, overrun, be abundant, abound: in quo superare mendosum est: quae Iugurthae fesso superaverant, had been too much for, ***Sall.*** : superante multitudine, ***Liv.*** : superat gregibus dum iuventas, ***Ver.*** : uter igitur est divitior, cui deest an cui superat? — To be left over, remain, survive: quae superaverunt animalia capta, immolant, ***Caes.*** : quod superaret pecuniae: nih il ex raptis commeatibus superabat, ***Liv.*** : si de quincunce remota est Uncia, quid superat? ***Hor.*** : vitā, survive, ***Caes.*** : Quid puer Ascanius? superatne? ***Ver.*** : quid igitur superat, quod purgemus? ***Liv.*** — In war, to be victorious, overcome, subdue, conquer, vanquish: superavit postea Cinna cum Mario: maximas nationes, ***Caes.*** : exercitūs regios: navali praelio superati, ***Caes.*** : ferro incautum, ***Ver.*** : bello Asiam, ***Nep.*** — To extend beyond: clamor superat inde castra hostium, ***Liv.*** — Fig., to have the upper hand, be superior, excel, overcome, surpass: numero hostis, virtute Romanus superat, ***Liv.*** : superans animis, i. e. exulting, ***Ver.*** : hostes equitatu superare, ***Nep.*** : superat sententia Sabini, ***Caes.*** — To surpass, excel, exceed, outdo, outstrip, transcend: quaerit, quā se virtute Plancius superarit: doctrinā Graecia nos superabat: Phoebum canendo, ***Ver.*** : Duritiā ferrum, ***Ov.*** : cursu canem, ***Hor.*** : non dubitabam, quin hanc epistulam fama esset celeritate superatura, will outstrip. — To master, overcome, suppress, defeat, subdue, surmount: hanc (orationem) diligens scriptura superabit: necessitas quam ne dii quidem superant, to which not even the gods are superior, ***Liv.*** : superanda omnis fortuna ferendo est, ***Ver.***
+##### superoccupō —, —, āre
+to take by surprise, take unawares: Quem non superoccupat Hisbo, ***Ver.***
+##### superscandō —, —, ere
+to climb over, stride over: strata somno corpora, ***Liv.***
+##### superstāgnō āvī, —, āre
+to spread out into a lake: Si amnis superstagnavisset, ***Tac.***
 ##### superstitiō ōnis, f
 dread of the supernatural, credulous wonder, anxious credulity, superstition: nec vero superstitione tollendā religio tollitur: sagarum: tristis, ***Hor.*** : barbara: captus quādam superstitione animus, ***Liv.*** : Magna superstitio natalis amicae, ***Ov.*** — A superstitious rite: hostes operati superstitionibus, ***Liv.*** — An object of dread: Stygii caput fontis, Una superstitio superis quae reddita divis, ***Ver.***
 ##### superstitiōsē adv.
 superstitiously: dicere.
 ##### superstitiōsus adj.
 soothsaying, prophetic, prophetical: hariolationes, Enn. ap. ***Cic.*** : vox, Poët. ap. ***Cic.*** — Full of superstition, superstitious: nimium esse superstitiosum non oportere: philosophi: principes, ***Liv.*** : superstitiosa ista concipere.
+##### supertegō —, —, ere
+to cover over: ossa super favilla teget, Tb.
 ##### superus adj.
 Posit, that is above, upper, higher: ad superos deos potius quam ad inferos pervenisse: spectatores superarum rerum atque caelestium: Omnes caelicolas, omnes supera alta tenentes, ***Ver.*** : deorum domus, ***Ov.*** : mare, i. e. the Adriatic and Ionian Sea (opp. mare inferum, the lower or Etruscan Sea): superas evadere ad auras, i. e. of the upper world, ***Ver.*** : aurae, ***Ov.*** — Plur m. as subst. (with gen plur. superūm, ***Ver.*** , ***Ov.***), they who are above (opp. inferi): multum fleti ad superos, i. e. the living, ***Ver.*** — Esp., the gods above, celestial deities: Quae superi manesque dabant, ***Ver.*** : Pro superi, ***Ov.*** : Contemptrix superum, ***Ov.*** : superis deorum Gratus et imis, ***Hor.*** — Plur n. as subst, the heavenly bodies, celestial things: lunam, stellas, supera denique omnia stare censet. — Higher places (sc. loca): supera semper petunt, tend upwards: supera ardua linquens, the upper world, ***Ver.*** — Comp. superior, n us, gen. ōris, of place, higher, upper: superiorem partem collis castris compleverant, ***Caes.*** : tota domus vacat superior, the upper part of: labrum superius, the upper lip, ***Caes.*** : de loco superiore dicere, i. e. from the tribunal: causam cum agam de loco superiore, i. e. from the rostra: multos et ex superiore et ex aequo loco sermones habitos, i. e. in formal discourses and in conversation: ex loco superiore proeliabantur, from an eminence, ***Caes.*** : ex superiore et ex inferiore scripturā docendum, what is written above and below, i. e. the context: posteriori superius non iungitur. — Plur n. as subst: superiora muri, the upper parts (opp. ima), ***Curt.*** — Of time or order, former, past, previous, preceding: superiores solis defectiones: superioribus diebus, ***Caes.*** : in superiore vitā: pars legis: superius facinus novo scelere vincere: superioris more crudelitatis uti, ***Nep.*** : nuptiae, former marriage: vir, first husband. — Of age, older, elder, senior, more advanced, former: omnis iuventus omnesque superioris aetatis, ***Caes.*** : superior Africanus, the Elder. — Plur. m. as subst, elders, older men: superiorum aetas. — Fig., in a contest, victorious, conquering, stronger, superior: hostīs equitatu superiores esse intellegebat, ***Caes.*** : se quo impudentius egerit, hoc superiorem discessurum: semper discessit superior, ***Nep.*** : superiorem Appium in causā fecit, ***Liv.*** — Of quality or condition, higher, more distinguished, greater, better, superior: ii, qui superiores sunt, submittere se debent in amicitiā: premendoque superiorem sese extollebat, ***Liv.*** : pecuniis: honoris gradu. — Sup. suprēmus, highest, loftiest, topmost (poet.; cf. summus). — Partit.: clamore supremos Inplerunt montīs, the mountain-tops, ***Ver.*** : supremo In monte, on the summit, ***Hor.*** — Fig., of time or order, last, latest, extreme, final: Supremo te sole domi manebo, at sunset, ***Hor.*** : in te suprema salus, last hope, ***Ver.*** : Supremam bellis imposuisse manum, the finishing hand, ***Ov.*** — Of rank or degree, highest, greatest, most exalted, supreme, extreme: supreme Iuppiter, ***Ter.*** : macies, ***Ver.*** — The last of life, last, closing, dying, final: supremo vitae die: amplissime supremo suo d ie efferri: nec... Supremā citius die, i. e. not until death, ***Hor.*** : supplicium, i. e. the penalty of death: iter, ***Hor.*** : lumen, ***Ver.*** : sociam tori vocat ore supremo, with dying breath, ***Ov.*** : honor, i. e. the funeral rites, ***Ver.*** : tori, i. e. biers, ***Ov.*** : Troiae sorte supremā, ***Ver.*** — As subst n.: Ventum ad supremum est, to the last moment, ***Ver.*** : suprema ferre, i. e. the funeral offerings, ***Ver.***
 ##### supervacāneus adj.
 over and above, needless, unnecessary, superfluous, supererogatory, redundant: opus, i. e. of leisure hours: oratio, ***Liv.*** : iter, ***Liv.*** : omnia ita locata sunt, ut nih il eorum supervacaneum sit: de timore supervacaneum est disserere, ***Sall.*** : quin alter consul pro supervacaneo habeatur, ***Liv.***
 ##### supervacuus adj.
 useless, needless, unnecessary, superfluous, redundant: Omne supervacuum pleno de pectore manat, ***Hor.*** : sepulcri honores, ***Hor.*** : metus, ***Ov.*** : quod diutius exsequi supervacuum est, ***Curt.*** — In the phrase, ex supervacuo, to no purpose, ***Liv.***
+##### supervādō —, —, ere
+to go over, climb over, surmount: omnīs asperitates, ***Sall.*** : ruinas muri, ***Liv.***
+##### supervolitō or super volitō āvī, —, āre
+to fly over often, fly about over: sua tecta alis, ***Ver.*** : tantum foedarum volucrum supervolitavit, ***Tac.***
+##### supervolō —, —, āre
+to fly over: totum orbem, ***Ov.*** : supervolat hasta, ***Ver.***
 ##### supīnus adj.
 backwards, bent backwards, thrown backwards, on the back, supine: stertitque supinus, ***Hor.*** : excitat supinum iuvenem, i. e. in bed, ***Iuv.*** : uti motu sui corporis, prono obliquo, supino: supinas tendens manūs orabat, with upturned palms, ***Liv.*** : tendoque supinas Ad caelum cum voce manūs, ***Ver.*** : iactus, a throwing up, ***Liv.*** — Backwards, going back, retrograde: Nec redit in fontīs unda supina suos, ***Ov.*** : Flumina cursu reditura supino, ***Ov.*** — Sloping, inclined: per supinam vallem fusi, ***Liv.*** : Sin collīs supinos (metabere), ***Ver.*** : Tibur, ***Hor.*** — Fig., negligent, indolent, supine: Maecenas, ***Iuv.*** : animus, Ct.
 ##### suppeditātiō ōnis, f
 a full supply, abundance, exuberance: bonorum.
+##### suppēdō —, —, ēre
+to break wind softly.
 ##### suppliciter (subpl) adv.
 like a petitioner, humbly, submissively, suppliantly: respondere: locuti, ***Caes.*** : aram venerans, ***Ver.*** , ***Hor.*** , ***Ov.***
+##### suprāscandō —, —, ere
+to climb over, surmount, pass: finīs, ***Liv.***
 ##### suprēmum adv.
 for the last time: Quae mihi tunc est conspecta supremum, ***Ov.*** : animam magnā supremum voce ciemus, i. e. as a last farewell, ***Ver.***
 ##### sūra ae, f
@@ -1641,6 +1765,10 @@ to draw a deep breath, heave a sigh, sigh: occulte: familiariter: ab imis Pector
 both up and down; hence: de Octavio susque deque, it is all one, i. e. is of no consequence.
 ##### sustentāculum ī, n
 a prop, stay, support, ***Tac.***
+##### sustollō —, —, ere
+to lift, raise up, raise: sustollunt vela rudentes, Ct.: ad aethera voltūs, ***Ov.***
+##### susurrō —, —, āre
+to hum, buzz, murmur, mutter, whisper: susurrant (apes), ***Ver.*** : cum carā de te nutrice, ***Ov.*** : iam susurrari audio, Civem Atticam esse hanc, ***Ter.***
 ##### susurrus ī, m
 a humming, murmuring, muttering, whispering: mulierculae: (saepes) levi somnum suadebit inire susurro (apum), ***Ver.*** : tenui iugulos aperire susurro, ***Iuv.*** : Lenes susurri, ***Hor.*** : blandi, ***Prop.*** — Person., as attendants of Fame: Susurri, Whispers, ***Ov.***
 ##### susurrus adj.

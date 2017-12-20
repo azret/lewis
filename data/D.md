@@ -22,6 +22,8 @@ a giving: legum, the prerogative of legislation. — The right to convey, right 
 a giver: laetitiae Bacchus, ***Ver.***
 ##### deambulātiō ōnis, f
 a walking abroad, promenading, ***Ter.***
+##### deamō —, —, āre
+to be in love with: te, I am greatly obliged to you, ***Ter.***
 ##### dēbellātor ōris, m
 a conqueror, subduer: ferarum, ***Ver.***
 ##### dēbellō āvī, ātus, āre
@@ -90,6 +92,8 @@ a spendthrift, ruined man, bankrupt.
 ripe, mellow: suavitas (oratoris).
 ##### dēcolōrātiō ōnis, f
 a discoloring: ex aliquā contagione.
+##### dēcolōrō āvī, —, āre
+to discolor, stain: mare (caedes), ***Hor.***
 ##### decōrē adv.
 suitably, properly, becomingly, decorously: ea facere: res p. gesta, ***Sall.*** : formata species, worthily.
 ##### decorō āvī, ātus, āre
@@ -154,6 +158,8 @@ weak, worn out, enfeebled: defecto poplite labens, ***Ov.*** : corpus, ***Tac.**
 a falling away, desertion, revolt: Spartanorum, ***Curt.*** — A diminution, failure: aquarum, ***Liv.*** — An obscuration, eclipse: solis, ***Ver.*** — Plur: eius (lunae).
 ##### dēfēnsiō ōnis, f
 a defending, defence: urbis, ***Caes.*** : defensionis locum relinquere: defensionem in novo consilio parare, ***Sall.*** : criminis: contra crimen: causae suae: scripta: pro Cornelio, ***Nep.*** : ad istam orationem brevis.
+##### dēfēnsitō āvī, —, āre, freq.
+to defend often, practise defending: causas: sententiam.
 ##### dēfēnsor ōris, m
 an averter, protector against: necis: calamitatum. — A defender, protector, advocate: quem defensorem paro, ***Ter.*** : tribuni defensores mei: illius, ***Hor.*** : culpae, apologist, ***Iuv.*** : iuris: causae: oppidum vacuum ab defensoribus, without a garrison, ***Caes.*** : muros defensoribus nudare, ***Liv.*** — Fig., of things, plur, the guards (sublicae) of a bridge, ***Caes.*** : nec defensoribus istis Tempus eget (sc. telis), ***Ver.***
 ##### dēfessus adj.
@@ -190,12 +196,18 @@ exhausted: puella, Ct.
 baseness, degeneracy: in aliis, ***Liv.***
 ##### dēgenerō āvī, ātus, āre
 to be inferior to ancestors, decline, be degenerate: a vobis: Pandione nata, degeneras! ***Ov.*** : Macedones in Syros degenerarunt, ***Liv.*** — Fig., to fall off, decline, degenerate: ut consuetudo eum degenerare non sineret: ab hac virtute maiorum: a gravitate paternā: a parentibus, ***Liv.*** : in Persarum mores, ***Liv.*** : ad theatrales artes, ***Tac.*** : in perpetiendis suppliciis, ***Tac.*** — Poet. with acc, to dishonor, disgrace, fall short of: hanc (personam), ***Ov.*** : propinquos, ***Prop.*** : Equus degenerat palmas, i. e. has lost the victorious spirit, ***Ov.***
+##### dē  grunniō —, —, īre
+to grunt out, do his grunting, ***Phaed.***
 ##### dēgustō āvī, ātus, āre
 to taste: inde (sc. de sanguine), ***Sall.*** — Poet.: (lancea) summum degustat volnere corpus, i. e. grazes, ***Ver.*** — Fig., to get as a sample, taste, try, make trial of, test: genus hoc exercitationum: ex quā (oratione) pauca: aliqu id ex eius sermone speculae, obtain a gleam of hope: istum convivam tuum.
 ##### dehinc (monosyi., ***Ver.*** , ***Ov.***), adv.
 from this time, henceforth, hereafter, for the future: nunc dehinc spero aeternam inter nos gratiam Fore, ***Ter.*** : ne exspectetis argumentum, for the rest, ***Ter.*** : Tarquinium quācunque dehinc vi possim, exsequi, ***Liv.*** — Hereupon, afterwards, next, then: Eurum vocat, dehinc talia fatur, ***Ver.*** : absistere bello coeperunt, ***Hor.*** — In enumerations, then, next: bellum scripturus sum, primum quia... dehinc quia, etc., ***Sall.*** : post eos... dehinc, ***Sall.*** : primum... dehinc, ***Ver.*** — In succession: ut speciosa dehinc miracula promat, i. e. make impressive by proper order, ***Hor.*** — Hence, accordingly: hic dies alios mores postulat, dehinc postulo, etc., ***Ter.***
+##### dehīscō —, —, ere
+to part, divide, split open, gape, yawn: vel tellus mihi dehiscat, ***Ver.*** : terrae dehiscunt, ***Ver.*** : rimis dehiscit cumba, ***Ov.*** : dehiscens intervallis hostium acies, ***Liv.***
 ##### dehonestāmentum ī, n
 that which disfigures, a blemish, disgrace, dishonor: oris, ***Tac.*** : nullum insigne, ***Tac.***
+##### dehonestō —, —, āre
+to disgrace, dishonor: famam, ***Liv.*** : proavum infami operā, ***Tac.***
 ##### dēiectiō ōnis, f
 an ejection, dispossession: deiectionem facere.
 ##### dēiectus adj.
@@ -206,6 +218,8 @@ a throwing down, felling, fall: arborum, ***Liv.*** : gravis undarum, ***Ov.*** 
 one after another, in order, in succession: cum deinceps ex primis versuum litteris aliquid conectitur: prima Curene est, ac deinceps duae Syrtes, ***Sall.*** : tres deinceps turres prociderunt, ***Liv.*** — In time, one after another, successively, in immediate succession: duo deinceps reges civitatem auxerunt, ***Liv.*** : ut deinceps qui accubarent canerent, etc.: ut alios alii deinceps exciperent, ***Caes.*** : Redde quae deinceps risisti, ***Hor.*** : deinceps fuit annus, quo, etc., the very next. — In order, in regular order, continuously, without interruption: de iustitiā dictum est: deinceps de beneficentiā dicatur: annales Enni ut deinceps legi possint: caedem tyranni ostendit, i. e. goes on to relate, ***Liv.*** : prima causa dicta... deinceps inde multae. — In an enumeration, next, next in order: primum est officium, ut, etc., deinceps, ut, etc.: principes parentes... proximi liberi... deinceps propinqui: qui primus eorum, qui secundus, qui deinceps moriturus esset: tum deinceps, ***Liv.*** : postea deinceps, ***Liv.***
 ##### deinde (in poetry two syll.), or dein (in poetry one syll.), adv.
 locat. suffix -im + demonstr. -de then, next, thereafter, thence: via interest perangusta, deinde paulo latior patescit campus, ***Liv.*** : duo binis pedibus incisim, dein membratim, etc.: iuxta Hermanduros Narisci, ac deinde Marcomanni, ***Tac.*** — In time, thereafter, afterwards, then, next, immediately: complurīs occiderunt, deinde se in castra receperunt, ***Caes.*** : latae deinde leges, ***Liv.*** : alia deinde alia loca petere, roam from place to place, ***Sall.*** : unguibus et pugnis, dein fustibus, Pugnabant, ***Hor.*** : deinde faciundi licentia, of repeating the offence, ***Sall.*** : primum suo, deinde omnium ex conspectu remot is equis, ***Caes.*** :... deinde... deinde... post... tum vero: deinde postea: post deinde, ***Ter.*** : deinde postremo: deinde ad extremum. — Of future time, next, the next time, then: quas ad te deinde litteras mittemus: Quae nunc deinde mora est? any longer, ***Ver.*** — Adding a new fact or argument, afterwards, next in order, then, besides, also: deinde etiam vereor, ne, etc.: primum... deinde (three times): primum... deinde (eight times)... postremo, ***Cic.*** : excellente tum Crasso, deinde Philippo, post Iulio, in the second rank. — Then, therefore, naturally, of course: qualis nostra virtus fuerit, talem deinde fortunam urbis fore, ***Liv.***
+##### dēlassō —, —, āre
+to wear out, tire: Fabium, ***Hor.***
 ##### dēlātiō ōnis, f
 an accusation, denunciation: nominis, an indictment: ne haec mihi delatio detur: socius delationis, ***Tac.***
 ##### dēlātor ōris, m
@@ -256,12 +270,20 @@ a fault, offence, trespass, crime, transgression, wrong, defect: delictum admisi
 to bind together, tie up, bind fast, fetter, make fast: hominem deligari iubet: naviculam ad ripam, ***Caes.*** : epistulam ad amentum, ***Caes.*** : deligati ad palum iuvenes, ***Liv.***
 ##### dēlīrātiō ōnis, f
 giddiness, silliness, folly, dotage, madness: incredibilis.
+##### dēlīrō —, —, āre
+to be crazy, be deranged, be silly, dote, rave: decipi tam dedecet quam delirare: timore, ***Ter.*** : in extis totam Etruriam delirare: Stertinium deliret acumen, ***Hor.*** : quicquid delirant reges, whatever folly the kings commit, ***Hor.***
 ##### dēlīrus adj.
 silly, doting, crazy: senex: anus: mater, ***Hor.***
+##### dēlītigō —, —, āre
+to scold, rail: tumido ore, ***Hor.***
 ##### dēlūbrum ī, n
 a place of cleansing, temple, shrine, sanctuary: audita ex delubro vox, ***Liv.*** : delubrum eius in oppido dedicaverunt: ex alto delubri culmine, ***Ver.*** : deorum delubra.
+##### dēlumbō —, —, āre
+to enervate, weaken: sententias.
 ##### dēmandō āvī, ātus, āre
 to give in charge, intrust, commit: pueri unius curae demandabantur, ***Liv.*** : curam (sauciorum) legatis, ***Liv.***
+##### dēmānō —, —, āre
+to flow down, glide down, Ct.
 ##### dēmēns entis, adj.
 with comp. and sup, out of one's senses, insane, demented, mad, raving, foolish, distracted: Adeon est demens? ***Ter.*** : num qu is est igitur tam demens, qui, etc.: quid est enim dementius, quam, etc.?: Athamante dementior: demens Iudicio volgi, sanus tuo, ***Hor.*** : in tranquillo tempestatem adversam optare dement is est: non tacui demens, ***Ver.*** : omnia demens Credis, foolishly, ***Ov.*** : manus, Tb. — Distracting, wild, foolish, reckless: discordia, ***Ver.*** : strepitus, ***Hor.*** : ruinae, ***Hor.*** : ratio, ***Nep.*** : causa sui dementissimi consili.
 ##### dēmēnsum ī, n
@@ -276,6 +298,8 @@ an emigration, ***Nep.***
 to migrate, emigrate, move, depart, remove, go away: ex his aedificiis, ***Caes.*** : in urbem ex agris, ***Liv.*** : in alias terras: ad Marcellum: aliquo: hinc, i. e. to die: demigrandi causā, ***Caes.*** : ex hominum vitā ad deorum religionem. — Fig., to remove, be driven: de meo statu: strumae ab ore improbo demigrarunt.
 ##### dēmissiō ōnis, f
 a letting down, sinking, lowering: storiarum, ***Caes.*** — Fig., dejection: animi.
+##### dēmītigō —, —, āre
+to make mild: cottidie demitigamur, grow more lenient.
 ##### dēmōlītiō ōnis, f
 a tearing down, demolishing: ea (statuarum): signorum.
 ##### dēmōnstrātiō ōnis, f
@@ -288,10 +312,18 @@ one who points out, an indicator, guide: unius cuiusque sepeliendi.
 to point out, indicate, designate, show: figuram digito: ubi habitet (mihi) demonstrarier, ***Ter.*** : itinera: quid ubique esset: finīs, i. e. to deliver possession (of land): demonstrant astra salebras, ***Prop.*** — Fig., to designate, indicate, show, prove, demonstrate, establish: audisti quam villam demonstravit? ***Ter.*** : alterius peccata: istius cupiditatem: causā illis demonstratā: earum (navium) modum formamque, ***Caes.*** : sibi nih il esse reliqui, ***Caes.*** : culpam in te fuisse: quanta praedae faciendae facultas daretur, s i, etc., ***Caes.*** : quā iste oratione usus esset: verba demonstrant ia ea, quae, etc., expressing. — To mention, speak of, name, describe: cum essent in quibus demonstravi angustiis, ***Caes.*** : res, quam ante demonstravi: cum esset Caesar in hibernis, ita uti supra demonstravimus, ***Caes.*** : naves, de quibus supra demonstratum est, ***Caes.*** : quem missum in Hispaniam demonstratum est, ***Caes.*** : flumen, quod esse post castra demonstratum est, ***Caes.***
 ##### dēmūgītus adj.
 bellowing, resounding with herds: paludes, ***Ov.***
+##### dēmulceō —, —, ēre
+to stroke down, stroke caressingly: tibi caput, ***Ter.*** : dorsum, ***Liv.***
 ##### dēmum adv.
 sup. ending at length, at last, not till then, just, precisely, only: is demum est iustus triumphus: is demum mihi vivere videtur, qu i, etc., no one but him, ***Sall.*** : exsilium quantum demum a perpetuā peregrinatione differt?: sciscitando eo demum pervenit, ut, etc., ***Liv.*** : placidā ibi demum morte quievit, ***Ver.*** — With nunc, now, now at length, at last, not till now: nunc demum intellego: nunc demum rescribo iis litteris, quas, etc. — With tum, then at length, then indeed, not till then: tum demum illa omnia victa videbantur, cum, etc.: tum demum inpulsi Latini, ***Liv.*** : Tum demum stagna revisunt, ***Ver.*** : quod si convenerit, tum demum decebit, etc. — With modo, only now, not till now: modone id demum sensti? Do you just begin to see? ***Ter.*** — With ibi, just there: Ibi demum ita aegre tulit, etc., ***Ter.*** — With sic, so at last, thus finally: Sic demum socios consumptā nocte reviso, ***Ver.*** — With abl. of time, just, not till, at last: decimo demum pugnavimus anno, ***Ov.*** : quartā vix demum exponimur horā, ***Hor.*** : his demum exactis, ***Ver.*** — In assurance, in fact, in very truth, assuredly, certainly, indeed: ea demum firma amicit ia est, ***Sall.*** : ea sunt enim demum non ferenda in mendacio, quae, etc.
+##### dēmurmurō —, —, āre
+to mutter over: carmen, ***Ov.***
 ##### dēmūtō āvī, ātus, āre
 to change, alter: placitum ‘instituto flaminum nihil demutari, ’ ***Tac.***
+##### dēnārrō —, —, āre
+to tell, relate, narrate: Haec illi, ***Ter.*** : matri, ut, etc., ***Hor.***
+##### dēnatō —, —, āre
+to swim down: Tusco alveo, ***Hor.***
 ##### dēnegō āvī, ātus, āre
 to reject, refuse, deny: denegandi pudor, ***Ter.*** : conloquia denegata, ***Caes.*** : mihi, to say no: quod antea petenti denegasset, ***Caes.*** : quod iracundiae denegavisti: honorem homini: operam rei p.: se commissurum mihi Gnatam uxorem, ***Ter.*** : dare, ***Hor.*** : deneget esse miser, ***Prop.*** : illa meam mihi se iam denegat, ***Prop.***
 ##### dēnicālis e, adj.
@@ -300,10 +332,14 @@ purifying from death: feriae, a service for purification, after a death in the h
 and thenceforward, and thereafter, at last, at length, finally, lastly, only, not until: denique Metuebant me, ***Ter.*** : Metui, quid futurum denique esset, ***Ter.*** : post biennium denique appellas: octavo denique mense, ***Caes.*** : mortuo denique, not till after his death. — With nunc, now at last, only now, not till now: nunc denique incipiunt credere. — With tum, then at last, only then, not till then: tum denique nomen referemus: tum denique interficiere, cum, etc. — In enumerations, besides, thereafter, finally, lastly, in fine: ut nomen deferrent, ut accusatorem compararent, denique ut pugnarent: proximo, altero, denique reliquis consecutis diebus. — Followed by postremo, ***Cic.*** — In a summary or climax, in a word, in short, in fact, briefly, to sum up, in fine, even, I may say: Ut ad pauca redeam... Haec denique eius fuit oratio, ***Ter.*** : nob is est domi inopia, mala res... denique quid reliqui habemus? ***Sall.*** : omnia sua iura, commoda, totam denique libertatem: non curia, non domus, non denique haec sedes honoris: denique haec fuit altera persona, in a word, ***Nep.*** : Denique sit quidvis simplex, ***Hor.*** : vitavi denique culpam, Non laudem merui, merely, ***Hor.*** — Ironical, in fine, forsooth, indeed: ii denique, qui tum concursabant, Roscio obicient, etc. — Restrictive, in fine, at least, certainly: nostros praesidia deducturos aut denique indiligentius servaturos, ***Caes.*** : eosdem (liberos) bonā aut denique aliquā re p. perdere: Ne nummi pereant... aut denique fama, ***Hor.***
 ##### dēnōminō āvī, ātus, āre
 to call, name: (ab Lamo) Lamiae denominati, ***Hor.***
+##### dēnōrmō —, —, āre
+to disfigure, make irregular: (angulus) agellum, ***Hor.***
 ##### dēnotō āvī, ātus, āre
 to mark out, point out, specify, indicate, designate: civīs Romanos trucidandos: Icilios denotante senatu, ***Liv.*** — Fig., to take note of, mark, observe closely: denotandis hominum palloribus, ***Tac.*** : res, quas non habeat denotatas.
 ##### dēnsē adv.
 closely, in quick succession. — Only comp: idem apud alios densius: Nulla subeunt mihi tempora densius istis, ***Ov.***
+##### dēnseō —, —, ēre
+to make thick, thicken, pack, close, press: favilla corpus in unum densetur, ***Ov.*** : Iuppiter Denset erant quae rara, ***Ver.*** : pectine opus, ***Ov.*** : Agmina densentur campis, ***Ver.*** : hastilia, hurl a shower of, ***Ver.*** : ictūs, ***Tac.*** : iuvenum densentur funera, ***Hor.*** : densetur caelum, darkens, ***Ov.***
 ##### dēnsus adj.
 with comp. and sup, thick, close, compact, dense, crowded: silva: densiores silvae, ***Caes.*** : densissimae silvae, ***Caes.*** : densum umeris volgus, ***Hor.*** : litus, sandy, ***Ov.*** : caligo, ***Ver.*** : densissima nox, pitch-dark, ***Ov.*** : pingue, firm, ***Ver.*** : Austri, cloudy, ***Ver.*** — Poet., with abl, thickly set, covered, full: loca silvestribus saepibus densa: specus virgis ac vimine, ***Ov.*** : ficus pomis, ***Ov.*** : trames caligine opacā, ***Ov.*** — In space, thick, close, set close: densissima castra, ***Caes.*** : apes, ***Ver.*** : ministri, ***Ov.*** : densior suboles, ***Ver.*** : nec scuta densi Deponunt, when thronging, ***Ver.*** — In time, thick, frequent, continuous (poet.): ictūs, ***Ver.*** : tela, ***Ver.*** : plagae, ***Hor.*** : amores, ***Ver.***
 ##### dentālia ium, n
@@ -326,6 +362,8 @@ to unload, disburden: ex illius invidiā aliqu id et in te traicere.
 downwards, down: pondere ferri. — With sursum, up and down: Ne sursum deorsum cursites, ***Ter.*** : naturis sursum deorsum commeantibus. — Of position, down, below: Clivos deorsum vorsum est, right down before you, ***Ter.*** : Nostin porticum hac deorsum? ***Ter.***
 ##### dēpecūlātor ōris, m
 a plunderer, embezzler: aerari: suus (i. e. eorum).
+##### dēpendeō —, —, ēre
+to hang from, hang on, hang down: ex umeris nodo dependet amictus, ***Ver.*** : galea ramis, ***Ver.*** : serta tectis, ***Ov.*** : laqueo, ***Liv.*** : Licia dependent, ***Ov.*** — Fig., to be dependent on, wait for: Dependet fides a veniente die, ***Ov.*** — To depend, be derived: ‘augurium’ dependet origine verbi, ***Ov.***
 ##### deplōrō āvī, ātus, āre
 to weep bitterly, moan, wail, lament, complain: lamentabili voce: de isdem rebus esse dolentius deplorandum. — With acc, to bewail, lament, deplore: ad saxa haec: damnationem illam: domum incensam: deplorati publico luctu, ***Liv.*** : quae de altero deplorentur: multa de Gnaeo. — To give up for lost, abandon, resign: suam quisque spem, ***Liv.*** : deploratur in perpetuum libertas, ***Liv.*** : vota (coloni), ***Ov.***
 ##### dēpopulātiō ōnis, f
@@ -348,6 +386,10 @@ an averting by prayer, appeal, intercession, plea, apology: periculi: quae depre
 an averter, intercessor: miseriarum: pro illius periculo. — An advocate, mediator: sui: apud consulem deprecator vobis adero, ***Liv.*** : salutis meae: ut eo deprecatore a Sequanis impetrarent, ***Caes.*** : uti deprecatoribus Remis, ***Caes.***
 ##### dēprehēnsiō ōnis, f
 a catching, discovery: manifesta veneni.
+##### dēproperō —, —, āre
+to hasten, prepare hastily: coronas, ***Hor.***
+##### depsō —, —, ere
+to knead.
 ##### dēpūgnō āvī, ātus, āre
 to fight decisively, fight out, join battle, combat: signis conlatis, ***Liv.*** : acie instructā, ***Caes.*** : cum civibus: ad depugnandum, ***Nep.*** : ante depugnabitur: depugnatum cum Gall is est, ***Liv.*** — Fig., to contend, quarrel: unum par quod depugnet: depugnare parati, ***Hor.***
 ##### dēpulsiō ōnis, f
@@ -386,6 +428,8 @@ a descent, way down: quā illi descensus erat, ***Sall.*** : facilis descensus A
 in an orderly manner: digerere.
 ##### dēsertor ōris, m
 one who forsakes, a deserter: amicorum: communis utilitatis aut salutis. — In war, a runaway, deserter, ***Caes.*** , ***Liv.*** , ***Tac.*** — Poet.: Amoris, ***Ov.*** : Asiae, ***Ver.***
+##### dēserviō —, —, īre
+to serve zealously, be devoted, be subject, be of service: cuivis deserviant: vobis operā deservire: si officia, si operae, si vigiliae deserviunt amicis: divinis rebus.
 ##### dēsīderābilis e, adj.
 wanted, desirable: nihil desiderabile concupiscunt: suis vitiis desiderabilem efficere avum, i. e. missed, ***Liv.*** : princeps, ***Tac.***
 ##### dēsīderātiō ōnis, f
@@ -402,6 +446,8 @@ a marking out, specification (cf. dissignatio): personarum et temporum. — A de
 to mark out, point out, trace, designate, define (often confounded with dissigno): urbem aratro, ***Ver.*** : moenia fossā, ***Ver.*** : templo Iovis finīs, ***Liv.*** : circo designatus locus est, ***Liv.*** : Europen, depicts (in a web), ***Ov.*** — Fig., to point out, mark, denote, designate, describe, represent, brand: haec verbis designata: hac oratione Dumnorigem designari, ***Caes.*** : oculis ad caedem unumquemque nostrum: quem (mundum) deum. — To appoint, choose, elect (to office): consul es designatus: comitiis designatus aedilis: sperans si designatus foret, etc., ***Sall.*** — P. perf., elect, chosen (to an office): consul: tribuni plebis: xvir: praetor. — Of a child unborn: designatus civis; see dissigno.
 ##### dēsipiēns entis, adj.
 foolish, silly: adrogentia: ita desipiens, qu i, etc.
+##### dēsipiō —, —, ere
+to be void of understanding, be silly, act foolishly: licet me desipere dicatis: si non desipit augur, ***Hor.*** : Dulce est desipere in loco, to trifle, ***Hor.***
 ##### dēsōlō āvī, ātus, āre
 to leave alone, forsake, abandon, desert: agros, ***Ver.*** : desolatae terrae, ***Ov.*** : desolatus servilibus ministeriis, deprived of, ***Tac.***
 ##### dēspectus ūs, m
@@ -424,6 +470,12 @@ contemptible, ***Tac.***
 a despising, contempt: rerum humanarum: animi.
 ##### despoliō āvī, ātus, āre
 to rob, plunder, despoil: se armis, ***Caes.*** : ut cum Siculis despoliaretur: despoliari triumpho, ***Liv.***
+##### dēspūmō —, —, āre
+to skim off, skim: foliis undam aëni, ***Ver.***
+##### dēspuō —, —, ere
+to spit out, spit upon: ubi despui relig io est, ***Liv.*** : in molles sibi sinūs, Tb. — To reject, abhor: preces, Ct.
+##### dēstīllō or dīstīllō —, —, āre
+to drip, trickle down: destillat ab inguine virus, ***Ver.*** : Illius puro destillent tempora Nardo, Tb.
 ##### dēstinātiō ōnis, f
 an assignment: partium, ***Liv.*** — A resolve, determination: haud dubia, ***Tac.*** : destinationis certus, resolute, ***Tac.***
 ##### dēstinātum ī, n
@@ -438,6 +490,8 @@ an abandonment, desertion, disappointment: destitutione irati.
 severe, rigid. — Only comp: destrictior accusator, ***Tac.***
 ##### dēsubitō or dē subitō adv.
 on a sudden, suddenly: bolus ereptus e faucibus, ***Ter.*** : funus ornatum.
+##### dēsūdō —, —, āre
+to sweat, make great exertion: in his (sc. exercitationibus ingeni).
 ##### dēsuēfactus adj.
 estranged: multitudo a contionibus.
 ##### dēsuētus adj.
@@ -448,6 +502,8 @@ a vaulter, circus-rider: desultorum in modum, ***Liv.*** — Fig.: amoris, i. e.
 of a vaulter: quasi desultorius, like a circus-rider's horse.
 ##### dēsuper adv.
 — Of motion, from above, from overhead: (alqm) volnerare, ***Caes.*** : nemus imminet, ***Ver.*** — Of rest, above (poet.): imposuere togas, ***Ov.***
+##### dēsurgō —, —, ere
+to rise: cenā, ***Hor.***
 ##### dēterius adv.
 worse, less: scripta: interpretari, unfavorably, ***Tac.*** : si placeant spe Deterius, ***Hor.*** : nilo deterius, nevertheless, ***Hor.***
 ##### dēterminātiō ōnis, f
@@ -472,6 +528,10 @@ that which is worn away: ergastuli detrimenta (of men), wrecks of the work-house
 to lop, cut off: arbores, ***Liv.*** : caput, ***Ov.*** — To mutilate, maim, behead: gladio detruncata corpora, ***Liv.***
 ##### dēturbō āvī, ātus, āre
 to thrust down, beat down, expel, overthrow, tear down, hurl, strike down: ex turribus propugnantīs, ***Caes.*** : ex praesidiis Macedonas, ***Liv.*** : lapidibus coniectis deturbati, dislodged, ***Caes.*** : nitentīs per ardua hostīs, ***Liv.*** : Trebonium de tribunali, ***Caes.*** : aedificium: In mare praecipitem puppi ab altā, ***Ver.*** : caput orantis terrae, ***Ver.*** : statuam. — Fig., to dispossess, drive out, deprive: alqm de sanitate: de fortunis deturbandus: possessione deturbatus.
+##### dēvēlō —, —, āre
+to unveil, uncover: Ora sororis, ***Ov.***
+##### dēverberō āvī, —, āre
+to thrash, cudgel soundly: homines usque ad necem, ***Ter.***
 ##### dēversōriolum ī, n dim.
 a small lodging-place.
 ##### dēvexus adj.
@@ -554,6 +614,8 @@ stuffed, crammed, crowded, swarming: provincia differta exactoribus, ***Caes.***
 with difficulty, hardly: fiebat, ***Caes.*** : haud difficulter persuasum Latinis, ***Liv.***; see difficiliter.
 ##### diffīdentia ae, f
 mistrust, distrust, diffidence: fidentiae contrarium est: rei, ***Sall.*** : non tam diffidentiā, futura quae imperavisset, quam, etc., ***Sall.***
+##### diffingō —, —, ere
+to transform, remodel, make anew: ferrum incude, ***Hor.*** — Fig.: alqd, alter, ***Hor.***
 ##### diffugium ī, n
 a dispersion. — Plur.: proximorum, ***Tac.***
 ##### diffūsus adj.
@@ -570,6 +632,8 @@ a finger: de digito anulum detraho, ***Ter.*** : digitos impellere, ut Scriberen
 honor, rank: de dignatione laborat: principum, ***Liv.*** : principis, ***Tac.***
 ##### dīgnitās ātis, f
 worth, merit, desert, character: tantum apud me dignitas potest, ***Caes.*** : honos dignitate impetratus: consularis, a claim to the consulship: pro dignitate laudare. — Greatness, majesty, dignity, grandeur, authority, rank, distinction, eminence, reputation, honor: consulis: summa in te: personarum: vostra, ***Sall.*** : celsissima sedes dignitatis. — Self-respect, personal dignity, honor: apud alium prohibet dignitas, ***Ter.*** : agere cum dignitate: neque suam pati dignitatem, ut, etc., ***Caes.*** : corporis, presence, ***Nep.*** — One in high office, an eminent man, dignitary: surrexisset Apronius, nova dignitas publicani: cum dignitates abessent, ***Liv.*** — Of things, worth, value, excellence. plena dignitatis domus: portus ut urbem dignitate aequiparet, ***Nep.*** : verborum.
+##### dīgnō —, —, āre
+to deem worthy: cunctas nomine, ***Cic.*** poët.: laude dignari: coniugio Veneris dignate, ***Ver.***
 ##### dīgressiō ōnis, f
 a parting, separating: nostra. — Fig., a digression: a propositā oratione.
 ##### dīgressus ūs, m
@@ -582,6 +646,8 @@ to distinguish, know apart, discern, perceive the difference: vera et falsa: ver
 to tear to pieces, tear apart: dominum, ***Ov.*** : corpus tormentis, ***Tac.*** — Fig., to tear to pieces, waste: ad dilacerandam rem p.: opes, ***Ov.*** : acerbitatibus dilaceratus, ***Tac.***
 ##### dīlaniō āvī, ātus, āre
 to tear to pieces, mutilate: (cadaver) canibus dilaniandum: alqm tormentis, ***Tac.*** : membra, ***Ov.***
+##### dīlapidō —, —, āre
+to throw away, squander, consume: triginta minas, ***Ter.***
 ##### dīlātiō ōnis, f
 a putting off, postponement, delay: vel minime temporis: comitiorum: nulla, ***Liv.*** : per dilationes bellum geri, ***Liv.***
 ##### dīlātor ōris, m
@@ -592,6 +658,8 @@ loved, beloved, dear: Maecenas, ***Hor.*** : Superis, ***Ov.*** : sorori, ***Ver
 a choosing, picking out, selecting, selection, choice, distinction: ad quod delectus adhibetur: iudicum: dignitatis: non dilectu aliquo ducitur ad iudicandum: sine ullo delectu: coire nullo dilectu, indiscriminately, ***Ov.*** — A levy, recruiting, enrollment, conscription, draft (of soldiers, etc.): per legatos delectum habere, ***Caes.*** : delectu totā Italiā habito: quam acerrimus, ***Liv.*** : missus ad dilectūs agendos, ***Tac.*** : perditissimorum civium.
 ##### dīligentia ae, f
 attentiveness, earnestness, diligence, industry, assiduity, care, faithfulness: non mediocrem diligentiam adhibere, ***Caes.*** : summa in re p.: erga pecuniam, ***Tac.*** : vostra, ***Ter.*** : quā diligentiā fuerit!: nihil de diligentiā remittere: dignitatis, regard for. — Economy, frugality: res familiaris debet conservari diligentiā.
+##### dīlūceō —, —, ēre
+to be clear, be evident: dilucere id quod erat coepit, ***Liv.*** : res patribus, ***Liv.***
 ##### dīlūcidē adv.
 plainly, evidently, distinctly: expedire Iudicibus, ***Ter.*** : explicare: respondeo.
 ##### dīlūculum ī, n
@@ -604,6 +672,8 @@ thin, weak, dilute. — Comp.: dilutius poturi (sc. vinum).
 an inundation, flood, deluge: Diluvio miscens (tellurem), ***Ver.*** , ***Ov.*** — Fig., desolation, destruction: illud, ***Ver.*** , ***Iuv.***
 ##### dimachae ārum, m
 mounted infantry, dragoons, ***Curt.***
+##### dīmānō āvī, —, āre
+to spread abroad: ad existimationem hominum latius.
 ##### dīmēnsiō ōnis, f
 a measuring: quadrati.
 ##### dīmicātiō ōnis, f
@@ -618,6 +688,10 @@ half, one half: pro dimidiā parte: rex dimidiae partis Eburonum, ***Caes.*** �
 a sending out, sending forth: libertorum ad provincias. — A dismissing, discharge: propugnatorum.
 ##### dīmissus ūs, m
 a deliverance. — Only dat: hanc quaestionem dimissui sperant futuram (dub.).
+##### dimminuō —, —, ere
+to break to pieces, shatter, break: tibi caput, ***Ter.*** : Dimminuetur tibi cerebrum, ***Ter.***
+##### dīnōscō —, —, ere
+to know apart, distinguish, discern: vera bona, ***Iuv.*** : (geminos) inter se similes, ***Ov.*** : civem hoste, ***Hor.*** : dominum et servum deliciis, ***Tac.*** : curvo rectum, ***Hor.***
 ##### dīnumerātiō ōnis, f
 a counting over, reckoning up, enumeration: noctium ac dierum. — As a figure of speech, ***Cic.***
 ##### dioecēsis is, f
@@ -664,10 +738,14 @@ instruction, tuition, teaching, training, education: puerilis: adulescentīs in 
 a female scholar, disciple, ***Hor.***
 ##### discipulus ī, m
 a learner, scholar, pupil, disciple, student, follower: Num immemores discipuli? Have the pupils forgotten (their lesson)? ***Ter.*** : Platonis: labor is et fori.
+##### disconveniō —, —, īre
+to disagree, be inconsistent: vitae ordine toto, ***Hor.*** — Impers: eo disconvenit inter Meque et te, ***Hor.***
 ##### discordia ae, f
 disunion, disagreement, dissension, variance, discord: confingis causas ad discordiam, ***Ter.*** : civilis, ***Sall.*** : facultas discordiae concitandae: duas ex unā civitate discordia fecerat, ***Liv.*** : perfecta tibi bello, ***Ver.*** : fratrum, ***Ov.*** : inter ipsos, ***Liv.*** : erga alqm, ***Tac.*** : non sedebantu <⋆> discordiae: tacitae: incertae mentis, inconsistency, ***Ov.*** : Idae et Phoebo, Eveni filia, the subject of strife, ***Prop.*** — Mutiny, rebellion, ***Tac.*** — Person., the goddess of discord, ***Ver.***
 ##### discordiōsus adj.
 full of discord, intractable, quarrelsome: volgus, ***Sall.***
+##### discordō —, —, āre
+to be at variance, differ, quarrel: inter se, ***Ter.*** : cupiditates in animis discordant: animus secum discordans: patria, ***Tac.*** — Poet., to be unlike, be opposed: quantum discordet parcus avaro, ***Hor.*** : Si discordet eques, protests, ***Hor.*** — To mutiny, ***Tac.***
 ##### discrepantia ae, f
 discordance, dissimilarity, discrepancy: rerum, verborum.
 ##### discrepātiō ōnis, f
@@ -678,6 +756,8 @@ that which parts, an intervening space, interval, distance, division, separation
 to divide, part, separate: Etruriam discriminat Cassia: late agros, ***Ver.*** : vigiliarum somnique tempora, apportion, ***Liv.***
 ##### dīscrīptiō ōnis, f
 a division, distribution, apportionment, assignment: civitatis: populi: possessionum: per urbem caedis (cf. descriptio).
+##### discupiō —, —, ere
+to desire greatly, long: se vendere, Ct.
 ##### discursus ūs, m
 a running to and fro, running about, straggling: continere ab discursu militem, ***Liv.*** : vallem discursibus impleat, ***Ov.*** : subito discursu, a double flank movement, ***Tac.***
 ##### discus ī, m
@@ -720,6 +800,8 @@ an argument, discussion, debate, dispute: magis facilis quam necessaria: isti di
 a disputer, disputant: subtilis.
 ##### disputō āvī, ātus, āre
 to weigh, examine, investigate, treat, discuss, explain: de singulis sententiis breviter: ad id: multa de sideribus, ***Caes.*** : de omni re in contrarias partes: esse in utramque partem disputatum, ***Caes.*** — To argue, maintain, insist: palam: copiose: non ita disputo, such is not my argument: qui contra disputant, opponents: pro omnibus et contra omnia: isti in eo disputant, Contaminari non decere fabulas, ***Ter.*** : nihil contra: contra te: quod disputari contra nullo pacto potest, cannot be disputed: quid desiderem, non quid viderim, the question is, etc.
+##### disquīrō —, —, ere
+to inquire diligently, investigate: mecum, ***Hor.***
 ##### disquīsītiō ōnis, f
 an inquiry, investigation: in magnis disquisitionibus: in disquisitionem venit, ne, etc., ***Liv.***
 ##### dissēminō āvī, ātus, āre
@@ -730,6 +812,10 @@ difference of opinion, disagreement, dissension, discord, strife: regum, ***Sall
 dissension, disagreement. — Only abl sing.: vario, ***Ver.***
 ##### dissentāneus adj.
 disagreeing, contrary: alcui rei.
+##### disserēnāscō āvī, —, āre, inch impers.
+to clear up, grow clear: cum undique disserenasset, ***Liv.***
+##### disserō —, —, ere
+to plant here and there: taleae intermissis spatiis disserebantur, ***Caes.***
 ##### dissertiō ōnis, f
 a gradual destruction, abolition: iuris humani, ***Liv.*** (dub.).
 ##### dissīgnātiō ōnis, f
@@ -786,6 +872,8 @@ with precision, distinctly, clearly: dicere: concisa brevitas.
 a distinguishing, discrimination: rerum inter ea: veri a falso: poenarum ex delicto, ***Tac.*** — A difference, distinction, variation: in visis: lunae: eiusdem verbi saepius positi, in meaning. — In gram., punctuation.
 ##### dīstinctus ūs, m
 abl. sing., variety: pinnarum, ***Tac.***
+##### dīstō —, —, āre
+to stand apart, be separate, be distant: quantum tignorum iunctura distabat, ***Caes.*** : Nec longo distant (regna) cursu, ***Ver.*** : inter se, ***Caes.*** : non amplius pedum milibus II ab castris castra distabant, ***Caes.*** : tanto, ***Ov.*** : foro nimium distare Carinas, ***Hor.*** — In time: quantum ab Inacho, ***Hor.*** — To differ, be different, be unlike: quantum distet argumentatio ab re: ultima distant, ***Ov.*** : Sordidus a tenui victu distabit, ***Hor.*** : stoica dogmata A cynicis tunicā distantia, ***Iuv.*** : Paulum distat inertiae Celata virtus, ***Hor.*** : aera lupinis, ***Hor.*** : facta minis, ***Ov.*** — Impers, there is a difference, it makes a difference, is important: ut distare aliquid videatur, utrum, etc.: Stultitiāne erret, nihilum distabit, an ira, ***Hor.***
 ##### distortiō ōnis, f
 a distorting, contortion: membrorum.
 ##### distractiō ōnis, f
@@ -820,6 +908,8 @@ with comp, in different directions, different ways, hither and thither: divorsiu
 contrariety, disagreement: mira naturae, ***Tac.*** : inter exercitum imperatoremque, ***Tac.*** — Variety, difference: supplici, ***Tac.*** : consiliorum, ***Tac.***
 ##### dīversor or dēversor ōris, m
 a guest: caupo cum quibusdam diversoribus.
+##### dīvexō —, —, āre
+to pull asunder, destroy, violate: reliquias meas divexarier, Pac. ap. ***Cic.*** : agros civium.
 ##### dīviduus adj.
 divisible: omne animal. — Divided, separated: dividuom face (totum), divide up, ***Ter.*** : munus, ***Hor.*** : aqua, ***Ov.***
 ##### dīvīnātiō ōnis, f
@@ -890,6 +980,8 @@ a female ruler, mistress: animi cupiditas.
 rule, command, sovereignty, mastery, tyranny: regius: fit in dominatu servitus: in superbissimo dominatu esse: legiones ad suum dominatum convertere, ***Caes.*** — Fig., mastery, control: permittis iracundiae dominatum animi.
 ##### dominium ī, n
 a feast, banquet: huius argento dominia vestra ornari.
+##### dominō —, —, āre
+to rule; only pass: domus quam dispari Dominare domino! Poët. ap. ***Cic.***
 ##### dominus ī, m
 a master, possessor, ruler, lord, proprietor, owner: aedium, ***Ter.*** : servos, Quoi dominus curaest, ***Ter.*** : nec imperante domino: fugitivi ab dominis: Contemptae rei, ***Hor.*** : bonus adsiduusque, householder. — A master, lord, ruler, commander, chief, proprietor, owner, despot, tyrant: condicio omnium gentium domini: summi domini numen: populi, quem Graeci tyrannum vocant: dominum Aenean in regna recepit, ***Ver.*** — Fig.: gravissimi domini, terror ac metus: rei futurus, who must decide: nec prosunt domino artes, ***Ov.*** : Urget non lenis, i. e. passion, ***Hor.*** : vitae necisque, arbiter, ***Liv.*** — The master of a feast, entertainer, host, ***Cic.*** : dominorum invitatio, ***Liv.*** — The master of a public show, ***Cic.*** — A title of the emperor, master, ***Phaed.***
 ##### domiporta ae, f
@@ -907,12 +999,16 @@ a largess, distribution of money to the army, ***Tac.***
 ##### dōnō āvī, ātus, āre
 ##### dōnum ī, n
 a gift, present: regale: deorum: proximos donis conrupit, bribes, ***Sall.*** : em it eam dono mihi, ***Ter.*** : (virtus) neque datur dono, neque accipitur, ***Sall.*** : Defensi tenebr is et dono noctis, darkness and the boon of night, ***Ver.*** — A present to a deity, votive offering, sacrifice: donum Veneri de Sthenii bonis: turea, of incense, ***Ver.*** : ultima dona, obsequies, ***Ov.***
+##### dormītō āvī, —, āre, intens.
+to be sleepy, be drowsy, fall asleep: ad lucem graviter: Aut dormitabo aut ridebo, ***Hor.*** : iam dormitante lucernā, i. e. going out, ***Ov.*** — Fig., to nod, drowse, be dull: quandoque dormitat Homerus, ***Hor.*** : dormitans sapientia.
 ##### Dossennus ī, m
 a clown (in Plautus), ***Hor.***
 ##### dōtālis e, adj.
 of a dowry, given as a portion, dotal: praedia: regia, ***Ver.*** : agri, ***Hor.***
 ##### dōtō āvī, ātus, āre
 to endow, portion: sanguine Troiano dotabere, ***Ver.*** : funeribus, ***Ov.***
+##### dracō ōnis, m
+a serpent, a large serpent, dragon: patrimonium circumplexus, quasi draco: squamosus, ***Ver.*** : cristatus, ***Ov.*** — A constellation, ***Cic.*** (poet.).
 ##### dracōnigena ae, f
 dragonborn: urbs, i. e. Thebes, ***Ov.***
 ##### dubitābilis e, adj.

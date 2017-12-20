@@ -12,6 +12,8 @@ drunkenness, intoxication: ut inter ebrietatem et ebriositatem interest: in proe
 habitual drunkenness.
 ##### ēbrius adj.
 full, sated (with drink): quom tu eris ebrius, ***Ter.*** — Full of drink, drunk, intoxicated: semper: iacebat ebrius, was dead-drunk. — Plur. as subst: domus plena ebriorum. — Fig.: Regina fortunā dulci, intoxicated, ***Hor.*** : pueri ocelli, intoxicated with love, Ct.
+##### ēbulliō —, —, īre
+to boil over: quod (dictum) solet ebullire. — With acc: virtutes, i. e. with phrases about virtue, etc.
 ##### ebulum ī, n
 Dane-wort, dwarf-elder, ***Ver.***
 ##### eburneus adj.
@@ -46,6 +48,8 @@ set forth, proposed: iudices, a list of proposed jurors (to be reduced by the ch
 a statement, account: tam discrepans, ***Liv.*** — In law, a designation: tribuum (from which judges should be taken). — A publishing: libri, ***Tac.***
 ##### ēditum ī, n
 plur. — Heights, elevations: montium, ***Tac.*** , ***Curt.*** — Commands, orders: Thaumantidos, ***Ov.***
+##### ēdolō āvī, —, āre
+to hew out, work out, finish: quod iusseras edolavi.
 ##### ēducātiō ōnis, f
 a rearing, training, education: puerilis: educationis deliciae, ***Tac.*** : feras inter se educatio conciliet.
 ##### ēducātor ōris, m
@@ -56,6 +60,8 @@ a nurse: earum (rerum) sapientia.
 to bring up, rear, train, educate: unā a puer is educti, ***Ter.*** : apud alquem: illum primis cunis, ***Ov.*** : ars dicendi ea educat, develops: educata huius nutriment is eloquentia. — To produce, support, raise: quod pontus, quod terra educat, ***Ov.*** : herbas, ***Ov.*** : Tractus uter lepores educet, ***Hor.***
 ##### edūlis e, adj.
 edible: capreae, ***Hor.***
+##### ēdūrō —, —, āre
+to last, continue, ***Tac.***
 ##### ē  dūrus adj.
 very hard: pirus, ***Ver.*** — Fig., cruel: Os, ***Ov.***
 ##### effectiō ōnis, f
@@ -78,6 +84,8 @@ to make wild, make savage, barbarize, brutalize: terram immanitate beluarum effe
 crammed, rich: arva Asiae, poet. ap. ***Cic.***
 ##### efferus adj.
 very wild, fierce, savage: Dido, ***Ver.*** : mens Caci, ***Ver.*** : facta tyranni, ***Ver.***
+##### effervō —, —, ere
+to boil up, boil over: in agros Aetnam, ***Ver.*** : apes ruptis costis (boum), swarm out, ***Ver.***
 ##### effētus adj.
 past bearing, exhausted, worn out: aetas parentum, ***Sall.*** : corpus: vires, ***Ver.*** : saeclis senectus, ***Ver.*** : viri senectus, undiscerning of truth, ***Ver.***
 ##### efficācitās ātis, f
@@ -124,6 +132,8 @@ a casting out, banishment, exile.
 to refuse upon oath, reject by oath, abjure: id forum sibi iniquum eierare, make oath that the tribunal is prejudiced: me iniquum: bonam copiam, i. e. make oath of insolvency. — To resign, abdicate: magistratum, ***Tac.*** — To renounce, abjure: eiuratā patriā, ***Tac.***
 ##### ēiulātiō ōnis, f
 a wailing, lamenting: lugubris: non virilis, ***Hor.***
+##### ēiulō —, —, āre
+to wail, lament.
 ##### ēlabōrātus adj.
 highly wrought, finished, labored: versūs: concinnitas: non elaboratus pes, i. e. a simple strain, ***Hor.*** : alqs in verbis, ***Tac.***
 ##### ēlabōrō āvī, ātus, āre
@@ -132,6 +142,8 @@ to labor, endeavor, struggle, make an effort, take pains: in eā scientiā: in h
 very lamentable.
 ##### ēlātiō ōnis, f
 a transport, exaltation, elevation: animi: orationis.
+##### ēlātrō —, —, āre
+to bark out, utter fiercely: quod placet Acriter, ***Hor.***
 ##### ēlātus adj.
 exalted, lofty, high: animus: verba, high-sounding: animis superbis, ***Ver.*** : insula opibus, ***Nep.***
 ##### ēlēctē adv.
@@ -152,6 +164,8 @@ a first principle, simple substance, element: elemento gratulor (i. e. igni), **
 a costly trinket, earpendant, ***Iuv.***
 ##### ēlicius ī, m
 a surname of Jupiter, as god of omens, ***Liv.*** , ***Ov.***
+##### ēlīminō —, —, āre
+to put out of doors: dicta foras, to blab, ***Hor.***
 ##### ēlīmō āvī, ātus, āre
 to file off, polish, finish: catenas, ***Ov.*** — Fig.: rationes ad tenue elimatae, minutely.
 ##### ēlix icis, f
@@ -198,6 +212,10 @@ correct, faultless, perfect: mores: vir, ***Hor.*** : locutio: carmina, ***Hor.*
 to free from faults, correct, improve, amend: civitas emendari solet continentiā principum: consuetudinem: res Italas Legibus, ***Hor.*** — To correct, revise: annalīs suos. — To atone for, compensate for: vit ia emendata virtutibus, ***Nep.*** : facta priora novis, ***Ov.*** : arte fortunam, ***Hor.***
 ##### ēmeritus adj.
 that has finished work, past service: equi, ***Ov.*** : aratrum, ***Ov.*** : acus, ***Iuv.*** — Plur m. as subst, discharged veterans, ***Tac.***
+##### ēmetō —, —, ere
+to mow away, mow down: plus frumenti agris, ***Hor.***
+##### ēmigrō āvī, —, āre
+to move, depart, emigrate: ex illā domo: domo, ***Caes.*** : e vitā.
 ##### ēminentia ae, f
 a distinctive feature, conspicuous part: nulla. — The lights (in painting).
 ##### ēminus adv.
@@ -208,6 +226,8 @@ an outlet, drain.
 a scout, spy.
 ##### ēmissiō ōnis, f
 a projecting, hurling: telorum graviores emissiones habere. — A letting go, releasing: serpentis.
+##### ēmoneō —, —, ēre
+to admonish: te ut consequare, etc. (dub.).
 ##### empīricus ī, m
 a physician guided by experience, empiric.
 ##### emporium ī, n
@@ -224,6 +244,10 @@ a purchase, contract of purchase: quae ex empto aut vendito contra fidem fiunt, 
 that may be explained, intelligible: textus clipei, ***Ver.***
 ##### ēnārrō āvī, ātus, āre
 to explain fully, recount, describe, interpret: rem seni, ***Ter.*** : res tuas gestas: alcui somnium.
+##### ēnatō āvī, —, āre
+to swim away, escape by swimming: fract is enatat exspes Navibus, ***Hor.*** : pauci enatant, ***Phaed.*** — Fig.: reliqui enatant tamen, get off.
+##### ēnāvigō āvī, —, āre
+to sail away: e scrupulosis cotibus. — To traverse: unda omnibus enaviganda, ***Hor.***
 ##### ēnervātus adj.
 unnerved, weakly, effeminate, unmanly: homines: rat io et oratio: sententia.
 ##### ēnervō āvī, ātus, āre
@@ -232,6 +256,8 @@ to enervate, weaken, make effeminate, deprive of vigor: me enervavit senectus: e
 yes indeed, yes truly, assuredly, of a truth, to be sure, indeed: Enimvero Chremes cruciat adulescentulum, ***Ter.*** : enim vero ferendum hoc quidem non est: h ic enim vero tu exclamas, etc.: tum enimvero deorum ira admonuit, etc., ***Liv.*** — In replies: Pa. Incommode hercle. Ch. Immo enimvero infeliciter, ***Ter.***
 ##### ēnīxus adj.
 strenuous, earnest, zealous: studium, ***Liv.*** : virtus, ***Liv.***
+##### ēnō āvī, —, āre
+to swim out, swim away, escape by swimming: e conchā: in terram, ***Liv.*** : Daedalus enavit ad Arctos, flew, ***Ver.***
 ##### ēnōdātiō ōnis, f
 an unfolding, development, explanation: nominum.
 ##### ēnōdō āvī, ātus, āre
@@ -244,6 +270,8 @@ a two-edged sword, brand, glaive: funestus, ***Cic.*** poët.: lateri adcommodat
 plainly, without ornament: dicere.
 ##### ēnucleātus adj.
 pure, clean: suffragia, free from undue influence: genus dicendi, unadorned.
+##### ēnucleō —, —, āre
+to lay open, explain in detail: haec nunc: argumenta.
 ##### enumerātiō ōnis, f
 a counting up, enumerating: argumentorum. — In rhet., a recapitulation.
 ##### ēnumerō āvī, ātus, āre
@@ -298,6 +326,8 @@ of a horse, of horses. saeta, a horse-hair: cervix, ***Hor.*** : nervus, a bowst
 fit for riding, smooth: planities, ***Curt.***
 ##### equitō āvī, ātus, āre
 to ride, be a horseman, practise riding: in exercitu: uti mos gentis est, ***Sall.*** : Exiguis campis, range, ***Hor.*** : illa (certatio) quā tu contra Alfenum equitabas, manœuvred. — Poet., of the wind, to ride, career, ***Hor.***
+##### ērādīcō —, —, āre
+to root out, extirpate, annihilate: te, ***Ter.***
 ##### Erebus ī, m
 the god of darkness, ***Cic.*** , ***Ver.*** , ***Ov.*** — The lower world, ***Ver.*** , ***Ov.***
 ##### ēreptiō ōnis, f
@@ -331,6 +361,8 @@ a wanderer, vagabond: fugitivus erro, ***Hor.*** — A wanderer in love, Tb.
 a wandering, straying, strolling: ad quos Ceres in illo errore venisse dicitur: civium: dic Errores tuos, ***Ver.*** : finem rogant erroris, ***Ov.*** : pelagi erroribus actus, ***Ver.*** — A going astray, missing the way: iumenta errore delata per quattuor stadia, ***Curt.*** : (iaculum) detul it error in Idan, ***Ov.*** — A winding, meandering, maze, intricacy: fessae erroribus undae, ***Ov.*** : flexus, ***Ov.*** — Fig., a doubt, uncertainty, ambiguity: nominum, ***Liv.*** : errores abstulit illa meos, ***Ov.*** : viarum, ignorance, ***Liv.*** : Graiarum iubarum, confusion, ***Ver.*** — A going astray, going wrong, error, mistake, delusion: mentis: rapi in errorem: errorem tollere: cui demptus per vim mentis error, ***Hor.*** : pro errore venia, ***Tac.*** : me malus abstul it error, infatuation, ***Ver.*** : quoniam novus incid it error, ***Prop.*** : aliquis latet error, snare, ***Ver.*** — Person., delusion, ***Ov.***
 ##### ērūca ae, f
 a kind of cole-wort, ***Hor.*** , ***Iuv.***
+##### ērūctō —, āre
+to belch forth, vomit, throw up: saniem, ***Ver.*** : gurges Cocyto eructat harenam, ***Ver.*** — Fig.: sermonibus suis caedem bonorum, make drunken threats of.
 ##### ērudītē adv.
 learnedly, with erudition. — Only comp. and sup: eruditius disputare: litterae eruditissime scriptae.
 ##### ērudītiō ōnis, f
@@ -371,6 +403,10 @@ to lay utterly waste, devastate: urbīs, ***Liv.*** : culta evastata sunt bello,
 an occurrence, chance, event: causae eventorum. — That which befalls, experience, fortune: te ex nostr is eventis communibus admonendum: pendere ex alterius eventis. — An issue, consequence, result, effect: consil ia eventis ponderare: stultitiae poenam ferre gravius quam eventi.
 ##### ēventus ūs, m
 an occurrence, accident, event, fortune, fate, lot: fore eos eventūs rerum qui acciderunt: ex eventu navium, ***Caes.*** : ducis, ***Ver.*** : qui quosque eventūs exciperent, ***Caes.*** : impiorum fratrum, ***Liv.*** : eventūs illos meruisse, ***Ov.*** — The issue, consequence, result, end: eventus est alicuius exitus negot i: eventus in incerto erat, ***Sall.*** : ad eventum festinat (poëta), ***Hor.*** : cogitans incertos eventūs valetudinis: certaminum, ***Liv.*** : belli prosper, ***Liv.*** : eius diei, ***Caes.*** — Prov.: stultorum magister est, ***Liv.*** — A success, good-fortune: atque illi modo cauti prompti post eventum erant, ***Tac.***
+##### ēverberō —, —, āre
+to strike violently, beat: clipeum alis, ***Ver.*** : cineres alis, ***Ov.*** : hastis os, ***Curt.***
+##### ēvergō —, —, ere
+to send out, cause to meander forth: ut montes evergerent rivos, ***Liv.***
 ##### ēverriculum ī, n
 a broom, sweep. — Only fig.: malitiarum omnium, dragnet: huiusce modi (a play on the name of Verres).
 ##### ēversiō ōnis, f
@@ -383,10 +419,14 @@ evidently, manifestly, obviously: paenitere, ***Liv.***
 distinctness, vivid presentation.
 ##### ēvigilō āvī, ātus, āre
 to be wakeful, be vigilant: in studio. — To watch over, watch through: tua consilia quam evigilata cogitationibus, with what vigilance matured: nox evigilanda, Tb.: quos (libros) studium evigilavit, i. e. nocturnal study produced, ***Ov.*** — To have done watching: nob is evigilatum fere est.
+##### ēvirō āvī, —, āre
+to emasculate: corpus, Ct.
 ##### ēvītābilis e, adj.
 avoidable: telum, ***Ov.***
 ##### ēvītō āvī, ātus, āre
 to shun, avoid: meta Evitata rotis, ***Hor.*** : fraxinum, ***Ov.*** : causas suspicionum: tela amictu, Ct.
+##### ēvītō āvī, —, āre
+to deprive of life, kill: Priamo vi vitam evitari, Enn. ap. ***Cic.***
 ##### ēvocātor ōris, m
 a summoner, recruiter, one who drums up civium perditorum.
 ##### ēvocātus adj.
@@ -439,14 +479,20 @@ lifeless, dead: (columba) Decid it exanimis, ***Ver.*** : ut exanimem labentem e
 to put out of breath, tire fatigue, weaken, exhaust. — Only pass: ut cursu milites exanimarentur, ***Caes.*** — To breathe forth: exiliter verba. — To deprive of life, kill, wear out: taxo se, ***Caes.*** : volnere exanimari nimio gaudio, ***Liv.*** : circumventi flammā exanimantur, ***Caes.*** — Fig., to deprive of self-possession, terrify, agitate, stun, wear out, dishearten: me metu, ***Ter.*** : te metūs exanimant iudiciorum: me querelis tuis, ***Hor.*** : avidos funus Exanimat, ***Hor.*** : exanimatus Pamphilus amorem indicat, out of his wits, ***Ter.*** : cum exanimatus ipse adcurrit: Troia agmina, ***Ver.***
 ##### exanimus adj.
 lifeless, dead: iuvenis, ***Ver.*** : strata corpora, corpses, ***Liv.***
+##### exarmō —, —, āre
+to disarm: cohortes, ***Tac.***
 ##### exarō āvī, ātus, āre
 to plough out, dig up, dig out: sepulcra: puerum. — To raise, produce, obtain by tillage, harvest: tantum labore suo frumenti: decem medimna ex iugero. — Fig., to mark on tablets with the style, write, note, set down: prooemium. — To furrow, wrinkle: Cum rugis Frontem senectus exaret, ***Hor.***
 ##### exasperō āvī, ātus, āre
 to make rough, roughen: exasperato fluctibus mari, ***Liv.*** : fretum, ***Ov.*** — Fig., to irritate, provoke, exasperate: durati tot mal is exasperatique, ***Liv.*** : animos, ***Liv.***
 ##### exauctōrō āvī, ātus, āre
 to discharge from service, release from the military oath: exercitus velut exauctoratus morte ducis, ***Liv.*** : milites exauctorati, ***Liv.*** : se, i. e. to quit the service, ***Liv.*** : exauctorati tribuni, cashiered, ***Tac.***
+##### exaugeō —, —, ēre
+to increase greatly, confirm: opinionem mihi animo, ***Ter.***
 ##### exaugurātiō ōnis, f
 a desecrating, profaning: sacellorum, ***Liv.***
+##### exaugurō —, —, āre
+to desecrate, make profane: fana sacellaque, ***Liv.***
 ##### excaecō āvī, ātus, āre
 to blind, make blind: nos. — To put out of sight: Flumina excaecata, lost underground, ***Ov.***
 ##### excandēscentia ae, f
@@ -477,12 +523,16 @@ a thinking out, contriving, inventing: excogitationem non habent difficilem, may
 to think out, contrive, devise, invent: nihil contra rem p.: quid mali aut sceler is excogitari potest, etc.: ad haec: multa ad avaritiam excogitabantur, ***Caes.*** : in rebus excogitandis, ***Nep.*** : excogitatum est a quibusdam ut, etc., ***Nep.*** : excogitat acute, quid decernat.
 ##### excrēmentum ī, n
 an excretion: oris aut narium, ***Tac.***
+##### excrēscō —, —, ere
+to grow up: in hos artūs, ***Tac.*** : haedi, ***Ver.***
 ##### excruciō āvī, ātus, āre
 to torment, torture, rack, plague: servos fame, ***Caes.*** : vincul is excruciatum necare: ipsos crudeliter, ***Caes.*** — Fig., to distress, afflict, harass, trouble, vex, torment: meae me miseriae excruciant: honore Mari excruciatus, ***Sall.*** : me excruciat animi, ***Ter.*** : excrucior, am in torment, Ct.
 ##### excubiae ārum, f
 a lying out on guard, watching, keeping watch: cuius excubias et custodias mei capitis cognovi: vigilum canum Tristes, ***Hor.*** — A watch, watchmen: vigilum excubiis obsidere portas, ***Ver.*** : divōm aeternae, ***Ver.***
 ##### excubitor ōris, m
 a watchman, guard, sentinel: (castella) excubitoribus tenebantur, ***Caes.***
+##### exculcō —, —, āre
+to tread down, stamp firm, ***Caes.***
 ##### excursiō ōnis, f
 a running out, running forth. (oratoris) moderata eaque rara, i. e. a stepping forwards. — A sally, excursion, inroad, invasion, expedition: equitatūs: ex oppido, ***Caes.*** : finīs ab excursionibus tueri: oram infestam excursionibus facere, ***Liv.*** — Fig., an outset, opening: prima orationis.
 ##### excursor ōris, m
@@ -563,8 +613,14 @@ to move, prevail upon, persuade by entreaty, induce, appease: Qui mihi exorandus
 a beginning, commencement: orationis.
 ##### exortus ūs, m
 a coming forth, rising: sol is exortūs, ***Liv.*** : lucis, ***Curt.***
+##### exossō —, —, āre
+to deprive of bones, bone: (congrum), ***Ter.***
 ##### exōstra ae, f
 a movable stage (in the theatre): in exostrā, i. e. without concealment.
+##### expatrō āvī, —, āre
+(once), to finish, squander in voluptuousness, Ct.
+##### expectorō —, —, āre
+to drive from the breast: sapientiam mi, Enn. ap. ***Cic.***
 ##### expedītiō ōnis, f
 an enterprise against the enemy, expedition, campaign: hiberna, ***Liv.*** : milites in expeditionem misit, ***Caes.*** : in expeditionem proficisci, ***Sall.*** : adsuetus expeditionibus miles, ***Tac.*** : in expeditionibus, marches, ***Liv.***
 ##### experientia ae, f
@@ -619,6 +675,8 @@ an explorer, spy, scout: per exploratores certior factus, ***Caes.*** : iter hos
 to cause to flow forth, bring out, search out, examine, investigate, explore: rem totam: fugam domini: caecum iter, ***Ov.*** : locos novos, ***Ver.*** : idoneum locum castris, select, ***Caes.*** : de voluntate alcius, ***Nep.*** : ea, quae, etc.: ne quid Corruat, ***Ov.*** : Postquam exploratum est labare, etc., ***Ov.*** — To spy out, reconnoitre, examine: quo transire possit, ***Caes.*** : itinera egressūsque eius, ***Sall.*** : Africam: ante explorato et subsidiis positis, ***Liv.*** : explorato profectos esse amicos, ***Tac.*** — Supin. acc.: exploratum praemissi, ***Sall.*** : Iugurtha quid agitaret, exploratum misit, ***Sall.*** — To try, prove, investigate, test, put to the proof: explorat robora fumus, ***Ver.*** : regis animum, sound, ***Liv.*** : cibos, taste, ***Tac.*** : insidias, try, ***Ver.***
 ##### expolītiō ōnis, f
 a smoothing off, polishing, finishing, embellishing: urbana, i. e. of a house in the city. — Plur.: utriusque nostrūm, i. e. of both our houses. — Fig.: inest in numero expolitio.
+##### exporrigō —, —, ere
+to spread out. — Only imper: exporge frontem (i. e. exporrige), smooth, ***Ter.***
 ##### exportātiō ōnis, f
 a carrying out, exportation: rerum: h is exportationibus HS LX perdidisse.
 ##### exportō āvī, ātus, āre
@@ -653,6 +711,8 @@ a driver out, expeller: bonorum: tyranni, ***Nep.***
 she that expels: philosophia vitiorum.
 ##### expūrgō āvī, ātus, āre
 to purge, cleanse, purify: me, i. e. cure of poetic ecstasy, ***Hor.*** — Fig.: expurgandus est sermo. — To clear from censure, exculpate, vindicate, justify, excuse: me, ***Ter.*** : sese parum, fail to vindicate, ***Sall.*** : expurgaturum (obiecta) adseverans, ***Tac.*** — Supin. abl.: non facilest expurgatu, ***Ter.***
+##### exsaeviō —, —, īre
+to cease raging: dum reliquum tempestat is exsaeviret, ***Liv.***
 ##### exsatiō āvī, ātus, āre
 to satisfy, glut, sate: exsatiati cibo, ***Liv.*** : clade exsatiata domus, ***Ov.*** : patruum sanguine domūs, ***Tac.***
 ##### exsaturābilis e, adj.
@@ -661,6 +721,8 @@ that may be sated: nec exsaturabile pectus, insatiate, ***Ver.***
 an accomplishing: negotii, ***Tac.*** : Syriae, i. e. absolute power in, ***Tac.***
 ##### exsequiae or exequiae ārum, f
 a funeral procession, funeral obsequies: convenire ad exsequias cohonestandas: Ante urbem exsequiae Significant luctum, ***Ov.*** : fertur in exsequiis matrona, ***Ov.*** : exsequiis rite solutis, ***Ver.*** : exsequias ire, to attend a funeral: iusta exsequiarum.
+##### exsībilō —, —, āre
+to hiss out, hiss from the stage: histr io exsibilatur.
 ##### exsiccātus adj.
 dried up, dry, jejune: orationis genus.
 ##### exsiccō āvī, ātus, āre
@@ -683,6 +745,8 @@ to trickle away, melt: lacrumis si extillaveris, ***Ter.***
 extinction, annihilation.
 ##### exstinctor ōris, m
 an extinguisher: incendi. — An annihilator, suppressor: patriae: latrocini.
+##### exstō or extō —, —, āre
+to stand out, stand forth, project, protrude, extend above, tower: (milites) cum capite solo ex aquā exstarent, ***Caes.*** : super aequora celso collo, ***Ov.*** : summo pectore, ***Caes.*** : ferrum de pectore, ***Ov.*** — Fig., to be prominent, stand forth, be conspicuous: quo magis id, quod erit illuminatum, exstare videatur. — To appear, be extant, exist, be, be found: auctor doctrinae eius non exstat, ***Liv.*** : Sarmenti domina exstat, still lives, ***Hor.*** : locus exstat, may still be seen, ***Ov.*** : exstant epistulae Philippi: video neminem, cuius non exstet in me suum meritum: quem vero exstet eloquentem fuisse, it is known: apparet atque exstat, utrum... an, etc.
 ##### exstrūctiō or extrūctiō ōnis, f
 a building up, erecting, structure: ea, quae, etc. — Plur: tectorum.
 ##### exstrūctum ī, n
@@ -691,8 +755,12 @@ a lofty seat: exstructoque resedit, ***Ver.***
 to ooze, exude: exsudat inutilis umor, ***Ver.*** — To perform with sweating, toil through, undergo: causas, ***Hor.*** : certamen, ***Liv.***
 ##### exsultim adv.
 leaping about, friskingly: lud it exsultim, ***Hor.***
+##### exsultō or exultō āvī, —, āre, freq.
+to spring vigorously, leap up, jump up: equi ferocitate exsultantes: taurus in herbā, ***Ov.*** : in limine Pyrrhus, ***Ver.*** : exsultant aestu latices, ***Ver.*** : exsultantes undae, dancing, ***Ov.*** — Fig., to move freely, expatiate: campus, in quo exsultare possit oratio: in reliquis (orationibus). — To exult, rejoice exceedingly, run riot, revel, vaunt, boast: exsultantem te reprimere: insolentiā, indulge: animis, ***Ver.*** : in suam famam gestis, ***Tac.*** : quod, etc.: in quo (facto) exsultat oratio mea: copiae per catervas exsultabant, ***Tac.***
 ##### exsuperō or exuperō āvī, ātus, āre
 to mount up, tower: exsuperant flammae, ***Ver.*** — To surmount, pass over: iugum, ***Ver.*** : solum Helori, ***Ver.*** — Fig., to be superior, prevail, be conspicuous, excel: si non poterunt exsuperare, cadant, ***Ov.*** : Virtute, ***Ver.*** : violentia Turni exsuperat magis, ***Ver.*** — To surpass, exceed, excel: exuperat eius stultitia haec omnia, ***Ter.*** : Tarquinios superbiā, ***Liv.*** : morum nobilitate genus, ***Ov.*** : (summa) operum fundamenta exsuperatura, i. e. exceed the cost of, ***Liv.*** : cuncta exsuperans patrimonia census, ***Iuv.*** — To be too much for, overpower, overcome: summum Iovem, ***Cic.*** poët.: sensum omnem talis damni, ***Liv.*** : virīs meas, ***Ov.*** : moras (sc. scalarum), obstacles, ***Ver.***
+##### exsurdō —, —, āre
+to deafen, dull, blunt: palatum, ***Hor.***
 ##### extemplō adv.
 dim. of tempus immediately, straightway, forthwith, without delay: quid fingat extemplo non habet: haec extemplo in invidiam, verterunt, ***Liv.*** : Dix it et extemplo sensit, etc., at once, ***Ver.*** : prudentiam dictator is extemplo timuit, from the first, ***Liv.*** : ut impulit Extemplo, etc., ***Ver.*** : Postquam adven i, extemplo, etc., ***Ter.***
 ##### extemporālis e, adj.
@@ -707,8 +775,12 @@ on the outer side, without: sitae (urbes), ***Ov.***
 to drive out, drive away, expel, exile, banish: Marcellum ex urbe: oppugnatores rei p. de civitate. — Fig., to drive out, put away, put aside, remove: auctoritatem vestram e civitate: quaestiones physicorum.
 ##### externus adj.
 outward, external: visio <⋆> vir rebus externis laudandus, foreign relations. — As subst m.: odium in externos, towards strangers. — As subst n.: externi ne quid, ***Hor.*** : illa externa, outward goods. — Of another country, foreign, strange: opibus externis auxilio confidere, ***Caes.*** : religio: gens, ***Ver.*** : amor, for a foreigner, ***Ov.*** : timor, of a foreign enemy, ***Liv.*** — As subst m.: Arcebat externos finibus, ***Ov.*** : cum externo se applicare, ***Liv.*** — As subst n.: externa libentius recordor, foreign examples.
+##### exterō —, —, ere
+to tread down, crush: nives, ***Ov.***
 ##### extispex icis, m
 an observer of entrails, diviner, soothsayer.
+##### extollō —, —, ere
+to lift out, lift up, raise, elevate: iacentem: caput: pugionem, ***Tac.*** : in gremium liberorum ex te genus, Enn. ap. ***Cic.*** : gurgite palmas, ***Prop.*** — Fig., to raise, exalt: novos, ***Sall.*** : opibus et honoribus extolli, ***Tac.*** — To raise, excite, elevate: animos: irā promptum animum, ***Tac.*** : hominem oratione, ***Sall.*** : se, to grow proud. — To extol, laud, praise: fortunam: Planci meritum verbis: Hannibalis fortunam, ***Liv.*** — To adorn, beautify: hortos, ***Tac.*** : piscinas, ***Tac.***
 ##### extortor ōris, m
 an extorter: Bonorum, ***Ter.***
 ##### extortus adj.
@@ -733,8 +805,12 @@ from without, from abroad: obiectā terribili re: spiritum adducere: imminens be
 swollen: (pars animi) potu (B. & K.).
 ##### exturbō āvī, ātus, āre
 to drive out, thrust out, drive away, thrust away: homines e possessionibus: alqm focis patriis: provinciā exturbatus: caede animas, ***Ov.*** : spem pacis, ***Liv.*** — To drive away (a wife), divorce: Octaviam, ***Tac.***
+##### exūberō —, —, āre
+to grow luxuriantly, be abundant, abound, overflow: luxuriā foliorum exuberat umbra, ***Ver.*** : alte spumis amnis, ***Ver.*** : pomis annus, ***Ver.*** : ex eruditione eloquentia, ***Tac.*** : animus fenore, revels, ***Tac.***
 ##### exulcerō āvī, ātus, āre
 to make worse, exasperate, embitter: quae sanare nequeunt: exulceratus animus.
+##### exundō āvī, —, āre
+to flow out, overflow: tura in litora exundant, are washed up, ***Tac.*** — Fig.: exundat eloquentia, ***Tac.***
 ##### exūstiō ōnis, f
 a burning up, conflagration: exustiones terrarum.
 ##### exuviae ārum, f

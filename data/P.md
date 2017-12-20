@@ -108,6 +108,8 @@ full of palm-trees, ***Ver.***
 an oar-blade, oar, ***Ver.***
 ##### palpebrae ārum, f
 the eyelids.
+##### palpō —, —, āre
+to wheedle, coax: alquem munere, ***Iuv.***
 ##### palūdāmentum ī, n
 a military cloak, soldier's cloak: sponsi, ***Liv.*** : paludamenta (consulibus) detracta (as the uniform of generals-in-chief), ***Liv.***
 ##### palūdātus adj.
@@ -268,6 +270,8 @@ of fatherly dignity, of senatorial rank, of the patricians, patrician, noble: ge
 an inheritance from a father, paternal estate, inheritance, patrimony: amisso patrimonio, ***Sall.*** : lauta et copiosa: luculentum: patrimon ia effundere: summa patrimoni, ***Hor.*** — Fig., an inheritance, patrimony: populi R.: Mucius quasi patrimonii propugnator sui.
 ##### patrīmus adj.
 that has a father living: puer: ingenui, ***Liv.***
+##### patrissō —, —, āre
+to take after a father, act the father, ***Ter.***
 ##### patrītus adj.
 of a father: philosophia.
 ##### patrius adj.
@@ -304,6 +308,8 @@ abl n. of paululus by a little, a little, somewhat: si nequeas paululo, at quant
 a little, a very little, somewhat: concede istuc paululum, ***Ter.*** : mente paululum inminutā, ***Sall.***
 ##### paulum (not paull-), adv.
 a little, somewhat: concede paulum istuc, a little way, ***Ter.*** : paulum a fugā aberant, ***Sall.*** : supra eum locum, ***Caes.*** : differre: paulum aspectu conterritus haesit, ***Ver.*** : paulum praelabitur ante, a little before.
+##### pauperō —, —, āre
+to impoverish, rob, deprive: te cassā nuce, ***Hor.***
 ##### paupertās ātis, f
 poverty, small means, moderate circumstances: paupertas probro haberi, ***Sall.*** : patientia paupertatīs. — Need, want, indigence: Paupertas mihi onus visumst, ***Ter.*** : infelix, ***Iuv.***
 ##### pausia ae, f
@@ -318,6 +324,8 @@ trembling, quaking, fearful, timid, timorous, shy: matres, ***Ver.*** : lepus, *
 furnished with a pavement, paved: porticus.
 ##### pavīmentum ī, n
 a level surface beaten firm, hard floor, pavement: facere: mero Tingere pavimentum, ***Hor.*** : palma ex pavimento extitisse, ***Caes.***
+##### paviō —, —, īre
+to beat, strike: terram.
 ##### peccātum ī, n
 a fault, error, mistake, transgression, sin: pro huius peccat is ego supplicium sufferam? ***Ter.*** : si peccato locus esset, ***Sall.*** : peccatum est patriam prodere: stultitiae: paucis verbis tria magna peccata, blunders: peccatis poenas aequas inrogare, ***Hor.***
 ##### peccātus ūs, m
@@ -410,6 +418,8 @@ furnished with wings, winged: serpentes, ***Ov.***
 hanging, pendent, pensile: prumae, i. e. cushions of down, ***Iuv.*** : uva, hung up to <⋆>, ***Hor.*** : horti, i. e. on arches, ***Curt.***
 ##### pēnsiō ōnis, f
 a paying, payment, instalment: tribus pensionibus solvi, ***Liv.*** : tua coniunx nimium di <⋆> debet populo R. tertiam pensionem (i. e. the death of her third husband). — Rent, rental, ***Iuv.***
+##### pēnsitō āvī, —, āre, freq.
+to weigh out, pay: vectigalia nobis: praedia, quae pensitant, i. e. are taxable. — Fig., to weigh, ponder, consider: (consilia) pensitanda, ***Liv.*** : saepe pensitato, an, etc., after often considering, ***Tac.***
 ##### pēnsum ī, n
 wool weighed out to a slave for a day's spinning, allotment of wool: nocturna carpentes pensa puellae, ***Ver.*** : famulasque ad lumina longo Exercet penso, ***Ver.*** : pensa manu ducunt, ***Iuv.*** — Fig., a charge, duty, office: meae diligentiae: nominis familiaeque, ***Liv.*** — Weight, consideration, scruple, importance (only gen. of price): nihil pensi neque moderati habere, i. e. practise no reverence or self-control, ***Sall.*** : neque id quibus modis adsequeretur, quicquam pensi habebat, i. e. had no scruple, ***Sall.*** : sed illis nec quid dicerent, quicquam umquam pensi fuisse, they never cared at all, ***Liv.*** : quibus si quicquam pensi umquam fuisset, non, etc., had they ever had regard for anything, ***Sall.***
 ##### peplum ī, n
@@ -506,8 +516,12 @@ very suitably, by great good-fortune: accidit: factum est.
 very suitable, highly opportune: ipsis castris, ***Liv.***
 ##### percontumāx ācis, adj.
 very obstinate, utterly contumacious, ***Ter.***
+##### percrepō —, —, āre
+to resound, ring: locum percrepare vocibus.
 ##### percupidus adj.
 very fond: tui.
+##### percupiō —, —, ere
+to desire earnestly: Immo percupio, it suits me exactly, ***Ter.***
 ##### percūriōsus adj.
 very curious, highly inquisitive: servolus.
 ##### percursātiō ōnis, f
@@ -546,6 +560,8 @@ a seducer, pimp, pander.
 open hostility, hostility to one's country, high-treason: perduellionis reus: perduellionis se iudicare Cn. Fulvio dixit, declared Fulvius guilty of high-treason, ***Liv.*** : tibi perduellionem iudico, ***Liv.***
 ##### perduellis is, m
 a public enemy, country's foe: perduelles superati, ***Liv.*** : pirata non est ex perduellium numero, sed communis hostis omnium.
+##### perdūrō —, —, āre
+to last, endure: apud vos, ***Ter.*** : longum in aevum, ***Ov.***
 ##### peregre adv.
 abroad, away from home, out of the country: depugnare: dum peregre est animus sine corpore velox, ***Hor.*** : habitare, ***Liv.*** — From abroad, from foreign parts: rediens, ***Ter.*** : in regnum Romam accitos, ***Liv.*** — Abroad, to foreign parts: rusve peregreve exire, ***Hor.***
 ##### peregrīnābundus adj.
@@ -570,6 +586,10 @@ on the day after to-morrow: scies cras, summum perendie.
 after to-morrow: dies, ***Caes.*** , ***Cic.***
 ##### perennitās ātis, f
 continuance, perpetuity: fontium perennitates.
+##### perennō —, —, āre
+to last, endure, be permanent: arte perennat amor, ***Ov.***
+##### perequitō āvī, —, āre
+to ride through, ride hither and thither, ride about: inter duas acies perequitans, ***Caes.*** : eā viā longe, ***Liv.*** : aciem, ***Liv.***
 ##### pererrō āvī, ātus, āre
 to wander through, roam over: forum, ***Hor.*** : locum, ***Ver.*** : arva pererrantur Peligna, ***Ov.*** : (alqm) Luminibus, surveys, ***Ver.***
 ##### perērudītus adj.
@@ -610,10 +630,16 @@ promise-breaking, faithless, dishonest, treacherous, perfidious: vanum et perfid
 that can be blown through, impalpable: dii.
 ##### perflāgitiōsus adj.
 very shameful.
+##### perflō —, —, āre
+to blow through, blow over: perflant altissima venti, ***Ov.*** : venti terras turbine perflant, ***Ver.*** : cum perflantur ipsi (colles): iam perflare ad ipsos auram maris, reached, ***Curt.***
+##### perfluō —, —, ere
+to leak: hac atque illac perfluo, i. e. cannot keep the secret, ***Ter.*** — To overflow, abound: pomis, Tb.
 ##### perforō āvī, ātus, āre
 to bore through, pierce through, perforate: navem, in quā ipse naviget, scuttle: uno duo pectora ictu, ***Ov.*** : Stabianum, cut through to obtain a view: duo lumina perforata, made by boring.
 ##### perfortiter adv.
 very bravely, ***Ter.***
+##### perfremō —, —, ere
+to roar about, snort along: perfremunt delphini, Att. ap. ***Cic.***
 ##### perfrequēns entis, adj.
 very crowded: emporium, ***Liv.***
 ##### perfrīgidus adj.
@@ -624,6 +650,10 @@ a deserter: initio proditor deinde perfuga: pro perfugā ad eos venit, ***Caes.*
 a resort for safety, shelter, asylum, refuge: quo perfugio superiore anno fuerant usi, ***Caes.*** : salutis: in altero (Caesare) miseris perfugium erat, ***Sall.*** : commune: annonae, i. e. Campania.
 ##### perfūnctiō ōnis, f
 a performing, discharging: honorum: laborum, endurance.
+##### perfurō —, —, ere
+to rage furiously, rage on: incensus et ipse Perfurit, ***Ver.***
+##### pergaudeō —, —, ēre
+to rejoice greatly: Trebonium meum a te amari.
 ##### pergrātus adj.
 very agreeable, extremely pleasant: litterae: id militibus fuit pergratum, ut, etc., ***Caes.*** : pergratum mihi feceris, s i, etc., you would do me a great favor. — In tmesi: per mihi, per, inquam, gratum feceris, si, etc.
 ##### pergraviter adv.
@@ -634,6 +664,8 @@ a school, lecture-room: omnis, the whole school, ***Iuv.*** — A brothel, ***Pr
 very respectfully.
 ##### perhonōrificus adj.
 very honorable: consalutatio: discessus. — Showing much honor, very respectful: collega in me.
+##### perhorreō —, —, ēre
+to shudder at: casūs nostros, ***Ov.***
 ##### perhorridus adj.
 very dreadful: silvae, ***Liv.***
 ##### perhūmāniter adv.
@@ -712,10 +744,14 @@ very mournful: funus.
 to go over, wander all through, traverse completely: hostium agros, ***Liv.*** — Fig., to view all over, examine, survey: materia perlustranda animo: omnia oculis, ***Liv.***
 ##### permāgnus adj.
 very great, vast, immense: hereditas: numerus, ***Caes.*** : tua res permagna agitur, interests: negotia, ***Hor.*** — As subst n., a very great thing: permagnum existimans (with acc. and infin.): permagni interest, it is of vast moment: illud permagni referre arbitror, ***Ter.*** : decumas permagno vendere, at a very high price.
+##### permānō āvī, —, āre.
+to flow to, penetrate, reach: sucus permanat ad iecur: (venenum) in omnis partīs corporis. — Fig., to penetrate, reach, extend to: ne ad patrem hoc permanet, reach the ears of, ***Ter.*** : macula permanat ad animum: uno auctore ad plures, ***Caes.***
 ##### permānsiō ōnis, f
 a remaining, abiding: quodvis supplicium levius est hac permansione, than abiding here. — A persistence: in unā sententiā: in ratione.
 ##### permarīnus adj.
 escorting through the sea: Lares, guardian gods of voyagers, ***Liv.***
+##### permeō —, —, āre
+to go over, pass through, cross, traverse: maria ac terras, ***Ov.*** : longius in hostes, ***Tac.*** — Fig., to penetrate, pervade: (intellegentia) per omnia.
 ##### permīrus adj.
 very wonderful, amazing: illud vero mihi permirum accidit, fuisse, etc. — In tmesi: per mihi mirum visum est.
 ##### permissiō ōnis, f
@@ -730,6 +766,8 @@ very modest, extremely shy: homo: verba sensu permodesto, moderate, ***Tac.***
 with much trouble: alqd fero, am much vexed.
 ##### permolestus adj.
 very troublesome: scrupuli.
+##### permolō —, —, ere
+to grind thoroughly: uxores, ***Hor.***
 ##### permōtiō ōnis, f
 a moving, exciting, excitement: mentis: permotionis causā, to stir the feelings. — An emotion: permotiones animis datae.
 ##### permultō adv.
@@ -746,6 +784,8 @@ to change throughout, alter completely: omnem rei p. statum. — To interchange,
 a haunch, ham with the leg, gammon: fumosa cum pede, ***Hor.***
 ##### pernecessārius adj.
 very necessary, pressing: tempus. — Very closely connected, very intimate: amicus: homo mihi. — As subst m.: Leptae nostri: paternus.
+##### pernegō āvī, —, āre
+to deny stoutly: alqd, ***Ter.*** : saepe appellati, pernegaverunt.
 ##### perniciābilis e, adj.
 destructive, ruinous: nix oculis, ***Curt.*** : morbi, ***Liv.***
 ##### pernīcitās ātis, f
@@ -802,8 +842,12 @@ to carry through, complete, effect, achieve, execute, perform, accomplish, commi
 uninterrupted duration, continuous succession, continuity, perpetuity: philosophi spectandi sunt ex perpetuitate atque constantiā, i. e. general tenor and system: ad perpetuitatem, forever: in vitae perpetuitate, throughout life: perpetuitas verborum, an unbroken succession: dicendi.
 ##### perpetuō adv.
 constantly, uninterruptedly, forever: hanc habere, ***Ter.*** : in vallo permanere, ***Caes.*** : loquens: virens buxum, ***Ov.***
+##### perpetuō —, —, āre
+to cause to continue, perpetuate: verba, talk without pausing: iudicum potestas perpetuanda.
 ##### perpetuus adj.
 continuous, unbroken, uninterrupted, constant, entire, whole, perpetual: agmen: vigiliaeque stationesque, a continuous line of, etc., ***Caes.*** : Perpetuis soliti patres considere mensis, ***Ver.*** : innocentia perpetuā vitā perspecta, in the whole tenor of his life, ***Caes.*** : oratio (opp. altercatio): quaestiones, a permanent court for criminal trials: historia, a general history: diem perpetuum in laetitiā degere, this whole day, ***Ter.*** : lex: stellarum cursūs: formido, ***Ver.*** : rota, perpetuum quā circumvertitur axem (i. e. perpetuo), ***Ov.*** — As subst n.: in perpetuum (sc. tempus), for all time, forever. — Universal, general: perpetui iuris quaestio: quaestio, a general principle.
+##### perplaceō —, —, ēre
+to please greatly: ea (lex) mihi perplacet.
 ##### perplexē adv.
 confusedly, ambiguously: mecum loqui, ***Ter.*** : indicare, ***Liv.***
 ##### perplexus adj.
@@ -812,6 +856,10 @@ with comp, interwoven, entangled, involved, intricate: iter silvae, ***Ver.*** :
 thoroughly polished, refined: explicatio: omnibus iis artibus: vita humanitate.
 ##### perpōtātiō ōnis, f
 a drinking-bout: intemperantissimae perpotationes.
+##### perpōtō āvī, —, āre
+to keep drinking, tipple, carouse: totos dies: ad vesperum: perpotandi dulcedo, ***Curt.***
+##### perprimō —, —, ere
+to press hard, press perpetually: cubilia, lie upon, ***Hor.***
 ##### perpropinquus adj.
 very near: commutatio rerum, Att. ap. ***Cic.*** — As subst m., a very near relation: Auri.
 ##### perpūgnāx ācis, adj.
@@ -828,12 +876,18 @@ very seldom, hardly ever: accidit: haec alea fallit, ***Hor.***
 extremely rare, ***Liv.***
 ##### perreconditus adj.
 most abstruse: ratio consuetudinis.
+##### perrēpō —, —, ere
+to crawl over: tellurem genibus, Tb.
+##### perrēptō āvī, —, āre
+freq, to creep over, crawl through: usque omne oppidum, ***Ter.***
 ##### perrīdiculē adv.
 very laughably, most absurdly: homines augurabantur.
 ##### perrīdiculus adj.
 very laughable, highly absurd: doctrina.
 ##### perrogātiō ōnis, f
 the enactment of a law: legis Maniliae.
+##### perrogō —, —, āre
+to ask in succession, complete the roll-call: perrogari sententiae non potuere, the voting could not be finished, ***Liv.***
 ##### Persae ārum, m
 the Persians, ***Sall.*** , ***Cic.*** , ***Nep.*** , ***Hor.*** — The Parthians, ***Hor.***
 ##### persaepe adv.
@@ -852,6 +906,8 @@ very sacredly, most solemnly: deierare, ***Ter.***
 very wise: homo.
 ##### perscienter adv.
 very discreetly.
+##### perscindō —, —, ere
+to rend asunder, tear in pieces: omnia perscindente vento, ***Liv.***
 ##### perscītus adj.
 very clever, very fine. — In tmesi: Per ecastor scitus puer, ***Ter.*** : per mihi scitum videtur.
 ##### perscrīptiō ōnis, f
@@ -870,8 +926,12 @@ to abide, adhere strictly, continue steadfastly, persist, persevere: (navis) per
 very strict: imperium, ***Tac.***
 ##### Persicus adj.
 Persian, of Persia: regna, ***Iuv.*** : apparatūs, i. e. luxurious, ***Hor.*** — Plur n. as subst, Persian history.
+##### persīgnō —, —, āre
+to register accurately, record: triumviri donis persignandis, ***Liv.***
 ##### persimilis e, adj.
 very like, precisely similar: statua istius: isti tabulae liber, ***Hor.***
+##### persistō —, —, ere
+to abide, persist: in impudentiā, ***Liv.*** — (For perf. system see persto).
 ##### persōna ae, f
 a mask, false face (usu. of clay or bark, covering the head; worn by actors): tragica, ***Phaed.*** : pallens, ***Iuv.*** : mulier videtur, Non persona loqui, i. e. no man disguised, ***Iuv.*** — An assumed character, part: parasiti, ***Ter.*** : potestatis, affectation, ***Tac.*** — A part, character: aliena: personam in re p. tueri principis: persona, quam mihi tempus et res p. imposuit: petitoris personam capere: gravissimam personam sustinere: in Maeandri personā esse expressam speciem civitatis. — A person, personage, character: ut mea persona semper aliquid videretur habere populare: induxi senem disputantem, quia nulla videbatur aptior persona: Laeli: altera, sed secunda, second chief personage, ***Nep.*** : ut rerum, ut personarum dignitates ferunt: foedior omni Crimine persona est, the character you have to describe, ***Iuv.***
 ##### persōnātus adj.
@@ -886,6 +946,10 @@ evidently, clearly, manifestly: res perspicue expedire: falsa.
 clearness, perspicuity.
 ##### perspicuus adj.
 transparent, clear: aquae, ***Ov.*** — Fig., evident, clear, manifest, perspicuous: mors: consilia: hoc inter omnīs.
+##### perstimulō —, —, āre
+to stimulate violently: spiritūs, ***Tac.***
+##### perstrepō —, ere
+to make much noise, ***Ter.***
 ##### perstudiōsē adv.
 very eagerly, with great zeal: eum audire.
 ##### perstudiōsus adj.
@@ -896,6 +960,12 @@ a convincing, conviction: dicere apposite ad persuasionem: super <⋆> stitionum
 fixed, settled. — Only sup: quod mihi persuasissimum est, of which I am fully convinced.
 ##### persubtīlis e, adj.
 very ingenious: oratio.
+##### persultō āvī, —, āre
+to leap about, prance, range through: in agro, ***Liv.*** : silvas, scour, ***Tac.***
+##### perterebrō āvī, —, āre
+to bore through.
+##### perterrēfaciō —, —, ere
+to frighten thoroughly: Davom, ***Ter.***
 ##### perterricrepus adj.
 rattling terribly, Poët. ap. ***Cic.***
 ##### pertica ae, f
@@ -904,6 +974,8 @@ a pole, long staff: longa, ***Ov.*** — A signal pole, ***Curt.*** — A measur
 perseverance, persistence, stubbornness, obstinacy, pertinacity: perseverantiae finitima: hominum nimia, ***Caes.*** : pertinaciae finem facere, ***Caes.*** : iusta, ***Liv.*** — Person., ***Cic.***
 ##### pertināciter adv.
 obstinately, stubbornly: pugnare, ***Liv.***
+##### pertingō —, —, ere
+to reach, extend: collis in inmensum pertingens, ***Sall.***
 ##### pertrāctātiō ōnis, f
 a handling, busying with: poëtarum: rerum p.
 ##### pertrīstis e, adj.
@@ -1132,6 +1204,8 @@ feathered, plumed, winged (often confounded with pennatus): Iovis satelles: Cupi
 a crestsnatcher, gladiator (who strove to snatch the adversary's crest as a trophy), ***Iuv.***
 ##### piō āvī, ātus, āre
 to approach with sacred rites, appease, propitiate: Silvanum lacte, ***Hor.*** : ossa, ***Ver.*** : Ianus piandus erit, ***Ov.*** — To purify with sacred rites: si quid tibi piandum fuisset. — To make good, atone for, expiate: mors morte pianda est, ***Ov.*** : fulmen, avert the omen of lightning, ***Ov.*** : prodigia, ***Tac.*** : culpam morte, atone for, ***Ver.*** : nefas morte piandum, i. e. to be punished, ***Iuv.***
+##### pīpilō —, —, āre
+to peep, chirp, Ct.
 ##### Pīraeus adj.
 of the Piraeus: litora, ***Ov.***
 ##### pīrāta ae, m
@@ -1222,6 +1296,8 @@ one who courts the crowd, a demagogue, democrat, ***Cic.*** , ***Liv.***
 a stick for playing on a stringed instrument, quill, plectrum: plectri similem linguam dicere: plectra movere, ***Ov.*** — A lyre, lute: sonans plenius aureo plectro, ***Hor.*** : leviore plectro, i. e. in lighter verse, ***Hor.*** : gravius, ***Ov.***
 ##### plērumque adv.
 acc n. of plerusque for the most part, mostly, commonly, generally: eam opperiri, ***Ter.*** : ita plerumque evenit, ut, etc., ***Sall.*** : plerumque casu, saepe natura: hi plerumque gradūs, ***Iuv.*** — Often, frequently: ipsā plerumque famā bella profligant, ***Tac.***
+##### plicō —, —, āre
+to fold, wind, coil se in sua membra (anguis), coiling up, ***Ver.***
 ##### plōrātus ūs, m
 a wailing, weeping, lamenting: amicorum, ***Curt.*** : virginalis, ***Cic.*** poët.: mulierum ploratibus sonare, ***Liv.***
 ##### plōrō āvī, ātus, āre
@@ -1288,6 +1364,8 @@ the State, Constitution (a work of Plato).
 of civil polity, relating to the State, political: philosophi.
 ##### pollēns entis, adj.
 strong, able, powerful, thriving: animus abunde, ***Sall.*** : herbae, ***Ov.*** : viribus, ***Sall.*** : equo, ***Ov.***
+##### polleō —, —, ēre
+to be strong, be powerful, flourish, thrive, be able, prevail, avail: quanto magis potes pollesque, ***Liv.*** (old form.): in re p. plurimum, ***Caes.*** : terrā marique, ***Liv.*** : tantum series pollet, ***Hor.*** : quantum in hac urbe polleat servire, etc.
 ##### pollex icis, m
 the thumb, ***Cic.*** , ***Ver.*** , ***Hor.*** , ***Ov.*** : clavi digiti pollicis crassitudine, ***Caes.*** : utroque laudare pollice ludum (approbation being expressed by closing the thumb upon the fingers), ***Hor.*** : verso pollice volgus Quem iubet occidunt (disapproval being expressed by extending the thumb), ***Iuv.***
 ##### pollicitātiō ōnis, f
@@ -1342,6 +1420,8 @@ a sacrificial cake, ***Iuv.***
 the rabble, crowd, ***Hor.***
 ##### popīna ae, f
 a cook-shop, eatinghouse, low tavern, ***Cic.*** , ***Hor.*** , ***Iuv.*** — Food sold at a cookshop: si epulae potius quam popinae nominandae sunt: taeterrimam popinam inhalare.
+##### popīnō ōnis, m
+a frequenter of eating-houses, gormandizer, ***Hor.***
 ##### poples itis, m
 the ham, hollow of the knee, hough: succisis poplitibus, ***Liv.*** : succiso poplite, ***Ver.*** — A knee: duplicato poplite, with bended knee, ***Ver.*** : contento poplite, with a stiff knee, ***Hor.*** : poplitibus semet excipit, sank to his knees, ***Curt.***
 ##### populābilis e, adj.
@@ -1442,6 +1522,8 @@ a return behind the threshold, complete return home, restoration of rank and pri
 afterwards, after a while, a little later: Me esse... post modo rescisces, ***Ter.*** : inmeritis nocitura Postmodo te natis fraus, ***Hor.*** : publicum in praesentiā dedecus, postmodo periculum, ***Liv.***
 ##### postmodum adv.
 after a while, a little later: flecti precibus, ***Liv.***
+##### postputō āvī, —, āre
+to regard as secondary, disregard: omnīs res prae parente, ***Ter.***
 ##### postrēmō adv.
 abl. of postremus; sc. tempore at last, finally, last of all: inprimis... postremo, ***Caes.*** : agri, regna denique, postremo etiam vectigalia: primo... deinde... postremo, ***Sall.***
 ##### postrēmum adv.
@@ -1482,10 +1564,14 @@ a furnisher: Minister et praebitor, an official purveyor.
 very warm, hot: potio, ***Tac.***
 ##### praecānus adj.
 prematurely gray, ***Hor.***
+##### praecellō —, —, ere
+to surpass, excel: alqm fecunditate, ***Tac.*** : per nobilitatem, ***Tac.*** : genti, to rule over, ***Tac.***
 ##### praecelsus adj.
 lofty, towering: rupes, ***Ver.***
 ##### praecentiō ōnis, f
 a musical prelude.
+##### praecentō —, —, āre
+to utter incantations before: huic.
 ##### praeceps adv.
 headlong: vim mortalium praeceps trahit, ***Tac.***
 ##### praeceptiō ōnis, f
@@ -1496,6 +1582,8 @@ a teacher, instructor, preceptor: vivendi atque dicendi: fortitudinis: philosoph
 a preceptress: quā (sapientiā) praeceptrice.
 ##### praeceptum ī, n
 a maxim, rule, precept, order, direction, command, injunction: praeceptorum plenus istorum, ***Ter.*** : praecepto ab iis observato, ***Caes.*** : sine praecepto ullius suā sponte struebatur acies, ***Liv.*** : transvectae praecepto ducis alae, ***Tac.*** : hoc praeceptum offici diligenter tenendum est: praecepta philosophiae: deūm praecepta secuti, commands, ***Ver.***
+##### praecerpō —, —, ere
+to pluck beforehand, gather prematurely: messīs, ***Ov.*** — Fig., to take away, lessen, diminish: fructum offici tui.
 ##### praecipitō āvī, ātus, āre
 to throw headlong, cast down, hurl down, precipitate: p <⋆>ae in mare praecipitatae, ***Nep.*** : currum scopulis, hurl against, ***Ov.*** : se ex altissimo muro: sese in fossas, ***Caes.*** : se (sc. de muro), ***Liv.*** : se in Tiberim, ***Liv.*** : se in medios ignīs, ***Curt.*** : etiam pulcherrima, throw overboard, ***Iuv.*** : cum alii super vallum praecipitarentur, threw themselves down, ***Sall.*** : lux Praecipitatur aquis, sets in the ocean, ***Ov.*** : hac te praecipitato, run this way for life! ***Ter.*** : iis (parvis) minari, praecipitaturos alicunde, threaten to throw them down. — To rush down, throw oneself down, rush headlong, sink rapidly, drop, tumble, fall (of involuntary falling): statim praecipitat in Lirem: nimbi In vada praecipitant, ***Ver.*** : in fossam, ***Liv.*** : sol praecipitans: iam nox caelo Praecipitat, is sinking, ***Ver.*** : hiems iam praecipitaverat, had come to an end, ***Caes.*** — Fig., to throw down, hurl down, precipitate: praecipitari ex altissimo dignitatis gradu: semet ipse praecipitare, destroy oneself, ***Sall.*** : se in insidias, ***Liv.*** : furor iraque mentem Praecipitant, carry headlong, ***Ver.*** : quosdam praecipitat potentia Invidiae, ***Iuv.*** : nox praecipitata, declining, ***Ov.*** — To hasten, hurry: quae Praecipitent obitum, hasten their setting: praecipitata raptim consilia, precipitate, ***Liv.*** : moras, i. e. exchange for haste, ***Ver.*** : dare tempus Praecipitant curae, hasten, ***Ver.*** — To fall down, fall, sink, be ruined: ubi non subest, quo praecipitet, may tumble down: cum ad Cannas praecipitasset Romana res, ***Liv.*** : ad exitium praecipitans. — To be too hasty, be precipitate: sustinenda est adsensio, ne praecipitet: praecipitare istuc quidem est, non descendere, to jump at a conclusion.
 ##### praecipuē adv.
@@ -1508,16 +1596,22 @@ in short, in few words, briefly, concisely: dici. — Positively, absolutely: ne
 broken off, abrupt, precipitous: praecisis saxis, ***Ver.*** : iter, ***Sall.*** — Fig., of speech, abrupt.
 ##### praeclārus adj.
 with comp. and sup, very bright, brilliant: iaspis, ***Iuv.*** — Very beautiful, magnificent, honorable, splendid, admirable, remarkable, distinguished, excellent, famous: urbs situ praeclaro ad aspectum: opus: interpres iuris: genus dicendi: leges: gens bello praeclara, ***Ver.*** : eloquentiae ac fidei, ***Tac.*** : nec quicquam est praeclarius: praeclarissimum factum, ***Nep.*** : res, great wealth, ***Hor.*** : praeclaram populo R. refers gratiam. — Noted, notorious: sceleribus suis ferox atque praeclarus, ***Sall.*** — Plur n. as subst: multa secum praeclara habere, treasures of art.
+##### praecō ōnis, m
+a crier, herald: citat praeco legatos: praetoris. — A crier, auctioneer: si palam praeco praedicasset, dimidias venire partīs: haec per pracconem vendidit, by auction: fundum subiecit praeconi, ***Liv.*** : Ut praeco, ad merces turbam qui cog it emendas, ***Hor.*** — A publisher, herald, eulogist: virtutis.
 ##### praecompositus adj.
 arranged beforehand, studied: praecomposito ore, ***Ov.***
 ##### praecōnium ī, n
 the office of a public crier: facere. — A crying out in public, proclaiming, publishing: tibi praeconium deferam: praeconia famae, ***Ov.*** — A celebrating, laudation, commendation: ab Homero Achilli tributum: formae praeconia, ***Ov.***
 ##### praecōnius adj.
 of a public crier: quaestus, the business of a public crier.
+##### praecontrectō —, —, āre
+to handle beforehand: videndo, i. e. survey, ***Ov.***
 ##### praecursiō ōnis, f
 a going before: sine praecursione visorum, the previous occurrence of phenomena. — In rhet., a preparation of the hearer.
 ##### praecursor ōris, m
 a forerunner, advanced guard, vanguard, ***Liv.*** — A scout, spy.
+##### praecutiō —, —, ere
+to shake before, brandish in front: taedas, ***Ov.***
 ##### praeda ae, f
 property taken in war, booty, spoil, plunder, pillage: praedam manubias in urbis ornamenta conferre: urbis praedā adducti: praedam militibus donare, ***Caes.*** : victores praedā spoliisque potiti, ***Ver.*** : praedarum in parte reperta pocula, ***Iuv.*** — Prey, game: cervi luporum praeda rapacium, ***Hor.*** : vocamus in partem praedamque Iovem, i. e. vow to offer a share, ***Ver.*** : hinc praeda cubili Ponitur, ***Iuv.*** — Booty, spoil, gain, profit: maximos quaestūs praedasque facere: Reiectā praedā, ***Hor.*** : ostendit praedam, treasure trove, ***Phaed.*** : a quibus magnas praedas Agesilaus faciebat, drew great advantage, ***Nep.***
 ##### praedābundus adj.
@@ -1528,6 +1622,10 @@ a taking of booty, pillaging: regnum praedationibus augere, ***Tac.***
 a plunderer, pillager: quos in eodem genere praedatorum pono: exercitus, praedator ex sociis, ***Sall.*** : aprorum, a hunter, ***Ov.*** — An avaricious man, Tb.
 ##### praedātōrius adj.
 plundering, predatory: manus (militum), marauders, ***Sall.*** : naves, pirate-ships, ***Liv.***
+##### praedēlassō —, —, āre
+to weary out beforehand: incursūs quae (moles) praedelassat aquarum, ***Ov.***
+##### praedēstinō —, —, āre
+to set before as a goal, predestine: sibi triumphos, ***Liv.***
 ##### praediātor ōris, m
 a purchaser of mortgaged estates at auction, dealer in real property.
 ##### praediātōrius adj.
@@ -1546,6 +1644,8 @@ a foretelling, prediction: mali: vatum.
 something previously said: velut ex predicto, as if by preconcert, ***Liv.*** — A foretelling, prediction, prophecy: Chaldaeorum praedicta: vatium. — An order, command: dictatoris, ne, etc., ***Liv.***
 ##### praediolum ī, n dim.
 a small estate.
+##### praediscō —, —, ere
+to learn beforehand: ea quae agenda sunt: Ventos, ***Ver.***
 ##### praeditus adj.
 gifted, provided, possessed, furnished: parvis opibus: mundus animo: singulari inmanitate: simulacrum summā religione, i. e. held in high reverence.
 ##### praedium ī, n
@@ -1564,24 +1664,40 @@ very hot: balneum, ***Tac.*** — Fierce: ira, ***Liv.***
 too trustful, over-confident: te praefidentem tibi Repriment legum habenae, ***Cic.*** poët.: homines sibi.
 ##### praefīnītō adv.
 in the prescribed manner: loqui, ***Ter.***
+##### praefluō —, —, ere
+to flow along, flow by: infimā valle, ***Liv.*** : provinciam, ***Tac.*** : regna Dauni, ***Hor.***
+##### praefōcō —, —, āre
+to choke, strangle, suffocate: animae viam, ***Ov.***
 ##### praefrāctē adv.
 inflexibly, resolutely: aerarium defendere.
 ##### praefrīgidus adj.
 very cold: Auster, ***Ov.***
+##### praefulciō —, —, īre
+to prop up, support. — Fig.: illud praefulci, ut, etc., make sure.
+##### praefulgeō —, —, ēre
+to beam forth, shine greatly, glitter in front: praefulgebat huic triumphus, ***Liv.*** : Nitor smaragdi collo praefulget tuo (sc. pavonis), ***Phaed.*** : equus praefulgens unguibus aureis, ***Ver.*** : triumphali decore, ***Tac.***
 ##### praegelidus adj.
 very cold: Alpes, ***Liv.***
+##### praegestiō —, —, īre
+to desire greatly, delight: videre: Ludere, ***Hor.*** : apisci, Ct.
 ##### praegracilis e, adj.
 very slender: proceritas, ***Tac.***
 ##### praegressiō ōnis, f
 a going before, preceding: stellarum. — Fig., precedence: causae.
 ##### praegustātor ōris, m
 a foretaster, cup-bearer. — Fig.: libidinum tuarum.
+##### praegustō āvī, —, āre
+to taste beforehand: oleas, ***Liv.*** : cibos, ***Ov.*** : medicamina (i. e. antidota), ***Iuv.***
 ##### praeiūdicātus adj.
 decided beforehand, prejudged: praeiudicatum eventum belli habetis, ***Liv.*** : opinio, prejudice. — As subst n.: id ipsum pro praeiudicato ferre, as already decided, ***Liv.*** : ut ne quid huc praeiudicati adferatis, prejudice.
 ##### praeiūdicium ī, n
 a preceding judgment, anticipatory sentence, previous decision, precedent: his duobus praeiudiciis damnatus: neminem praeiudicium rei tantae adferre, i. e. anticipate the judgment (of the Senate), ***Liv.*** — A precedent, example: vestri facti praeiudicio demotus, by the example of your conduct, ***Caes.*** : Africi belli praeiudicia sequi, ***Caes.***
 ##### praeiūdicō āvī, ātus, āre
 to prejudge, decide beforehand: de hoc (homine): de iis censores praeiudicent, give preliminary judgment (before the case is heard by the judges).
+##### praelambō —, —, ere
+to lick beforehand. (mus) praelambens omne, quod adfert, ***Hor.***
+##### praelegō —, —, ere
+to sail by, skirt: Campaniam, ***Tac.*** : oram, ***Tac.***
 ##### praelongus adj.
 very long: gladii, ***Liv.*** : hasta, ***Tac.***
 ##### praemātūrus adj.
@@ -1590,6 +1706,8 @@ too early, untimely, premature: hiems, ***Tac.*** : exitus, ***Tac.*** : cineres
 protected by medicines, charmed: Aesonides, ***Ov.***
 ##### praemeditātiō ōnis, f
 a considering beforehand, premeditation: futurorum malorum: diuturna.
+##### praemetuō —, —, ere
+to fear beforehand, be apprehensive: suis, ***Caes.*** : coniugis iras, ***Ver.***
 ##### praemium ī, n
 an advantage, prerogative, favor, license, privilege: licebat legis praemio, by the special favor of the law: Frontis urbanae praemia, the license of city assurance, ***Hor.*** — A reward, recompense: praemium, haud praedam petit, Enn. ap. ***Cic.*** : ecqu id erit praemi, reward: legibus praemia proposita sunt virtutibus: praemia mihi pro industriā data: inlicere, ***Sall.*** : tibi laborum praemia persolvere: proponere, offer, ***Caes.*** : consequi, obtain, ***Caes.*** : tollere, ***Iuv.*** : promittens, si sibi praemio foret, se, etc., if he were rewarded, ***Liv.*** : te mea dextera magna inter praemia ducet, i. e. to great exploits, ***Ver.*** : cape praemia facti, reward (i. e. punishment), ***Ov.*** : Veneris, i. e. children, ***Ver.*** — A bribe: Ut ponenda praemia sumas, ***Iuv.*** — A prize, plunder, prey, booty: ditem hostem pauperis victoris praemium esse, ***Liv.*** : spectat sua praemia raptor, ***Ov.*** : leporem et gruem, Iucunda captat praemia, game, ***Hor.*** : raptae virginitatis, ***Ov.***
 ##### praemolestia ae, f
@@ -1598,12 +1716,22 @@ anxiety, apprehension.
 a forewarning, premonition: Praemonitūs deūm, ***Ov.***
 ##### praemōnstrātor ōris, m
 one who points out the way, a guide, ***Ter.***
+##### praemōnstrō —, —, āre
+to predict, presage, prognosticate: magnum aliquid populo R.: ventos futuros, ***Cic.*** poët.
+##### praemordeō —, —, ēre
+to bite off, snip off: ex hoc alqd, ***Iuv.***
 ##### praemortuus adj.
 prematurely dead: iacuere, velut praemortua, membra, ***Ov.*** — Fig.: praemortui esse pudoris, i. e. to have lost shame, ***Liv.***
 ##### praemūnītiō ōnis, f
 a fortifying beforehand, preparation: orationis.
+##### praenārrō āvī, —, āre
+to tell beforehand: rem, ***Ter.***
+##### praenatō —, —, āre
+to swim before, flow by: domos praenatat amnis, ***Ver.***
 ##### praenōmen inis, n
 the first name, praenomen, personal name (e. g. Marcus, usu. written M.): filius, cui Marco praenomen erat, ***Liv.*** : sine praenomine familiariter ad me epistulam misisti.
+##### praenōscō —, —, ere
+to learn beforehand, foreknow: futura: promissum sibi caelum, ***Ov.***
 ##### praenōtiō ōnis, f
 a preconception, innate idea: deorum.
 ##### praenūbilus adj.
@@ -1616,16 +1744,24 @@ a seizing beforehand, preoccupation: locorum, ***Nep.***
 to seize upon beforehand, preoccupy: Macedoniam, ***Nep.*** : opportuna loca, ***Liv.*** : praeoccupatum sese legatione ab Cn. Pompeio, ***Caes.*** — Fig., to seize in advance, preoccupy: animos timor praeoccupaverat, ***Caes.*** : praeoccupati beneficio animi, i. e. won over beforehand, ***Liv.*** — To anticipate, prevent: ad praeoccupanda Andranodori consilia, ***Liv.*** : ne alteruter alterum praeoccuparet, ***Nep.*** : legem ferre, hasten to bring the bill sooner before the people, ***Liv.***
 ##### praeoptō āvī, ātus, āre
 to choose rather, desire more, prefer: exsilio modicam domi fortunam, ***Liv.*** : suas leges Romanae civitati, ***Liv.*** : nemo non illos sibi quam vos dominos praeoptet, ***Liv.*** : immerito quam iure violari, ***Curt.*** : scutum manu emittere, ***Caes.*** : puerum perire, Potius quam, etc., ***Ter.***
+##### praepandō —, —, ere
+to spread out, extend. — Fig.: hibernos temporis ortūs, ***Cic.*** poët.
 ##### praeparātiō ōnis, f
 a making ready, preparation: diligens: animi ad minuendum dolorem.
 ##### praeparātus adj.
 prepared, provided, furnished, ready: praeparatos quodam cultu proficisci ad dormiendum: bene Pectus, ***Hor.*** : aures: oratio, ***Liv.*** — As subst n.: ex ante praeparato sustentari, from the stores, ***Liv.*** : cf. ex ante praeparato fieri, i. e. by previous arrangement, ***Liv.***
 ##### praeparō āvī, ātus, āre
 to make ready beforehand, prepare, equip, make preparations: ea quae videntur instare: ante navīs, ***Liv.*** : locum domestici belli causā, ***Caes.*** : praeparato ad talem casum perfugio, ***Liv.*** : pecunia stipendio militum praeparata, ***Curt.*** : res necessarias ad vitam degendam.
+##### praependeō —, —, ēre
+to hang before, hang down in front: ubi tegumenta praependere possent ad, etc., ***Caes.*** : praependent sertae, ***Prop.***
 ##### praepilātus adj.
 tipped with a ball, carrying a button: missilia, i. e. blunied, ***Liv.***
 ##### praepollēns entis, adj.
 eminent, superior, excellent: gens divitiis, ***Liv.*** : vir virtute, ***Liv.***
+##### praeponderō —, —, āre
+to make heavier, regard as superior: praeponderari honestate.
+##### praeportō —, —, āre
+to bear before, ***Cic.*** poët.
 ##### praepositiō ōnis, f
 a setting before, prefixing: negationis. — In grammar, a prefix. — Fig., a preferring, preference.
 ##### praepositus adj.
@@ -1644,6 +1780,8 @@ in extreme haste, headlong: festinans, ***Liv.*** : agendo, ***Liv.***
 too hasty, sudden, precipitate: festinatio: celeritas, ***Liv.*** : ingenium, rash, ***Liv.***
 ##### praepūtium ī, n
 the foreskin, prepuce: praeputia ponere, ***Iuv.***
+##### praeradiō —, —, āre
+to outshine: stellis signa minora suis, ***Ov.***
 ##### praerapidus adj.
 very swift, exceedingly rapid: gurges, ***Liv.*** : fluminum celeritas, ***Curt.***
 ##### praerogātīvus adj.
@@ -1656,6 +1794,8 @@ a presentiment, foreboding, faculty of divining, prophetic power: in animis.
 a presentiment, foreboding, presage: vatum praesagia, ***Ov.*** : mentis, ***Ov.***
 ##### praesāgus adj.
 perceiving beforehand, divining, prophetic, presaging: pectora, ***Ov.*** : mali mens, ***Ver.*** : luctūs suspiria, ***Ov.*** — Prophetic, indicating beforehand: Verba senis, ***Ov.*** : fulminis ignes, ***Ver.***
+##### praescīscō —, —, ere
+to learn beforehand: animos volgi longe, ***Ver.*** : quam quisque provinciam haberet, ***Liv.***
 ##### praescius adj.
 foreknowing, prescient: corda, ***Ver.*** : lingua, ***Ov.*** : vates venturi, ***Ver.***
 ##### praescrīptiō ōnis, f
@@ -1672,6 +1812,8 @@ especially, chiefly, principally, particularly: praesertim ut nunc sunt mores, e
 serving for defence: milites, in garrison, ***Liv.***
 ##### praesidium ī, n
 defence, protection, guardianship, help, aid, assistance: proficisci praesidio suis, ***Nep.*** : amicitiam populi R. sibi praesidio esse oportere, ***Caes.*** : tectus praesidio firmo amicorum: Ut meae stultitiae in iustitiā tuā sit aliquid praesidi, ***Ter.*** : Veneris praesidio ferox, ***Hor.*** — A guard, escort, convoy, garrison: ad iudicium cum praesidio venit: omnium bonorum praesidio ornatus: servorum praesidio uti: regale, ***Hor.*** : occupatoque oppido, ibi praesidium conlocat, garrison, ***Caes.*** : (turrīs) praesidiis firmare, with troops, ***Sall.*** : praesidium dedit, ut tuto perveniret, escort, ***Nep.*** : praesidium ex arce expellere, garrison, ***Nep.*** : praesidia interficere, troops, ***Nep.*** : praesidia custodiasque disponere, picket guards, ***Caes.*** : galeatum, ***Iuv.*** : O et praesidium et dulce decus meum, ***Hor.*** : quantum Praesidium perdis, ***Ver.*** — An occupied place, post, station, intrenchment, fortification, camp: in praesidio conlocatus, on guard: qui propter metum praesidium relinquit, leaves his post: praesidio discedere, ***Liv.*** : procul in praesid io esse, ***Nep.*** : praesidium occupare et munire, ***Caes.*** : milites in praesidiis disponere, ***Caes.*** : in praesidi is esse, with the army. — Aid, help, assistance: quod sat is esset praesidi dedit, what was needful for his support and safety, ***Nep.*** : quaerere sibi praesidia periculis: me biremis praesidio scaphae Tutum... Aura feret, ***Hor.*** : fortissimum pudoris: aliunde rerum exspectanda tuarum Praesidia, encouragement, ***Iuv.***
+##### praesīgnificō —, —, āre
+to indicate beforehand: hominibus quae sint futura.
 ##### praesīgnis e, adj.
 pre-eminent, distinguished: tempora cornu, ***Ov.*** : facie, ***Ov.***
 ##### praestābilis e, adj.
@@ -1684,10 +1826,16 @@ a protector, guardian: praestitibus Laribus, ***Ov.***
 at hand, ready, present, here: Ipsum praesto video, ***Ter.*** : domi Praesto apud me esse, ***Ter.*** : togulae lictoribus ad portam praesto fuerunt: praesto est enim acerba memoria, always with me, ***Liv.*** : ubi est frater? Chaer. Praesto adest, ***Ter.*** — At hand, serviceable, helpful: Macroni vix videor praesto. — Usu. in the phrase, praesto esse, to be at hand, attend, wait upon, serve, aid, be helpful: praesto esse clientem tuum?: ius civile didicit, praesto multis fuit: saluti tuae praesto esse: ut ad omnia, quae tui velint, ita sim praesto, ut, etc. — With esse, to be in the way, meet, resist, oppose: quaestores cum fascibus mihi praesto fuerunt.
 ##### praesultātor ōris, m
 a leader in a dance, leader of the festal procession (of a slave flogged before a procession in the circus), ***Liv.***
+##### praetegō —, —, ere
+to protect: cavo aere caput, ***Prop.***
 ##### praeter adv.
 except, besides, unless, save, other than, not: ne quis praeter armatus violaretur, ***Liv.*** : multitudini diem statuit... praeter rerum capitalium condemnatis, ***Sall.*** : Nil praeter canna fuit, ***Ov.***
+##### praeteragō —, —, ere
+to drive by, drive past: deversoria Praeteragendus equus, ***Hor.***
 ##### praetereā adv.
 in addition, beyond this, further, besides, moreover: nihilne vobis in mentem venit, quod praeterea ab Crasso requiratis?: haec duo praeterea oppida, ***Ver.*** : multis praeterea viris fortibus evocatis, ***Caes.*** : duo praeterea talīs tulisse viros, two more, ***Ver.*** : nihil praeterea cum consule pacti, quam, quod, etc., ***Liv.*** — In enumerations, besides, moreover: Multae sunt causae... primum... praeterea, ***Ter.*** : praeterea... ad hoc... postremo, ***Sall.*** : nam et... prudentiam tuam exposuit: et praeterea... praeterea, etc. — In time, henceforth, hereafter, thenceforth: quisquam numen Iunonis adorat Praeterea? ***Ver.***
+##### praeterfluō —, —, ere
+to flow by, flow past: oraeterfluentem aquam captare, ***Curt.*** : moenia, ***Liv.*** — Fig.: voluptatem praeterfluere sinere, to be forgotten.
 ##### praeteritus adj.
 gone by, past, past and gone, departed: tempus: castigatio ob errorem praeteritum, ***Liv.*** : culpa, ***Ov.*** : praeteritā nocte, last night, ***Iuv.*** — Plur n. as subst, the past: meminit praeteritorum. — Prov.: praeterita mutare non possumus.
 ##### praetermissiō ōnis, f
@@ -1696,6 +1844,8 @@ a leaving out, omission, neglect: ullius (formae): aedilitatis, i. e. neglect to
 beyond, besides, except, other than, save: neque, praeter quam quas ipse amor molestias Habet, addas, ***Ter.*** : nullum praemium postulo, praeterquam huius diei memoriam: nulla praeterquam vitae nostrae iactura, ***Caes.*** : multitudo coalescere nullā re praeterquam legibus poterat, ***Liv.*** — Ellipt., with etiam, not only... but also: malum, praeterquam atrox, etiam novum, ***Liv.*** — With quod, apart from the fact that, except that, besides that: mihi labores fuere leves, Praeter quam tui carendum quod erat, ***Ter.*** : praeterquam quod ita Quinctio placeret, ***Liv.*** : praeter enim quam quod, etc.
 ##### praetervectiō ōnis, f
 a passing by: in praetervectione omnium, qu i, etc., i. e. at the point which all must pass.
+##### praetervolō —, —, āre
+to fly by, pass in flight: praetervolans corvus glaebam amisit, ***Curt.*** : (equum) praetervolat Ales. — In tmesi: Etrusca praeter et volate litora, ***Hor.*** — Fig., to slip by, escape: sententiae saepe hominum sensūs praetervolant: occasionis opportunitas praetervolat, ***Liv.*** : haec duo proposita, i. e. pass over cursorily.
 ##### praetexta ae, f
 see 1 praetextus.
 ##### praetextātus adj.
@@ -1726,6 +1876,10 @@ very strong, of superior strength: iuvenis, ***Liv.*** : manus, ***Ov.*** : coho
 insincerity in pleading, duplicity, collusion: de praevaricatione absolutus.
 ##### praevāricātor ōris, m
 a sham accuser, collusive prosecutor, unfaithful advocate, prevaricator: praevaricatorem mihi opponere: Catilinae.
+##### praeverrō —, —, ere
+to sweep before: latas veste iacente vias, ***Ov.***
+##### praevitiō —, —, āre
+to corrupt beforehand: (gurgitem), ***Ov.***
 ##### praevius adj.
 going before, leading the way: anteit, ***Ov.***
 ##### prāgmaticus adj.
@@ -1870,6 +2024,8 @@ a tendency, predisposition, proneness: ad morbos.
 the office of a proconsul, proconsulate: ex proconsulatu Asiae, ***Tac.***
 ##### prōcrāstinatiō ōnis, f
 a putting off from day to day, procrastination.
+##### prōcrāstinō —, —, āre
+to put off till the morrow, defer, delay, procrastinate: rem: res non procrastinatur.
 ##### prōcreātiō ōnis, f
 a begetting, generation: liberorum: hominum.
 ##### prōcreātor ōris, m
@@ -1878,6 +2034,8 @@ a begetter, creator: mundi: a procreatoribus amari, by parents.
 she that brings forth, a mother: philosophia artium.
 ##### prōcreō āvī, ātus, āre
 to bring forth, beget, generate, procreate, produce: fetūs: liberos ex uxoribus, ***Nep.*** : terra ex seminibus truncos procreat. — Fig., to produce, make, cause, occasion: (tribunatus) ortus inter arma civium procreatus.
+##### prōcubō —, —, āre
+to lie stretched out: ubi saxea procubet umbra, ***Ver.***
 ##### procul adv.
 in the distance, at a distance, away, apart, far, afar off, from afar: Delos, tam procul a nobis posita: non procul, sed hic praesentes (di): ubi turrim constitui procul viderunt, ***Caes.*** : in pelago saxum, ***Ver.*** : omnibus arbitris procul amotis, ***Sall.*** : procul este profani, keep aloof! ***Ver.*** : procul hinc stans, ***Ter.*** : a terrā: a conspectu, far out of sight: a patriā, ***Ver.*** : patriā: urbe, ***Ov.*** : locus muro, ***Liv.*** — Of time, far, long before: haud procul occasu solis, ***Liv.*** — Fig., far, distant, remote, away: absentatio procul amoveatur: errare, greatly, ***Sall.*** : Pauperies inmunda domūs procul absit, ***Hor.*** : legatos haud procul afuit quin violarent, they came near outraging, ***Liv.*** : haud procul esse quin Remum agnosceret, almost, ***Liv.*** : procul ab omni metu: eam (plebem) procul urbe haberi, out of public affairs, ***Liv.*** : negotiis, ***Hor.*** : procul dubio, without doubt, ***Liv.*** : istud procul abest, is far from the fact, ***Curt.***
 ##### prōculcō āvī, ātus, āre
@@ -1906,6 +2064,8 @@ wasteful, lavish, prodigal (opp. liberalis): femina, ***Iuv.*** : aeris, ***Hor.
 a betrayal, treason, treachery: multorum in nos proditionem notabis: amicitiarum proditiones: per proditionem libertas amissa, ***Liv.*** : alcui proditionem agere, to contrive, ***Tac.***
 ##### prōditor ōris, m
 a betrayer, traitor: pro ducibus proditores habere: disciplinae, ***Liv.*** : risus proditor latentis puellae, ***Hor.***
+##### prōdoceō —, —, ēre
+to teach openly, proclaim: haec Ianus summus ab imo Prodocet, ***Hor.***
 ##### prōductē adv.
 lengthened, long: dicere litteram (opp. breviter).
 ##### prōductiō ōnis, f
@@ -1934,6 +2094,8 @@ non-festival, not a holiday, common: festis profestisque diebus, working-days, *
 a spendthrift, prodigal, ***Tac.***
 ##### prōflīgō āvī, ātus, āre
 to strike to the ground, cast down utterly, overthrow, overcome, conquer: aciem hostium: classem hostium, ***Caes.*** : hostīs, ***Nep.*** — Fig., to overthrow, ruin, destroy, crush: rem p.: tantas opes, ***Nep.*** — To bring to an end, finish, despatch, do away: bellum commissum ac profligatum conficere, ***Liv.*** : profligato fere Samnitium bello, ***Liv.*** : profligata iam haec quaest io est: omnia ad perniciem profligata.
+##### prōflō āvī, —, āre
+to blow forth, breathe out: flammas, ***Ov.*** — Fig.: pectore somnum, i. e. the heavy breathing of sleep, ***Ver.***
 ##### prōfluenter adv.
 flowingly: ergo omnia profluenter (adsint), i. e. in rich measure.
 ##### prōfluentia ae, f
@@ -1946,6 +2108,8 @@ a depth: esse in profundo (aquae): maris, ***Ov.*** — The depths of the sea, d
 with sup, deep, profound, vast: mare: pontus, ***Ver.*** : Danuvius, ***Hor.*** : fornax, ***Ov.*** : profundae altitudinis convalles, ***Liv.*** : profundissimus libidinum gurges. — Thick, dense: Erebi nox, ***Ver.*** : silvae, ***Curt.*** — High: caelum, ***Ver.*** — Of the under-world, infernal: Manes, ***Ver.*** — Fig., deep, bottomless, profound, boundless, immoderate: libidines: avaritia, ***Sall.*** : venter, ***Curt.*** : ruit profundo Pindarus ore, i. e. voluminous in expression, ***Hor.***
 ##### profūsus adj.
 lavish, extravagant, profuse: nepos: alieni appetens, sui profusus, lavish of his own, ***Sall.*** — Of things, extravagant, excessive, profuse: profusis sumptibus vivere: epulae: genus iocandi.
+##### prōgenerō —, —, āre
+to beget, generate: nec Progenerant aquilae columbam, ***Hor.***
 ##### prōgenitor ōris, m
 the founder of a family, an ancestor, progenitor: maiorum suorum, ***Nep.*** : progenitore comanti Esse sata, ***Ov.***
 ##### prōgnātus adj.
@@ -1970,6 +2134,8 @@ a bringing forward, adducing, mentioning: exemplorum. — A putting forward, adv
 a growth, offshoot, offspring, progeny, children, descendants, race, posterity: futurorum hominum: gemella, ***Ov.*** : di Romulae genti date prolem, ***Hor.*** : pulchra, ***Ver.*** : ferrea, the iron race, ***Cic.*** poët.: argentea, ***Ov.*** : Dic mihi, Teucrorum proles, ***Iuv.*** : escā replevit (feles) prolem suam, ***Phaed.*** : maris inmensi proles, ***Ver.*** : olivae, i. e. the fruit, ***Ver.*** — Of one person, a son, child, offspring, descendant: Ulixi, i. e. Telemachus, ***Hor.*** : Apollinea, i. e. æsculapius, ***Ov.*** : deūm certissima, ***Ver.*** — Youth, young men: equitum peditumque: Arcadiae, ***Ver.***
 ##### prōlētārius adj.
 relating to offspring; hence, in the division of the people by Servius Tullius, affording to the state only children, having no estate, of the lowest class, proletary.
+##### prōliciō —, —, ere
+to allure forth, incite: voluptas tardā prolicienda morā, ***Ov.***
 ##### prōlogus ī, m
 a preface to a play, prologue: Nullum invenire prologum, ***Ter.*** — One who recites a prologue, ***Ter.***
 ##### prōlubium ī, n
@@ -1996,6 +2162,8 @@ a promiser, braggart, ***Hor.***
 a promise: nostrum: promisso teneri: promissis induxit alquem: deum promisso ludit inani, ***Ov.*** : illis promissis standum non est: promissis manere, ***Ver.*** : Dic aliquid dignum promissis, ***Hor.*** : Quo promissa (Enni) cadant, i. e. the expectations which he raises, ***Hor.*** : promissa dato, fulfill, ***Ov.*** : promissa Non dare, i. e. to break, ***Ov.*** : iuvenes promissis onerat, ***Liv.***
 ##### prōmissus adj.
 hanging down, long: coma, ***Liv.*** : capillo esse promisso, ***Caes.***
+##### prōmoneō —, —, ēre
+to forewarn: de istius scelere promoneri. — To warn further: te.
 ##### prōmulgō āvī, ātus, āre
 to bring forward publicly, propose openly, publish, promulgate: de salute alcuius: leges quae promulgatae fuerunt: res multos dies promulgata: hoc promulgare ausus est, ut, etc., to propose to enact.
 ##### prōmus ī, m
@@ -2052,6 +2220,8 @@ to make haste, hasten, be quick, be in haste, go quickly: mihi properandum neces
 quick, speedy, hastening: aurigae, ***Ver.*** : Telamon, ***Ov.*** : potentiae adipiscendae, ***Tac.*** : quoquo facinore clarescere, ***Tac.***
 ##### propinquitās ātis, f
 nearness, vicinity, proximity, propinquity: hostium, ***Caes.*** : locorum: castra aptissima maris propinquitate, ***Caes.*** : silvarum petunt propinquitates, ***Caes.*** — Fig., relationship, affinity, kindred: vinculis propinquitatis coniunctus: familiae et propinquitates, ***Tac.*** : si propinquitates summo bono non continentur.
+##### propinquō —, —, āre
+to draw near, come nigh, approach: vis inimica propinquat, ***Ver.*** : scopulo, ***Ver.*** : ripae, ***Ver.*** — To bring near, bring on, hasten, accelerate: rite Augurium, ***Ver.***
 ##### propitius adj.
 favorable, well-disposed, gracious, kind, propitious: dii mihi: parentes, ***Ter.*** : uti volens propitius suam sospitet progeniem, ***Liv.***
 ##### propōla ae, m
@@ -2100,6 +2270,8 @@ forwards: cursari rursum prorsum, to and fro, ***Ter.*** — Fig., absolutely, a
 forward, right onward: prorsus ibat res: huc prorsus se inruere, rush right in on us, ***Ter.*** — Fig., by all means, certainly, utterly, absolutely, entirely: tacere, ***Ter.*** : nullo modo prorsus adsentior, by no means: verbum prorsus nullum intellego, not a single word: vehementer: set ea prorsus opportuna Catilinae, precisely, ***Sall.*** — In short, in fine, in a word, in fact: citus modo, modo tardus incessus; prorsus in facie voltuque vaecordia inerat, ***Sall.***
 ##### prōsāpia ae, f
 a stock, race, family: homo veteris prosapiae, ***Sall.*** : eorum, ut utamur veteri verbo, prosapiam.
+##### prōscindō —, —, ere
+to plough, break up: terram iuvencis, ***Ver.*** : ferro campum, ***Ov.*** — Fig., to satirize, revile, defame: summotum (me) patriā, ***Ov.***
 ##### prōscrīptiō ōnis, f
 a public notice of sale, advertisement: bonorum: praediorum. — Proscription, outlawry, confiscation: proscriptionis miserrimum nomen: de capite civ is et de bonis proscriptionem ferre.
 ##### prōscrīptus ī, m
@@ -2116,6 +2288,10 @@ good-fortune, success, prosperity: vitae: valetudinis, vigorous health, ***Nep.*
 to render fortunate, make happy, prosper: populo R. vim victoriamque, ***Liv.*** : patrum decreta, ***Hor.***
 ##### prōspicientia ae, f
 foresight, forethought, precaution: vigil ia et prospicientia.
+##### prōsubigō —, —, ere
+to dig up, cast up: pede terram, ***Ver.***
+##### prōtēlō —, —, āre
+to drive forth, drive away: te dictis, ***Ter.***
 ##### protervitās ātis, f
 wantonness, pertness, sauciness, impudence: tua, ***Ter.*** : de protervitate oratio: Glycerae grata, ***Hor.***
 ##### protervus adj.
@@ -2142,6 +2318,8 @@ of a province, provincial: negotia: administratio: scientia, the administration 
 a foreseeing, foreknowing: animi. — Foresight, providence: longa animi: posteri temporis, precaution for. — Provision against, prevention: horum incommodorum est una provisio, ut, etc.
 ##### prōvīsō adv.
 with forethought, deliberately: temere, proviso, ***Tac.***
+##### prōvisō —, —, ere
+to go forth to see, see to it: proviso, quid agat Pamphilus, ***Ter.***
 ##### prōvīsor ōris, m
 a foreseer, provider: dominationum, ***Tac.*** : utilium tardus, ***Hor.***
 ##### prōvīsus ūs, m
@@ -2152,6 +2330,8 @@ a citation before a higher tribunal, appeal: ad populum: poena sine provocatione
 a kind of gladiator.
 ##### prōvocō āvī, ātus, āre
 to call forth, call out, summon: Pamphilam cantatum, ***Ter.*** : ad se Simonidem, ***Phaed.*** : <⋆>oseo ore diem, ***Ov.*** — To call out, challenge, invite: (Aiacem) ad pugnam: provocatus haec spol ia ex hoste caeso porto, ***Liv.*** : in provocantem hostem pugnare, ***Liv.*** — To go before a higher tribunal, appeal, make an appeal: de maiestate ad populum: ab omni iudicio poenāque provocari licere. — Fig., to excite, stimulate, exasperate, stir up, rouse: maledictis me: beneficio provocati: sermonibus, ***Caes.*** : munificentiā nostrā plebem, ***Liv.*** : bellum, ***Tac.***
+##### prōvolō āvī, —, āre
+to fly forth, hurry forth, rush out: subito omnibus copiis, ***Caes.*** : ad primores, ***Liv.***
 ##### proximitās ātis, f
 nearness, vicinity, proximity: nimia, ***Ov.*** — Fig., near relationship: ipsaque damno est mihi proximitas, ***Ov.*** — Similarity, resemblance: lateat vitium proximitate boni, ***Ov.***
 ##### proximō adv.
@@ -2170,6 +2350,8 @@ of plum-tree wood: torris, ***Ov.***
 a plum: cerea, ***Ver.*** : pruna ferre, ***Ver.*** , ***Hor.***
 ##### prūnus ī, f
 a plum-tree: prunis lapidosa rubescere corna, on the plum-trees, ***Ver.***
+##### prūriō —, —, īre
+to itch: si prurit ocelli Angulus, ***Iuv.*** — To be wanton, make a wanton display, Ct., ***Iuv.***
 ##### prytanis is, m
 in Greece, a member of the chief executive body, prytane, ***Liv.***
 ##### psaltērium ī, n
@@ -2264,6 +2446,8 @@ flesh, animal food, a choice bit, relish, appetizer: mihi est pulpamentum fames.
 a beating, striking: scutorum, ***Liv.*** : Alexandrinorum Puteolana, defeat.
 ##### pulsus ūs, m
 a pushing, beating, striking, stamping, push, blow, impulse, stroke: pulsu externo agitari: pulsu remorum praestare, in rowing, ***Caes.*** : sonum vocis pulsu pedum modulantes, keeping time in the dance, ***Liv.*** : pulsu pedum tremit tellus, trampling, ***Ver.*** : armorum, ***Tac.*** : lyrae, playing, ***Ov.*** — Fig., an impulse, impression, influence: externus.
+##### pultō āvī, —, āre, freq.
+to beat, strike, knock: ostium, ***Ter.*** : forīs, ***Ter.***
 ##### pulvereus adj.
 of dust, filled with dust, dusty: nubes, clouds of dust, ***Ver.*** : farina, i. e. fine, ***Ov.*** : palla (Boreae), raising clouds of dust, ***Ov.***
 ##### pulverulentus adj.
@@ -2328,6 +2512,8 @@ a kerb-stone of a well: putealia sigillata duo. — A puteal, stone enclosure ma
 of a well: undae, well-water, ***Ov.***
 ##### puteārius ī, m
 a well-digger, ***Liv.***
+##### pūteō —, —, ere
+to stink: putet aper, ***Hor.*** : diurno mero, ***Hor.***
 ##### puteus ī, m
 a well: ex puteis iugibus aquam trahi: se in puteos abiecisse: putei perennes, ***Hor.*** — A pit: In solido puteum demitti, ***Ver.***
 ##### putridus adj.
@@ -2352,3 +2538,5 @@ Spanish chamomile, pellitory. — Plur., ***Ov.***
 an alloy of copper and gold, gold-bronze, bronze, ***Ov.*** , ***Prop.***
 ##### Pȳthia ae, f
 the priestess of the Delphic Apollo, the Pythoness, Pythia, ***Cic.*** , ***Nep.***
+##### pȳtīsō —, —, āre
+to spit out: pytisando modo mihi Quid vini absumpsit, ***Ter.***

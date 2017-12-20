@@ -20,8 +20,12 @@ hidden, concealed, secret: virgo, locked up, ***Hor.*** : sub terram: ne ea omni
 the belly, abdomen: abdomine tardus, unwieldy, ***Iuv.*** — Fig., gluttony, greed: insaturabile: abdominis voluptates.
 ##### Abella ae, f
 a town of Campania, ***Ver.***
+##### abequitō āvī, —, āre
+to ride away (once): Syracusas, ***Liv.***
 ##### aberrātiō ōnis, f
 a relief, diversion (rare): a dolore, a molestiis.
+##### aberrō āvī, —, āre
+to wander out of the way, lose the way, go astray: taurus, qui pecore aberrasset, ***Liv.*** — Fig., in word or deed, to go astray, wander: sed tamen aberro, find diversion; (usu. with ab, to miss): a proposito: num aberret a coniecturā opinio, varies from a reasonable guess. — To wander in thought, turn away: animus aberrat a sententiā suspensus curis maioribus: a miseriā.
 ##### abhinc adv.
 of time, ago, since, before now, usu. with acc. of duration: abhinc mensīs decem fere, ***Ter.*** , ***Cic.*** , ***Hor.***; very rarely with abl: comitiis iam abhinc diebus triginta factis, i. e. before that time: quo tempore? abhinc annis quattuor.
 ##### abhorrēns ntis, adj.
@@ -40,6 +44,8 @@ to deny on oath, abjure: creditum, ***Sall.*** : abiuratae rapinae, ***Ver.***
 a sending away, sending off (rare): iuventutis ad bellum, ***Liv.***
 ##### ablēgō āvī, ātus, āre
 to send off, send out of the way, banish, send into exile: aliquo mihist hinc ablegandus, ***Ter.*** : ab urbe, ***Liv.*** : a fratris adventu me ablegat, i. e. prevents me from being present: magna pars ablegati, were got rid of, ***Liv.***; (with sup acc.): pueros venatum, ***Liv.*** — Esp., to dismiss (from office or employment): honestos homines: consilium.
+##### ablūdō —, ere
+to play out of tune. — Fig. (once): haec a te non multum abludit imago, is not very unlike your case, ***Hor.***
 ##### abnegō āvī, ātus, āre
 to refuse, deny (poet.): tibi coniugium, ***Ver.*** : nec comitem abnegat (sc. se). ***Hor.*** : nummos, deny receipt of, ***Iuv.*** : medicas adhibere manūs ad volnera, ***Ver.*** : Abnegat inceptoque haeret, refuses and abides by his purpose, ***Ver.***
 ##### abnōrmis e, adj.
@@ -88,6 +94,8 @@ abstaining from drink, temperate, abstemious, moderate: gaudet meris abstemius u
 unselfishly, modestly (rare); versatus.
 ##### abstinentia ae, f
 abstinence, starvation: abstinentiā vitam finire, ***Tac.*** — Self-restraint, integrity: in Papinio fuit hāc abstinentiā, in the case of Papinius: tentata eius est abstinentia a Diomedonte, ***Nep.*** : pro abstinentiā largitio vigebat, ***Sall.*** : excellebat abstinentiā, ***Nep.***
+##### abstō —, āre
+to stand off (rare): longius, ***Hor.***
 ##### absurdē adv.
 inharmoniously: canere. — Absurdly, irrationally: fictum: dici potest.
 ##### absurdus adj.
@@ -158,6 +166,8 @@ to call to account, make complaint against, reproach, blame, accuse: alqm ut hos
 the maple-tree, ***Ov.*** — Esp., the wood of the maple-tree, maple, ***Ov.***
 ##### acerbitās ātis, f
 bitterness, harshness, sourness: fructūs magnā acerbitate permixtos ferre, i. e. public rewards bringing also bitter trials. — Fig., harshness, bitterness, rigor, severity, hostility, hatred: severitatem in senectute probo, acerbitatem nullo modo: patria, ***Liv.*** : virus acerbitatis, the poison of malice: nomen vestrum odio atque acerbitati futurum, an object of bitter hatred. — Plur., grief, sorrow, pain, anguish, affliction: lacrimas in meis acerbitatibus effudisti: omnīs acerbitates perferre, ***Caes.***
+##### acerbō —, āre
+to aggravate, make worse (rare): formidine crimen, ***Ver.***
 ##### acernus adj.
 of maple wood: trabes, ***Ver.*** : mensa, ***Hor.*** : solium, ***Ver.***
 ##### acerra ae, f
@@ -170,8 +180,12 @@ unshorn, i. e. ever youthful. — As subst, a young favorite, ***Iuv.***
 subst, a conclusion by accumulation, sorites, ***Cic.***
 ##### acervātim adv.
 by heaps, in heaps: se de vallo praecipitare, BA. — Fig., briefly, concisely, summarily: reliqua dicere.
+##### acervō āvī, —, āre
+to heap up, pile up: cumulos hominum, ***Liv.*** — Fig., to multiply: leges, ***Liv.***
 ##### acervus ī, m
 a mass of similar objects, pile, heap: acervus ex sui generis granis: scutorum, ***Ver.*** : aer is et auri, ***Hor.*** : morientum, ***Ov.*** : magnum alterius frustra spectabis acervum, your neighbor's abundant crop, ***Ver.*** — Fig., a multitude, mass, great number, quantity: cerno insepultos acervos civium: facinorum, scelerum. — Poet.: caedis acervi, ***Ver.*** — Absol: ingentīs spectare acervos, enormous wealth, ***Hor.*** : quid habet pulchri constructus acervus, accumulated hoard, ***Hor.*** : quae pars quadret acervum, completes the fortune, ***Hor.*** — Esp., in dialectics, t. t., a seeming argument by gradual approximation: elusus ratione ruentis acervi, defeated by the argument of the vanishing heap, i. e. a sorites, ***Hor.***
+##### acēscō —, —, ere
+to turn sour, sour, ***Hor.***
 ##### acētum ī, n
 vinegar: acre, ***Hor.*** : vetus, spoiled, ***Hor.*** : saxa infuso aceto putrefaciunt, ***Liv.*** — Fig., wit, shrewdness: Graecus Italo perfusus aceto, ***Hor.***
 ##### Achaeī ōrum, m
@@ -220,6 +234,8 @@ the people of Attica, ***Nep.***
 of Actium: Phoebus, worshipped at Actium, ***Ov.***
 ##### āctiō ōnis, f
 a putting in motion; hence, a performing, doing, action: virtutis laus in actione consistit, in deeds. — Esp.: gratiarum, a rendering. — Of an orator or player, a rendering, declamation: consulis. — Public acts, official conduct, achievements: radicitus evellere omnīs actiones tuas: celebrare actiones, make their policy popular, ***Liv.*** : Ciceronis, ***Sall.*** : tribunicia, a measure, ***Liv.*** — A suit at law, action, process: actionem instituere: causae: actionem intendere, to bring suit: hac actione uti, this form of action: lenior. — Permission to bring a suit: actionem dare alicui: alterā, at the second trial.
+##### āctitō āvī, —, āre, freq.
+to conduct often, be engaged in, act in: causas: tragoedias.
 ##### Actium ī, n
 a promontory of Acarnania, ***Cic.*** , ***Liv.***
 ##### Actius adj.
@@ -268,10 +284,14 @@ to fall in love with, conceive desire for, desire eagerly: cum signa pulcherrima
 that may be opened: latus tauri, ***Ov.***
 ##### adapertus adj.
 open, wide open: ora, ***Ov.***
+##### ad  dēnseō —, —, ēre
+to crowd together: extremi addensent acies, ***Ver.***
 ##### addictiō ōnis, f
 an award, adjudging (rare): bonorum.
 ##### additāmentum ī, n
 an accession: inimicorum meorum, i. e. reinforcement.
+##### ad  doceō —, —, ēre
+to teach in addition (once): artes, i. e. new, ***Hor.***
 ##### addubitō āvī, ātus, āre
 to entertain a doubt, incline to doubt, hesitate, be uncertain: paulisper addubitavit, an, etc., was in doubt whether, etc., ***Liv.*** : illud addubitat, utrum, etc, leaves in doubt, ***Nep.*** : parumper, an, etc., ***Curt.*** : re addubitatā, left undecided.
 ##### adductē adv.
@@ -283,6 +303,8 @@ a taking away, depriving: civitatis, of citizenship: bonorum, ***Tac.***
 ##### adeō adv.
 ##### adeptiō ōnis, f
 an obtaining, attainment: boni; alicuius commodi.
+##### ad  equitō āvī, —, āre
+to ride to, gallop to, ride up: ad nostros, ***Caes.*** : in primos ordines, ***Curt.*** : quo, ***Liv.*** : portis, ***Liv.*** : ab suis, ***Liv.***
 ##### adfabrē (aff) adv.
 cunningly, in a workmanlike manner: (deus) factus.
 ##### adfatim (aff) adv.
@@ -293,6 +315,8 @@ with solemn assurance: promittere.
 joined, attached: mihi esse adfixum, to keep close to me: in asperrimis saxulis: causa in animo, impressed.
 ##### adfluenter adv.
 lavishly, abundantly; only comp: adfluentius haurire: vivere, ***Nep.*** : adfluentius solito convivium inire, ***Tac.***
+##### adhaereō —, —, ēre
+to cleave, adhere, stick to: vincto in corpore, cling to, ***Ov.*** : lateri quā pectus adhaeret, joins, ***Ov.*** : quibus (saxis) adhaerebant, ***Liv.*** : lentis adhaerens bracchiis, ***Hor.*** : manūs oneri adhaerentes, i. e. frozen, ***Tac.*** — Fig., to cling to, be attached: cui canis... cognomen adhaeret, adheres, ***Hor.*** — To hang on, keep close, be attached: lateri adhaerere gravem dominum, ***Liv.***
 ##### adhaesiō ōnis, f
 an adhering, clinging (once).
 ##### adhortātiō ōnis, f
@@ -315,10 +339,16 @@ a means of helping, help, aid, support, assistance: adiumenta et subsidia consul
 a joining, union, conjunction: homini ad hominem naturae. — In rhet., the connection of a predicate with several subjects, ***Cic.*** — An addition to: virtutis.
 ##### adiūnctor ōris, m
 he who adds: Galliae ulterioris, i. e. Pompey.
+##### adiūrō āvī, —, āre
+to swear to in addition, attest besides, add to an oath: praeter commune ius iurandum haec, ***Liv.*** — To add an oath, swear to, confirm by oath: omnia: adiuras id te non esse facturum: in quae adactus est verba, ***Liv.*** — To call to witness, attest, swear by: Stygii caput, ***Ver.*** : te, Ct.
+##### adiūtō āvī, —, āre, freq.
+to help zealously, serve, aid, assist (old or late): senem, ***Ter.*** : funus, to aid in, ***Ter.*** : eis (pueris) onera adiuta, help them carry, ***Ter.*** : id adiuta me, ***Ter.***
 ##### adiūtor ōris, m
 a helper, assistant, confederate: alcuius honoris: cuius honori semper adiutor fuerit, ***Caes.*** : his adiutoribus in re gerendā uti: ad res gerendas, ***Liv.*** : quīs adiutoribus, and with their aid, ***Sall.*** — Esp., an aid, adjutant, assistant, deputy, secretary: dato adiutore Pharnabazo, ***Nep.*** — In the theatre, a secondary actor, support: in scenā constitit, nullis adiutoribus, with no subordinate actors, ***Phaed.*** — Hence, fig.: haberes Magnum adiutorem, posset qui ferre secundas, ***Hor.***
 ##### adiūtrīx īcis, f
 she that helps, a female assistant: matres filiis adiutrices solent esse, ***Ter.*** : scelerum.
+##### admātūrō —, —, āre
+to mature (once): seditionem, ***Caes.***
 ##### adminiculum ī, n
 a stake, prop: vites adminicula adprehendunt: adminiculorum ordines. — In gen., a support, stay: ipsis adminiculis prolapsis, the limbs, ***Liv.*** : corporis, ***Curt.*** — Fig., help, aid: id senectuti suae adminiculum fore, ***Liv.***
 ##### administra ae, f
@@ -353,10 +383,14 @@ an admonisher, exhorter: admonitore egere: operum, to labor, ***Ov.***
 a reminding, warning, ***Cic.*** , ***Ov.***
 ##### admōtiō ōnis, f
 an application: digitorum, to the chords.
+##### admūgiō —, —, īre
+to low to, bellow to: tauro, ***Ov.***
 ##### admurmurātiō ōnis, f
 a murmuring, murmur: vestra: senatūs frequentis: grata contionis.
 ##### admurmurō āvī, ātus, āre
 to murmur, murmur at: valde: cum esset admurmuratum: admurmurante Senatu.
+##### adnatō —, —, āre
+to swim up: certatim, ***Phaed.***
 ##### adoptātiō ōnis, f
 an adopting, adoption: filiorum: adoptatione in regnum pervenisse, ***Sall.***
 ##### ādoptiō ōnis, f
@@ -387,6 +421,8 @@ flattering: deducus, ***Tac.***
 a young maiden, little girl, ***Ter.***
 ##### adulēscentulus ī, m dim.
 a very young man: ab adulescentulo, from boyhood, ***Sall.*** — Plur: stulti.
+##### adūlō —, —, āre
+to fawn upon: sanguinem, to wipe off fawningly, Acc. ap. ***Cic.***
 ##### adulterīnus adj.
 false, forged, counterfeit: nummus: signa, a false seal.
 ##### adulterium ī, n
@@ -405,10 +441,14 @@ to sketch in shadow, outline, represent vaguely: res expressa, non adumbrata. �
 hookedness: rostrorum.
 ##### aduncus adj.
 bent inwards, hooked: unguis: nasus, aquiline, ***Hor.*** : ferrum, barbed, ***Ov.***
+##### adurgeō —, —, ēre
+to pursue closely: volantem Remis, ***Hor.***
 ##### adūstus adj.
 comp, sunburnt, brown: hominum color, ***Liv.*** : alqd adustioris coloris, ***Liv.***
 ##### advectus ūs, m
 a bringing hither: deae, ***Tac.***
+##### advēlō —, —, āre
+to veil, wreathe: tempora lauro, ***Ver.***
 ##### adventīcius adj.
 foreign, strange, accidental: auxilia. — Foreign, extraordinary: pecunia: fructus, incidental, ***Liv.***
 ##### adversiō ōnis, f
@@ -421,6 +461,8 @@ the opposite direction: hic ventus adversum tenet Athenis proficiscentibus, ***N
 an enemy, opponent: vir populi partium, an opponent of the democrats, ***Sall.*** —
 ##### adversum ī, n
 misfortune, calamity, disaster: uti Advorsa eius per te tecta sient, ***Ter.*** : nihil adversi exspectare: si quando adversa vocarent, if misfortune should require, ***Ver.***
+##### advigilō āvī, —, āre
+to watch, be watchful: ad custodiam ignis: nepoti, Tb.: si advigilaveris, ***Ter.***
 ##### advocāta ae, f
 one called to aid, a supporter: non desiderat fortitudo advocatam iracundiam.
 ##### advocātiō ōnis, f
@@ -456,10 +498,14 @@ the office of an aedile, aedileship: aedilitatem petere: aedilitate fungi.
 a custodian of a temple, sacristan, ***Cic.*** : qualīs Aedituos habeat virtus, i. e. poets, ***Hor.***
 ##### Aegaeus adj.
 Aegean: mare, aequor, the Aegean sea, Grecian archipelago, ***Ver.*** , ***Ov.*** — As subst n., the Aegean sea.
+##### aegrēscō —, —, ere
+to fall sick: sollicitudine, ***Tac.*** — To grow worse, be exasperated: violentia medendo, ***Ver.***
 ##### aegrimōnia ae, f
 anxiety, trouble, ***Cic.*** , ***Hor.***
 ##### aegrōtātiō ōnis, f
 sickness, disease: in corpore: animi, a morbid state.
+##### aegrōtō āvī, —, āre
+to be sick, languish, pine: graviter: morbo, ***Hor.*** — Of cattle, ***Hor.*** — To suffer: animus aegrotat: animi vitio, ***Hor.***
 ##### aegrōtus adj.
 sick, diseased: corpus, ***Hor.*** : leo, ***Hor.*** — As subst, a sick person, invalid: consilia aegrotis damus, ***Ter.*** : aegroto, dum anima est, spes esse dicitur: animus, ***Ter.*** , ***Cic.*** : res p.
 ##### Aegyptius adj.
@@ -549,6 +595,8 @@ an agitation, glow, heat, rage of fire: furit aestus ad auras, ***Ver.*** : quia
 a tender age.
 ##### aeternitās ātis, f
 eternity, endlessness, immortality: tempus, pars aeternitatis: animorum. — Fig., immortality, enduring renown: mihi aeternitatem donare: ad memoriam aeternitatis, for perpetual remembrance.
+##### aeternō —, —, āre
+to perpetuate, immortalize: virtutes in aevom, ***Hor.***
 ##### aeternum subst. and adv.
 see aeternus.
 ##### aeternus adj.
@@ -573,6 +621,8 @@ a small estate, little field: Agelli paulum, ***Ter.*** : agelli singulorum.
 effective, powerful: imagines.
 ##### agger eris, m
 a mass, heap, collection, pile: aggere paludem explere, ***Caes.*** : longius erat agger petendus, ***Caes.*** : fossas aggere conplent, ***Ver.*** — A heap of rubbish, pile of stones, bank, mound, dam, pier, hillock, wall, dike, mole, rampart: aggeribus niveis informis terra, with snow-drifts, ***Ver.*** : proelia miscent Aggeribus murorum, ***Ver.*** : molirique aggere tecta, a stockade, ***Ver.*** : aggeribus ruptis amn is exit, dams, ***Ver.*** : muniti aggere portūs, a breakwater, ***Ov.*** : viae agger, a causeway, ***Ver.*** — Poet.: aggeres Alpini, i. e. mountains, ***Ver.*** — A funeral pile, ***Ov.*** — A platform (for a speaker), ***Ov.*** — In war, a mound erected before a besieged city to sustain battering engines: vineis ad oppidum actis, aggere iacto, ***Caes.*** : aggerem iacere, ***Sall.*** : promovere ad urbem, to bring near to the city, ***Liv.***; usu. of wood; hence, ut agger, tormenta flammam conciperent, ***Caes.*** : aggerem ac vineas incendium hausit, ***Liv.*** — Fig.: esset agger oppugnandae Italiae, a rampart for attacking. — Freq. of mounds or terraces in Rome, built for defence, and afterwards used as promenades, a boulevard, terrace: maximus (Tarquinii): (Servius) aggere circumdat urbem, ***Liv.*** : Aggere in aprico spatiari, ***Hor.*** — A mound to protect a camp: seges aggere cingit, ***Ver.***
+##### aggerō āvī, —, āre
+to make a mound of, heap up, pile: Cadavera, ***Ver.*** : Laurentis praemia pugnae, ***Ver.*** — Fig., to pile up, increase, stimulate: iras dictis, ***Ver.*** — To fill with earth: spatium, ***Curt.***
 ##### agilis e, adj.
 nimble, quick, agile, lively, prompt: Cyllenius, ***Ov.*** : agilis fio, a business man, ***Hor.*** : Quae circumvolitas agilis thyma? ***Hor.*** : remus, ***Ov.*** : rota, ***Ov.***
 ##### agilitās ātis, f
@@ -627,6 +677,12 @@ a soldier of the legion Alauda (lark), which Caesar raised in Gaul, ***Cic.***
 white - robed, clothed in white: epuli dominus: natalis (dies), ***Hor.***
 ##### albēns ntis, adj.
 whitening, white: spumae, ***Ov.*** : tempora canis, ***Ov.*** : ossa, ***Tac.***
+##### albeō —, —, ēre
+to be white: campi ossibus, ***Ver.*** , ***Ov.*** : albente caelo, at dawn, ***Caes.***
+##### albēscō —, —, ere
+inch, to become white, whiten: mare albescit: fluctus vento, ***Ver.*** : albescens capillus, ***Hor.*** : flammarum tractus, brightens, ***Ver.*** : lux, dawns, ***Ver.***
+##### albicō —, —, āre
+to be white: prata pruinis, ***Hor.*** : albicans litus, Ct.
 ##### albidus adj.
 whitish, white: spuma, ***Ov.***
 ##### Albula ae, f
@@ -727,8 +783,12 @@ of the Alps, Alpine: rigor, ***Ov.*** : nives, ***Ver.*** : gentes, ***Liv.***
 cool, chilly (only comp n.): Antio nihil alsius.
 ##### altercātiō ōnis, f
 a debate, discussion, alternate discourse: Lentuli et Caninii: magnā de re cum Velleio: altercatione congredi, ***Liv.***
+##### altercō āvī, —, āre
+to wrangle: cum patre, ***Ter.***
 ##### alternīs adv.
 alternately, by turns: rogando alternis suadendoque, now requesting, now persuading, ***Liv.*** : alternis fidens ac diffidens, ***Liv.***
+##### alternō āvī, —, āre
+to do by turns, interchange: vices, to exchange parts, ***Ov.*** : alternanti potior sententia visa, hesitating, ***Ver.*** : alternantes proelia miscent, fight by turns, ***Ver.***
 ##### alternus adj.
 one after the other, alternate, in turn, reciprocal: ex duabus orationibus capita alterna recitare: alternis trabibus ac saxis, beams alternating with stones, ***Caes.*** : pes, ***Hor.*** : alterni si congrediamur, every other one of us, ***Ver.*** : in hoc alterno pavore, i. e. panic alternately in either army, ***Liv.*** : fratrem alternā morte redimere, by dying and reviving with him in turn, ***Ver.*** : alternis paene verbis laudans, with almost every other word, ***Liv.*** : amant alterna Camenae, responsive song, ***Ver.*** : alternis aptum sermonibus, dialogue, ***Hor.*** — Of verses, alternate hexameter and pentameter, elegiac: pedes alternos esse oportebit: canere alterno carmine, ***Ov.*** — In courts the parties took turns in challenging judges; hence, alterna consilia reicere, to reject by turns: reiectio iudicum alternorum.
 ##### alticinctus adj.
@@ -833,6 +893,8 @@ a loved one, mistress: de amiculā rixatus.
 an outer garment, mantle, cloak: amicae: purpureum, ***Liv.***
 ##### amīculus ī, m dim.
 a pet friend, crony: meus: quae censet amiculus, ***Hor.***
+##### āmigrō —, —, āre
+to migrate: Romam, ***Liv.***
 ##### āmissiō ōnis, f
 a losing, loss: oppidorum: dignitatis: liberorum.
 ##### āmissum ī, n
@@ -857,6 +919,8 @@ ambiguity.
 an amphitheatre, oval building for public spectacles, ***Tac.***
 ##### Amphrȳsius adj.
 of Amphrysus. — Poet., of Apollo: vates, the Sibyl, ***Ver.***
+##### amplexō —, —, āre
+(rare for amplexor): auctoritatem amplexato.
 ##### amplexus ūs, m
 an encircling, surrounding, circuit: serpentis amplexu: exuit amplexūs, my embrace, ***Ov.*** : Occupat (serpens) longis amplexibus illos, ***Ov.*** : oceanus, qui orbem terrarum amplexu finit, ***Liv.*** — Esp., a loving embrace, caress: Cum dabit amplexūs, ***Ver.*** : alqm impedire amplexu, ***Ov.*** : tenere alqm amplexu, ***Tac.***
 ##### amplificātiō ōnis, f
@@ -910,6 +974,8 @@ a man woman, hermaphrodite.
 dill, anise: bene olens, ***Ver.***
 ##### ānfrāctus ūs, m
 a recurving, turning, bending round: quae (figura) nihil incisum anfractibus habere potest: solis, a circuit. — Esp., a tortuous way, circuitous route: si nullus anfractus intercederet, ***Caes.*** : longior, ***Nep.*** : litorum, ***Liv.*** — Fig., of style, circumlocution, prolixity. — Intricacies: iudiciorum.
+##### angō —, —, ere
+to draw close, press tight, squeeze, compress, throttle, choke: sanguine guttur, ***Ver.*** : Tussis sues angit, ***Ver.*** — Fig., to torment, torture, vex, tease, trouble: cura angit hominem, ***Ter.*** : angebat spiritus virum, ***Liv.*** : meum pectus, ***Hor.*** : animos, ***Liv.*** : consulis animum, ***Liv.*** : si animus... neque tot curis angeretur: cruciatu timoris angi: vehementer angebar, virum esse, etc.: angebatur animi, quod, etc.: de Statio manumisso angor.
 ##### angor ōris, m
 a strangling, suffocation: gens aestu et angore vexata (i. e. by dust and ashes), ***Liv.*** — Fig., anguish, torment, trouble: ut differt anxietas ab angore: pro amico capiendus: confici angoribus, by melancholy.
 ##### anguiculus ī, m dim.
@@ -924,6 +990,8 @@ of serpents, snaky: Gorgonis comae, ***Ov.***
 with corners, angular: corpuscula.
 ##### angulus ī, m
 an angle, corner: ad pares angulos ferri, at right angles: huius lateris alter, ***Caes.*** : extremus, the farthest corner, ***Ov.*** : proximus, ***Hor.*** — Meton., a secret place, nook, corner, lurking-place: in angulum aliquo abire, ***Ter.*** : provinciae: Ille terrarum, ***Hor.*** : puellae risus ab angulo, ***Hor.*** : ut de his rebus in angulis disserant. — Of a little country-seat: Angulus iste, ***Hor.*** — Fig.: ad omnīs litterarum angulos revocare, i. e. petty discussions.
+##### angustō —, —, āre
+to make narrow, straiten: iter corporum acervis, Ct.
 ##### angustum ī, n
 a narrow place: viarum, ***Ver.*** : res adducta in angustum, brought into narrow limits. — Fig., a critical condition, embarrassment, difficulty, danger: rem esse in angusto vidit, ***Caes.*** : in angustum venire.
 ##### anhēlitus ūs, m
@@ -990,12 +1058,16 @@ a goose; sacred to Juno, ***Cic.*** , ***Liv.*** , II.
 before, earlier, formerly, aforetime, previously: antea, cum equester ordo iudicaret: ac fuit antea tempus, cum, ***Caes.*** : cum antea semper factiosus fuisset, ***Nep.*** : si numquam antea cogitasset, tamen, etc.: semper antea... tum: clipeis antea Romani usi sunt, deinde scuta fecere, formerly... afterwards, ***Liv.*** : Quis tuum patrem antea, qu is esset, quam cuius gener esset, audivit?
 ##### antecēdēns entis, adj.
 foregoing, preceding: hora. — In philosophy, the antecedent: causa. — Plur. as subst, the premises (of reasoning).
+##### antecellō —, —, ere
+to be prominent, distinguish oneself, excel, surpass, be superior: longe ceteris: ubertate agrorum terris: omnibus gloriā: vestrae exercitationi ad honorem, with respect to honor: perigrinam stirpem, ***Tac.*** : omnes fortunā, ***Tac.*** : militari laude.
 ##### antecessiō ōnis, f
 a going before, preceding. — Meton., an antecedent.
 ##### antecursor ōris, m
 a forerunner; only plur, the vanguard, pioneers, ***Caes.***
 ##### antefīxus adj.
 fastened before: truncis arborum antefixa ora, i. e. skulls, ***Tac.*** — Plur n. as subst, little images on the front of a house or temple, ***Liv.***
+##### antehabeō —, —, ēre
+to prefer: quieta turbidis, ***Tac.*** : incredibilia veris, ***Tac.***
 ##### antehāc (disyl., ***Hor.***), adv.
 of time, before this time, before now, formerly, hitherto: fecit, ***Ter.*** : antehac uti solebat, etc.: antehac nefas (erat)... dum, etc., ***Hor.*** — Before that time, earlier, previously: saepe antehac fidem prodiderat, ***Sall.***
 ##### antelūcānus adj.
@@ -1130,6 +1202,8 @@ a plough: subigere terram aratris: imprimere aratrum muris, i. e. to destroy utt
 a female witness, ***Hor.***
 ##### arbitrium ī, n
 a judgment, decision of an arbitrator: iudicium est pecuniae certae: arbitrium incertae. — Judgment, opinion, decision: vestrum, ***Ter.*** : de te facere arbitria, pass judgment, ***Hor.*** : arbitria belli pacisque agere, ***Liv.*** : opinionis: usus, Quem penes arbitrium est loquendi, ***Hor.*** — Mastery, dominion, authority, power, will, free-will, choice, pleasure: in eius arbitrium venire: ad suum arbitrium imperare, ***Caes.*** : (Iovis) nutu et arbitrio regi: rerum Romanarum, ***Tac.*** : ad arbitrium tuum testīs dabo, all the witnesses you require: quid suo fecerit arbitrio, ***Liv.*** : popularis aurae, dictation, ***Hor.*** : id arbitrium negavit sui esse consilii, for his consideration, ***Nep.*** : optandi Muneris, ***Ov.*** — An appraisement, apportionment: eius arbitrio sexagena talenta quotannis sunt conlata, ***Nep.*** : salis vendendi, i. e. monopoly, ***Liv.*** : arbitria funeris, expenses (fixed by an arbiter).
+##### arbitrō āvī, —, āre, collat. form of arbitror
+to consider, believe, suppose: deesse arbitrato ‘deorum. ’ — Pass: ut bellum confectum arbitraretur: teneri ab adversariis arbitrabantur (portūs), ***Caes.***
 ##### arbustum ī, n
 a place where trees are planted, plantation, vineyard planted with trees, ***Cic.*** , ***Ver.*** , ***Hor.*** — Plur, trees, shrubs, ***Ver.*** , ***Ov.***
 ##### arbustus adj.
@@ -1198,6 +1272,8 @@ an argument, evidence, ground, support, proof: Sthenium sine argumento damnare: 
 a creaking: lecti, Ct.
 ##### argūtiae ārum, f
 liveliness, animation: digitorum, lively movements. — Fig., brightness, acuteness, subtlety, wit: Hyperidi. — Shrewdness, cunning: alqd persequi suis argutiis.
+##### argūtō —, —, āre
+to prattle, prate: mihi ignes, ***Prop.***
 ##### arista ae, f
 the top of an ear, beard of corn: munitur vallo aristarum: tenerae, ***Ver.*** — An ear of grain: pinguis, ***Ver.*** — Of spikenard, ***Ov.*** : solae aristae, i. e. only crops of grain, ***Ver.***
 ##### armamaxa ae, f
@@ -1344,6 +1420,8 @@ bountifully, only comp: auctius Di fecere, ***Hor.***
 an increase: frumenti, ***Tac.*** — A sale by increasing bids, auction, public sale: auctionem constituere: vendere, to hold: fortunae regiae, ***Liv.*** : in auctione vēnire.
 ##### auctiōnārius adj.
 of an auction: atria: tabulae, catalogues.
+##### auctitō —, —, āre
+freq, to increase greatly: pecunias faenore, ***Tac.***
 ##### auctius adv.
 see aucte.
 ##### auctōrāmentum ī, n
@@ -1438,6 +1516,8 @@ a bold deed, reckless act: fortia ausa, V: auso potiri, to succeed in boldness, 
 an urn, boiler.
 ##### autumnus adj.
 autumnal, of the autumn: frigus, ***Ov.***
+##### autumō āvī, —, āre
+to say aye, assert, aver, affirm, say: facturum autumat, ***Ter.*** : insanum (eum), ***Hor.***
 ##### auxiliārius adj.
 assistant, auxiliary: cohors: equites, ***Sall.***
 ##### auxiliātor ōris, m
@@ -1452,6 +1532,8 @@ oats, ***Ver.*** : steriles avenae, wild oats, ***Ver.*** : si avenam videris, i
 of Lake Avernus: aquae, ***Hor.*** : nymphae, ***Ov.*** : Sibylla, ***Prop.***
 ##### Avernus adj.
 freta, portus, ***Ver.*** — Of the lower world, infernal: stagna, ***Ver.*** : Iuno, i. e. Proserpina, ***Ov.*** — Plur n., the region about Avernus, ***Ver.*** , ***Ov.*** — The lower world, ***Ver.***
+##### āverrō —, —, ere
+to sweep away: carā piscīs mensā, i. e. to clear the (fishmonger's) table at a high price, ***Hor.***
 ##### āversor ōris, m
 a thief, embezzler: pecuniae.
 ##### avia ae, f

@@ -42,6 +42,8 @@ Prop., a district of Lydia; hence, Etruria (settled by Lydians), ***Ver.***
 a Maeonide, native of Maeonia; hence, Homer, ***Ov.*** — Plur, the Etrurians, ***Ver.***
 ##### Maeonius adj.
 of Maeonia, Lydian, ***Ver.*** , ***Ov.*** — Of Homer, Homeric, epic: carmen, ***Hor.*** , ***Ov.*** — Etrurian: nautae, ***Ov.***
+##### maereō —, —, ēre
+to be sad, be mournful, mourn, grieve, lament: cum maereret Menelaus: alienis bonis: genero, Tb.: nihil profici maerendo: domo vacuā, ***Ver.*** : Quod cadat, ***Ov.*** : talia maerentes, thus lamenting, ***Ov.*** : sono tenui, ***Ov.*** — To mourn over, bemoan, lament, bewail: fili mortem: rei p. calamitatem: illud: penatīs iniquos, ***Hor.*** : raptam deam, ***Ov.*** : eam (patriam) concidere.
 ##### māgālia ium, n
 little dwellings, huts, tents: Miratur molem, magalia quondam, ***Ver.***
 ##### magicus adj.
@@ -60,6 +62,8 @@ greatness of soul, magnanimity.
 greatsouled, high-minded, magnanimous: homo: vir i: equi, high-spirited, ***Ver.*** : duces (of bees), ***Ver.***
 ##### māgnificentia ae, f
 loftiness, grandeur, nobleness, high-mindedness: liberalitatis. — Of things, grandeur, magnificence, splendor, sumptuousness: ludorum: extra modum magnificentiā prodire: publicorum operum, ***Liv.*** — Display, pomposity, boastfulness: verborum, bombast: istaec, ***Ter.*** : composita in magnificentiam oratio, ***Tac.***
+##### māgnificō —, —, āre
+to make much of, set a high value on: illam... se, ***Ter.***
 ##### māgniloquentia ae, f
 elevated language, lofty style: hexametrorum: Homeri. — Pompous language, magniloquence, boasting: alcuius, ***Liv.*** : magno stat magniloquentia nobis, ***Ov.***
 ##### māgniloquus adj.
@@ -148,14 +152,20 @@ with long sleeves: tunica.
 with comp, palpably, plainly, distinctly: hac re compertā: manifestius ipsi apparere, ***Ver.***
 ##### manifēstō adv.
 palpably, openly, evidently, manifestly: ut res a vobis deprehenderetur: facinus compertum.
+##### manifēstō —, —, āre
+to discover, disclose, betray: (Ithacum) latentem, ***Ov.***
 ##### manipulātim adv.
 by maniples: dispersi aliis aliā manipulatim, in squads, ***Liv.***
 ##### Mānliānus adj.
 of a Manlius: supplicium, ***Liv.*** — Severe (because of the proverbial harshness of ***Liv.*** Manlius Torquatus, dictator): imperia, ***Liv.*** : Manliana vestra (sc. imperia).
 ##### mannus ī, m
 a small Gallic horse, coach-horse, cob: (serpens) Terruit mannos, ***Hor.*** : Appiam (viam) mannis terit, ***Hor.***
+##### mānō āvī, —, āre
+to flow, run, trickle, drop, drip: toto manabat corpore sudor, ***Ver.*** : manant ex arbore guttae, ***Ov.*** : lacrima, ***Hor.*** — To be drenched, flow, drip, overflow: simulacrum multo sudore manavit: signa Lanuvi cruore manavere, ***Liv.*** : manantia labra salivā, ***Iuv.*** — To give out, shed, pour forth, distil: lacrimas marmora manant, ***Ov.*** : fidis poëtica mella, distil poetic honey, ***Hor.*** — To flow, extend, be diffused, spread: aër, qui per maria manat: multa ab eā (lunā) manant. — Fig., to extend, be diffused, spread, get abroad: cum malum manaret in dies latius: manat totā urbe rumor, ***Liv.*** : manat per compita rumor, ***Hor.*** — To flow, spring, arise, proceed, emanate, take origin, originate: ex uno fonte omnia scelera manare: ab Aristippo Cyrenaica philosophia manavit. — To escape, be forgotten: Omne supervacuum pleno de pectore manat, ***Hor.***
 ##### mānsiō ōnis, f
 a staying, remaining, stay, continuance: de tuā mansione communicat: Formiis: cautior certe est mansio: mansiones diutinae Lemnī, ***Ter.***
+##### mānsitō āvī, —, āre, freq.
+to stay, tarry, abide: sub eodem tecto, ***Tac.*** : unā, ***Tac.***
 ##### mānsuētē adv.
 gently, mildly, calmly, quietly: factum: imperio oboediens, ***Liv.***
 ##### mānsuētūdō inis, f
@@ -174,12 +184,16 @@ a workman's pay, artisan's hire, wages: in auro, praeter manupretium, nihil inte
 huts, cottages, portable dwellings (of nomads), ***Sall.*** , ***Tac.*** : cum mapalibus pecoribusque suis persecuti sunt regem, ***Liv.*** : raris habitata mapalia tectis, ***Ver.***
 ##### mappa ae, f
 a napkin, table-napkin, towel: mappā compescere risum, ***Hor.*** : rubra, ***Iuv.*** — A signal-cloth, flag (in the circus as a signal for the racers): Megalesiaca, ***Iuv.***
+##### marceō —, —, ēre
+to be faint, droop, be feeble, be languid: luxuriā, ***Liv.*** — P. praes.: Potor, ***Hor.*** : pax, ***Tac.*** : guttura, ***Ov.***
 ##### Mārciānus adj.
 of a Marcius: carmina, ***Liv.*** : foedus.
 ##### marcidus adj.
 withered, wilted: lilia, ***Ov.*** — Enervated, exhausted: somno aut libidinosis vigiliis, ***Tac.***
 ##### Mareōticus adj.
 of Mareota, Mareotic: (vinum), ***Hor.*** — Egyptian: arva, ***Ov.***
+##### marginō —, —, āre
+to border, enclose: vias marginandas locare, i. e. with kerbstones, ***Liv.***
 ##### marīnus adj.
 of the sea, sea-, marine: umores: monstra, ***Ver.*** : Thetis, ***Hor.*** : di, ***Ov.*** : ros, rosemary, ***Hor.*** : vituli, sea-calves, ***Iuv.***
 ##### mariscae ārum, f
@@ -190,6 +204,8 @@ a married woman, wife, ***Hor.*** , ***Ov.***
 of married people, matrimonial, nuptial: vestis, ***Ov.*** : capistrum, the marriage-halter, ***Iuv.***
 ##### maritimus or maritumus adj.
 of the sea, sea-, marine, maritime: ora, ***Sall.*** : homines, mariners: hostis: urbes, on the sea-coast: civitas, ***Caes.*** : agri, ***Liv.*** : cursūs, voyages: res, maritime affairs: naves, sea-going, ***Liv.*** : bellum, with pirates, ***Sall.*** : silvae, on the coast: nuptiae, i. e. of Peleus with Thetis. — Plur. n. as subst, maritime parts, places on the sea: in maritimis sum: marituma Aetoliae vastare, ***Liv.***
+##### marītō —, —, āre
+to wed, marry: maritandum principem suaderent, ***Tac.*** — Of plants: vitium propagine pōpulos, i. e. binds fast, ***Hor.***
 ##### marītus adj.
 of marriage, matrimonial, conjugal, nuptial, marriage-: faces, ***Ov.*** : foedus, the conjugal tie, ***Ov.*** : Venus, wedded love, ***Ov.*** : lex, marriage-law, ***Hor.*** : per maritas domos, i. e. of married people, ***Liv.*** — As subst m., a married man, husband: novos Fiam, ***Ter.*** : quam optimae (mulieris): iuvenis, ***Hor.*** : patrius, ***Ver.*** : Phrygio servire marito, ***Ver.*** : Unico gaudens mulier marito, ***Hor.*** — A lover, suitor (poet.): aegram (Dido) nulli quondam flexere mariti, ***Ver.*** — Of animals, the male: olens, i. e. he-goat, ***Hor.*** : Quem pecori dixere maritum, ***Ver.***
 ##### marmoreus adj.
@@ -308,6 +324,8 @@ of Medusa, Medusean, ***Ov.***
 one of the Furies, ***Ver.***
 ##### Megalēsiacus adj.
 of the Megalesia, ***Iuv.***
+##### mēiō —, —, ere
+to make water, Ct., ***Hor.*** , ***Iuv.***
 ##### melancholicus adj.
 with black bile, melancholy.
 ##### melanūrus ī, m
@@ -372,6 +390,8 @@ a measuring, measurement: mensurae itinerum, ***Caes.*** : certae ex aquā mensu
 a calling to mind, making mention, mentioning, naming, mention: Phaedriae, ***Ter.*** : casu in eorum mentionem incidi, happened to mention them: tu i: eius rei facta: oratio accusatorum mentionem habet, mentions, ***Liv.*** : mentio incohata adfinitatis, the subject introduced, ***Liv.*** : de furtis, ***Hor.*** : caput legis, de quo ante feci mentionem: facere mentionem, placere statui, s i, etc.: secessionis mentiones ad volgus militum serere, suggestions, ***Liv.***
 ##### mentītus adj.
 imitated, counterfeit, feigned: tela, ***Ver.*** : figurae, ***Ov.*** : nomen, ***Ov.***
+##### meō āvī, —, āre
+to go, pass: quo simul meāris, ***Hor.*** : quā sidera lege mearent, ***Ov.*** : spiritus, ***Curt.***
 ##### mephītis is, f
 a noxious exhalation, mephitis, malaria: saeva, ***Ver.*** — Person., a goddess who averts malaria: templum, ***Tac.***
 ##### mercābilis e, adj.
@@ -406,6 +426,8 @@ a diver (a water-fowl): aprici, ***Ver.*** , ***Ov.***
 of mid-day, of noon: Tempus. — Southerly, to the south: vallis, ***Liv.***
 ##### merīdiātiō ōnis, f
 a mid-day nap, siesta.
+##### meritō āvī, —, āre, freq.
+to earn, yield: fundus, qui sestertia dena meritasset.
 ##### meritōrius adj.
 earning money: pueri, earning money by prostitution. — Plur. n. as subst, hired lodgings, ***Iuv.***
 ##### meritum ī, n
@@ -534,6 +556,8 @@ pitifuly, sadly, Ct.
 that may be hurled, thrown, missile: lapides missiles, sling-stones, ***Liv.*** : ferro, quod missile libro, a javelin, ***Ver.*** : sagittae, ***Hor.*** — Plur n. as subst. (sc. tela), missiles, darts, javelins: missilibus pugnabant, ***Liv.*** : missilibus lacessere, ***Ver.***
 ##### missiō ōnis, f
 a sending, despatching: litterarum: legatorum. — A release, setting at liberty, liberation: munus pro missione dare. — A discharge from service, dismissal: missionem petundi gratiā rogat, ***Sall.*** : praemium missionis ferre, ***Caes.*** : gratiosa ante emerita stipendia, a discharge obtained by favor, ***Liv.*** : nondum iusta, ***Liv.*** — Of gladiators, quarter: sine missione, to the death, ***Liv.*** — A cessation, end: ludorum.
+##### missitō āvī, —, āre, freq.
+to send repeatedly: supplicantīs legatos, ***Sall.*** : auxilia, ***Liv.***
 ##### missor ōris, m
 a thrower, archer: missore vacans sagitta, ***Cic.*** poët.
 ##### mitella ae, f dim.
@@ -704,6 +728,8 @@ a mulberry: nigra mora, ***Hor.*** , ***Ver.*** , ***Ov.*** — A blackberry, **
 a mulberry-tree, ***Ov.***
 ##### mōtiō ōnis, f
 a moving, motion, removing: principium motionis: corporum. — Fig., a sensation: suaves motiones.
+##### mōtō āvī, —, āre, freq.
+to keep moving, stir, agitate: Zephyris motantibus (umbras), ***Ver.*** : quam Stagna credunt motasse, ***Ov.***
 ##### mōtus adj.
 P. of moveo.
 ##### mōtus ūs, m
@@ -726,6 +752,8 @@ to beat, cudgel, maltreat, handle roughly, injure: dominum ad mortem, ***Ter.***
 a milking-pail, milkpail: Bis venit ad mulctram, ***Ver.***
 ##### mulctrum ī, n
 a milking-pail: veniunt ad mulctra capellae, ***Hor.***
+##### mulgeō —, —, ēre
+to milk: ovīs, ***Ver.*** — Prov.: mulgere hircos (of what is impossible), ***Ver.***
 ##### muliebriter adv.
 in the manner of a woman, like a woman: Expav it ensem, ***Hor.*** — Womanishly, effeminately: se lamentis dare: al quid facere.
 ##### mulier eris, f
@@ -810,6 +838,8 @@ Venus as goddess of sloth, ***Liv.***
 the purple-fish (a prickly shellfish): Baianus, ***Hor.*** , ***Ov.*** — The purple dye, purple (from the juice of the purple-fish): Tyrius, ***Ver.*** , ***Hor.*** — A pointed rock, sharp stone: acutus, ***Ver.*** — A caltrop, spiked trap (to check cavalry), ***Curt.***
 ##### muria ae, f
 brine, pickle, ***Hor.***
+##### murmurō āvī, —, āre
+to murmur, mutter, roar: murmurans mare: flebile, ***Ov.***
 ##### murreus adj.
 of fluorspar: pocula, ***Prop.***
 ##### Mūsa ae, f

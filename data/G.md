@@ -33,6 +33,8 @@ an eating-house: abductus in ganeum Aliquo, ***Ter.***
 a porter, ***Curt.***
 ##### Gangēticus adj.
 of the Ganges: tigris, ***Ov.***
+##### ganniō —, —, īre
+to bark, snarl, growl: Quid ille gannit? ***Ter.*** , ***Iuv.***
 ##### garrulitās ātis, f
 a chattering, babbling, prating, garrulity: Rauca, ***Ov.***
 ##### garrulus adj.
@@ -45,6 +47,8 @@ inward joy, joy, gladness, delight: gaudium atque laetitiam agitabat, ***Sall.**
 a treasure, royal treasury: regia, ***Nep.*** , ***Curt.*** — A treasure, riches, wealth: ab auro gazāque regiā manūs cohibere: Hieronis, ***Liv.*** : agrestis, store, ***Ver.*** — Plur: beatae Arabum, ***Hor.***
 ##### gelidē adv.
 coldly, indifferently: ministrare, ***Hor.***
+##### gelō —, —, āre
+to freeze, congeal. — Fig.: pavido gelantur Pectore, stiffened, ***Iuv.***
 ##### gemebundus adj.
 groaning, sighing, ***Ov.***
 ##### geminātiō ōnis, f
@@ -93,6 +97,8 @@ of generation, of birth, fruitful, generative: quattuor corpora, the four elemen
 a begetter, parent, father, creator, sire: sui: dubius, ***Ov.*** : Pelopis, i. e. Tantalus, ***Hor.*** : profundi, Neptune, ***Ov.*** : Quirine Urbis, ***Ov.*** — A source, cause, origin: quae (vocabula) genitor produxerit usus, ***Hor.***
 ##### genius ī, m
 a tutelar deity, genius: loci, ***Ver.*** : genio (populi R.) hostiae caesae, ***Liv.*** : cras genium mero Curabis, ***Hor.*** : acceptus geniis December (because of the Saturnalia), ***Ov.*** : te oro per genium tuom, ***Ter.*** : te per genium obsecro, ***Hor.*** — Taste, inclination: Suom defrudans genium, ***Ter.*** — Prophetic skill: Nemo mathematicus genium indemnatus habebit, ***Iuv.***
+##### genō —, —, ere
+to beget, bear. — Pass., to be born: si mihi filius genitur, old form. ap. ***Cic.***; see gigno.
 ##### genticus adj.
 peculiar to a nation, national: more gentico, ***Tac.***
 ##### gentīlis e, adj.
@@ -125,6 +131,8 @@ of the Germans, German: bellum, with the Germans, ***Caes.*** , ***Tac.*** — A
 the relation between children of the same parents, brotherhood, sisterhood: te moveat germanitas: germanitatis memoria, ***Liv.*** : ea (of colonies), ***Liv.***
 ##### germen inis, n
 a sprig, offshoot, sprout, bud: alienā ex arbore, ***Ver.*** : In novos soles germina Credere, ***Ver.*** : generosum, race, ***Ov.***
+##### germinō —, —, āre
+to sprout, bud: Germinat termes olivae, ***Hor.***
 ##### gerulus ī, m
 a carrier, porter, ***Hor.***
 ##### gestāmen inis, n
@@ -161,6 +169,8 @@ gravel: eo loco pulvis, non glarea iniecta est: viae glareā substruendae, ***Li
 full of gravel: saxa, ***Liv.***
 ##### glaucus adj.
 bright, sparkling, gleaming, grayish: amictus, ***Ver.*** : lumen (oculorum), ***Ver.*** : ulva, ***Ver.*** : equus, ***Ver.***
+##### glīscō —, —, ere
+to swell, spread gradually, grow imperceptibly: invidia gliscens, ***Liv.*** : seditio, ***Liv.*** : (multitudo) gliscit immensum, increases, ***Tac.*** : numero legiones, ***Tac.*** : gliscit violentia Turno, ***Ver.*** : gliscere alqm pati, to grow in power, ***Tac.***
 ##### globōsus adj.
 round as a ball, spherical, globular: stellae: mundus: saxa, ***Liv.***
 ##### globus ī, m
