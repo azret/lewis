@@ -24,6 +24,8 @@ to snarl at: ei alqd ad aurem, ***Ter.***
 a reproach, ***Caes.***
 ##### obiectus adj.
 lying before, opposite: nec visi obiectis silvis, because of the woods in front, ***Caes.*** : insula Alexandriae, ***Caes.*** : flumina, ***Ver.*** : obiectus fortunae, exposed: ad omnes casūs periculorum. — Plur n. as subst, charges, accusations: de obiectis non confiteri.
+##### obiectus, ūs m
+a putting against, opposing: miles tectus plutei obiectu, ***Caes.*** : insula portum Efficit obiectu laterum, opposition, ***Ver.*** : molium obiectūs scandere (i. e. moles obiectas), ***Tac.***
 ##### obīrātus adj.
 angered, angry: fortunae, ***Liv.***
 ##### obiter adv.
@@ -152,6 +154,8 @@ opposite, opposing; hence, in augury, struck by lightning. — Plur. n. as subst
 an obstruction, barrier: diuturna.
 ##### obtemperātiō ōnis, f
 a complying, obedience: legibus.
+##### obtentus, ūs m
+a drawing over, spreading over. — Only dat. and abl sing.: obtentu frondis, ***Ver.*** — Fig., a cover, pretext: cognominis, ***Liv.*** : rei p., ***Tac.***
 ##### obtestātiō ōnis, f
 an adjuration, solemn charge: quae mulier obtestatione viri debuit, etc., was bound by her husband's adjuration: legis. — An entreaty, supplication: matronae in obtestationes versae, ***Liv.*** : Phaedri.
 ##### obtexō —, —, ere
@@ -167,6 +171,8 @@ to detract from, belittle, disparage, underrate, decry: obtrectant is est angi a
 ##### obtūnsus adj.
 ##### obturbō āvī, ātus, āre
 to make turbid, disorder, confuse, trouble, disturb: hostes, ***Tac.*** : Itane vero obturbat? interrupts, ***Ter.*** : me litterae obturbant, distract.
+##### obtūtus, ūs m
+a looking at, gazing upon, gaze (only acc. and abl sing.): oculorum: obtutum in caudā figere: obtutu tacito stetit, ***Ver.*** — Fig.: in obtutu malorum, contemplation, ***Ov.***
 ##### obumbrō āvī, ātus, āre
 to overshadow, shade: caespes obumbrat humum, ***Ov.*** : obumbratus amnis, ***Curt.*** — To darken, obscure: aethera telis, ***Ver.*** : nomina, ***Tac.*** — Fig., to cover, cloak, screen, protect: crimen, ***Ov.*** : reginae nomen (eum) obumbrat, ***Ver.***
 ##### obuncus adj.
@@ -205,6 +211,8 @@ a taking possession, occupying, seizure: fori: vetus. — A business, employment
 to take into possession, seize, occupy, master, win: Italiam praesidiis: opportunae ad occupandum urbes, ***Liv.*** : portum, ***Hor.*** : tyrannidem: a potentioribus regna occupabantur, chieftains were aiming at, ***Caes.*** : Occupat amplexu, clasps, ***Ov.*** — To occupy, cover, take up, fill: quantum loci acies occupare poterat, ***Caes.*** : urbem (sc. aedificiis), ***Liv.*** : caementis mare, ***Hor.*** — To fall upon, attack: Latagum saxo os faciemque, strikes (in) the face, ***Ver.*** : Occupat hos morsu, longis complexibus illos, ***Ov.*** : manicis iacentem, fetters while prostrate, ***Ver.*** : Volteium Vilia vendentem, surprise, ***Hor.*** — To get the start of, be before-hand with, anticipate, do first, outstrip: egressas rates, ***Ov.*** : bellum facere, begin the war first, ***Liv.*** : rapere oscula, ***Hor.*** — To hinder: profluvium sanguinis occupat secantes, ***Curt.*** — Fig., to seize, take possession of, fill, invade, overspread, engross: mors ipsam occupat, ***Ter.*** : quae (tenebrae) totam rem p. tum occuparant: timor exercitum occupavit, ***Caes.*** : oculos nox occupat, are darkened, ***Ov.*** : fama occupat aurīs, ***Ver.*** — To gain, win, acquire: militarem gloriam, ***Tac.*** : obscuri speciem, pass for reserved, ***Hor.*** — To take up, fill, occupy, employ: tres et sexaginta annos aeque multa volumina occupasse mihi, ***Liv.*** : in funambulo Animum, ***Ter.*** : pecuniam adulescentulo grandi fenore occupavisti, invested at high interest: occupatur animus ab iracundiā: occupatus certamine est animus, ***Liv.***
 ##### occursātiō ōnis, f
 a running to meet, attention, greeting, officiousness: illa. — Plur: vestrae et vestrorum ordinum.
+##### occursus, ūs m
+a meeting, falling in with (only sing acc. and abl. and plur acc.): vacuis accursu hominum viis, where they met nobody, ***Liv.*** : prohiberi fratrum eius occursu, ***Curt.*** : rota Stipitis occursu fracta, by striking a stump, ***Ov.*** : occursum trepidare amici, ***Iuv.*** : Illius occursūs, ***Iuv.***
 ##### ōceanus ī, m
 the great sea, outer sea, ocean: mare, quem Oceanum appellatis: Oceani freta, i. e. the Strait of Gibraltar: quae civitates Oceanum attingunt, ***Caes.*** : circumvagus, circumflu ent, ***Hor.*** : pater rerum, i. e. primary element, ***Ver.*** — Person., son of Caelum and Terra, husband of Tethys, father of the rivers and nymphs, ***Cic.*** , ***Ver.***
 ##### ocellus ī, m dim.
@@ -221,6 +229,8 @@ the eighteenth: aetatis annus, ***Tac.***
 eighty times: sestertium (centena milia).
 ##### octuplus adj.
 eightfold, octuple: pars. — As subst n., an eightfold penalty, octuple: octupli damnari: iudicium in octuplum.
+##### octussis, is m
+eight asses (only abl plur.): Quanti emptae? Octussibus, ***Hor.***
 ##### oculus ī, m
 an eye: (lacrimulam) oculos terendo expresserit, ***Ter.*** : magis te quam oculos amo meos, ***Ter.*** : eminentes, prominent: oculi tamquam speculatores: maligni, ***Ver.*** : oculi in Oppianicum coniciebantur, were turned: adiectum esse oculum hereditati, his eye was on: ad omnia vestra oculos adicere: oculos de isto nusquam deicere, regard with fixed attention: demittere, ***Ov.*** : attollere, ***Ver.*** : circumferre, ***Ov.*** : premere, ***Ver.*** : deponere, to fix, ***Hor.*** : oculis somno coniventibus: unguibus illi in oculos involare, fly at, ***Ter.*** : quod ante oculos est, is in full view: ne abstuleritis observantibus etiam oculos, cheat out of their eyes, ***Liv.*** : in oculis civium vivere, in public: in oculis omnium submergi, ***Curt.*** : ab oculis concedere: ex oculis abire, out of sight, ***Liv.*** : facesserent ex urbe ab oculis populi R., ***Liv.*** : sub oculis accepto detrimento, in (Caesar's) presence, ***Caes.*** : eum quoque oculum, quo bene videret, amittere, lost the sight of: altero oculo capitur, becomes blind of one eye, ***Liv.*** — A luminary: mundi oculus, the sun, ***Ov.*** — In plants, an eye, bud, bourgeon: oculos imponere, inoculate, ***Ver.*** — Fig., a principal ornament: duo illos oculos orae maritimae effoderunt, i. e. Corinth and Carthage. — The eye of the soul, mind's eye: eius cru <⋆>iatu pascere oculos, feast one's eyes: fructum ocul is ex eius casu capere, delight their eyes, ***Nep.*** : tuo viro oculi dolent, i. e. he is afflicted, ***Ter.*** : acies et arma in ocul is erant, in view, ***Curt.*** : si in oculis sis multitudinis, are belo<⋆>ed by: oderat tum. cum... iam fert in oculis, values highly: rex te ergo in oculis gestare? held dear, ***Ter.*** : aequis oculis videre, i. e. contentedly, ***Curt.*** : simul est illud ante oculos, obvious: mors (ei) ob oculos versatur, is in view: ora eorum ponite vobis ante oculos, picture to yourselves: pone illum ante oculos diem, fix your thoughts on: nec a re p. deiciebam oculos, lose sight of.
 ##### odiōsē adv.
@@ -285,6 +295,8 @@ an olive-grove, olive-orchard.
 oil: pingue, ***Ver.*** : perfundere piscīs olivo, ***Hor.*** , ***Ov.*** — An ointment, unguent, Ct., ***Prop.*** — Fig., the palaestra (because wrestlers were anointed): cur olivum vitat? ***Hor.***
 ##### ōlla ae, f
 a pot, jar, ***Cic.*** , ***Hor.*** , ***Iuv.*** — Prov.: ipsa holera olla legit, the pot culls its own herbs, Ct.
+##### olor ōris, m
+a swan: arguti, ***Ver.*** : purpurei, ***Hor.*** , ***Ov.***
 ##### olōrīnus adj.
 of swans: pennae, ***Ver.*** : alae, ***Ov.***
 ##### Olympiacus adj.
@@ -420,6 +432,8 @@ of an orator, oratorical: ornamenta: vis dicendi.
 she that prays, a female suppliant: pac is et foederis.
 ##### ōrātum ī, n
 an entreaty, supplication: quom orata eius reminiscor, ***Ter.***
+##### ōrātus, ūs m
+a praying, request, entreaty; only abl sing.: oratu tuo.
 ##### orbātor ōris, m
 one who deprives of children, a bereaver: nostri, ***Ov.***
 ##### orbita ae, f
@@ -466,6 +480,8 @@ to fit out, furnish, provide, supply, equip, get ready, prepare: fugam, ***Ter.*
 the wild mountain-ash, ***Ver.*** , ***Hor.*** , ***Ov.***
 ##### ōrō āvī, ātus, āre
 to speak: talibus orabat Iuno, ***Ver.*** — To treat, argue, plead: matronis ipsis orantibus, i. e. at the mediation of: causam capitis, plead: causas melius, ***Ver.*** : cum eo de salute suā, treat, ***Caes.*** : ipse pro se oravit, pleaded his own cause, ***Liv.*** — To pray, beg, beseech, entreat, implore, supplicate: ‘me surpite morti, ’ orabat, ***Hor.*** : orando surdas aurīs reddideras mihi, ***Ter.*** : socer Non orandus erat, vi sed faciendus, to be made my father-in-law, not by entreaty but by compulsion, ***Ov.*** : gnato uxorem, request a wife for, ***Ter.*** : Quod ego per hanc te dextram oro, ***Ter.*** : illud te, ut, etc., ***Ov.*** : multa deos orans, ***Ver.*** : te oro, ut redeat, ***Ter.*** : te etiam atque etiam oro, ut, etc.: oratos vos omnīs volo, Ne plus possit, etc., ***Ter.*** : quod ne faciatis, oro obtestorque vos: oro atque obsecro, adhibeatis misericordiam: et vocet oro, ***Ver.*** : istam, Oro, exue mentem, ***Ver.*** : Per deos oro... Este mei memores, ***Ov.*** : admittier orant (i. e. ut admittantur), ***Ver.*** : orantes primi transmittere cursum (i. e. ut primi transmitterent), ***Ver.*** : ut Octavius orandus sit pro salute cuiusquam civis. — Parenthet., with te or vos, I beg, prithee: dic, oro te, clarius: ne illa quidem, oro vos, movent? ***Liv.***
+##### ōrsus, ūs m
+a beginning, undertaking, attempt (only acc plur.): vanos pectoris orsūs.
 ##### ortus adj.
 sprung, descended, born: ab illo: a liberatoribus patriae, ***Liv.*** : ex eodem oco, ***Ter.*** : ex concubinā, ***Sall.*** : ex patricio sanguine, <⋆>.: Orte Saturno, ***Hor.*** : sorore eius, ***Liv.*** : regiā stirpe, ***Curt.***
 ##### ortus ūs, m
@@ -486,6 +502,8 @@ a showing, exhibition, display: ostentationis causā vagari, to attract notice, 
 a displayer, boaster, vaunter: factorum, ***Liv.***
 ##### ostentum ī, n
 a prodigy, wonder, portent: cum magnorum periculorum metus ex ostentis portenderetur: Victus ostentis, quae plurima viderat, ***Ov.***
+##### ostentus, ūs m
+a showing, display, sign, proof: ut Iugurthae scelerum ostentui essem, ***Sall.*** — A pretence: illa deditionis signa ostentui credere, ***Sall.***
 ##### ōstiārium ī, n
 a tax upon doors, door-tax, ***Caes.***
 ##### ōstiātim adv.

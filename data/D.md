@@ -570,6 +570,8 @@ belonging to disputation, dialectic: captiones. — As subst m., a dialectician,
 of Jupiter: flamen, the priest of Jove, ***Liv.*** : Flamen ad haec (sacra), ***Ov.*** — As subst: Dialis (sc. flamen), ***Ov.*** — Of the flamen Dialis: coniunx, ***Ov.***
 ##### dialogus ī, m
 a discussion, treatise in conversational form, dialogue.
+##### Diāna or (older) Dīāna, ae, f
+the goddess of light and of the moon (identified with ***Ter.*** , ***Cic.*** , ***Ver.*** , ***Hor.*** , ***Ov.*** : quem urguet iracunda Diana (i. e. an epileptic), ***Hor.*** — The moon: nocturnae forma Dianae, ***Ov.***
 ##### diārium ī, n
 a daily ration (only plur.): diariis militum celeritatem incitat: cum servis diaria rodere, ***Hor.***
 ##### dibaphus ī, f
@@ -922,6 +924,8 @@ from heaven, by a god, by divine influence, from a deity, by inspiration: alqd f
 a division, distribution: agri: orbis terrarum, ***Sall.*** — Fig., a rhetorical division.
 ##### dīvīsor ōris, m
 one who distributes: Italiae. — Esp., a distributer of bribes, election agent: divorsum indicia.
+##### dīvīsus, ūs m
+a division, distribution. — Only dat sing.: bona divisui fuere, ***Liv.*** : divisui facilis Macedonia, easily divided, ***Liv.***
 ##### dīvitiae ārum, f
 riches, wealth: possessores divitiis augere: divitiis incumbere repertis, ***Ver.*** : exstructae in altum, ***Hor.*** : certamina divitiarum, rivalries, ***Hor.*** — Prov.: supero Crassum divitiis, am richer than Crassus. — Treasures, ornaments: templum inclutum divitiis, ***Liv.*** : demite divitias, ***Ov.*** — Fig., richness, copiousness, affluence: ingeni: orationis.
 ##### dīvolgō or dīvulgō āvī, ātus, āre
@@ -956,6 +960,8 @@ a small cask, ***Liv.***
 a large, wide - mouthed, globular jar: Relevi dolia omnia, ***Ter.*** : inane lymphae, ***Hor.*** : cynici, ***Iuv.*** : de dolio haurire, i. e. new wine.
 ##### dolō āvī, ātus, āre
 to chip with an axe, hew: robur: stipes falce dolatus, ***Prop.*** : robore dolatus. — To cudgel, belabor, drub: fuste, ***Hor.*** — Fig., to rough-hew, hack out: opus.
+##### dolor ōris, m
+pain, smart, ache, suffering, anguish: Laborat e dolore, ***Ter.*** : differor doloribus, ***Ter.*** : corporis: cum dolore emori: de corpore fugit, ***Ver.*** — Distress, grief, tribulation, affliction, sorrow, pain, woe, anguish, trouble, vexation, mortification, chagrin: (est) aegritudo crucians: animi: dolorem ferre moderate: dolore prohibeor pronuntiare, ***Caes.*** : magnis doloribus liberatus: premit altum corde dolorem, ***Ver.*** : finire dolores, the torments of love, ***Hor.*** : speciem doloris voltu ferre, ***Tac.*** : Est iactura dolori Omnibus, ***Ov.*** : magno esse Germanis dolori Ariovisti mortem, ***Caes.*** — Indignation, wrath, animosity, anger, resentment: suum dolorem condonare, ***Caes.*** : veniam iusto dolori date: ingenuus: dolor quod suaserit, ***Hor.*** : repulsae, on account of, ***Caes.*** : iniuriae, ***Liv.*** : coniugis amissae, ***Ov.*** — Fig., a grief, object of grief: Tu dolor es facinusque meum, ***Ov.*** — In rhet., feeling, pathos.
 ##### dolōsē adv.
 craftily, deceitfully.
 ##### dolōsus adj.
@@ -990,6 +996,8 @@ the house carrier, snail, Poet. ap. ***Cic.***
 a tamer, breaker: equorum. — A subduer, vanquisher, conqueror: armorum: Persarum: maris, ruler, ***Ver.***
 ##### domitrīx īcis, f
 a tamer, subduer: equorum, ***Ver.*** — Poet.: ferarum clava, ***Ov.***
+##### domitus, ūs m
+a taming; only abl sing.: quadrupedum.
 ##### dōnārium ī, n
 a place of offerings, temple, sanctuary, altar. — Only plur: alta, ***Ver.*** : contingimus manibus donaria, ***Ov.***
 ##### dōnātiō ōnis, f
@@ -1011,6 +1019,8 @@ to endow, portion: sanguine Troiano dotabere, ***Ver.*** : funeribus, ***Ov.***
 a serpent, a large serpent, dragon: patrimonium circumplexus, quasi draco: squamosus, ***Ver.*** : cristatus, ***Ov.*** — A constellation, ***Cic.*** (poet.).
 ##### dracōnigena ae, f
 dragonborn: urbs, i. e. Thebes, ***Ov.***
+##### Dryades um, f
+wood-nymphs, dryads, ***Ver.*** , ***Ov.*** , ***Prop.***
 ##### dubitābilis e, adj.
 doubtful, to be doubted: verum, ***Ov.*** : virtus, ***Ov.***
 ##### dubitanter adv.

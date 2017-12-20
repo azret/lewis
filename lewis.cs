@@ -104,19 +104,19 @@ static class App {
         Regex ablūdō = new Regex("^(.+)ō —, ere$", RegexOptions.None);
         Regex aberrō = new Regex("^(.+)ō āvī, —, āre", RegexOptions.None);
         Regex adv = new Regex("^(.+) (adv.)$", RegexOptions.None);
-        Regex puella = new Regex("^(.+)a ae, (f|m|n)$", RegexOptions.None);
+        Regex puella = new Regex("^(.+)a(,)? ae(,)? (f|m|n)$", RegexOptions.None);
         Regex abacus = new Regex("^(.+)(us|um) ī, (f|m|n)$", RegexOptions.None);
         Regex puerulus = new Regex("^(.+)(us|um) ī, (f|m|n) dim.$", RegexOptions.None);
-        Regex volucris = new Regex("^(.+)is is, (f|m|n)$", RegexOptions.None);
-        Regex volūbilitās = new Regex("^(.+)ās ātis, (f|m|n)$", RegexOptions.None);
-        Regex ūsus = new Regex("^(.+)us ūs, (f|m|n)$", RegexOptions.None);
+        Regex volucris = new Regex("^(.+)is(,)? is(,)? (f|m|n)$", RegexOptions.None);
+        Regex volūbilitās = new Regex("^(.+)ās(,)? ātis(,)? (f|m|n)$", RegexOptions.None);
+        Regex ūsus = new Regex("^(.+)us(,)? ūs(,)? (f|m|n)$", RegexOptions.None);
         Regex pater = new Regex("^(.+)ter tris, (f|m|n)$", RegexOptions.None);
-        Regex pedes = new Regex("^(.+)es itis, (f|m|n)$", RegexOptions.None);
-        Regex pēgma = new Regex("^(.+)es atis, (f|m|n)$", RegexOptions.None);
+        Regex pedes = new Regex("^(.+)es(,)? itis(,)? (f|m|n)$", RegexOptions.None);
+        Regex pēgma = new Regex("^(.+)es(,)? atis(,)? (f|m|n)$", RegexOptions.None);
         Regex abaliēnātiō = new Regex("^(.+)ātiō īnis, (f|m|n)$", RegexOptions.None);
-        Regex volūtātiō = new Regex("^(.+)(i|r)ō ōnis, (f|m|n)$", RegexOptions.None);
+        Regex volūtātiō = new Regex("^(.+)(i|r|b)ō ōnis, (f|m|n)$", RegexOptions.None);
         Regex pectus = new Regex("^(.+)tus oris, (f|m|n)$", RegexOptions.None);
-        Regex perditor = new Regex("^(.+)(t|m|s|d|g|r|n)or ōris, (f|m|n)$", RegexOptions.None);
+        Regex perditor = new Regex("^(.+)(t|m|s|d|g|r|n|l|v|b)or ōris, (f|m|n)$", RegexOptions.None);
         Regex mōlēs = new Regex("^(.+)ēs is, (f|m|n)$", RegexOptions.None);
         Regex quiēs = new Regex("^(.+)ēs ētis, (f|m|n)$", RegexOptions.None);
         Regex mystēs = new Regex("^(.+)ēs ae, (f|m|n)$", RegexOptions.None);
@@ -124,6 +124,7 @@ static class App {
         Regex nātrīx = new Regex("^(.+)īx īcis, (f|m|n)$", RegexOptions.None);
         Regex fornix = new Regex("^(.+)ix icis, (f|m|n)$", RegexOptions.None);
         Regex nauseola = new Regex("^(.+)a ae, (f|m|n) dim.$", RegexOptions.None);
+        Regex Lūceres = new Regex("^(.+)es(,)? um(,)? (f|m|n)$", RegexOptions.None);
         Regex quadrīgulae = new Regex("^(.+)ae ārum, (f|m|n) dim.$", RegexOptions.None);
         Regex mollitūdō = new Regex("^(.+)ūdō inis, (f|m|n)$", RegexOptions.None);
         Regex frāgmen = new Regex("^(.+)men inis, (f|m|n)$", RegexOptions.None);
@@ -137,7 +138,7 @@ static class App {
         Regex Vīnālia = new Regex("^(.+)lia ium, (f|m|n)$", RegexOptions.None);
         Regex ānser = new Regex("^(.+)er eris, (f|m|n)$", RegexOptions.None);
         Regex antēs = new Regex("^(.+)ēs īum, (f|m|n)$", RegexOptions.None);
-        Regex anthias = new Regex("^(.+)(as|ās) ae, (f|m|n)$", RegexOptions.None);
+        Regex anthias = new Regex("^(.+)(as|ās)(,)? ae(,)? (f|m|n)$", RegexOptions.None);
         Regex verū = new Regex("^(.+)ū ūs, (f|m|n)$", RegexOptions.None);
         Regex virtūs = new Regex("^(.+)ūs ūtis, (f|m|n)$", RegexOptions.None);
         Regex animātus = new Regex("^(.+)us adj.$", RegexOptions.None);
@@ -149,7 +150,7 @@ static class App {
         Regex viridāns = new Regex("^(.+)āns antis, adj.$", RegexOptions.None);
         Regex vigilāx = new Regex("^(.+)āx ācis, adj.$", RegexOptions.None);
         Regex dux = new Regex("^(.+)ux ucis, (f|m|n)$", RegexOptions.None);
-        Regex rex = new Regex("^(.+)ex egis, (f|m|n)$", RegexOptions.None);
+        Regex rex = new Regex("^(.+)(ē|e)x (ē|e)gis, (f|m|n)$", RegexOptions.None);
         Regex vōx = new Regex("^(.+)ōx ōcis, (f|m|n)$", RegexOptions.None);
         Regex sandȳx = new Regex("^(.+)ȳx īcis, (f|m|n)$", RegexOptions.None);
 
@@ -162,6 +163,7 @@ static class App {
                 ablūdō,
                 prōvocō,
                 perpetuō,
+                Lūceres,
                 perplaceō,
                 rex,
                 dux,

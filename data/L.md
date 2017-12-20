@@ -548,6 +548,8 @@ a smearing on a writing tablet, blotting out, erasure, correction: unius nominis
 bluish, leadcolored, black and blue, livid: plumbum, ***Ver.*** : pruna, ***Ov.*** : crura compedibus: margarita, ***Tac.***
 ##### līveō —, —, ēre
 to be black and blue, be livid: livent rubigine dentes, ***Ov.*** — To envy: iis, qui eloquentiam exercent, ***Tac.***
+##### līvor ōris, m
+a bluish color, black and blue spot, bruise: Uva livorem ducit ab uvā, a taint, ***Iuv.*** — Fig., envy, spite, malice, ill-will: summotum patriā proscindere, Livor, Desine, ***Ov.*** : cupidus, ***Prop.*** : obtrectat io et livor, ***Tac.*** — Person., ***Ov.***
 ##### lixa ae, m
 a sutler, camp-follower: lixae permixti cum militibus, ***Sall.*** : non lixa sequebatur, ***Liv.*** : lixae ac negotiatores, ***Tac.***
 ##### locātiō ōnis, f
@@ -594,6 +596,8 @@ of Lucania (a district of Lower Italy), ***Caes.*** , ***Cic.*** , ***Hor.*** , 
 by daylight, see lux.
 ##### lucellum ī, n dim.
 a small gain, slight profit: Apronio aliquid lucelli dare: dulce, ***Hor.*** : alqd refero datum lucello, Ct.
+##### Lūceres um, m
+one of three tribes of free citizens in the old Roman state (see Ramnes, Tities), ***Cic.*** , ***Liv.*** , ***Ov.*** , ***Prop.***
 ##### lucerna ae, f
 a lamp, oil-lamp: lucerna me deserit, goes out: Vino et lucernis, i. e. evening entertainments, ***Hor.*** : Accessit numerus lucernis, the lights are seen double, ***Hor.*** : ante lucernas, before candle-light, ***Iuv.*** : lucernam accendere, ***Phaed.*** : Haec ego non credam Venusinā digna lucerna? lucubration, ***Iuv.***
 ##### lūcī adv.
@@ -638,6 +642,8 @@ very well: sane luculenter, very well said: Graece scire.
 an Etruscan priest; hence, as a proper name, the son of Demaratus of Corinth, afterwards king Tarquinius Priscus, ***Liv.***
 ##### lūcus ī, m
 a sacred grove, consecrated wood, park surrounding a temple: Albani luci: frequenti silvā saeptus, ***Liv.*** : virtutem verba putas et Lucum ligna, ***Hor.*** : laetissimus umbrae, ***Ver.*** — A wood, grove, ***Ver.*** , ***Ov.***
+##### lūcus, ūs m
+light (old for lux): cum primo lucu, at daybreak, ***Ter.*** (al. luci).
 ##### lūdia ae, f
 a gladiator's wife, ***Iuv.***
 ##### lūdibrium ī, n

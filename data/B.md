@@ -237,6 +237,8 @@ sup. of brevis the shortest day in the year, the winter solstice: ante brumam, *
 of the winter solstice: dies: signum, i. e. Capricorn. — Wintry, of winter: tempus: horae, ***Ov.*** : frigus, ***Ver.***
 ##### brūtus adj.
 heavy, inert, immovable: tellus, ***Hor.*** — Dull, insensible, irrational, Her.
+##### būbō ōnis, m
+an owl, horned owl: ignavus, ***Ov.*** : profanus, ***Ov.*** — Once f: sola, ***Ver.***
 ##### bubulcus ī, m
 an oxdriver, herdsman, ***Ver.*** — A ploughman, ***Cic.*** , ***Ov.*** , ***Iuv.***
 ##### būbulus adj.

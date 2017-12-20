@@ -451,6 +451,8 @@ a white mantle with horizontal stripes of scarlet, robe of state: trabeā decoru
 in a robe of state, arrayed in a trabea: Quirinus, ***Ov.*** : equites, ***Tac.***
 ##### tractātiō ōnis, f
 a handling, wielding, management, treatment: armorum: rerum magnarum: dicendi: philosophiae. — In rhet., of a subject, the treatment, handling, discussion. — Of a word, a special use, usage.
+##### tractātus, ūs m
+a handling, management, treatment. — Only abl sing.: artium.
 ##### tractim adv.
 at length: susurrant, in a continuous murmur, ***Ver.***
 ##### tractus adj.
@@ -645,6 +647,8 @@ of Tritonia: palus, a lake of Macedonia, ***Ov.*** : harundo, i. e. the flute in
 of Lake Triton (in Africa; the birthplace of Minerva), ***Ver.***
 ##### trītūra ae, f
 a rubbing, chafing, threshing: Magna, ***Ver.***
+##### trītus, ūs m
+a rubbing down, wearing away (only abl.): lapidum tritu.
 ##### triumphālis e, adj.
 of a triumph, triumphal: provincia, i. e. whose conquest was honored by a triumph: porta, entered in triumph: pictā Veste triumphales senes, in triumphal robes, ***Ov.*** : imagines, i. e. of generals who had triumphed, ***Hor.*** — n plur., the triumphal ornaments: Muciano triumphalia de bello civili data, ***Ov.***
 ##### triumphāns antis, adj.
@@ -653,6 +657,8 @@ triumphal, belonging to a triumph: equi, ***Ov.***
 to march in triumphal procession, celebrate a triumph, triumph: cupiditas triumphand i: ex praetura: de Numantinis: cum triumphantem (Camillum) albi per urbem vexerant equi, ***Liv.*** : quasi debellato triumphare, ***Liv.*** : vidimus ex eā urbe triumphari: populi iussu triumphatum est, ***Liv.*** — Pass, to be led in triumph, be conquered, be subdued, be the subjects of a triumph: Bisque triumphatas utroque ab litore gentes, ***Ver.*** : triumphatis dare iura Medis, ***Hor.*** : triumphatus bos, i. e. obtained as booty, ***Ov.*** — Fig., to triumph, exult, be glad, rejoice exceedingly: gaudio: in quo triumphat oratio mea: triumpho, si licet me, etc., ***Ter.***
 ##### triumvirālis e, adj.
 of the triumvirs, triumviral: flagellae, i. e. of the superintendents of prisons, ***Hor.*** : supplicium, ***Tac.***
+##### triumvirātus, ūs m
+the office of a triumvir, triumvirate. — Only abl: triumviratibus (gestis), ***Liv.***
 ##### triviālis e, adj.
 of the cross-roads, common, vulgar, trivial: carmen, ***Iuv.***
 ##### trivium ī, n
@@ -663,6 +669,8 @@ of the cross-roads: dea, i. e. Diana (worshipped where three ways meet), ***Prop
 a metrical foot of one long and one short syllable, trochee. — A metrical foot of three short syllables, tribrach.
 ##### trochus ī, m
 an iron hoop carrying small rings, trundling-hoop: Indoctus trochi, ***Hor.*** , ***Ov.*** , ***Prop.***
+##### Trōes um, m
+plur. of Tros.
 ##### Trōiānus adj.
 of Troy, ***Cic.*** , ***Hor.*** , ***Ver.*** , ***Ov.*** — Prov.: intus est equus Troianus, i. e. an ambush.
 ##### Trōicus adj.

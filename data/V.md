@@ -180,6 +180,8 @@ a hunter: pernoctant venatores in montibus: manet sub Iove frigido Venator, ***C
 of a hunter, for the chase: galea, ***Nep.***
 ##### vēnātrīx īcis, f
 a huntress: umeris suspenderat arcum Venatrix, ***Ver.*** : Venatrix metu venantum fugit, ***Ov.*** , ***Iuv.***
+##### vēnātus, ūs m
+hunting, the chase. — Only dat. and abl: labor in venatu: gens adsueta Venatu, ***Ver.*** : cum duris venatibus otia misce, ***Ov.*** : nympha venatibus apta, ***Ov.***
 ##### vēnditātiō ōnis, f
 a specious display, boasting, vaunting, blazoning: omnia, quae sine venditatione fiunt.
 ##### vēnditātor ōris, m
@@ -444,6 +446,8 @@ watchful, restless: Subura, ***Prop.*** — Fig.: curae, ***Ov.***
 a watching, wakefulness, sleeplessness, lying awake: Demosthenis vigiliae. — A keeping watch, watching, watch, guard: noctu vigilias agere ad aedīs sacras: scutum in vigiliam ferre, to take on guard, ***Liv.*** : vigiliarum nocturnarum curam magistratibus mandare, ***Liv.*** — A watch, time of keeping watch (a fourth part of the night): primā vigiliā, ***Liv.*** : de tertiā vigiliā, ***Caes.*** : vigiliae in stupris consumptae, i. e. nights. — Plur., the watch, men on watch, watchmen, sentinels, post, guard: milites disponit perpetuis vigiliis stationibusque, ***Caes.*** : si vigiliae, si iuventus armata est: vigilias disponere per urbem, ***Liv.*** — Fig., watchfulness, vigilance: vacuum metu populum R. nostrā vigiliā reddere. — A post, office, term of office: vigiliam meam tibi tradere: aliorum consulum.
 ##### vigilō āvī, ātus, āre
 to watch, keep awake, not to sleep, be wakeful: ad multam noctem: usque ad lucem, ***Ter.*** — To watch through: noctīs vigilabat ad ipsum mane, ***Hor.*** : noctes vigilantur amarae, ***Ov.*** : aetas vigilanda viris, ***Ver.*** : vigilata convivio nox, ***Tac.*** — Prov.: num ille somniat Ea, quae vigilans voluit? ***Ter.*** : vigilanti stertere naso, ***Iuv.*** — To perform watching, do at night: carmen vigilatum, ***Ov.*** : vigilati labores, ***Ov.*** — Fig., to be watchful, be vigilant: pro vobis: ut vivas, vigila, ***Hor.***
+##### vīgintīvirātus or XX virātus, ūs m
+the office of the twenty, vigintivirate (see vigintiviri). — A municipal court, ***Tac.***
 ##### vīgintīvirī ōrum, m
 a commission of twenty men, appointed by Caesar as consul to distribute lands.
 ##### vigor ōris, m
@@ -648,6 +652,8 @@ an appellation, designation, name: philosophorum habent disciplinae ex ipsis Voc
 uttering a voice, articulate, sounding, sonorous, speaking, crying, singing, vocal: nympha, i. e. Echo, ***Ov.*** : Orpheus, ***Hor.*** : ne quem vocalem praeteriisse videamur, i. e. who had a voice: terra Dodonis, ***Ov.*** — As subst f. (littera).
 ##### vocātiō ōnis, f
 an invitation to dinner, Ct.
+##### vocātus, ūs m
+a calling, call, summons, invocation. — Only abl sing. and acc plur.: vocatu Drusi venire: o numquam frustrata vocatūs Hasta meos, ***Ver.***
 ##### vōciferātiō ōnis, f
 a loud calling, clamor, outcry, vociferation, declamation: vociferatione uti.
 ##### vocō āvī, ātus, āre
@@ -658,6 +664,8 @@ a small voice, weak voice: recreandae voculae causā. — A soft note, low tone:
 fleeting, volatile, fickle: o Academiam volaticam: impetūs, wanton.
 ##### volātilis e, adj.
 winged, flying: bestiae: puer, i. e. Cupid, ***Ov.*** — Swift, rapid: telum, i. e. an arrow, ***Ov.*** : ferrum, ***Ver.*** — Fleeting, transitory: aetas, ***Ov.***
+##### volātus, ūs m
+a flying, flight (only abl sing., and acc. and abl plur.): aër volatūs alitum sustinet: volatibus avium declarari res futuras: Pegasaeo feror volatu, Ct., ***Ov.***
 ##### volēns entis, adj.
 willing, with purpose, of choice: eas (poenas) ipsi volentes pependere, of their own accord, ***Sall.*** : quia volentes in amicitiam non veniebant, ***Liv.*** : seu volens seu invitus, ***Liv.*** : Ipsa autem macie tenuant armenta volentes, purposely, ***Ver.*** : Quos fructūs ipsa volentia rura tulere carpsit, spontaneously, ***Ver.*** — Plur m. as subst, they who consent, they who are willing: tutiusque rati volentibus quam coactis imperitare, to rule men with their consent, ***Sall.*** : quippe rem p. si a volentibus nequeat, ab invitis ius expetituram, peaceably if they could, forcibly if they must, ***Liv.*** : labor est inhibere volentīs, ***Ov.*** — Willing, pleased, glad, eager: volenti animo acceperant, eagerly, ***Sall.*** : animis volentibus urbem Adferimur, purposely and gladly, ***Ver.*** : volenti consuli causa divertendi oblata est, i. e. welcome to the consul, etc., ***Liv.*** : uti militibus exaequatus cum imperatore labos volentibus esset, i. e. that the soldiers were zealous when the general shared their labors, ***Sall.*** : quibus bellum volentibus erat, probare exemplum, ***Tac.*** — Wellwishing, favorable, kindly, propitious: munificus nemo putabatur nisi pariter volens, i. e. liberality was always supposed to prove kind feeling, ***Sall.*** — Of the gods, willing, voluntary: do volentibu' cum magnis dis, with the favor of the gods, Enn. ap. ***Cic.*** : virtute ac dis volentibus magni estis, ***Sall.*** : diis propitiis volentibusque, with the favor and help of the gods, ***Liv.***
 ##### volgāre (vulg) adv.

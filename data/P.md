@@ -92,6 +92,8 @@ dressed in a pallium (usu. of Greeks): Graeculus iudex: illi palliati, i. e. Gre
 a small Greek mantle, little cloak: sordidum, Caec. ap. ***Cic.***; ***Iuv.*** — A hood, ***Ov.***
 ##### pallium ī, n
 a cover, coverlet: onerosa pallia iactat, ***Iuv.*** — A Grecian cloak, mantle: umerum pallio onerare, ***Ter.*** : Pone adprendit pallio, ***Ter.*** : purpureum: cum pallio inambulare, ***Liv.***
+##### pallor ōris, m
+pale color, paleness, wanness, pallor: quo tremore et pallore dixit!: albus, ***Hor.*** : gelidus, ***Ov.*** : pallor ora occupat, ***Ver.*** : amantium, ***Hor.*** : tot hominum pallores, the paleness of death, ***Tac.*** — Alarm, terror, ***Prop.*** — A disagreeable color, unsightliness: pallorem ducere, ***Ov.*** — Person., the god of fear, ***Liv.*** , ***Ov.***
 ##### palma ae, f
 the palm, flat hand: cum manum dilataverat, palmae illius similem, etc.: cavis undam palmis Sustinet, ***Ver.*** : faciem contundere palmā, ***Iuv.*** — The hand: palmarum intentus: passis palmis salutem petere, ***Caes.*** : amplexus tremulis altaria palmis, ***Ov.*** — The broad end of an oar, Ct. — A palm-tree, palm: in templo palma exstitisse ostendebatur, ***Caes.*** : ardua, ***Ver.*** — Sing. collect.: umbrosa, ***Iuv.*** — The fruit of the palmtree, date: Quid volt palma sibi, ***Ov.*** — A broom of palm-twigs: lapides lutulentā radere palmā, ***Hor.*** — A branch, twig, ***Liv.*** — A palm-branch, palm-wreath, token of victory, palm, prize, pre-eminence: palmae victoribus datae, ***Liv.*** : plurimarum palmarum gladiator, victories: cum palmam iam primus acceperit: Elea, ***Hor.*** : docto oratori palma danda est: Huic consilio palmam do, ***Ter.*** : donat mea carmina palmā, ***Ov.*** : subit... tertia palma Diores, i. e. winning the third prize, ***Ver.*** : Eliadum palmae equarum, the best, ***Ver.*** — The topmost twig, shoot, branch: unum cornu existit... ab eius summo sicut palmae ramique diffunduntur, ***Caes.*** : quae cuiusque stipitis palma sit, ***Liv.*** : palmae arborum eminentium, ***Curt.***
 ##### palmārius adj.
@@ -326,6 +328,8 @@ furnished with a pavement, paved: porticus.
 a level surface beaten firm, hard floor, pavement: facere: mero Tingere pavimentum, ***Hor.*** : palma ex pavimento extitisse, ***Caes.***
 ##### paviō —, —, īre
 to beat, strike: terram.
+##### pavor ōris, m
+a trembling, quaking, shaking, terror, anxiety, fear, dread, alarm: pavor sapientiam omnem mi exanimato expectorat, Enn. ap. ***Cic.*** : pavor ceperat milites ne mortiferum esset volnus, ***Liv.*** : corda stravit pavor, ***Ver.*** : pavore deposito, ***Ov.*** : captae urbis, panic, ***Liv.*** : haurit Corda pavor pulsans, trembling expectation, ***Ver.*** — Plur., ***Tac.*** — Person., the god of fear, ***Liv.***
 ##### peccātum ī, n
 a fault, error, mistake, transgression, sin: pro huius peccat is ego supplicium sufferam? ***Ter.*** : si peccato locus esset, ***Sall.*** : peccatum est patriam prodere: stultitiae: paucis verbis tria magna peccata, blunders: peccatis poenas aequas inrogare, ***Hor.***
 ##### peccātus ūs, m
@@ -756,6 +760,8 @@ to go over, pass through, cross, traverse: maria ac terras, ***Ov.*** : longius 
 very wonderful, amazing: illud vero mihi permirum accidit, fuisse, etc. — In tmesi: per mihi mirum visum est.
 ##### permissiō ōnis, f
 a yielding, surrender at discretion: extra civium corpora, ***Liv.*** — Leave, permission: mea permissio mansionis tuae.
+##### permissus, ūs m
+leave, permission; only abl: permissu legis: Lentuli, ***Liv.***
 ##### permīxtē or permīxtim adv.
 confusedly, promiscuously: dicere.
 ##### permīxtiō ōnis, f
@@ -1106,6 +1112,8 @@ a dice-box, ***Hor.***
 son of Phoebus, i. e. Aesculapius, ***Ver.***
 ##### Phoebus ī, m
 Apollo as the god of light, ***Ver.*** , ***Hor.*** — The sun: dum fugat astra Phoebus, ***Hor.*** , ***Ov.***
+##### Phoenīces um, m
+the Phoenicians (on the eastern coast of the Mediterranean Sea), ***Cic.*** , ***Sall.*** , ***Caes.*** , ***Ver.*** , ***Ov.***
 ##### phoenīceus adj.
 purple-red, scarlet: vestes, ***Ov.***
 ##### phoenīcopterus ī, m
@@ -1534,6 +1542,8 @@ on the day after, the next day: postridie constituunt proficisci, ***Caes.*** : 
 a requiring, demand, request, desire: aequa et honesta: concessit senatus postulationi tuae: opinione valentior. — A complaint, expostulation: neque lites ullae inter eas, postulatio Numquam, ***Ter.*** — An application for leave to sue: Tuberonis.
 ##### postulātum ī, n
 a demand, request, claim: hoc de statuis: ut remittantur postulata per litteras: sua quoque ad eum postulata deferre, ***Caes.*** : cognitis suis postulatis, ***Caes.*** : postulata facere, ***Nep.*** : peragere, i. e. to formulate, ***Liv.***
+##### postulātus, ūs m
+a claim, suit, complaint: postulatu audito, etc., ***Liv.***
 ##### postulō āvī, ātus, āre
 to ask, demand, claim, require, request, desire: incipiunt postulare, minari: nemo inventus est tam impudens qui postularet ut venderet: postulavere plerique, ut proponeret, etc., ***Sall.*** : suom ius postulat, ***Ter.*** : fidem publicam: ad senatum venire auxilium postulatum, ***Caes.*** : noctem sibi ad deliberandum: postulatur a te iam diu historia: quod principes civitatum a me postulassent: postulatum est, ut Bibuli sententia divideretur: legatos mittit postulatum, ne, etc., ***Sall.*** : qui postularent, eos sibi dederent, ***Caes.*** : postulo, Appi, consideres, quo progrediare, ***Liv.*** : a senatu de foedere: me ducere istis dictis postulas? expect, ***Ter.*** : quod de argento posse postulem me fallere (eum), i. e. undertake to deceive him, ***Ter.*** : qui adire senatum non postulassent, asked an audience, ***Liv.*** : ante quam bona possideri postularentur, were claimed: hic postulat se Romae absolvi, qu i, etc., expects: haec cum praetorem postulabas, of the praetor: qui postulat deus credi, ***Curt.*** — To summon, arraign before a court, prosecute, accuse, impeach: Gabinium tres adhuc factiones postulant: alqm de ambitu: alqm maiestatis, ***Tac.*** : delationem nominis, i. e. ask leave to prosecute: servos in quaestionem, ask that the slaves be examined under torture: quaestionem, the appointment of a special tribunal, ***Liv.*** — Of price, to demand, ask: Accipe victori populus quod postulat aurum, ***Iuv.*** — Of things, to make necessary, require, demand, call for: Nunc hic dies alios mores postulat, ***Ter.*** : ut tempor is exiguitas postulabat, ***Caes.*** : mittor, quo postulat usus, ***Ov.*** : res postulare videtur alqd exponere, ***Sall.***
 ##### potentātus ūs, m
@@ -1854,6 +1864,8 @@ wearing the toga praetexta: Clodius: decemviri, ***Liv.*** : adulter, i. e. juve
 a pretence, excuse: Ravennam devertit praetexto classem adloquendi, ***Tac.***
 ##### praetextus adj.
 bordered, edged: toga, bordered with purple (worn by the higher magistrates; also by free-born children less than seventeen years of age): aedilicia: togae praetextae habendae ius, ***Liv.*** : eripies pupillae togam praetextam? — As subst f., the toga praetexta: tu in praetextā esse consulatum putas? — Wearing the toga praetexta, with a purple border on the mantle: videre praetextos inimicos, i. e. in supreme power. — As subst f. (sc. fabula), a play in which the bordered toga is worn, tragedy (because eminent Romans were among the characters): praetextas docere, ***Hor.***
+##### praetextus, ūs m
+a show, display, pretence, pretext (only abl sing.): sub leni praetextu verborum, ***Liv.*** : praetextu senatūs, ***Tac.***
 ##### praetor ōris, m
 a leader, head, chief, president, chief magistrate, chief executive, commander: se praetores appellari volebant (the chief magistrates of Capua): maximus, ***Liv.*** : creant praetores, qui exercitui praeessent, generals, ***Nep.*** — In Rome, a praetor, magistrate charged with the administration of justice (first appointed B. ***Cic.*** 367, from the patricians; plebeians became eligible after B. ***Cic.*** 338; after B. ***Cic.*** 264 two were chosen each year, one with jurisdiction over citizens, the other over strangers): urbanus: urbis: cum praetores designati sortirentur, had their jurisdiction assigned by lot: praetor primus centuriis cunctis renunciatus, i. e. appointed first. — A propraetor, ex-praetor as governor of a province: dicto audientem fuisse se praetori. — A proconsul.
 ##### praetōriānus adj.
@@ -2012,6 +2024,8 @@ a high growth, height, tallness: huius, his tall stature: arborum. — Extent, l
 a marching on, advance (opp. reditus): longior.
 ##### prōcessus ūs, m
 an advance, course, progression, progress, process, movement: processum volt, the progress of the discourse: in processu coepit crudescere morbus, in its course, ***Ver.*** : tantos processūs efficiebat: Sic tua processūs habeat fortuna perennīs, ***Ov.***
+##### prōcīnctus, ūs m
+a girding up, readiness for battle. — Only abl sing.: in procinctu testamentum facere, on the battle-field: ex quo in procinctu testamenta perierunt, i. e. the custom of making wills on going into battle.
 ##### prōclāmātor ōris, m
 a crier, bawler (of a bad advocate; dub.).
 ##### prōclāmō āvī, ātus, āre

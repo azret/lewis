@@ -2,6 +2,8 @@
 a harp, Phoenician harp, ***Ov.***
 ##### naevus ī, m
 a birth-mark, mole, wart: in articulo pueri: inspersos corpore naevos, ***Hor.*** , ***Ov.***
+##### Nāis (once Nāīas, ***Ov.***), —, plur. Nāides or Naiades, um, f
+a water-nymph, Naiad, ***Ov.*** — Addressed as Muses: puellae Naïdes, ***Ver.*** — A nymph, Hamadryad, Nereid, ***Hor.*** , ***Ov.***
 ##### nānus ī, m
 a dwarf, ***Iuv.*** , ***Prop.***
 ##### Napaeae ārum, f
@@ -22,6 +24,8 @@ a relating, narrating, narration, narrative: Narrationis initium, ***Ter.*** : n
 a relater, narrator, historian: narratores faceti: rerum.
 ##### nārrātum ī, n
 that which has been told: Hoc praeter narrata Responde, ***Hor.***
+##### nārrātus, ūs m
+a narration, narrative: narratibus hora Tempestiva meis, ***Ov.***
 ##### nārrō āvī, ātus, āre
 to make known, tell, relate, narrate, report, recount, set forth: mihi istaec, ***Ter.*** : initium narrandi facere, of the narrative, ***Sall.*** : rem omnibus: narrat omnibus emisse se: te sudavisse ferendo Carmina, ***Hor.*** : Narrat, ut virgo ab se integra siet, ***Ter.*** : in comoediis res ipsa narratur: mores eius, de quo narres: male narras de Nepotis filio, tell bad news: mihi circa necem Caesaris, ***Tac.*** : si res p. tibi narrare posset, quo modo sese haberet: de te Fabula narratur, ***Hor.*** : Angrivarios immigrasse narratur, ***Tac.*** : Athamanas accendere lignum Narratur, ***Ov.*** — To say, speak, tell, recite, mention, describe: narro tibi: qui argumentum narret, ***Ter.*** : Regem elegantem, describe, ***Ter.*** : Agricola posteritati narratus et traditus, ***Tac.*** : narrat Naevio, quo in loco viderit Quinctium: quantum distet ab Inacho Codrus, ***Hor.***
 ##### narthēcium ī, n
@@ -58,6 +62,8 @@ birth: Naturā illi pater es, ***Ter.*** : naturā frater, adoptione filius, ***
 natural, by birth, one's own: filius, ***Liv.*** : decōris Munus, ***Ov.*** — As subst n.: alquid naturale habere, innate capacity. — Of the nature of things, produced by nature, according to nature, natural: societas: lex: bonum: malum, ***Ov.*** : desiderium corporum, ***Liv.*** : quaestiones, concerning nature.
 ##### nātūrāliter adv.
 naturally, conformably to nature, by nature: divinare: alacritas innata omnibus, ***Caes.***
+##### nātus, ūs m
+abl. sing, birth, age, years (in phrases expressing age): pater grandis natu, very old: Scaptius de plebe magno natu, an old man, ***Liv.*** : maior natu quam Plautus, older: qui sum natu maxumus, ***Ter.*** : maximus natu ex iis, the oldest, ***Liv.*** : natu minimus, the youngest: maximo natu filius, his eldest son, ***Nep.***
 ##### nauarchus ī, m
 a ship-master, captain: sepultura nauarchi.
 ##### naucum ī, n
@@ -146,6 +152,8 @@ to deny steadfastly, persist in denying: alqd esse: rex primo negitare, ***Sall.
 a neglecting: amicorum, indifference towards.
 ##### neglēctus adj.
 neglected, slighted, despised: ipsi inter nos: castra, ***Liv.*** : religio, ***Caes.*** : capilli, dishevelled, ***Ov.***
+##### neglēctus, ūs m
+a neglecting, neglect: res ne utiquam neglectu mihist, ***Ter.***
 ##### negō āvī, ātus, āre
 to say no, deny, refuse (opp. aio): Negat quis? nego. ait? aio, ***Ter.*** : Diogenes ait, Antipater negat: nunc aiunt, quod tunc negabant: non facile Gallos Gallis negare potuisse, ***Caes.*** : negant quicquam esse bonum, nis i, etc.: damnare negatur hanc Venerem pietas, ***Ov.*** : casta negor (sc. esse), they say I am not, ***Ov.*** : negat se Numidam pertimescere, virtuti suorum credere (sc. ait), ***Sall.*** — A second negation does not destroy the first: negat ne suspicari. — Not to assent, deny: factum est; non nego, ***Ter.*** : omnia, quae certa non erunt, pro certo negato: negaturum aut me pro M. Fulvio, aut ipsum Fulvium censetis? ***Liv.*** : mitto enim domestica, quae negari possunt, i. e. the proof of which can be suppressed: negare non posse, quin rectius sit, etc., ***Liv.*** — Not to consent, deny, refuse: invitatus ad haec negabit, will decline, ***Iuv.*** : (oscula), ***Hor.*** : victum, ***Ver.*** : numquam reo cuiquam tam praecise negavi, quam hic mihi: postquam id obstinate sibi negari videt, ***Caes.*** : negat quis carmina Gallo? ***Ver.*** : mea dicta demittere in aurīs, ***Ver.*** : Ire, ***Ov.*** : adulescenti negare, qu in eum arcesseret, ***Nep.*** : uxorem ut ducat orare occipit... Ille primo se negare, refuse, ***Ter.*** : Poma negat regio, i. e. does not produce, ***Ov.*** : pars ventis vela negare, i. e. furl, ***Ov.***
 ##### negōtiālis e, adj.

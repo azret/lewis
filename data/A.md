@@ -208,6 +208,10 @@ Achaean, Grecian, ***Ov.*** — Plur. as subst, the Greeks.
 an epithet of Venus, from the fountain Acidalia in Boeotia, ***Ver.***
 ##### acīnacēs is, m
 a scimitar, short sabre, ***Hor.*** , ***Curt.***
+##### acinus ī, m, (acina, ae, f
+Ct.), a small berry: acini vinaceus, a grape-stone: aridum, ***Hor.***
+##### acinum ī, n (acina, ae, f
+Ct.), a small berry: acini vinaceus, a grape-stone: aridum, ***Hor.***
 ##### acipēnser eris, m
 a sea-fish, (esteemed a dainty dish), ***Cic.*** , ***Hor.*** , ***Ov.***
 ##### acoenonoētus ī, m
@@ -915,6 +919,8 @@ love, affection, strong friendly feeling: amor, ex quo amicitia nominata: amor e
 a putting away.
 ##### amphibolia ae, f
 ambiguity.
+##### Amphictyones um, m
+the assembly of the confederated Greek States, Amphictyons, ***Cic.*** , ***Tac.***
 ##### amphitheātrum ī, n
 an amphitheatre, oval building for public spectacles, ***Tac.***
 ##### Amphrȳsius adj.
@@ -1274,6 +1280,8 @@ a creaking: lecti, Ct.
 liveliness, animation: digitorum, lively movements. — Fig., brightness, acuteness, subtlety, wit: Hyperidi. — Shrewdness, cunning: alqd persequi suis argutiis.
 ##### argūtō —, —, āre
 to prattle, prate: mihi ignes, ***Prop.***
+##### argyraspides um, m
+plur., soldiers with silver shields, a select body of Macedonian infantry, ***Liv.*** , ***Curt.***
 ##### arista ae, f
 the top of an ear, beard of corn: munitur vallo aristarum: tenerae, ***Ver.*** — An ear of grain: pinguis, ***Ver.*** — Of spikenard, ***Ov.*** : solae aristae, i. e. only crops of grain, ***Ver.***
 ##### armamaxa ae, f
@@ -1308,6 +1316,8 @@ to furnish with weapons, arm, equip: multitudinem: milites, ***Caes.*** : ut que
 the shoulder: ex umeris armi fiunt, ***Ov.*** : leporis, ***Hor.*** : equi fodere calcaribus armos, the side, ***Ver.*** : hasta per armos Acta, the upper arm, ***Ver.***
 ##### arō āvī, ātus, āre
 to plough, till: terram: in fundo, ***Ter.*** : piger optat arare caballus (i. e. rather than carry a rider), ***Hor.*** — Prov.: arare litus, to waste labor, ***Ov.*** — In gen., to cultivate: quae homines arant, navigant, etc., i. e. success in agriculture, etc., ***Sall.*** : quicquid arat Apulus, obtains by cultivation, ***Hor.*** : in Siciliā. — Of a ship, to plough: aequor, ***Ver.*** : aquas, ***Ov.*** — Of Alecto: frontem rugis, ***Ver.***
+##### arrabō ōnis, m
+earnest-money, a pledge, security: relicta arraboni, as security, ***Ter.***
 ##### artēria ae, f
 the windpipe. — An artery.
 ##### arthrīticus adj.

@@ -120,6 +120,8 @@ the top of a gable, gable end, pediment: Capitoli: fastigia templorum, ***Liv.**
 not forbidden; hence, with dies, a day on which the praetor's court was open, judicial day: fasti dies: fastus (dies), ***Ov.***; see also fasti.
 ##### fastus ūs, m
 scornful contempt, disdain, haughtiness, arrogance, pride: inest pulchris, ***Ov.*** : ad fastum parentīs Optare sibi, ambition, ***Hor.*** : Stirpis Achilleae fastūs tulimus, ***Ver.*** : regius, ***Curt.*** : erga patrias epulas, ***Tac.*** : tanto te in fastu negas, Ct.: omnīs odit fastūs, Tb.
+##### fāstus, ūs m
+see fasti.
 ##### fātālis e, adj.
 of fate, ordained by destiny, decreed, destined, fated, fatal: Caesaris mors: necessitas: continuatio ordinis sempiterni: annus ad interitum urbis: deae, the Fates, ***Ov.*** : libri, i. e. the Sibylline, ***Liv.*** : arva, promised by fate, ***Ver.*** : lex, i. e. fatum, ***Ov.*** : labor, ***Hor.*** : ora fluminis, destined, ***Ov.*** : tam fatale est medicum adhibere, quam convalescere. — Dangerous, destructive, deadly: bellum: machina, ***Ver.*** : monstrum, ***Hor.*** : iudex (i. e. Paris), ***Hor.***
 ##### fātāliter adv.
@@ -158,6 +160,8 @@ a patroness, protectress: amicitiae: regio suorum: viri, ***Ov.*** : naturam fau
 cinders, hot ashes, glowing ashes, embers: favillae plena (psaltria), ***Ter.*** : candens, ***Ver.*** : cana, ***Ov.*** — The ashes of the dead: Vatis amici, ***Hor.*** : bibula, ***Ver.*** : virginea, ***Ov.*** — Fig., a glimmering spark, beginning: venturi mali, ***Prop.***
 ##### Favōnius ī, m
 the west wind, ***Cic.*** , ***Hor.*** , ***Ov.*** , Ct.
+##### favor ōris, m
+favor, good-will, inclination, partiality: favore populi duc i: exercitūs, ***Tac.*** : illi favorem humilitas addiderat, ***Sall.*** : Voleronem amplexa favore plebs, ***Liv.*** — Praise, approval, applause: Vatum, ***Hor.*** : suis non respondere favorem meritis, ***Hor.*** — Acclamation, applause: quem favorem secum in scenam attulit?: iam favor mentes tenet, ***Phaed.*** : magno palma favore datur, ***Ov.***
 ##### favus ī, m
 a honey-comb, ***Cic.*** , ***Ver.*** , ***Ov.*** , Tb. — Plur, honey, ***Ver.***
 ##### febricula ae, f dim.
@@ -242,6 +246,8 @@ made hot, melted, red hot, hot: pix, ***Caes.*** : iacula, ***Caes.***
 to be boiling hot, boil, ferment, glow, steam: Quaecumque immundis fervent adlata popinis, ***Hor.*** : stomachus fervet vino, ***Iuv.*** — To be in a ferment, swarm, throng, surge: opere omnis semita fervet, ***Ver.*** : fervent examina putri De bove, ***Ov.*** : Fervet opus, is hotly pressed, ***Ver.*** — Fig., to burn, glow, be heated, be inflamed, be agitated, rage, rave: usque eo fervet avaritia, ut. etc.: Fervet avaritiā pectus, ***Hor.*** : animus tumidā fervebat ab irā, ***Ov.*** : equus cui plurima palma Fervet, shines, ***Iuv.***
 ##### fervō —, —, ere
 to boil, be hot, glow, rage, blaze (old or poet. for ferveo): Quom fervit maxime, ***Ter.*** : videbis fervere litora flammis, ***Ver.*** : hostem Fervere caede novā, ***Ver.*** — To swarm, be thronged, be in a ferment: Marte fervere Leucaten, ***Ver.*** : cum litora fervere late Prospiceres, ***Ver.***
+##### fervor ōris, m
+a boiling heat, violent heat, raging, boiling, fermenting: mundi: maris: mediis fervoribus, in noontide heat, ***Ver.*** — Fig., heat, vehemence, ardor, fury: pectoris, ***Hor.*** : aetatis: oceani: fervore furentes, ***Ver.*** : icto Accessit fervor capiti, i. e. intoxication, ***Hor.***
 ##### Fescinnīnus adj.
 of Fescennia (a city of Etruria): acies, ***Ver.*** : versūs, a rude form of dramatic or satiric verse, ***Liv.*** : licentia (i. e. of the Fescennine verses), ***Hor.***
 ##### fessus adj.
@@ -640,6 +646,8 @@ an assembling in great numbers, concourse, multitude, crowd, throng: reduci cum 
 to visit frequently, frequent, resort to, do frequently, repeat: domum meam: arva, ***Ver.*** : Marium, often resort to, ***Sall.*** : coetu salutantium frequentari, ***Tac.*** : ‘Hymenaee’ frequentant, keep calling, ***Ov.*** : verbi translatio frequentata delectationis (causā). — Of persons, to assemble in throngs, bring together, crowd: quos cum casu hic dies ad aerarium frequentasset, etc.: populum: acervatim multa: est luminibus frequentanda omnis oratio sententiarum. — Of places, to fill with a multitude, fill, crowd, people, stock: urbes frequentari, be peopled: Templa frequentari Nunc decet, ***Ov.*** : contiones legibus agrariis, to draw a crowd by proclaiming, etc., ***Liv.*** — To celebrate, keep in great numbers, observe in multitudes: ludos: ad triumphum frequentandum deducti, ***Liv.*** : sacra, ***Ov.***
 ##### frētus adj.
 leaning, supported, relying, depending, trusting, daring, confident: malitiā suā, ***Ter.*** : Antoni copiis: meā prudentiā: iuventā, ***Ver.*** : ferro et animis, ***Liv.*** : multitudo nulli rei, ***Liv.*** : satis fretus esse etiam nunc tolerando certamini legatum, ***Liv.*** : excipi posse (hostem), ***Curt.***
+##### fretus, ūs m
+see fretum.
 ##### frīgeō —, —, ere
 to be cold, be chilly, freeze: totus friget, ***Ter.*** : corpus lavant frigentis, i. e. of the dead, ***Ver.*** : frigent in corpore vires, ***Ver.*** — Fig., to be inactive, be lifeless, be languid, flag, droop: ne frigeas in hibernis: Ubi friget, hu <⋆> evasit, halts, ***Ter.*** — To be coldly received, be coldly treated, be slighted, be disregarded: hisce homines frigent, ***Ter.*** : discipulus frigens ad populum: plane iam, Brute, frigeo: contio Pompei frigebat, remained unnoticed: cum omnia consilia frigerent, were of no effect.
 ##### frīgerō —, —, āre

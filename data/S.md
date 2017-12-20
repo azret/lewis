@@ -302,6 +302,8 @@ a bubbling, gushing: (unda) scatebris temperat arva, spring-water, ***Ver.***
 bubbling, full, abounding: arx fontibus, ***Liv.*** : Beluis pontus, ***Hor.***
 ##### scatō —, —, ere
 to bubble, gush, well up, spring forth: Fontes scatere, Enn. ap. ***Cic.***
+##### scatūrīges or scatūrīgines um, f
+bubbling water, spring-water, ***Liv.***
 ##### scaurus adj.
 with swollen ankles, club-footed, ***Hor.***
 ##### scelerōsus adj.
@@ -619,6 +621,8 @@ sevenfold: Nilus, i. e. with seven mouths, ***Ver.***
 Plur, the seven stars of the Wagon, Wain, Great Bear: Clarissimi Septentriones: Gurgite caeruleo septem prohibete triones, ***Ov.*** — Sing: minor, the Little Bear. — The northern regions, northern sky, north: inflectens sol cursum ad septentriones: Belgae spectant in septentrionem, ***Caes.*** : septentrio a Macedoniā obicitur, ***Liv.*** : Hyberboreo septem subiecta trioni Gens, ***Ver.*** — The north wind: ex eā die fuere septemtriones venti: acer septemtrio ortus, ***Liv.***
 ##### septemvirālis or VIIvirālis e, adj.
 of the septemvirs, septemviral: auctoritas. — Plur m. as subst, the septemvirs.
+##### septemvirātus or VIIvirātus, ūs m
+the office of a septemvir, septemvirate. — Only abl sing.
 ##### septēnārius adj.
 containing seven, consisting of seven. — Plur. m. as subst. (sc. versūs), verses of seven feet each.
 ##### septiēns (tiēs) num adv.
@@ -853,6 +857,8 @@ particularly, exceedingly: alquem diligere.
 see singillatim.
 ##### singultim adv.
 sobbingly: pauca locutus, i. e. hesitatingly, ***Hor.***
+##### singultus, ūs m
+a sobbing, panting, choking, convulsive sigh (only abl sing. and plur., and acc plur.): fletum cum singultu videre: Singultuque pias interrumpente querellas, ***Ov.*** : Mitte singultūs, ***Hor.*** : ‘vale’ pleno singultibus ore dixit, ***Ov.*** — The death-rattle: Ilia singultu tendunt, ***Ver.*** : longis singultibus ilia pulsat, ***Ver.***
 ##### sinistra ae, f
 see sinister.
 ##### sinistrē adv.
@@ -1031,6 +1037,8 @@ a casting of lots, drawing, choosing by lot, allotment: ex lege Rupiliā sortiti
 by lot: sacerdotem sortito capi. — By fate, by destiny: Lup is et agnis quanta (discordia) sortito obtigit, ***Hor.***
 ##### sortītor ōris, m
 a distributor by lot, allotter: si etiam pluribus de rebus uno sortitor <⋆> tulisti.
+##### sortītus, ūs m
+a casting of lots, drawing: consul sortitu ad bellum profectus: quae sortitūs non pertulit ullos, i. e. for whom no lots were cast, ***Ver.***
 ##### Sōspita ae, f
 she who saves, deliverer (an epithet of Juno), ***Ov.***
 ##### sōspitō —, —, āre
@@ -1157,6 +1165,8 @@ a bondsman, surety, bail, voucher: sponsor es pro Pompeio: sponsores Trebelli: s
 a covenant, agreement, engagement: sponsum negare, to break a pledge, ***Hor.*** : ex sponso egit (i. e. ex sponsione), proceeded to enforce the covenant.
 ##### spōnsus ī, m
 a betrothed man, bridegroom: sponsi nomen appellans: regius, ***Hor.*** : Sponsi Penelopae, suitors, ***Hor.***
+##### spōnsus, ūs m
+a bail, suretyship. — Only abl sing.: de sponsu si quid perspexeris.
 ##### sportella ae, f dim.
 a little basket, luncheon-basket.
 ##### sportula ae, f dim.
@@ -1177,6 +1187,8 @@ to be spit upon, abominable, detestable: crimina eius, Sisenn. ap. ***Cic.***
 spittle: sputa cruenta, ***Prop.***
 ##### squālidē adv.
 without ornament, rudely. — Only comp: squalidius dicere.
+##### squālor ōris, m
+roughness, dirtiness, filthiness, foulness, squalor: squaloris plenus: obsita squalore vestis, ***Liv.*** : ignav is et imbellibus manet squalor, ***Tac.*** — Of places: locorum squalor, desolation, ***Curt.*** — As a sign of mourning, neglected raiment, filthy garments, mourning: decesserat frater meus magno squalore: legati, obsiti squalore, ***Liv.***
 ##### squalus ī, m
 a sea-fish, ***Ov.*** (al. squatus).
 ##### squāma ae, f
@@ -1299,6 +1311,8 @@ angrily, peevishly. — Only comp: rescripsi ei stomachosius.
 the gullet, alimentary canal, oesophagus: linguam excipit stomachus. — The stomach: stomachi calor: latrans, ***Hor.*** — Fig., taste, liking: ludi non tui stomachi: stomachi mei fastidium. — Temper, bile, displeasure, irritation, vexation, chagrin, anger: stomachum suum damno Tulli explere: consuetudo callum iam obduxit stomacho meo: homo exarsit stomacho: ne in me stomachum erumpant, cum sint tibi irati: mihi stomachum movere: intelleges eam (fortitudinem) stomacho non egere.
 ##### storea or storia ae, f
 a plaited covering, straw mat, rush mat, rope mat: storias ex funibus fecerunt, ***Caes.*** : harundine texta storeāque tecta, ***Liv.***
+##### strabō ōnis, m
+a cross-eyed person, one who squints, ***Cic.*** , ***Hor.***
 ##### strāgēs is, f
 an overthrow, destruction, ruin, defeat, slaughter, massacre, butchery, carnage: strages efficere: horribilis, ***Cic.*** poët.: quantas acies stragemque ciebunt! ***Ver.*** : complere strage campos, ***Liv.*** : ferro strages edere, ***Ver.*** — A confused heap, disordered mass, waste, wreck: dabit ille (nimbus) ruinas Arboribus stragemque satis, ***Ver.*** : tempestas stragem fecit, ***Liv.*** : strage armorum saepta v ia est, ***Liv.*** : rerum relictarum, ***Liv.*** : canum volucrumque, ***Ov.***
 ##### strāgulum ī, n
@@ -1587,6 +1601,8 @@ sinking down, sinking, failing: genu, ***Ov.*** : Poples, ***Ov.***
 to sing to, accompany: succinit alter, another chimes in, ***Hor.***
 ##### succlāmō or subclāmō āvī, ātus, āre
 to cry out in response, shout in answer, reply clamorously: si esset libera haec civitas, non tibi succlamassent, ***Liv.*** : haec Virginio vociferanti succlamabat multitudo, ***Liv.*** : ad hoc cum succlamatum est, ***Liv.***
+##### succussus or subcussus, ūs m
+a shaking, jolting. — Only abl: Ne succussu adripiat dolor, Pac. ap. ***Cic.***
 ##### sūdārium ī, n
 a handkerchief: sudaria Saetaba, Ct.
 ##### sudis is, f
@@ -1623,6 +1639,8 @@ a refuge, shelter, covert: id plurimis suffugium erat, ***Curt.*** : propinqua s
 brownish, dusky: margarita, ***Tac.***
 ##### suggestum ī, n
 an artificial mound, platform, stage, tribune: in communibus suggestis consistere: suggestum ascendens.
+##### suggestus, ūs m
+a raised place, artificial height, platform, stage, tribune: suggestum in foro exstructum, ***Liv.*** : hac re pro suggestu pronuntiatā, ***Caes.***
 ##### sūgillātiō ōnis, f
 a bruise, affront, insult: consulum, ***Liv.***
 ##### sulcō āvī, —, āre
@@ -1713,6 +1731,8 @@ over and above, needless, unnecessary, superfluous, supererogatory, redundant: o
 useless, needless, unnecessary, superfluous, redundant: Omne supervacuum pleno de pectore manat, ***Hor.*** : sepulcri honores, ***Hor.*** : metus, ***Ov.*** : quod diutius exsequi supervacuum est, ***Curt.*** — In the phrase, ex supervacuo, to no purpose, ***Liv.***
 ##### supervādō —, —, ere
 to go over, climb over, surmount: omnīs asperitates, ***Sall.*** : ruinas muri, ***Liv.***
+##### superventus, ūs m
+a coming up, arrival. — Only abl: superventu quartae decimae legiones, ***Tac.***
 ##### supervolitō or super volitō āvī, —, āre
 to fly over often, fly about over: sua tecta alis, ***Ver.*** : tantum foedarum volucrum supervolitavit, ***Tac.***
 ##### supervolō —, —, āre
@@ -1757,6 +1777,10 @@ raised, elevated, borne up, suspended: Roma cenaculis suspensa: saxis suspensam 
 distrustful, suspicious: populus, ***Nep.*** : frater, ***Liv.***
 ##### suspīciō or suspītiō ōnis, f
 mistrust, distrust, suspicion: improborum facta suspitio insequitur: tanta nunc Suspitio de me incidit, ***Ter.*** : erat nemo, in quem ea suspitio conveniret: in suspitionem cadere: augetur Gallis suspicio, ***Caes.*** : te suspitione exsolvere, ***Ter.*** : offensionem suspitionis deponere: Maligna insontem deprimit suspicio, ***Phaed.*** : multae causae suspitionum dantur: cum ad has suspiciones certissimae res accederent, ***Caes.*** : in eum suspitiost Translata amoris, ***Ter.*** : in suspitionem avaritiae venire: regni appetendi: belli suspicione interpositā, ***Caes.*** : iam tum erat suspitio, Dolo malo haec fieri omnia, ***Ter.*** : addit fuisse suspitionem, veneno sibi conscivisse mortem. — A notion, idea, suggestion: deorum: suspitionem nullam habebam te rei p. causā mare transiturum.
+##### suspīrātus, ūs m
+a sighing, sigh: suspiratibus haustis, ***Ov.***
+##### suspīritus, ūs m
+a deep breath, sigh. — Only abl sing.: quem nemo aspicere sine suspiritu posset: cum crebro suspiritu, ***Liv.***
 ##### suspīrium ī, n
 a deep breath, sighing, sigh: si qu is est sine suspirio: suspiria ducere, ***Ov.*** : Pectore repetens suspiria, ***Ov.***
 ##### suspīrō āvī, ātus, āre

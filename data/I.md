@@ -299,6 +299,8 @@ a beginning, undertaking: tam praeclari operis. — An enterprise, undertaking: 
 a beginner: mearum voluptatum, ***Ter.***
 ##### inceptum ī, n
 a beginning: incepta gravia, ***Hor.*** — An attempt, undertaking: illud, ***Ter.*** : contra patriam: a quo incepto me detinere, ***Sall.*** : cuius neque inceptum ullum frustra erat, ***Sall.*** : absistere incepto, ***Liv.*** : Abnegat incepto, ***Ver.*** : piget incepti, ***Ver.*** : Catilinae inceptis favere, ***Sall.*** : di nostra incepta secundent, ***Ver.*** — A purpose, subject, theme: ad inceptum redeo, ***Sall.*** : nos ab incepto trahere, ***Sall.***
+##### inceptus, ūs m
+a beginning, undertaking (only abl sing.): turpe inceptūst, ***Ter.*** : foedum inceptu, foedum exitu, ***Liv.***
 ##### incertum ī, n
 an uncertainty: ne cuius incerti vanique auctor esset, ***Liv.*** : scribere legiones ad incerta belli, contingencies, ***Liv.*** : Haud incerta cano, ***Ver.*** : bona omnium in dubium incertumque revocabuntur: praefectus in incertum creatus, for an indefinite time, ***Liv.*** : postremo fugere an manere tutius foret, in incerto erat, ***Sall.*** : Auctor in incerto est, ***Ov.***
 ##### incertum adv.
@@ -317,6 +319,8 @@ to pollute, defile: funere classem, ***Ver.*** : filiam, ***Tac.***
 impious unchastity, incest: incestum supremo supplicio sancire: facere: ab incesto id ei loco nomen factum, ***Liv.*** — Plur., ***Cic.***
 ##### incestus adj.
 not religiously pure, unclean, impure, polluted, defiled, sinful, criminal: virum incesto ore lacerare: incesto addidit integrum, punished the good with the bad, ***Hor.*** : an triste bidental Moverit incestus, impiously, ***Hor.*** — Unchaste, lewd, lustful, incestuous: iudex, i. e. Paris, ***Hor.*** : medicamen, ***Ov.*** : sermo, ***Liv.*** : corruptor et idem Incestus, ***Iuv.***
+##### incestus, ūs m
+unchastity, incest. — Only abl: quaestio de incestu.
 ##### incinō —, —, ere
 to cause to sound, strike up: varios ore modos, ***Prop.***
 ##### incīsē adv.
@@ -460,6 +464,8 @@ bent, bowed, crooked, curved: adcurrit Incurvos tremulus, ***Ter.*** : statua se
 a blaming, denunciation: vitiorum.
 ##### incūsō āvī, ātus, āre
 to accuse, complain of, find fault with, blame: te absentem, ***Ter.*** : Belgas, qui se dedidissent, ***Caes.*** : alqm graviter, ***Liv.*** : alqm luxūs, ***Tac.*** : Multa se, qui non acceperit, etc., ***Ver.*** : foedus vio <⋆>ati hospiti, ***Liv.*** : iniurias Romanorum, ***Liv.*** : angustias stipendii, ***Tac.*** : se proditos, ***Liv.*** : in Blaesum multa, ***Tac.***
+##### incussus, ūs m
+a shock, dashing against (only abl sing.): armorum, ***Tac.***
 ##### indāgātiō ōnis, f
 a tracking out, investigation: initiorum: veri.
 ##### indāgātrīx īcis, f
@@ -900,6 +906,8 @@ unjust, wrongful, harmful: in proximos: ab invito emere iniuriosum esse: pes, **
 unlawful, injurious, wrongful, unjust: sibi esse iniurius videri, ***Ter.*** : Id possum ferre quamquam iniuriumst, ***Ter.*** : quia sit iniurium: indictā causā damnari absentem iniurium esse, ***Liv.***
 ##### iniūssus adj.
 unbidden, voluntary, of one's own accord: cantare Iniussi numquam desistant, ***Hor.*** : iniussae veniunt ad mulctra capellae, ***Hor.*** : iniussa virescunt Gramina, spontaneous, ***Ver.*** — Plur n. as subst: Non iniussa cano, forbidden themes, ***Ver.***
+##### iniūssus, ūs m
+without command. — Only abl: iniussu suo et civitatis, ***Caes.*** : iniussu praetoris: signa referunt, without orders, ***Liv.***
 ##### iniūstitia ae, f
 injustice, unfairness: iniustitiae duo genera sunt. — Severity, harshness: Eum ego hinc eieci iniustitiā meā, ***Ter.***
 ##### iniūstus adj.
@@ -1150,6 +1158,8 @@ with great preparation. — Only comp: ludos instructius facere, ***Liv.***
 an array: instructione aspectuque signorum pulsus.
 ##### īnstrūctor ōris, m
 a preparer: convivi.
+##### īnstrūctus, ūs m
+arrangement, preparation. — Only abl sing.: orat io eodem instructu comitata.
 ##### īnstrūmentum ī, n
 an implement, utensil, tool, instrument: tela et cetera instrumenta militiae, ***Sall.*** : crudelia instrumenta necis, ***Ov.*** — Collect. in sing, instruments, apparatus, material, stock, furniture: instrumentum ac ornamenta villae: militare, ***Caes.*** : aratorum: nauticum, ***Liv.*** : artis, ***Hor.*** — Store, provision, supply, means: quid viatici, quid instrumenti satis sit, i. e. for a journey: instrumenta ad obtinendam sapientiam: virtutis. — Ornament, embellishment: felices ornent haec instrumenta libellos, ***Ov.*** : anilia, attire, ***Ov.*** — A commission, authorization: tribunatus.
 ##### īnsūdō —, —, āre
@@ -1314,6 +1324,8 @@ to interrupt, break in upon: interpellando trahere tempus, ***Sall.*** : Interpe
 to polish, furbish, dress up: togam praetextam, dye anew. — Of writings, to interpolate, alter, falsify: aliquid.
 ##### interpositiō ōnis, f
 an insertion, introduction: personarum: una (of words).
+##### interpositus, ūs m
+a putting between, interposition. — Only abl sing.: luna interpositu terrae deficit.
 ##### interpretātiō ōnis, f
 an explanation, exposition, interpretation: egere interpretatione: facilis, ***Liv.*** : foederis, meaning: sinistra erga eminentīs, ***Tac.***
 ##### interpretātus adj.
@@ -1494,6 +1506,8 @@ unseen: res, ***Caes.*** : sacra maribus invisa.
 an invitation, allurement, incitement, inducement: invitamenta urbis, attractions: (honos) non invitamentum ad tempus est: ad luxuriam, ***Liv.*** : temeritatis, ***Liv.***
 ##### invītātiō ōnis, f
 an invitation, incitement, challenge: fit invitatio, ut biberetur: ad dolendum: benigna, i. e. to a banquet, ***Liv.*** : invitationes adventūsque nostrorum hominum.
+##### invītātus, ūs m
+an inviting, invitation. — Only abl: invitatu tuo.
 ##### īnvītē adv.
 with comp, against one's will, unwillingly: cepi Capuam: invitius accedere.
 ##### invītō āvī, ātus, āre
@@ -1506,6 +1520,8 @@ without a road, impassable, not to be traversed, insuperable: lustra, ***Ver.***
 uncalled, without a summons: ad dormientem veniunt (imagines) invocatae. — Uninvited, without an invitation: ut mihi... invocato sit locus, ***Ter.*** : ut quos invocatos vidisset in foro, omnes devocaret, ***Nep.***
 ##### invocō āvī, ātus, āre
 to call upon, invoke, appeal to: in pariendo Iunonem Lucinam: deos testīs, ***Liv.*** : agmina matrum, summon, ***Ov.*** — To call, name, address: quem invocant omnes Iovem: aliquem dominum, ***Curt.***
+##### involātus, ūs m
+a flying, flight; only abl: ex alitis involatu auguror.
 ##### involō āvī, ātus, āre
 to fly at, rush upon: in capillum, fly at his hair, ***Ter.*** : in possessionem, make a forcible entry.
 ##### involūcrum ī, n
@@ -1636,6 +1652,8 @@ relating to right, of justice: genus: quaestio.
 to swear, take an oath: si aram tenens iuraret: ex animi tui sententiā, without reservation: Boeotum in crasso iurares aëre natum, ***Hor.*** : falsum, swear falsely: vere: testari deos per quos iuravisset, ***Sall.*** : per Iovem, by Jupiter: aedilis, qui pro se iuraret, in his stead, ***Liv.*** : idem omn is exercitus in se quisque iurat, i. e. each soldier individually, ***Liv.*** : Numquam ducturum uxorem, ***Ter.*** : se eum non deserturum, ***Caes.*** : verissimum ius iurandum. — With in and acc, to swear to observe, swear allegiance, vow obedience, adopt under oath: in legem: in leges, ***Liv.*** : in haec verba iurat ipse, takes this form of oath, ***Caes.*** : cur in certa verba iurent: in haec verba iures postulo, in this form of words, ***Liv.*** : in verba magistri, echo the sentiments, ***Hor.*** — To swear by, attest, call to witness: Terram, Mare, Sidera, ***Ver.*** : Iovem lapidem: quaevis tibi numina, ***Ov.*** : Samothracum aras, ***Iuv.*** : Iurandae tuum per nomen arae, ***Hor.*** : dis iuranda palus, the Styx, by which the gods swear, ***Ov.*** — To swear to, attest by an oath: morbum, to the fact of sickness: id (nomen) iurare in litem, swear to a debt. — With person. obj., to swear, bind by an oath, cause to swear (only perf pass.): iudici demonstrandum est, quid iuratus sit: lex, in quam iurati sitis: iuratus se eum interempturum, ***Liv.*** — To conspire: In me, ***Ov.*** : in facinus, ***Ov.*** — In the phrase: iurare calumniam, to swear that an accusation is not malicious, ***Liv.***
 ##### iūssum ī, n
 an order, command, ordinance, law: deorum immortalium iussa: iussis vostris oboediens, ***Sall.*** : horrida iussa, ***Ver.*** : iussis carmina coepta tuis, ***Ver.*** : efficere, execute, ***Sall.*** : capessere, accept, ***Ver.*** : flectere, divert, ***Ver.*** : minister iussorum meorum, ***Ov.*** : populi nostri iussum. — A physician's prescription: iussa medicorum ministrare, ***Ov.***
+##### iūssus, ūs m
+an order, command, decree, ordinance (only abl sing.): vestro iussu coactus: lecti iussu populi, ***Liv.*** : sine populi iussu, ***Sall.*** : dei, ***Ver.*** : Neronis, ***Iuv.***
 ##### iūstificus adj.
 that acts justly: mens deorum, Ct.
 ##### iūstitia ae, f

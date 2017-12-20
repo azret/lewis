@@ -432,6 +432,8 @@ a contradiction, contrariety, incompatibility, repugnance: rerum: utilitatis.
 to fight back, oppose, make resistance, resist, struggle, defend oneself: integris viribus fortiter, ***Caes.*** : in repugnando telis obruta est, ***Liv.*** : ille repugnans Sustinet a iugulo dextram, ***Ver.*** — To resist, make resistance, oppose, make opposition, object, dissuade, contend against: quod ego multis repugnantibus egi, against the opposition of many: Catone acerrime repugnante, ***Caes.*** : valde: nec ego repugno: omnibus meis opibus repugnar im et restiterim crudelitati: dictis, ***Ov.*** : his omnibus rebus unum repugnabat, quod, etc., there was one objection, ***Caes.*** : si quis, ne fias nostra, repugnat, ***Ov.*** : amare repugno Illum, quem, etc., I shrink from loving, ***Ov.*** — Fig., to disagree, be contrary, be contradictory, be inconsistent, be incompatible: simulatio amicitiae repugnat maxime: haec inter se quam repugnent: sensūs moresque repugnant, ***Hor.***
 ##### repulsa ae, f
 a rejection, denial, refusal, repulse: ab repuls is eo magis debitum honorem repetentes, because of rejections, ***Liv.*** : nullam patiere repulsam, ***Ov.*** : Sint tua vota secura repulsae, ***Ov.*** : Veneris, ***Ov.*** : Nec hunc repulsam tua sentiret calamitas, ***Phaed.*** — In soliciting office, a refusal, denial, repulse, defeat: dolor repulsae, ***Caes.*** : omnīs magistratūs sine repulsā adsequi: sine repulsā consules facti sunt: huius comitiis frater repulsam tulit, failed of his election: consulatūs: aediliciae repulsae: repulsarum ignominiam timere: turpis repulsa, ***Hor.***
+##### repulsus, ūs m
+a reverberation, echo. — Plur.: scopulorum, ***Cic.*** poët.
 ##### repungō —, —, ere
 to goad in turn. — Fig.: illorum animos.
 ##### repūrgō āvī, ātus, āre
@@ -704,6 +706,8 @@ a toad, ***Iuv.*** , ***Prop.***
 of the bramble-bush: virga, a bramble-twig, ***Ver.***
 ##### rubicundus adj.
 red, ruddy: Corna, ***Hor.*** : Priapus, painted red, ***Ov.*** : Ceres, ruddy, ***Ver.***
+##### rubor ōris, m
+redness: candore mixtus rubor: fucati medicamenta candoris et ruboris, cosmetics: cui plurimus ignem Subiecit rubor, ***Ver.*** : saevus ille voltus et rubor, ***Tac.*** : oculis dabat ira ruborem, ***Ov.*** : Tyrios incocta rubores, i. e. purple, ***Ver.*** — A redness of the skin, flush, blush: pudorem rubor consequitur: Masinissae rubor suffusus, ***Liv.*** : notavit Ora rubor, ***Ov.*** — Fig., shamefastness, bashfulness, modesty: praestet ruborem suum verborum turpitudine vitandā: ruborem incutere, ***Liv.*** — A cause of shame, shame, disgrace: censoris iudicium damnato ruborem adfert: duas res ei rubori fuisse, unam, quod, etc., ***Liv.*** : Nec rubor est emisse palam, ***Ov.*** : nec rubor inter comites aspici, ***Tac.***
 ##### rubrīca ae, f
 red earth, ruddle, red ochre, red chalk: Proelia rubricā picta, ***Hor.***
 ##### rubus ī, m

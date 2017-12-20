@@ -94,6 +94,8 @@ shrewdness, skill, readiness, aptness (rare): ingeni, ***Nep.*** : fori, ***Tac.
 hard-skinned, callous: ova, ***Hor.***
 ##### callum ī, n
 a hard skin, thick skin: mihi est calciamentum solorum callum: dissiluit percusso lammina callo, ***Ov.*** — Fig., insensibility, callousness: quasi callum obducere dolori, vetustatis.
+##### calor ōris, m
+warmth, heat, glow: uva calore solis augescens: Dilapsus (in death), ***Ver.*** : ficus prima calorque, the burning heat (of August), ***Hor.*** : annuae calorum varietates: ferre aequos calores, ***Ov.*** : mediis caloribus, in the midst of summer, ***Liv.*** : calores austrini, ***Ver.*** — Fig., the fire of love: trahere calorem, ***Ov.*** — Plur., ***Hor.*** , ***Prop.***
 ##### caltha ae, f
 a yellow flower, marigold, ***Ver.***
 ##### calumnia ae, f
@@ -232,12 +234,16 @@ comprehension, capacity, esp. with ut est: ut captus est servorum, non malus, i.
 that which is grasped, a handle, holder: aratri, ***Ov.*** — The hilt of a sword, ***Cic.*** : capulo tenus, ***Ver.*** : insidens capulo manus, ***Tac.***
 ##### carbaseus adj.
 of carbasus, of fine linen: vela: sinus, ***Ver.***
+##### carbō ōnis, m
+a coal, charcoal: candeus: carbone adurere capillum, burning coals: In carbone tuo ponere, on your altar fire, ***Iuv.*** : cretā an carbone notati? i. e. with white or black? ***Hor.*** : Proelia rubricā picta aut carbone, drawn with red chalk or coal, ***Hor.*** — Prov.: carbonem pro thesauro invenire, i. e. to be deceived in one's hope, ***Phaed.***
 ##### carbunculus ī, m dim.
 a small coal, Her.
 ##### carcer eris, m
 a prison, jail: in carcerem duci: carcerem refringere, ***Liv.*** : effundere: privatus, ***Liv.*** : vindex scelerum: vincla carceris rumpere, i. e. of the body. — Poet., of the cave of Aeolus, ***Ver.*** , ***Ov.*** — Esp., the Roman state-prison: inferior carcer, ***Liv.***; cf. Tullianum. — Meton., as a term of reproach, jail-bird, scape-gallows, ***Ter.*** — The barrier, starting-place in the race-course: effusi carcere currūs, ***Ver.*** : cum carcere uterque Emicat, ***Ov.*** — Usu. plur: cum carceribus sese effudere quadrigae, ***Ver.*** : carceribus missi currūs, ***Hor.*** — Fig.: ad carceres a calce revocari, i. e. to begin life anew.
 ##### carchēsium ī, n
 a Greek drinking - cup, oblong beaker with handles, only plur: Bacchi, ***Ver.*** : manu mixta, ***Ov.***
+##### cardaces um, m
+a class of Persian soldiers; acc. Cardacas, ***Nep.***
 ##### cardiacus adj.
 of the heart, of the pit of the stomach: amicus, with heart - burn, ***Iuv.*** — As subst, one who has stomach-ache, ***Cic.*** , ***Hor.***
 ##### cārduus ī, m
@@ -556,6 +562,8 @@ Chaldaean: grex, of soothsayers, ***Iuv.***
 of steel: massa, ***Ov.***
 ##### chara ae, f
 a wild cabbage, ***Caes.***
+##### Charites um, f
+the Charites, Graces, ***Ov.***
 ##### charta ae, f
 a leaf of the Egyptian papyrus, paper: quodcumque semel chartis inleverit, ***Hor.*** : chartas et scrinia posco, ***Hor.*** : dentata, smooth, ***Liv.*** — A writing, paper: chartae obsoluerunt, the records: ne charta nos prodat: finis chartaeque viaeque, ***Hor.*** : tribus chartis, books, Ct.: si chartae sileant, poems, ***Hor.***
 ##### chartula ae, f dim.

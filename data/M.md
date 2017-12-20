@@ -138,6 +138,8 @@ a breast, pap: filio mammam dare, ***Ter.*** : puer mammam appetens: viri mammae
 maimed, infirm, crippled, lame-handed: mancus et membris omnibus captus: mancorum ac debilium dux, ***Liv.*** : iratā Pallade mancus erit, ***Ov.*** — Fig., infirm, defective, imperfect: virtus: fortuna, ***Hor.*** : Talibus officiis prope mancus, ***Hor.***
 ##### mandātum ī, n
 a charge, commission, injunction, command, order: mandatum curasse, have performed the commission: a senatu dantur mandata legatis, ut, etc.: ad eos Caesaris mandata deferre, ***Caes.*** : nostra exhaurire: deferre, deliver: frangere, ***Hor.*** : publicis mandatis servire: dare alcui mandata ad alqm: occulta mandata, ***Tac.*** : dabit mandata reverti, command him to return, ***Ov.*** — In law, a trust, agreement gratuitously to transact for another: mandati constitutum iudicium, i. e. for breach of trust.
+##### mandātus, ūs m
+a command, mandate. — Only abl sing.: mandatu Caesenniae: mandatu meo.
 ##### mandō āvī, ātus, āre
 to put in hand, deliver over, commit, consign, intrust, confide, commission: Bona nostra tuae fidei, ***Ter.*** : Hunc mandarat alendum regi, ***Ver.*** : his magistratūs, ***Caes.*** : novo homini consulatus mandatur, ***Sall.*** : fugae sese, betake himself to flight, ***Caes.*** : vitam istam fugae solitudinique: me humo, bury, ***Ver.*** : Fortunae cetera, ***Ov.*** : litteris, commit to writing: (fruges) conditas vetustati, i. e. suffer to grow old: senilīs iuveni partīs, ***Hor.*** — To send word, pass the word, enjoin, commission, order, command: ita mandatum est: haec, ***Iuv.*** : siquid velis, Huic mandes, ***Ter.*** : ***Liv.*** Clodio mandasse, quae illum mecum loqui velles: Fortunae mandare laqueum, bid go and be hanged, ***Iuv.*** : ut exploratores in Suebos mittant, ***Caes.*** : mandat, quibus rebus possent, opes confirment, ***Sall.*** : huic mandat, Remos adeat, ***Caes.*** : mandat fieri sibi talia, ***Ver.***
 ##### mandra ae, f
@@ -324,6 +326,8 @@ of Medusa, Medusean, ***Ov.***
 one of the Furies, ***Ver.***
 ##### Megalēsiacus adj.
 of the Megalesia, ***Iuv.***
+##### megistānes um, m
+grandees, magnates: Armenii, ***Tac.***
 ##### mēiō —, —, ere
 to make water, Ct., ***Hor.*** , ***Iuv.***
 ##### melancholicus adj.
@@ -560,6 +564,8 @@ a sending, despatching: litterarum: legatorum. — A release, setting at liberty
 to send repeatedly: supplicantīs legatos, ***Sall.*** : auxilia, ***Liv.***
 ##### missor ōris, m
 a thrower, archer: missore vacans sagitta, ***Cic.*** poët.
+##### missus, ūs m
+a sending away, sending, despatching (only abl sing.): missu Caesaris ad Ambiorigem ventitare, sent by, ***Caes.*** : regis missu, ***Ver.*** — A throwing, hurling: vehementius missu telum, i. e. giving a more effective blow, ***Liv.***
 ##### mitella ae, f dim.
 a headband, turban.
 ##### mītigātiō ōnis, f

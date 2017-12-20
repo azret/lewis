@@ -42,6 +42,8 @@ gluttony: morbus edacitatis.
 greedy, voracious, gluttonous, rapacious: hospes: dominus, ***Hor.*** — Devouring, destructive: ignis, ***Ver.*** : imber, ***Hor.*** : curae, gnawing, ***Hor.*** : tempus rerum, ***Ov.***
 ##### edendum ī, n
 victuals, food: penur ia edendi, ***Ver.***
+##### edera, ae, f
+see hedera.
 ##### ēditīcius adj.
 set forth, proposed: iudices, a list of proposed jurors (to be reduced by the challenges of the accused).
 ##### ēditiō ōnis, f
@@ -100,6 +102,8 @@ efficiently.
 efficient power, efficiency, influence: eius (solis).
 ##### efflāgitātiō ōnis, f
 an urgent solicitation: ad societatem: intempestiva, ***Tac.***
+##### efflāgitātus, ūs m
+an urgent solicitation. — Only abl sing.: meo.
 ##### efflāgitō āvī, ātus, āre
 to demand urgently, request earnestly, solicit, insist: tribunicia potestas efflagitata est: notum ensem, ***Ver.*** : ab ducibus signum pugnae, ***Liv.*** : epistulam hanc efflagitarunt codicilli tui, required: a Dolabellā, ut se mitteret: a mult is efflagitatus, dixit, etc.
 ##### efflō āvī, ātus, āre
@@ -152,6 +156,8 @@ with selection.
 a choice, selection: verborum: condicionum, of alternatives, ***Liv.*** : legatorum, ***Tac.***
 ##### ēlectrum ī, n
 liquidum, ***Ver.*** : attonitus pro Electro, his plate, ***Iuv.*** — Amber, a fossil gum from the Baltic sea, ***Ov.*** — Plur: Pinguia, ***Ver.***
+##### ēlēctus, ūs m
+a choice. — Only abl sing.: necis, ***Ov.***
 ##### ēlegantia ae, f
 taste, propriety, finement, grace, elegance: Attica, ***Ter.*** : ludorum: verborum Latinorum: cum summā elegantiā vivere: conviviorum, ***Tac.***
 ##### elegēia ae, f
@@ -310,6 +316,8 @@ a peroration, epilogue: rhetorum. — Plur: miserabiliores.
 a short letter, note: Conscriptum, Ct.
 ##### epistula or epistola ae, f
 a written communication, letter, epistle: Graecis litteris conscripta, ***Caes.*** : Verris ad Neronem: epistulam obsignare: mane dare, to send. — Plur., a letter, ***Tac.***
+##### epodes um, m
+a kind of sea-fish, ***Ov.***
 ##### Epona ae, f
 the goddess of mule-drivers, ***Iuv.***
 ##### epulae ārum, f
@@ -353,6 +361,8 @@ a wandering, roving about: hac minor est erratio, ***Ter.*** : nulla in caelo es
 a wanderer (of the Meander), ***Ov.***
 ##### errātum ī, n
 an error, mistake, fault: commune: nullum ob erratum: minimum: errata officiis superes, ***Sall.*** : errata aetatis meae.
+##### errātus, ūs m
+a wandering, winding. — Only abl plur.: long is erratibus actus, ***Ov.***
 ##### errō āvī, ātus, āre
 to wander, stray, rove, roam: cum vagus et exsul erraret: non certis passibus, ***Ov.*** : circum villulas nostras: per urbem, ***Liv.*** — Pass impers.: sol is erratur in agris, ***Ver.*** — Of things: quae (stellae) errantes nominarentur, planets: Stellae sponte suā iussaene errent, ***Hor.*** : ubi flexibus errat Mincius, ***Ver.*** : pulmonibus errat Ign is edax, spreads, ***Ov.*** : extremus si quis super halitus errat, flutters, ***Ver.*** : errantibus oculis, wavering, ***Ver.*** : relegens errata retrorsus Litora, ***Ver.*** : erratas dicere terras, ***Ov.*** — To miss the way, lose oneself, go astray: qui erranti monstrat viam, Enn. ap. ***Cic.*** : errare viā, ***Ver.*** — Fig., to wander, stray at random: ne errare cogatur oratio: errans sententia: dubiis adfectibus errat, ***Ov.*** : ne tuus erret honos, be in doubt, ***Ov.*** — To be in error, err, mistake, go wrong, go astray: de nostris verbis, ***Ter.*** : totā viā, ***Ter.*** : non totā re, sed temporibus: procul, ***Sall.*** : valde: cum Platone: errare, si sperent, etc., ***Caes.*** : te errantem persequi, ***Sall.*** : errans in ahenos fetūs natura, producing monsters, ***Liv.*** : Teneo qu id erret, ***Ter.*** : errabant tempora, in chronology, ***Ov.*** — Pass impers.: si fu it errandum, ***Ov.*** : si erratur in nomine: et in cognomine erratum sit, ***Liv.***
 ##### errō ōnis, m
@@ -375,6 +385,8 @@ a red sea-mullet, ***Ov.***
 a dish (prepared for the table), food, victuals, viands, meat, bait: temperatae escae: contemptissimae: dulcis, ***Ver.*** : prima, course, ***Hor.*** — Fig.: Plato escam malorum appellat voluptatem.
 ##### ēscēnsiō ōnis, f
 an ascension, mounting, climbing, going up: escensionem a Paesto facere, ***Liv.*** : ab navibus in terram, a landing, ***Liv.*** : quibus (classibus) escensiones in agros factae erant, incursions, ***Liv.***
+##### ēscēnsus, ūs m
+a scaling. — Only abl sing.: capta escensu munimenta, by storm, ***Tac.***
 ##### ēsculentus adj.
 fit for eating, good to eat, edible: frustra. — Plur n. as subst, food.
 ##### essedārius ī, m
@@ -387,6 +399,8 @@ and conj.
 Etesian winds, trade-winds, ***Nep.*** W. winds which prevail in summer in the eastern parts of the Mediterranean Sea: vent i: etesiis tenebatur, ***Caes.***
 ##### ēthologus adj.
 imitating manners, mocking personal peculiarities: mimi.
+##### Eumenides um, f
+the Furies, ***Cic.*** , ***Hor.*** , ***Ver.***
 ##### eunūchus ī, m
 a eunuch, ***Ter.*** , ***Caes.*** , ***Cic.*** , ***Iuv.*** — Fem., a comedy of Terence.
 ##### eurōus adj.

@@ -56,6 +56,8 @@ to be blunt, be dull: ferrum nunc hebet? ***Liv.*** — Fig., to be sluggish, be
 to make blunt, dull, blunt, dim, deaden, weaken: hastas, ***Liv.*** : ferrum hostium, ***Liv.*** : visūs tibi, ***Ver.*** : sidera, ***Tac.*** : taurorum flammas, quench the fiery breath, ***Ov.*** : alcui visūs, ***Ver.*** — Fig.: Lethe hebetans pectora, stupefying, ***Ov.***
 ##### hēdychrum ī, n
 a fragrant oiniment, cosmetic balsam.
+##### Hēliades um, f
+daughters of Helios, changed into poplars, ***Ov.*** : nemus Heliadum, i. e. poplar-grove, ***Ov.***; their tears became amber, hence, Heliadum lacrimae, i. e. amber, ***Ov.*** : capaces Heliadum crustae, i. e. of amber, ***Iuv.***
 ##### helica ae, f
 a whorl.
 ##### helvella ae, f dim.
