@@ -8,6 +8,15 @@ static class App {
     class Entry {
         public string Declaration;
         public string Definition;
+        public void correct() {
+            if (Declaration.StartsWith("(")) {
+                Declaration = Declaration.Remove(0, 1);
+                int end = Declaration.IndexOf(")");
+                if (end >= 0) {
+                    Declaration = Declaration.Remove(end, 1);
+                }
+            }
+        }
     }
 
     static void Main(string[] args) {
@@ -15,6 +24,10 @@ static class App {
             string XML = File.ReadAllText(@"lewis.xml");
 
             List<Entry> DICT = compile(XML);
+
+            foreach (var WORD in DICT) {
+                WORD.correct();
+            }
 
             Regex prōvocō = new Regex("^(.+)ō āvī, ātus, āre$", RegexOptions.None);
             Regex adv = new Regex("^(.+) (adv.)$", RegexOptions.None);
@@ -55,8 +68,28 @@ static class App {
             Regex verū = new Regex("^(.+)ū ūs, (f|m|n)$", RegexOptions.None);
             Regex virtūs = new Regex("^(.+)ūs ūtis, (f|m|n)$", RegexOptions.None);
             Regex animātus = new Regex("^(.+)us adj.$", RegexOptions.None);
+            Regex dēditīcius = new Regex("^(.+)ius ī, adj.$", RegexOptions.None);
+            Regex dēnicālis = new Regex("^(.+)lis ī, adj.$", RegexOptions.None);
+            Regex volūbilis = new Regex("^(.+)(l|m|n|t)is e, adj.$", RegexOptions.None);
+            Regex volēns = new Regex("^(.+)ēns entis, adj.$", RegexOptions.None);
+            Regex vēsāniēns = new Regex("^(.+)ēns ntis, adj.$", RegexOptions.None);
+            Regex viridāns = new Regex("^(.+)āns antis, adj.$", RegexOptions.None);
+            Regex vigilāx = new Regex("^(.+)āx ācis, adj.$", RegexOptions.None);
+            Regex dux = new Regex("^(.+)ux ucis, (f|m|n)$", RegexOptions.None);
+            Regex rex = new Regex("^(.+)ex egis, (f|m|n)$", RegexOptions.None);
+            Regex vōx = new Regex("^(.+)ōx ōcis, (f|m|n)$", RegexOptions.None);
 
             Regex[] PATTERNS = new Regex[] {
+                rex,
+                dux,
+                vōx,
+                vigilāx,
+                vēsāniēns,
+                viridāns,
+                dēditīcius,
+                dēnicālis,
+                volūbilis,
+                volēns,
                 animātus,
                 verū,
                 virtūs,
