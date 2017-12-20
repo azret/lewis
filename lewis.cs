@@ -391,10 +391,8 @@ static class App {
             .TrimEnd('\'', ',').Trim());
         text = text.Replace("*,", "* ,");
         text = text.Replace("*:", "* :");
-        text = text.Replace("*.", "* .");
         text = text.Replace(":*", ": *");
         text = text.Replace(",*", ", *");
-        text = text.Replace(".*", ". *");
         return text;
     }
 
